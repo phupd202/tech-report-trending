@@ -41,6 +41,19 @@ jobs:
         run: |
           pwd
           ls -la
+      - name: Debug workspace
+        run: |
+          echo "Current commit:"
+          git log --oneline -n 1
+
+          echo "Find package-lock.json:"
+          find . -name "package-lock.json"
+
+          echo "Find lock files:"
+          find . -name "*lock*"
+
+          echo "Root files:"
+          ls -la
 
       # ── 3. Install dependencies (cached) ────────────────────────────────────
       - name: Install dependencies
