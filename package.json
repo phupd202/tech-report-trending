@@ -12,6 +12,7 @@
     "lint": "bunx tsc --noEmit"
   },
   "dependencies": {
+    "3": "^2.1.0",
     "@google/generative-ai": "^0.21.0",
     "cheerio": "^1.0.0",
     "dotenv": "^16.4.5",
