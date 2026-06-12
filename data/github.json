@@ -1,0 +1,223 @@
+[
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 52153,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "starsToday": 821
+    },
+    "createdAt": "2026-06-11T03:13:24.699Z"
+  },
+  {
+    "id": "github-phuryn-pm-skills",
+    "source": "github",
+    "title": "phuryn / pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "score": 15133,
+    "metadata": {
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "starsToday": 804
+    },
+    "createdAt": "2026-06-11T03:13:24.699Z"
+  },
+  {
+    "id": "github-refactoringhq-tolaria",
+    "source": "github",
+    "title": "refactoringhq / tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "score": 14997,
+    "metadata": {
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "starsToday": 612
+    },
+    "createdAt": "2026-06-11T03:13:24.700Z"
+  },
+  {
+    "id": "github-mvanhorn-last30days-skill",
+    "source": "github",
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "score": 39188,
+    "metadata": {
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "starsToday": 2535
+    },
+    "createdAt": "2026-06-11T03:13:24.700Z"
+  },
+  {
+    "id": "github-soxoj-maigret",
+    "source": "github",
+    "title": "soxoj / maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "score": 32106,
+    "metadata": {
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "starsToday": 318
+    },
+    "createdAt": "2026-06-11T03:13:24.701Z"
+  },
+  {
+    "id": "github-x1xhlol-system-prompts-and-models-of-ai-tools",
+    "source": "github",
+    "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "score": 139570,
+    "metadata": {
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "starsToday": 393
+    },
+    "createdAt": "2026-06-11T03:13:24.701Z"
+  },
+  {
+    "id": "github-obra-superpowers",
+    "source": "github",
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "score": 223743,
+    "metadata": {
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "starsToday": 1104
+    },
+    "createdAt": "2026-06-11T03:13:24.702Z"
+  },
+  {
+    "id": "github-masterking32-MasterDnsVPN",
+    "source": "github",
+    "title": "masterking32 / MasterDnsVPN",
+    "url": "https://github.com/masterking32/MasterDnsVPN",
+    "score": 5271,
+    "metadata": {
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "starsToday": 354
+    },
+    "createdAt": "2026-06-11T03:13:24.702Z"
+  },
+  {
+    "id": "github-harry0703-MoneyPrinterTurbo",
+    "source": "github",
+    "title": "harry0703 / MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "score": 85187,
+    "metadata": {
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "starsToday": 1389
+    },
+    "createdAt": "2026-06-11T03:13:24.703Z"
+  },
+  {
+    "id": "github-maziyarpanahi-openmed",
+    "source": "github",
+    "title": "maziyarpanahi / openmed",
+    "url": "https://github.com/maziyarpanahi/openmed",
+    "score": 2350,
+    "metadata": {
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "starsToday": 527
+    },
+    "createdAt": "2026-06-11T03:13:24.703Z"
+  },
+  {
+    "id": "github-luongnv89-claude-howto",
+    "source": "github",
+    "title": "luongnv89 / claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "score": 36598,
+    "metadata": {
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "starsToday": 211
+    },
+    "createdAt": "2026-06-11T03:13:24.703Z"
+  },
+  {
+    "id": "github-activeloopai-hivemind",
+    "source": "github",
+    "title": "activeloopai / hivemind",
+    "url": "https://github.com/activeloopai/hivemind",
+    "score": 891,
+    "metadata": {
+      "description": "One brain for all your agents",
+      "language": "TypeScript",
+      "starsToday": 64
+    },
+    "createdAt": "2026-06-11T03:13:24.703Z"
+  },
+  {
+    "id": "github-ruvnet-RuView",
+    "source": "github",
+    "title": "ruvnet / RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "score": 72939,
+    "metadata": {
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "starsToday": 420
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-roboflow-supervision",
+    "source": "github",
+    "title": "roboflow / supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "score": 43635,
+    "metadata": {
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "starsToday": 695
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-google-skills",
+    "source": "github",
+    "title": "google / skills",
+    "url": "https://github.com/google/skills",
+    "score": 13350,
+    "metadata": {
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "starsToday": 211
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-FareedKhan-dev-train-llm-from-scratch",
+    "source": "github",
+    "title": "FareedKhan-dev / train-llm-from-scratch",
+    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "score": 5310,
+    "metadata": {
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Python",
+      "starsToday": 247
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-apple-container",
+    "source": "github",
+    "title": "apple / container",
+    "url": "https://github.com/apple/container",
+    "score": 30028,
+    "metadata": {
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "starsToday": 1611
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  }
+]

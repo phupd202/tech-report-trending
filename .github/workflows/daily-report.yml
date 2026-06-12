@@ -1,0 +1,90 @@
+name: Daily Tech Intelligence Report
+
+on:
+  # ── Scheduled trigger: every day at 02:00 UTC ──────────────────────────────
+  schedule:
+    - cron: "0 2 * * *"
+
+  # ── Manual trigger for testing or back-fills ───────────────────────────────
+  workflow_dispatch:
+    inputs:
+      force_regenerate:
+        description: "Force report regeneration even if one already exists today"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # needed to commit reports/ back to the repo
+
+jobs:
+  generate-report:
+    name: Crawl → Summarize → Report → Notify
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git push has a complete base
+          fetch-depth: 0
+
+      # ── 2. Setup Bun ────────────────────────────────────────────────────────
+      - name: Setup Bun runtime
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      # ── 3. Install dependencies (cached) ────────────────────────────────────
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      # ── 4. Run idempotent pipeline ──────────────────────────────────────────
+      #
+      #   FORCE_REGENERATE: when manually triggered with force=true,
+      #   delete today's report first so the pipeline re-generates it.
+      #
+      - name: (Optional) Remove today's report for forced re-run
+        if: ${{ github.event.inputs.force_regenerate == 'true' }}
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          REPORT="reports/${TODAY}.md"
+          if [ -f "$REPORT" ]; then
+            echo "Removing $REPORT for forced regeneration…"
+            rm "$REPORT"
+          fi
+
+      - name: Run intelligence pipeline
+        id: pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+          # Keep storage paths deterministic inside the runner workspace
+          DATA_DIR: ./data
+          REPORTS_DIR: ./reports
+        run: bun run pipeline
+
+      # ── 5. Commit & push generated report ───────────────────────────────────
+      #
+      #   Uses || true on `git commit` so the step never fails when
+      #   the pipeline was skipped (idempotent: no new file to commit).
+      #
+      - name: Commit and push report
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add reports/ data/
+
+          # Exit gracefully when there is nothing new to commit
+          git diff --staged --quiet && {
+            echo "No changes to commit — report already up to date."
+            exit 0
+          }
+
+          TODAY=$(date -u +%Y-%m-%d)
+          git commit -m "chore(report): daily tech intelligence report ${TODAY} [skip ci]"
+          git push

@@ -1,0 +1,951 @@
+[
+  {
+    "id": "github-apple-container",
+    "source": "github",
+    "title": "apple / container",
+    "url": "https://github.com/apple/container",
+    "score": 30028,
+    "metadata": {
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "starsToday": 1611
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-FareedKhan-dev-train-llm-from-scratch",
+    "source": "github",
+    "title": "FareedKhan-dev / train-llm-from-scratch",
+    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+    "score": 5310,
+    "metadata": {
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Python",
+      "starsToday": 247
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-google-skills",
+    "source": "github",
+    "title": "google / skills",
+    "url": "https://github.com/google/skills",
+    "score": 13350,
+    "metadata": {
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "starsToday": 211
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-roboflow-supervision",
+    "source": "github",
+    "title": "roboflow / supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "score": 43635,
+    "metadata": {
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "starsToday": 695
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-ruvnet-RuView",
+    "source": "github",
+    "title": "ruvnet / RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "score": 72939,
+    "metadata": {
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "starsToday": 420
+    },
+    "createdAt": "2026-06-11T03:13:24.704Z"
+  },
+  {
+    "id": "github-activeloopai-hivemind",
+    "source": "github",
+    "title": "activeloopai / hivemind",
+    "url": "https://github.com/activeloopai/hivemind",
+    "score": 891,
+    "metadata": {
+      "description": "One brain for all your agents",
+      "language": "TypeScript",
+      "starsToday": 64
+    },
+    "createdAt": "2026-06-11T03:13:24.703Z"
+  },
+  {
+    "id": "github-luongnv89-claude-howto",
+    "source": "github",
+    "title": "luongnv89 / claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "score": 36598,
+    "metadata": {
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "starsToday": 211
+    },
+    "createdAt": "2026-06-11T03:13:24.703Z"
+  },
+  {
+    "id": "github-maziyarpanahi-openmed",
+    "source": "github",
+    "title": "maziyarpanahi / openmed",
+    "url": "https://github.com/maziyarpanahi/openmed",
+    "score": 2350,
+    "metadata": {
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "starsToday": 527
+    },
+    "createdAt": "2026-06-11T03:13:24.703Z"
+  },
+  {
+    "id": "github-harry0703-MoneyPrinterTurbo",
+    "source": "github",
+    "title": "harry0703 / MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "score": 85187,
+    "metadata": {
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "starsToday": 1389
+    },
+    "createdAt": "2026-06-11T03:13:24.703Z"
+  },
+  {
+    "id": "github-masterking32-MasterDnsVPN",
+    "source": "github",
+    "title": "masterking32 / MasterDnsVPN",
+    "url": "https://github.com/masterking32/MasterDnsVPN",
+    "score": 5271,
+    "metadata": {
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "starsToday": 354
+    },
+    "createdAt": "2026-06-11T03:13:24.702Z"
+  },
+  {
+    "id": "github-obra-superpowers",
+    "source": "github",
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "score": 223743,
+    "metadata": {
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "starsToday": 1104
+    },
+    "createdAt": "2026-06-11T03:13:24.702Z"
+  },
+  {
+    "id": "github-x1xhlol-system-prompts-and-models-of-ai-tools",
+    "source": "github",
+    "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "score": 139570,
+    "metadata": {
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "starsToday": 393
+    },
+    "createdAt": "2026-06-11T03:13:24.701Z"
+  },
+  {
+    "id": "github-soxoj-maigret",
+    "source": "github",
+    "title": "soxoj / maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "score": 32106,
+    "metadata": {
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "starsToday": 318
+    },
+    "createdAt": "2026-06-11T03:13:24.701Z"
+  },
+  {
+    "id": "github-mvanhorn-last30days-skill",
+    "source": "github",
+    "title": "mvanhorn / last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "score": 39188,
+    "metadata": {
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "starsToday": 2535
+    },
+    "createdAt": "2026-06-11T03:13:24.700Z"
+  },
+  {
+    "id": "github-refactoringhq-tolaria",
+    "source": "github",
+    "title": "refactoringhq / tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "score": 14997,
+    "metadata": {
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "starsToday": 612
+    },
+    "createdAt": "2026-06-11T03:13:24.700Z"
+  },
+  {
+    "id": "github-phuryn-pm-skills",
+    "source": "github",
+    "title": "phuryn / pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "score": 15133,
+    "metadata": {
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "starsToday": 804
+    },
+    "createdAt": "2026-06-11T03:13:24.699Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 52153,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "starsToday": 821
+    },
+    "createdAt": "2026-06-11T03:13:24.699Z"
+  },
+  {
+    "id": "hackernews-48484584",
+    "source": "hackernews",
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "score": 156,
+    "metadata": {
+      "author": "tanelpoder",
+      "commentsCount": 33,
+      "hnUrl": "https://news.ycombinator.com/item?id=48484584"
+    },
+    "createdAt": "2026-06-11T00:10:08.000Z"
+  },
+  {
+    "id": "hackernews-48484282",
+    "source": "hackernews",
+    "title": "Deficient executive control in transformer attention",
+    "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
+    "score": 20,
+    "metadata": {
+      "author": "derbOac",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=48484282"
+    },
+    "createdAt": "2026-06-10T23:35:01.000Z"
+  },
+  {
+    "id": "hackernews-48483854",
+    "source": "hackernews",
+    "title": "Unix GC Remastered",
+    "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+    "score": 13,
+    "metadata": {
+      "author": "mananaysiempre",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=48483854"
+    },
+    "createdAt": "2026-06-10T22:48:58.000Z"
+  },
+  {
+    "id": "hackernews-48483387",
+    "source": "hackernews",
+    "title": "Sequoyah’s syllabary created a written language for the Cherokee",
+    "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+    "score": 114,
+    "metadata": {
+      "author": "grahambargeron",
+      "commentsCount": 70,
+      "hnUrl": "https://news.ycombinator.com/item?id=48483387"
+    },
+    "createdAt": "2026-06-10T22:07:52.000Z"
+  },
+  {
+    "id": "hackernews-48482293",
+    "source": "hackernews",
+    "title": "What is it like to be a bat? (1974) [pdf]",
+    "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
+    "score": 66,
+    "metadata": {
+      "author": "shadow28",
+      "commentsCount": 60,
+      "hnUrl": "https://news.ycombinator.com/item?id=48482293"
+    },
+    "createdAt": "2026-06-10T20:35:07.000Z"
+  },
+  {
+    "id": "hackernews-48481857",
+    "source": "hackernews",
+    "title": "Raspberry Pi 5 – 16GB RAM",
+    "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
+    "score": 179,
+    "metadata": {
+      "author": "akman",
+      "commentsCount": 208,
+      "hnUrl": "https://news.ycombinator.com/item?id=48481857"
+    },
+    "createdAt": "2026-06-10T20:05:21.000Z"
+  },
+  {
+    "id": "hackernews-48481126",
+    "source": "hackernews",
+    "title": "Farmer donates land for a park, city sells it for $10M as data center land",
+    "url": "https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade",
+    "score": 445,
+    "metadata": {
+      "author": "maxloh",
+      "commentsCount": 239,
+      "hnUrl": "https://news.ycombinator.com/item?id=48481126"
+    },
+    "createdAt": "2026-06-10T19:06:50.000Z"
+  },
+  {
+    "id": "hackernews-48480978",
+    "source": "hackernews",
+    "title": "πFS",
+    "url": "https://github.com/philipl/pifs",
+    "score": 548,
+    "metadata": {
+      "author": "helterskelter",
+      "commentsCount": 139,
+      "hnUrl": "https://news.ycombinator.com/item?id=48480978"
+    },
+    "createdAt": "2026-06-10T18:54:54.000Z"
+  },
+  {
+    "id": "hackernews-48479852",
+    "source": "hackernews",
+    "title": "GeoLibre 1.0",
+    "url": "https://geolibre.app/",
+    "score": 169,
+    "metadata": {
+      "author": "jonbaer",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=48479852"
+    },
+    "createdAt": "2026-06-10T17:39:47.000Z"
+  },
+  {
+    "id": "hackernews-48479705",
+    "source": "hackernews",
+    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+    "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+    "score": 182,
+    "metadata": {
+      "author": "pseudolus",
+      "commentsCount": 41,
+      "hnUrl": "https://news.ycombinator.com/item?id=48479705"
+    },
+    "createdAt": "2026-06-10T17:30:48.000Z"
+  },
+  {
+    "id": "hackernews-48479452",
+    "source": "hackernews",
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "score": 353,
+    "metadata": {
+      "author": "tonyrice",
+      "commentsCount": 247,
+      "hnUrl": "https://news.ycombinator.com/item?id=48479452"
+    },
+    "createdAt": "2026-06-10T17:11:56.000Z"
+  },
+  {
+    "id": "hackernews-48478969",
+    "source": "hackernews",
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "score": 260,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 246,
+      "hnUrl": "https://news.ycombinator.com/item?id=48478969"
+    },
+    "createdAt": "2026-06-10T16:42:00.000Z"
+  },
+  {
+    "id": "hackernews-48478469",
+    "source": "hackernews",
+    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+    "url": "https://www.extend.ai/ui",
+    "score": 162,
+    "metadata": {
+      "author": "kbyatnal",
+      "commentsCount": 41,
+      "hnUrl": "https://news.ycombinator.com/item?id=48478469"
+    },
+    "createdAt": "2026-06-10T16:09:26.000Z"
+  },
+  {
+    "id": "hackernews-48478285",
+    "source": "hackernews",
+    "title": "The Last Evolution, by John W Campbell Jr. (1932)",
+    "url": "https://www.gutenberg.org/files/27462/27462-h/27462-h.htm",
+    "score": 3,
+    "metadata": {
+      "author": "cf100clunk",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48478285"
+    },
+    "createdAt": "2026-06-10T15:57:03.000Z"
+  },
+  {
+    "id": "hackernews-48478148",
+    "source": "hackernews",
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "url": "https://github.com/HelixDB/helix-db/tree/main",
+    "score": 96,
+    "metadata": {
+      "author": "GeorgeCurtis",
+      "commentsCount": 31,
+      "hnUrl": "https://news.ycombinator.com/item?id=48478148"
+    },
+    "createdAt": "2026-06-10T15:47:31.000Z"
+  },
+  {
+    "id": "hackernews-48477851",
+    "source": "hackernews",
+    "title": "Authentication issues related to API requests",
+    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+    "score": 153,
+    "metadata": {
+      "author": "Multicomp",
+      "commentsCount": 31,
+      "hnUrl": "https://news.ycombinator.com/item?id=48477851"
+    },
+    "createdAt": "2026-06-10T15:29:52.000Z"
+  },
+  {
+    "id": "hackernews-48477589",
+    "source": "hackernews",
+    "title": "The iPad was on Tailscale: a WebRTC debugging story",
+    "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
+    "score": 10,
+    "metadata": {
+      "author": "syllogistic",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48477589"
+    },
+    "createdAt": "2026-06-10T15:13:16.000Z"
+  },
+  {
+    "id": "hackernews-48477551",
+    "source": "hackernews",
+    "title": "US Consumer Price Index up 4.2%",
+    "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+    "score": 82,
+    "metadata": {
+      "author": "ortusdux",
+      "commentsCount": 37,
+      "hnUrl": "https://news.ycombinator.com/item?id=48477551"
+    },
+    "createdAt": "2026-06-10T15:10:40.000Z"
+  },
+  {
+    "id": "hackernews-48477400",
+    "source": "hackernews",
+    "title": "Apache Burr: Build reliable AI agents and applications",
+    "url": "https://burr.apache.org/",
+    "score": 178,
+    "metadata": {
+      "author": "anhldbk",
+      "commentsCount": 93,
+      "hnUrl": "https://news.ycombinator.com/item?id=48477400"
+    },
+    "createdAt": "2026-06-10T15:01:06.000Z"
+  },
+  {
+    "id": "hackernews-48477135",
+    "source": "hackernews",
+    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+    "url": "https://news.ycombinator.com/item?id=48477135",
+    "score": 547,
+    "metadata": {
+      "author": "eries",
+      "commentsCount": 435,
+      "hnUrl": "https://news.ycombinator.com/item?id=48477135"
+    },
+    "createdAt": "2026-06-10T14:47:52.000Z"
+  },
+  {
+    "id": "hackernews-48476474",
+    "source": "hackernews",
+    "title": "Notes on DeepSeek",
+    "url": "https://news.ycombinator.com/item?id=48476474",
+    "score": 119,
+    "metadata": {
+      "author": "vinhnx",
+      "commentsCount": 83,
+      "hnUrl": "https://news.ycombinator.com/item?id=48476474"
+    },
+    "createdAt": "2026-06-10T14:03:40.000Z"
+  },
+  {
+    "id": "hackernews-48476466",
+    "source": "hackernews",
+    "title": "PgDog is funded and coming to a database near you",
+    "url": "https://pgdog.dev/blog/our-funding-announcement",
+    "score": 399,
+    "metadata": {
+      "author": "levkk",
+      "commentsCount": 202,
+      "hnUrl": "https://news.ycombinator.com/item?id=48476466"
+    },
+    "createdAt": "2026-06-10T14:02:59.000Z"
+  },
+  {
+    "id": "hackernews-48476136",
+    "source": "hackernews",
+    "title": "A €0.01 bank transfer could compromise a banking AI agent",
+    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "score": 58,
+    "metadata": {
+      "author": "tvissers",
+      "commentsCount": 39,
+      "hnUrl": "https://news.ycombinator.com/item?id=48476136"
+    },
+    "createdAt": "2026-06-10T13:39:11.000Z"
+  },
+  {
+    "id": "hackernews-48475938",
+    "source": "hackernews",
+    "title": "I Hate (Most) Keyboard 'Fn' Keys",
+    "url": "https://danq.me/2026/06/09/fn-keys/",
+    "score": 134,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 149,
+      "hnUrl": "https://news.ycombinator.com/item?id=48475938"
+    },
+    "createdAt": "2026-06-10T13:22:52.000Z"
+  },
+  {
+    "id": "hackernews-48475871",
+    "source": "hackernews",
+    "title": "Ask HN: Are most corporate SWE jobs performative?",
+    "url": "https://news.ycombinator.com/item?id=48475871",
+    "score": 56,
+    "metadata": {
+      "author": "hnthrow10282910",
+      "commentsCount": 72,
+      "hnUrl": "https://news.ycombinator.com/item?id=48475871"
+    },
+    "createdAt": "2026-06-10T13:18:34.000Z"
+  },
+  {
+    "id": "hackernews-48475483",
+    "source": "hackernews",
+    "title": "Building an HTML-first site doubled our users overnight",
+    "url": "https://mohkohn.co.uk/writing/html-first/",
+    "score": 1011,
+    "metadata": {
+      "author": "edent",
+      "commentsCount": 467,
+      "hnUrl": "https://news.ycombinator.com/item?id=48475483"
+    },
+    "createdAt": "2026-06-10T12:45:47.000Z"
+  },
+  {
+    "id": "hackernews-48475100",
+    "source": "hackernews",
+    "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+    "url": "https://jivx.com/eki",
+    "score": 204,
+    "metadata": {
+      "author": "momentmaker",
+      "commentsCount": 69,
+      "hnUrl": "https://news.ycombinator.com/item?id=48475100"
+    },
+    "createdAt": "2026-06-10T12:11:28.000Z"
+  },
+  {
+    "id": "hackernews-48473845",
+    "source": "hackernews",
+    "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+    "url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+    "score": 50,
+    "metadata": {
+      "author": "grzracz",
+      "commentsCount": 32,
+      "hnUrl": "https://news.ycombinator.com/item?id=48473845"
+    },
+    "createdAt": "2026-06-10T09:43:16.000Z"
+  },
+  {
+    "id": "hackernews-48473166",
+    "source": "hackernews",
+    "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "url": "https://news.ycombinator.com/item?id=48473166",
+    "score": 314,
+    "metadata": {
+      "author": "TomAnthony",
+      "commentsCount": 187,
+      "hnUrl": "https://news.ycombinator.com/item?id=48473166"
+    },
+    "createdAt": "2026-06-10T08:21:38.000Z"
+  },
+  {
+    "id": "hackernews-48472877",
+    "source": "hackernews",
+    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "score": 363,
+    "metadata": {
+      "author": "raffael_de",
+      "commentsCount": 208,
+      "hnUrl": "https://news.ycombinator.com/item?id=48472877"
+    },
+    "createdAt": "2026-06-10T07:44:49.000Z"
+  },
+  {
+    "id": "hackernews-48471970",
+    "source": "hackernews",
+    "title": "Chrome is looking to permanently drop MV2 extension",
+    "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+    "score": 323,
+    "metadata": {
+      "author": "d3Xt3r",
+      "commentsCount": 282,
+      "hnUrl": "https://news.ycombinator.com/item?id=48471970"
+    },
+    "createdAt": "2026-06-10T05:50:07.000Z"
+  },
+  {
+    "id": "hackernews-48470748",
+    "source": "hackernews",
+    "title": "Vacuum-Form Signage",
+    "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
+    "score": 23,
+    "metadata": {
+      "author": "benbreen",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48470748"
+    },
+    "createdAt": "2026-06-10T02:48:20.000Z"
+  },
+  {
+    "id": "hackernews-48470581",
+    "source": "hackernews",
+    "title": "Rich Sutton on AI creativity and discovery",
+    "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "score": 186,
+    "metadata": {
+      "author": "yimby",
+      "commentsCount": 98,
+      "hnUrl": "https://news.ycombinator.com/item?id=48470581"
+    },
+    "createdAt": "2026-06-10T02:25:24.000Z"
+  },
+  {
+    "id": "hackernews-48470578",
+    "source": "hackernews",
+    "title": "Smudging the game disc to make speedrunning 'SpongeBob' faster",
+    "url": "https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster",
+    "score": 78,
+    "metadata": {
+      "author": "pncnmnp",
+      "commentsCount": 45,
+      "hnUrl": "https://news.ycombinator.com/item?id=48470578"
+    },
+    "createdAt": "2026-06-10T02:25:05.000Z"
+  },
+  {
+    "id": "hackernews-48470248",
+    "source": "hackernews",
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "score": 846,
+    "metadata": {
+      "author": "ahlCVA",
+      "commentsCount": 469,
+      "hnUrl": "https://news.ycombinator.com/item?id=48470248"
+    },
+    "createdAt": "2026-06-10T01:44:13.000Z"
+  },
+  {
+    "id": "hackernews-48469658",
+    "source": "hackernews",
+    "title": "macOS Container Machines",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "score": 1051,
+    "metadata": {
+      "author": "timsneath",
+      "commentsCount": 368,
+      "hnUrl": "https://news.ycombinator.com/item?id=48469658"
+    },
+    "createdAt": "2026-06-10T00:29:01.000Z"
+  },
+  {
+    "id": "hackernews-48468766",
+    "source": "hackernews",
+    "title": "RIP software hackathons. Long live the hardware hackathon",
+    "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "score": 244,
+    "metadata": {
+      "author": "ozcap",
+      "commentsCount": 121,
+      "hnUrl": "https://news.ycombinator.com/item?id=48468766"
+    },
+    "createdAt": "2026-06-09T22:35:57.000Z"
+  },
+  {
+    "id": "hackernews-48468370",
+    "source": "hackernews",
+    "title": "Surprise, pay $1000",
+    "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+    "score": 306,
+    "metadata": {
+      "author": "apike",
+      "commentsCount": 150,
+      "hnUrl": "https://news.ycombinator.com/item?id=48468370"
+    },
+    "createdAt": "2026-06-09T22:01:15.000Z"
+  },
+  {
+    "id": "hackernews-48467705",
+    "source": "hackernews",
+    "title": "Upcoming breaking changes for npm v12",
+    "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+    "score": 447,
+    "metadata": {
+      "author": "plasma",
+      "commentsCount": 181,
+      "hnUrl": "https://news.ycombinator.com/item?id=48467705"
+    },
+    "createdAt": "2026-06-09T21:01:00.000Z"
+  },
+  {
+    "id": "hackernews-48466277",
+    "source": "hackernews",
+    "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+    "url": "https://aarushgupta.io/posts/kan-fpga/",
+    "score": 269,
+    "metadata": {
+      "author": "ag2718",
+      "commentsCount": 45,
+      "hnUrl": "https://news.ycombinator.com/item?id=48466277"
+    },
+    "createdAt": "2026-06-09T19:21:45.000Z"
+  },
+  {
+    "id": "hackernews-48464484",
+    "source": "hackernews",
+    "title": "Who's the smartest corvid?",
+    "url": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
+    "score": 78,
+    "metadata": {
+      "author": "NaOH",
+      "commentsCount": 64,
+      "hnUrl": "https://news.ycombinator.com/item?id=48464484"
+    },
+    "createdAt": "2026-06-09T17:37:11.000Z"
+  },
+  {
+    "id": "hackernews-48464258",
+    "source": "hackernews",
+    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "score": 230,
+    "metadata": {
+      "author": "lebovic",
+      "commentsCount": 98,
+      "hnUrl": "https://news.ycombinator.com/item?id=48464258"
+    },
+    "createdAt": "2026-06-09T17:23:40.000Z"
+  },
+  {
+    "id": "hackernews-48464140",
+    "source": "hackernews",
+    "title": "What it feels like to work with Mythos",
+    "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "score": 341,
+    "metadata": {
+      "author": "swolpers",
+      "commentsCount": 302,
+      "hnUrl": "https://news.ycombinator.com/item?id=48464140"
+    },
+    "createdAt": "2026-06-09T17:17:21.000Z"
+  },
+  {
+    "id": "hackernews-48463808",
+    "source": "hackernews",
+    "title": "Claude Fable 5",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "score": 2475,
+    "metadata": {
+      "author": "Philpax",
+      "commentsCount": 1971,
+      "hnUrl": "https://news.ycombinator.com/item?id=48463808"
+    },
+    "createdAt": "2026-06-09T16:58:01.000Z"
+  },
+  {
+    "id": "hackernews-48459678",
+    "source": "hackernews",
+    "title": "CSS: Unavoidable Bad Parts",
+    "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+    "score": 10,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48459678"
+    },
+    "createdAt": "2026-06-09T11:30:20.000Z"
+  },
+  {
+    "id": "hackernews-48456808",
+    "source": "hackernews",
+    "title": "L'Affaire Siloxane",
+    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+    "score": 165,
+    "metadata": {
+      "author": "idlewords",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=48456808"
+    },
+    "createdAt": "2026-06-09T05:21:39.000Z"
+  },
+  {
+    "id": "hackernews-48451789",
+    "source": "hackernews",
+    "title": "Hacking for Defense Stanford 2026 – Lessons Learned Presentations",
+    "url": "https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/",
+    "score": 62,
+    "metadata": {
+      "author": "sblank",
+      "commentsCount": 30,
+      "hnUrl": "https://news.ycombinator.com/item?id=48451789"
+    },
+    "createdAt": "2026-06-08T20:48:43.000Z"
+  },
+  {
+    "id": "hackernews-48450024",
+    "source": "hackernews",
+    "title": "Klondike Solitaire game for curses in 5k of C",
+    "url": "https://nanochess.org/klondike_in_c.html",
+    "score": 29,
+    "metadata": {
+      "author": "nanochess",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48450024"
+    },
+    "createdAt": "2026-06-08T19:08:12.000Z"
+  },
+  {
+    "id": "hackernews-48447378",
+    "source": "hackernews",
+    "title": "'They take you out of life, out of time': a journey into Spain's cave paintings",
+    "url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
+    "score": 26,
+    "metadata": {
+      "author": "NaOH",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48447378"
+    },
+    "createdAt": "2026-06-08T16:23:16.000Z"
+  },
+  {
+    "id": "hackernews-48446554",
+    "source": "hackernews",
+    "title": "Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC",
+    "url": "https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation",
+    "score": 3,
+    "metadata": {
+      "author": "alaanor",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48446554"
+    },
+    "createdAt": "2026-06-08T15:21:23.000Z"
+  },
+  {
+    "id": "hackernews-48446532",
+    "source": "hackernews",
+    "title": "World Capitals Voronoi",
+    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+    "score": 43,
+    "metadata": {
+      "author": "vincnetas",
+      "commentsCount": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=48446532"
+    },
+    "createdAt": "2026-06-08T15:20:08.000Z"
+  },
+  {
+    "id": "hackernews-48445702",
+    "source": "hackernews",
+    "title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
+    "url": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
+    "score": 58,
+    "metadata": {
+      "author": "febin",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48445702"
+    },
+    "createdAt": "2026-06-08T14:15:32.000Z"
+  },
+  {
+    "id": "hackernews-48443644",
+    "source": "hackernews",
+    "title": "Reviving Papers with Code",
+    "url": "https://paperswithcode.co/",
+    "score": 141,
+    "metadata": {
+      "author": "nielz_r",
+      "commentsCount": 27,
+      "hnUrl": "https://news.ycombinator.com/item?id=48443644"
+    },
+    "createdAt": "2026-06-08T10:44:44.000Z"
+  },
+  {
+    "id": "hackernews-48442932",
+    "source": "hackernews",
+    "title": "Buy a train, bridge or tracks from the Swiss Railway",
+    "url": "https://sbbresale.ch/",
+    "score": 105,
+    "metadata": {
+      "author": "kisamoto",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=48442932"
+    },
+    "createdAt": "2026-06-08T09:05:29.000Z"
+  },
+  {
+    "id": "hackernews-48433525",
+    "source": "hackernews",
+    "title": "Magnetoelectric antennas could transform how underwater robots talk",
+    "url": "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/",
+    "score": 56,
+    "metadata": {
+      "author": "breve",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=48433525"
+    },
+    "createdAt": "2026-06-07T10:38:31.000Z"
+  },
+  {
+    "id": "hackernews-48426421",
+    "source": "hackernews",
+    "title": "Computer Lessons",
+    "url": "https://technicshistory.com/2026/06/06/computer-lessons/",
+    "score": 9,
+    "metadata": {
+      "author": "cfmcdonald",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48426421"
+    },
+    "createdAt": "2026-06-06T16:18:39.000Z"
+  }
+]
