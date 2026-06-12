@@ -1,392 +1,392 @@
 [
   {
-    "id": "hackernews-48484584",
+    "id": "hackernews-48498573",
     "source": "hackernews",
-    "title": "AI agent runs amok in Fedora and elsewhere",
-    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "score": 156,
+    "title": "Claude Fable is relentlessly proactive",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "score": 90,
     "metadata": {
-      "author": "tanelpoder",
-      "commentsCount": 33,
-      "hnUrl": "https://news.ycombinator.com/item?id=48484584"
+      "author": "lumpa",
+      "commentsCount": 62,
+      "hnUrl": "https://news.ycombinator.com/item?id=48498573"
     },
-    "createdAt": "2026-06-11T00:10:08.000Z"
+    "createdAt": "2026-06-12T01:06:51.000Z"
   },
   {
-    "id": "hackernews-48478969",
+    "id": "hackernews-48498385",
     "source": "hackernews",
-    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-    "score": 260,
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "score": 121,
     "metadata": {
-      "author": "speckx",
-      "commentsCount": 246,
-      "hnUrl": "https://news.ycombinator.com/item?id=48478969"
+      "author": "sam_bristow",
+      "commentsCount": 38,
+      "hnUrl": "https://news.ycombinator.com/item?id=48498385"
     },
-    "createdAt": "2026-06-10T16:42:00.000Z"
+    "createdAt": "2026-06-12T00:38:11.000Z"
   },
   {
-    "id": "hackernews-48480978",
+    "id": "hackernews-48490024",
     "source": "hackernews",
-    "title": "πFS",
-    "url": "https://github.com/philipl/pifs",
-    "score": 548,
+    "title": "Show HN: Homebrew 6.0.0",
+    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "score": 1017,
     "metadata": {
-      "author": "helterskelter",
-      "commentsCount": 139,
-      "hnUrl": "https://news.ycombinator.com/item?id=48480978"
+      "author": "mikemcquaid",
+      "commentsCount": 241,
+      "hnUrl": "https://news.ycombinator.com/item?id=48490024"
     },
-    "createdAt": "2026-06-10T18:54:54.000Z"
+    "createdAt": "2026-06-11T13:24:29.000Z"
   },
   {
-    "id": "hackernews-48464258",
+    "id": "hackernews-48496539",
     "source": "hackernews",
-    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+    "url": "https://fablepool.com",
+    "score": 267,
+    "metadata": {
+      "author": "matthewbarras",
+      "commentsCount": 154,
+      "hnUrl": "https://news.ycombinator.com/item?id=48496539"
+    },
+    "createdAt": "2026-06-11T21:17:30.000Z"
+  },
+  {
+    "id": "hackernews-48497609",
+    "source": "hackernews",
+    "title": "If you are asking for human attention, demonstrate human effort",
+    "url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "score": 311,
+    "metadata": {
+      "author": "jjfoooo4",
+      "commentsCount": 86,
+      "hnUrl": "https://news.ycombinator.com/item?id=48497609"
+    },
+    "createdAt": "2026-06-11T23:01:55.000Z"
+  },
+  {
+    "id": "hackernews-48487229",
+    "source": "hackernews",
+    "title": "A greyscale iPhone setup that works in everyday life",
+    "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+    "score": 49,
+    "metadata": {
+      "author": "hemmert",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=48487229"
+    },
+    "createdAt": "2026-06-11T07:06:40.000Z"
+  },
+  {
+    "id": "hackernews-48490826",
+    "source": "hackernews",
+    "title": "MiMo Code is now released and open-source",
+    "url": "https://mimo.xiaomi.com/mimocode",
+    "score": 432,
+    "metadata": {
+      "author": "apeters",
+      "commentsCount": 248,
+      "hnUrl": "https://news.ycombinator.com/item?id=48490826"
+    },
+    "createdAt": "2026-06-11T14:27:19.000Z"
+  },
+  {
+    "id": "hackernews-48489229",
+    "source": "hackernews",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "score": 328,
+    "metadata": {
+      "author": "rarisma",
+      "commentsCount": 325,
+      "hnUrl": "https://news.ycombinator.com/item?id=48489229"
+    },
+    "createdAt": "2026-06-11T12:05:02.000Z"
+  },
+  {
+    "id": "hackernews-48491830",
+    "source": "hackernews",
+    "title": "Petition to Withdraw Canada's Bill C-22",
+    "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+    "score": 375,
+    "metadata": {
+      "author": "hmokiguess",
+      "commentsCount": 127,
+      "hnUrl": "https://news.ycombinator.com/item?id=48491830"
+    },
+    "createdAt": "2026-06-11T15:37:23.000Z"
+  },
+  {
+    "id": "hackernews-48497576",
+    "source": "hackernews",
+    "title": "A jacket that harvests drinking water from the air",
+    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "score": 48,
+    "metadata": {
+      "author": "ilreb",
+      "commentsCount": 29,
+      "hnUrl": "https://news.ycombinator.com/item?id=48497576"
+    },
+    "createdAt": "2026-06-11T22:59:22.000Z"
+  },
+  {
+    "id": "hackernews-48492533",
+    "source": "hackernews",
+    "title": "Software is made between commits",
+    "url": "https://zed.dev/blog/introducing-deltadb",
+    "score": 212,
+    "metadata": {
+      "author": "jeremy_k",
+      "commentsCount": 163,
+      "hnUrl": "https://news.ycombinator.com/item?id=48492533"
+    },
+    "createdAt": "2026-06-11T16:28:24.000Z"
+  },
+  {
+    "id": "hackernews-48474274",
+    "source": "hackernews",
+    "title": "Emacs appearances in pop culture",
+    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "score": 270,
+    "metadata": {
+      "author": "ggcr",
+      "commentsCount": 75,
+      "hnUrl": "https://news.ycombinator.com/item?id=48474274"
+    },
+    "createdAt": "2026-06-10T10:37:45.000Z"
+  },
+  {
+    "id": "hackernews-48447598",
+    "source": "hackernews",
+    "title": "Ear Training Practice",
+    "url": "https://tonedear.com/",
+    "score": 166,
+    "metadata": {
+      "author": "mattbit",
+      "commentsCount": 86,
+      "hnUrl": "https://news.ycombinator.com/item?id=48447598"
+    },
+    "createdAt": "2026-06-08T16:38:07.000Z"
+  },
+  {
+    "id": "hackernews-48492215",
+    "source": "hackernews",
+    "title": "The RCE that AMD wouldn't fix",
+    "url": "https://mrbruh.com/amd2/",
     "score": 230,
     "metadata": {
-      "author": "lebovic",
-      "commentsCount": 98,
-      "hnUrl": "https://news.ycombinator.com/item?id=48464258"
+      "author": "MrBruh",
+      "commentsCount": 100,
+      "hnUrl": "https://news.ycombinator.com/item?id=48492215"
     },
-    "createdAt": "2026-06-09T17:23:40.000Z"
+    "createdAt": "2026-06-11T16:03:40.000Z"
   },
   {
-    "id": "hackernews-48483387",
+    "id": "hackernews-48496483",
     "source": "hackernews",
-    "title": "Sequoyah’s syllabary created a written language for the Cherokee",
-    "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-    "score": 114,
+    "title": "Tailwind and slop apps",
+    "url": "https://briandouglas.ie/llm-tailwind-template/",
+    "score": 47,
     "metadata": {
-      "author": "grahambargeron",
-      "commentsCount": 70,
-      "hnUrl": "https://news.ycombinator.com/item?id=48483387"
-    },
-    "createdAt": "2026-06-10T22:07:52.000Z"
-  },
-  {
-    "id": "hackernews-48470748",
-    "source": "hackernews",
-    "title": "Vacuum-Form Signage",
-    "url": "https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting",
-    "score": 23,
-    "metadata": {
-      "author": "benbreen",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48470748"
-    },
-    "createdAt": "2026-06-10T02:48:20.000Z"
-  },
-  {
-    "id": "hackernews-48450024",
-    "source": "hackernews",
-    "title": "Klondike Solitaire game for curses in 5k of C",
-    "url": "https://nanochess.org/klondike_in_c.html",
-    "score": 29,
-    "metadata": {
-      "author": "nanochess",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48450024"
-    },
-    "createdAt": "2026-06-08T19:08:12.000Z"
-  },
-  {
-    "id": "hackernews-48477135",
-    "source": "hackernews",
-    "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-    "url": "https://news.ycombinator.com/item?id=48477135",
-    "score": 547,
-    "metadata": {
-      "author": "eries",
-      "commentsCount": 435,
-      "hnUrl": "https://news.ycombinator.com/item?id=48477135"
-    },
-    "createdAt": "2026-06-10T14:47:52.000Z"
-  },
-  {
-    "id": "hackernews-48479705",
-    "source": "hackernews",
-    "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-    "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-    "score": 182,
-    "metadata": {
-      "author": "pseudolus",
-      "commentsCount": 41,
-      "hnUrl": "https://news.ycombinator.com/item?id=48479705"
-    },
-    "createdAt": "2026-06-10T17:30:48.000Z"
-  },
-  {
-    "id": "hackernews-48476466",
-    "source": "hackernews",
-    "title": "PgDog is funded and coming to a database near you",
-    "url": "https://pgdog.dev/blog/our-funding-announcement",
-    "score": 399,
-    "metadata": {
-      "author": "levkk",
-      "commentsCount": 202,
-      "hnUrl": "https://news.ycombinator.com/item?id=48476466"
-    },
-    "createdAt": "2026-06-10T14:02:59.000Z"
-  },
-  {
-    "id": "hackernews-48456808",
-    "source": "hackernews",
-    "title": "L'Affaire Siloxane",
-    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
-    "score": 165,
-    "metadata": {
-      "author": "idlewords",
+      "author": "coneonthefloor",
       "commentsCount": 25,
-      "hnUrl": "https://news.ycombinator.com/item?id=48456808"
+      "hnUrl": "https://news.ycombinator.com/item?id=48496483"
     },
-    "createdAt": "2026-06-09T05:21:39.000Z"
+    "createdAt": "2026-06-11T21:12:47.000Z"
   },
   {
-    "id": "hackernews-48479852",
+    "id": "hackernews-48462070",
     "source": "hackernews",
-    "title": "GeoLibre 1.0",
-    "url": "https://geolibre.app/",
-    "score": 169,
+    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+    "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+    "score": 249,
     "metadata": {
-      "author": "jonbaer",
-      "commentsCount": 11,
-      "hnUrl": "https://news.ycombinator.com/item?id=48479852"
+      "author": "josephcsible",
+      "commentsCount": 110,
+      "hnUrl": "https://news.ycombinator.com/item?id=48462070"
     },
-    "createdAt": "2026-06-10T17:39:47.000Z"
+    "createdAt": "2026-06-09T15:01:43.000Z"
   },
   {
-    "id": "hackernews-48478469",
+    "id": "hackernews-48492210",
     "source": "hackernews",
-    "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-    "url": "https://www.extend.ai/ui",
-    "score": 162,
+    "title": "Claude Fable 5: mid-tier results on coding tasks",
+    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "score": 247,
     "metadata": {
-      "author": "kbyatnal",
-      "commentsCount": 41,
-      "hnUrl": "https://news.ycombinator.com/item?id=48478469"
+      "author": "bugvader",
+      "commentsCount": 111,
+      "hnUrl": "https://news.ycombinator.com/item?id=48492210"
     },
-    "createdAt": "2026-06-10T16:09:26.000Z"
+    "createdAt": "2026-06-11T16:03:21.000Z"
   },
   {
-    "id": "hackernews-48482293",
+    "id": "hackernews-48489402",
     "source": "hackernews",
-    "title": "What is it like to be a bat? (1974) [pdf]",
-    "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-    "score": 66,
+    "title": "Lines of code got a better publicist",
+    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "score": 365,
     "metadata": {
-      "author": "shadow28",
-      "commentsCount": 60,
-      "hnUrl": "https://news.ycombinator.com/item?id=48482293"
+      "author": "RyeCombinator",
+      "commentsCount": 248,
+      "hnUrl": "https://news.ycombinator.com/item?id=48489402"
     },
-    "createdAt": "2026-06-10T20:35:07.000Z"
+    "createdAt": "2026-06-11T12:26:42.000Z"
   },
   {
-    "id": "hackernews-48459678",
+    "id": "hackernews-48452001",
     "source": "hackernews",
-    "title": "CSS: Unavoidable Bad Parts",
-    "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
-    "score": 10,
+    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+    "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "score": 222,
     "metadata": {
-      "author": "surprisetalk",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48459678"
+      "author": "ljf",
+      "commentsCount": 74,
+      "hnUrl": "https://news.ycombinator.com/item?id=48452001"
     },
-    "createdAt": "2026-06-09T11:30:20.000Z"
+    "createdAt": "2026-06-08T21:02:01.000Z"
   },
   {
-    "id": "hackernews-48484282",
+    "id": "hackernews-48496250",
     "source": "hackernews",
-    "title": "Deficient executive control in transformer attention",
-    "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
-    "score": 20,
+    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+    "url": "https://github.com/coder/boo",
+    "score": 52,
     "metadata": {
-      "author": "derbOac",
-      "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=48484282"
+      "author": "kylecarbs",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=48496250"
     },
-    "createdAt": "2026-06-10T23:35:01.000Z"
+    "createdAt": "2026-06-11T20:52:26.000Z"
   },
   {
-    "id": "hackernews-48481857",
+    "id": "hackernews-48487829",
     "source": "hackernews",
-    "title": "Raspberry Pi 5 – 16GB RAM",
-    "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
-    "score": 179,
+    "title": "Making a vintage LLM from scratch",
+    "url": "https://crlf.link/log/entries/260525-1/",
+    "score": 27,
     "metadata": {
-      "author": "akman",
-      "commentsCount": 208,
-      "hnUrl": "https://news.ycombinator.com/item?id=48481857"
+      "author": "croqaz",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48487829"
     },
-    "createdAt": "2026-06-10T20:05:21.000Z"
+    "createdAt": "2026-06-11T08:38:00.000Z"
   },
   {
-    "id": "hackernews-48464484",
+    "id": "hackernews-48490939",
     "source": "hackernews",
-    "title": "Who's the smartest corvid?",
-    "url": "https://thetyee.ca/Culture/2026/06/05/Whos-the-Smartest-Corvid/",
-    "score": 78,
+    "title": "How a new DSL may survive in the era of LLMs",
+    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "score": 17,
     "metadata": {
-      "author": "NaOH",
-      "commentsCount": 64,
-      "hnUrl": "https://news.ycombinator.com/item?id=48464484"
+      "author": "williamcotton",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48490939"
     },
-    "createdAt": "2026-06-09T17:37:11.000Z"
+    "createdAt": "2026-06-11T14:35:41.000Z"
   },
   {
-    "id": "hackernews-48475483",
+    "id": "hackernews-48479314",
     "source": "hackernews",
-    "title": "Building an HTML-first site doubled our users overnight",
-    "url": "https://mohkohn.co.uk/writing/html-first/",
-    "score": 1011,
+    "title": "Reading for pleasure is sharply down among schoolkids, report shows",
+    "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
+    "score": 86,
     "metadata": {
-      "author": "edent",
-      "commentsCount": 467,
-      "hnUrl": "https://news.ycombinator.com/item?id=48475483"
+      "author": "freejoe76",
+      "commentsCount": 95,
+      "hnUrl": "https://news.ycombinator.com/item?id=48479314"
     },
-    "createdAt": "2026-06-10T12:45:47.000Z"
+    "createdAt": "2026-06-10T17:03:48.000Z"
   },
   {
-    "id": "hackernews-48446532",
+    "id": "hackernews-48493564",
     "source": "hackernews",
-    "title": "World Capitals Voronoi",
-    "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
-    "score": 43,
+    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+    "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "score": 93,
     "metadata": {
-      "author": "vincnetas",
-      "commentsCount": 22,
-      "hnUrl": "https://news.ycombinator.com/item?id=48446532"
+      "author": "geerlingguy",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=48493564"
     },
-    "createdAt": "2026-06-08T15:20:08.000Z"
+    "createdAt": "2026-06-11T17:35:19.000Z"
   },
   {
-    "id": "hackernews-48478148",
+    "id": "hackernews-48491486",
     "source": "hackernews",
-    "title": "Show HN: HelixDB – A graph database built on object storage",
-    "url": "https://github.com/HelixDB/helix-db/tree/main",
-    "score": 96,
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "url": "https://github.com/icitry/FPS.cob",
+    "score": 107,
     "metadata": {
-      "author": "GeorgeCurtis",
-      "commentsCount": 31,
-      "hnUrl": "https://news.ycombinator.com/item?id=48478148"
+      "author": "MBCook",
+      "commentsCount": 63,
+      "hnUrl": "https://news.ycombinator.com/item?id=48491486"
     },
-    "createdAt": "2026-06-10T15:47:31.000Z"
+    "createdAt": "2026-06-11T15:13:57.000Z"
   },
   {
-    "id": "hackernews-48446554",
+    "id": "hackernews-48492177",
     "source": "hackernews",
-    "title": "Building a Korean ambiguity solver fast enough to skip the GPU: 7,300 words/SEC",
-    "url": "https://kimchi-reader.app/blog/int8-cpu-korean-disambiguation",
-    "score": 3,
+    "title": "MTG Bench: Testing how well LLMs can play Magic",
+    "url": "https://mtgautodeck.com/articles/mtg-bench/",
+    "score": 30,
     "metadata": {
-      "author": "alaanor",
+      "author": "CallumFerg",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=48492177"
+    },
+    "createdAt": "2026-06-11T16:01:01.000Z"
+  },
+  {
+    "id": "hackernews-48492304",
+    "source": "hackernews",
+    "title": "Waymo Premier",
+    "url": "https://waymo.com/blog/2026/06/waymo-premier/",
+    "score": 157,
+    "metadata": {
+      "author": "boulos",
+      "commentsCount": 409,
+      "hnUrl": "https://news.ycombinator.com/item?id=48492304"
+    },
+    "createdAt": "2026-06-11T16:10:02.000Z"
+  },
+  {
+    "id": "hackernews-48478766",
+    "source": "hackernews",
+    "title": "Babel-USB: USB drive with every file",
+    "url": "https://github.com/p2r3/babel-usb",
+    "score": 31,
+    "metadata": {
+      "author": "LorenDB",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=48478766"
+    },
+    "createdAt": "2026-06-10T16:28:30.000Z"
+  },
+  {
+    "id": "hackernews-48459999",
+    "source": "hackernews",
+    "title": "Faking keyword arguments to functions in C++",
+    "url": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+    "score": 8,
+    "metadata": {
+      "author": "ibobev",
       "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48446554"
+      "hnUrl": "https://news.ycombinator.com/item?id=48459999"
     },
-    "createdAt": "2026-06-08T15:21:23.000Z"
+    "createdAt": "2026-06-09T12:05:12.000Z"
   },
   {
-    "id": "hackernews-48477400",
+    "id": "hackernews-48489917",
     "source": "hackernews",
-    "title": "Apache Burr: Build reliable AI agents and applications",
-    "url": "https://burr.apache.org/",
-    "score": 178,
+    "title": "Open Reproduction of DeepSeek-R1",
+    "url": "https://github.com/huggingface/open-r1",
+    "score": 205,
     "metadata": {
-      "author": "anhldbk",
-      "commentsCount": 93,
-      "hnUrl": "https://news.ycombinator.com/item?id=48477400"
+      "author": "yogthos",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48489917"
     },
-    "createdAt": "2026-06-10T15:01:06.000Z"
-  },
-  {
-    "id": "hackernews-48479452",
-    "source": "hackernews",
-    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-    "url": "https://github.com/anthropics/claude-code/issues/29045",
-    "score": 353,
-    "metadata": {
-      "author": "tonyrice",
-      "commentsCount": 247,
-      "hnUrl": "https://news.ycombinator.com/item?id=48479452"
-    },
-    "createdAt": "2026-06-10T17:11:56.000Z"
-  },
-  {
-    "id": "hackernews-48476474",
-    "source": "hackernews",
-    "title": "Notes on DeepSeek",
-    "url": "https://news.ycombinator.com/item?id=48476474",
-    "score": 119,
-    "metadata": {
-      "author": "vinhnx",
-      "commentsCount": 83,
-      "hnUrl": "https://news.ycombinator.com/item?id=48476474"
-    },
-    "createdAt": "2026-06-10T14:03:40.000Z"
-  },
-  {
-    "id": "hackernews-48426421",
-    "source": "hackernews",
-    "title": "Computer Lessons",
-    "url": "https://technicshistory.com/2026/06/06/computer-lessons/",
-    "score": 9,
-    "metadata": {
-      "author": "cfmcdonald",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48426421"
-    },
-    "createdAt": "2026-06-06T16:18:39.000Z"
-  },
-  {
-    "id": "hackernews-48475100",
-    "source": "hackernews",
-    "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
-    "url": "https://jivx.com/eki",
-    "score": 204,
-    "metadata": {
-      "author": "momentmaker",
-      "commentsCount": 69,
-      "hnUrl": "https://news.ycombinator.com/item?id=48475100"
-    },
-    "createdAt": "2026-06-10T12:11:28.000Z"
-  },
-  {
-    "id": "hackernews-48477851",
-    "source": "hackernews",
-    "title": "Authentication issues related to API requests",
-    "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
-    "score": 153,
-    "metadata": {
-      "author": "Multicomp",
-      "commentsCount": 31,
-      "hnUrl": "https://news.ycombinator.com/item?id=48477851"
-    },
-    "createdAt": "2026-06-10T15:29:52.000Z"
-  },
-  {
-    "id": "hackernews-48483854",
-    "source": "hackernews",
-    "title": "Unix GC Remastered",
-    "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
-    "score": 13,
-    "metadata": {
-      "author": "mananaysiempre",
-      "commentsCount": 2,
-      "hnUrl": "https://news.ycombinator.com/item?id=48483854"
-    },
-    "createdAt": "2026-06-10T22:48:58.000Z"
-  },
-  {
-    "id": "hackernews-48470578",
-    "source": "hackernews",
-    "title": "Smudging the game disc to make speedrunning 'SpongeBob' faster",
-    "url": "https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster",
-    "score": 78,
-    "metadata": {
-      "author": "pncnmnp",
-      "commentsCount": 45,
-      "hnUrl": "https://news.ycombinator.com/item?id=48470578"
-    },
-    "createdAt": "2026-06-10T02:25:05.000Z"
+    "createdAt": "2026-06-11T13:14:31.000Z"
   }
 ]

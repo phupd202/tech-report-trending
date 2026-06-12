@@ -72,40 +72,40 @@ export async function sendDiscordReport(
 
   const embed = skipped
     ? {
-        title: '⏭️ Daily Tech Report — Already Up to Date',
-        description: `Report for week **${weekLabel}** already exists. No new report generated.`,
-        color: DISCORD_COLOR_SKIPPED,
-        timestamp: new Date().toISOString(),
-        footer: { text: 'Tech Intelligence Bot' },
-      }
+      title: '⏭️ Daily Tech Report — Already Up to Date',
+      description: `Report for week **${weekLabel}** already exists. No new report generated.`,
+      color: DISCORD_COLOR_SKIPPED,
+      timestamp: new Date().toISOString(),
+      footer: { text: 'Tech Intelligence Bot' },
+    }
     : {
-        title: '🔥 Daily Tech Intelligence Report',
-        description: `Week **${weekLabel}** — AI-powered summary of today's top trends.`,
-        color: DISCORD_COLOR_SUCCESS,
-        fields: [
-          {
-            name: '🏷️ Key Topics',
-            value: topicsText,
-            inline: false,
-          },
-          {
-            name: '📦 Items Collected',
-            value: [
-              `• GitHub: **${githubCount}** repos`,
-              `• Hacker News: **${hnCount}** stories`,
-              `• Reddit: **${redditCount}** posts`,
-            ].join('\n'),
-            inline: false,
-          },
-          {
-            name: '📄 Full Report',
-            value: `[View on GitHub](${reportUrl})`,
-            inline: false,
-          },
-        ],
-        timestamp: new Date().toISOString(),
-        footer: { text: 'Tech Intelligence Bot • github-actions[bot]' },
-      };
+      title: '🔥 Daily Tech Intelligence Report',
+      description: `Week **${weekLabel}** — AI-powered summary of today's top trends.`,
+      color: DISCORD_COLOR_SUCCESS,
+      fields: [
+        {
+          name: '🏷️ Key Topics',
+          value: topicsText,
+          inline: false,
+        },
+        {
+          name: '📦 Items Collected',
+          value: [
+            `• GitHub: **${githubCount}** repos`,
+            `• Hacker News: **${hnCount}** stories`,
+            `• Reddit: **${redditCount}** posts`,
+          ].join('\n'),
+          inline: false,
+        },
+        {
+          name: '📄 Full Report',
+          value: `[View on GitHub](${reportUrl})`,
+          inline: false,
+        },
+      ],
+      timestamp: new Date().toISOString(),
+      footer: { text: 'Tech Intelligence Bot • github-actions[bot]' },
+    };
 
   const body = { embeds: [embed] };
 
