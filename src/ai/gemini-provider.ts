@@ -31,7 +31,7 @@ export class GeminiProvider {
 
   private getMockResponse(prompt: string): string {
     console.warn('Returning simulated Gemini response.');
-    
+
     // Check if the prompt wants a JSON array for tags
     if (prompt.includes('array of strings') || prompt.includes('JSON array')) {
       return `["TYPESCRIPT", "WEB DEV", "RUST", "AI", "CONTAINERS", "STORAGE"]`;
@@ -47,7 +47,7 @@ export class GeminiProvider {
           - **Công nghệ & Công cụ nổi bật**: Các công cụ build nhanh và runtime hiện đại như Bun, Vite, cùng các framework nhẹ như Hono đang thu hút sự chú ý lớn. Rust tiếp tục dẫn đầu xu hướng viết lại các công cụ CLI và hệ thống để tối ưu hiệu năng.
           - **Chủ đề thảo luận chính**: Các cuộc thảo luận xoay quanh việc lưu trữ dữ liệu local-first, tối ưu hóa ứng dụng đơn trang (SPA) và các giải pháp triển khai AI nhẹ trực tiếp ở Client.
           - **Xu hướng kiến trúc**: Chuyển dịch dần từ các server truyền thống sang kiến trúc Serverless/Edge Computing và sử dụng SQLite/JSON cho các nhu cầu lưu trữ đơn giản.`;
-                }
+      }
       return `### Mock AI Trend Summary
  
 This is a simulated trend analysis (network issues or firewall blocked access to Gemini API).
