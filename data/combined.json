@@ -1,5 +1,460 @@
 [
   {
+    "id": "github-msitarzewski-agency-agents",
+    "source": "github",
+    "title": "msitarzewski / agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "score": 112547,
+    "metadata": {
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "starsToday": 1026
+    },
+    "createdAt": "2026-06-13T06:11:26.130Z"
+  },
+  {
+    "id": "github-microsoft-PowerToys",
+    "source": "github",
+    "title": "microsoft / PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "score": 134406,
+    "metadata": {
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "starsToday": 103
+    },
+    "createdAt": "2026-06-13T06:11:26.130Z"
+  },
+  {
+    "id": "github-masterking32-MasterDnsVPN",
+    "source": "github",
+    "title": "masterking32 / MasterDnsVPN",
+    "url": "https://github.com/masterking32/MasterDnsVPN",
+    "score": 6078,
+    "metadata": {
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "starsToday": 400
+    },
+    "createdAt": "2026-06-13T06:11:26.129Z"
+  },
+  {
+    "id": "github-phuryn-pm-skills",
+    "source": "github",
+    "title": "phuryn / pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "score": 17164,
+    "metadata": {
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "starsToday": 827
+    },
+    "createdAt": "2026-06-13T06:11:26.129Z"
+  },
+  {
+    "id": "github-LMCache-LMCache",
+    "source": "github",
+    "title": "LMCache / LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "score": 8685,
+    "metadata": {
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "starsToday": 28
+    },
+    "createdAt": "2026-06-13T06:11:26.129Z"
+  },
+  {
+    "id": "github-refactoringhq-tolaria",
+    "source": "github",
+    "title": "refactoringhq / tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "score": 15891,
+    "metadata": {
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "starsToday": 369
+    },
+    "createdAt": "2026-06-13T06:11:26.128Z"
+  },
+  {
+    "id": "github-maziyarpanahi-openmed",
+    "source": "github",
+    "title": "maziyarpanahi / openmed",
+    "url": "https://github.com/maziyarpanahi/openmed",
+    "score": 3251,
+    "metadata": {
+      "description": "open-source healthcare ai",
+      "language": "Python",
+      "starsToday": 515
+    },
+    "createdAt": "2026-06-13T06:11:26.128Z"
+  },
+  {
+    "id": "github-obra-superpowers",
+    "source": "github",
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "score": 226217,
+    "metadata": {
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "starsToday": 1275
+    },
+    "createdAt": "2026-06-13T06:11:26.127Z"
+  },
+  {
+    "id": "github-iptv-org-iptv",
+    "source": "github",
+    "title": "iptv-org / iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "score": 118138,
+    "metadata": {
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "starsToday": 179
+    },
+    "createdAt": "2026-06-13T06:11:26.127Z"
+  },
+  {
+    "id": "github-mattermost-mattermost",
+    "source": "github",
+    "title": "mattermost / mattermost",
+    "url": "https://github.com/mattermost/mattermost",
+    "score": 37682,
+    "metadata": {
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "starsToday": 388
+    },
+    "createdAt": "2026-06-13T06:11:26.126Z"
+  },
+  {
+    "id": "github-apple-container",
+    "source": "github",
+    "title": "apple / container",
+    "url": "https://github.com/apple/container",
+    "score": 35385,
+    "metadata": {
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "starsToday": 3504
+    },
+    "createdAt": "2026-06-13T06:11:26.126Z"
+  },
+  {
+    "id": "github-music-assistant-server",
+    "source": "github",
+    "title": "music-assistant / server",
+    "url": "https://github.com/music-assistant/server",
+    "score": 1842,
+    "metadata": {
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "starsToday": 20
+    },
+    "createdAt": "2026-06-13T06:11:26.125Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 57116,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "starsToday": 2656
+    },
+    "createdAt": "2026-06-13T06:11:26.124Z"
+  },
+  {
+    "id": "hackernews-48513728",
+    "source": "hackernews",
+    "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+    "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+    "score": 4,
+    "metadata": {
+      "author": "vnglst",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48513728"
+    },
+    "createdAt": "2026-06-13T05:44:46.000Z"
+  },
+  {
+    "id": "hackernews-48513536",
+    "source": "hackernews",
+    "title": "There is a shadow hanging over this Fable thing",
+    "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+    "score": 21,
+    "metadata": {
+      "author": "theahura",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48513536"
+    },
+    "createdAt": "2026-06-13T05:16:41.000Z"
+  },
+  {
+    "id": "hackernews-48513222",
+    "source": "hackernews",
+    "title": "On CPU Physics and CPU Cycles",
+    "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+    "score": 19,
+    "metadata": {
+      "author": "signa11",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48513222"
+    },
+    "createdAt": "2026-06-13T04:37:08.000Z"
+  },
+  {
+    "id": "hackernews-48512915",
+    "source": "hackernews",
+    "title": "Our response to the US ban on Fable 5 and Mythos 5",
+    "url": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
+    "score": 84,
+    "metadata": {
+      "author": "ubutler",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48512915"
+    },
+    "createdAt": "2026-06-13T03:59:45.000Z"
+  },
+  {
+    "id": "hackernews-48512286",
+    "source": "hackernews",
+    "title": "A generic dynamic array in C that stores no capacity and needs no struct",
+    "url": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
+    "score": 6,
+    "metadata": {
+      "author": "alurm",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48512286"
+    },
+    "createdAt": "2026-06-13T02:50:10.000Z"
+  },
+  {
+    "id": "hackernews-48511908",
+    "source": "hackernews",
+    "title": "Open source AI must win",
+    "url": "https://opensourceaimustwin.com/?share=v2",
+    "score": 634,
+    "metadata": {
+      "author": "vednig",
+      "commentsCount": 201,
+      "hnUrl": "https://news.ycombinator.com/item?id=48511908"
+    },
+    "createdAt": "2026-06-13T02:14:24.000Z"
+  },
+  {
+    "id": "hackernews-48511773",
+    "source": "hackernews",
+    "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
+    "url": "https://github.com/vrtnis/tycoon-learning-environment",
+    "score": 9,
+    "metadata": {
+      "author": "vrtnis",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48511773"
+    },
+    "createdAt": "2026-06-13T02:02:07.000Z"
+  },
+  {
+    "id": "hackernews-48511072",
+    "source": "hackernews",
+    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "score": 1751,
+    "metadata": {
+      "author": "Dylan1312",
+      "commentsCount": 1342,
+      "hnUrl": "https://news.ycombinator.com/item?id=48511072"
+    },
+    "createdAt": "2026-06-13T00:51:30.000Z"
+  },
+  {
+    "id": "hackernews-48510341",
+    "source": "hackernews",
+    "title": "Show HN: Putt.day a daily mini golf game",
+    "url": "https://putt.day/",
+    "score": 135,
+    "metadata": {
+      "author": "ellg",
+      "commentsCount": 66,
+      "hnUrl": "https://news.ycombinator.com/item?id=48510341"
+    },
+    "createdAt": "2026-06-12T22:56:06.000Z"
+  },
+  {
+    "id": "hackernews-48510046",
+    "source": "hackernews",
+    "title": "Twenty One Zero-Days in FFmpeg",
+    "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+    "score": 164,
+    "metadata": {
+      "author": "redbell",
+      "commentsCount": 97,
+      "hnUrl": "https://news.ycombinator.com/item?id=48510046"
+    },
+    "createdAt": "2026-06-12T22:13:29.000Z"
+  },
+  {
+    "id": "hackernews-48510010",
+    "source": "hackernews",
+    "title": "Electric motors with no rare earths",
+    "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+    "score": 355,
+    "metadata": {
+      "author": "bestouff",
+      "commentsCount": 89,
+      "hnUrl": "https://news.ycombinator.com/item?id=48510010"
+    },
+    "createdAt": "2026-06-12T22:08:03.000Z"
+  },
+  {
+    "id": "hackernews-48509844",
+    "source": "hackernews",
+    "title": "SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "score": 34,
+    "metadata": {
+      "author": "taubek",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48509844"
+    },
+    "createdAt": "2026-06-12T21:49:49.000Z"
+  },
+  {
+    "id": "hackernews-48509182",
+    "source": "hackernews",
+    "title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+    "score": 265,
+    "metadata": {
+      "author": "sschueller",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=48509182"
+    },
+    "createdAt": "2026-06-12T20:39:36.000Z"
+  },
+  {
+    "id": "hackernews-48508726",
+    "source": "hackernews",
+    "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+    "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+    "score": 184,
+    "metadata": {
+      "author": "DASD",
+      "commentsCount": 72,
+      "hnUrl": "https://news.ycombinator.com/item?id=48508726"
+    },
+    "createdAt": "2026-06-12T19:54:27.000Z"
+  },
+  {
+    "id": "hackernews-48507278",
+    "source": "hackernews",
+    "title": "\"Don't You Just Upload It to ChatGPT?\"",
+    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "score": 381,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 300,
+      "hnUrl": "https://news.ycombinator.com/item?id=48507278"
+    },
+    "createdAt": "2026-06-12T17:52:46.000Z"
+  },
+  {
+    "id": "hackernews-48507020",
+    "source": "hackernews",
+    "title": "How to setup a local coding agent on macOS",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "score": 330,
+    "metadata": {
+      "author": "kkm",
+      "commentsCount": 79,
+      "hnUrl": "https://news.ycombinator.com/item?id=48507020"
+    },
+    "createdAt": "2026-06-12T17:34:55.000Z"
+  },
+  {
+    "id": "hackernews-48506659",
+    "source": "hackernews",
+    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+    "url": "https://piwodlaiwo.github.io/pirates/",
+    "score": 235,
+    "metadata": {
+      "author": "iweczek",
+      "commentsCount": 75,
+      "hnUrl": "https://news.ycombinator.com/item?id=48506659"
+    },
+    "createdAt": "2026-06-12T17:07:46.000Z"
+  },
+  {
+    "id": "hackernews-48506545",
+    "source": "hackernews",
+    "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+    "url": "https://bitboard.work/",
+    "score": 39,
+    "metadata": {
+      "author": "arcb",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=48506545"
+    },
+    "createdAt": "2026-06-12T16:58:03.000Z"
+  },
+  {
+    "id": "hackernews-48506209",
+    "source": "hackernews",
+    "title": "Adaptive PDFs",
+    "url": "https://sgaud.com/texts/pdf",
+    "score": 137,
+    "metadata": {
+      "author": "SarthakGaud",
+      "commentsCount": 67,
+      "hnUrl": "https://news.ycombinator.com/item?id=48506209"
+    },
+    "createdAt": "2026-06-12T16:32:50.000Z"
+  },
+  {
+    "id": "hackernews-48505231",
+    "source": "hackernews",
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+    "score": 772,
+    "metadata": {
+      "author": "gmays",
+      "commentsCount": 186,
+      "hnUrl": "https://news.ycombinator.com/item?id=48505231"
+    },
+    "createdAt": "2026-06-12T15:15:24.000Z"
+  },
+  {
+    "id": "hackernews-48504929",
+    "source": "hackernews",
+    "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+    "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
+    "score": 88,
+    "metadata": {
+      "author": "jtlebigot",
+      "commentsCount": 29,
+      "hnUrl": "https://news.ycombinator.com/item?id=48504929"
+    },
+    "createdAt": "2026-06-12T14:50:06.000Z"
+  },
+  {
+    "id": "hackernews-48504912",
+    "source": "hackernews",
+    "title": "Slightly reducing the sloppiness of AI generated front end",
+    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+    "score": 182,
+    "metadata": {
+      "author": "FergusArgyll",
+      "commentsCount": 114,
+      "hnUrl": "https://news.ycombinator.com/item?id=48504912"
+    },
+    "createdAt": "2026-06-12T14:48:38.000Z"
+  },
+  {
     "id": "github-TapXWorld-ChinaTextbook",
     "source": "github",
     "title": "TapXWorld / ChinaTextbook",
@@ -26,19 +481,6 @@
     "createdAt": "2026-06-12T02:49:04.240Z"
   },
   {
-    "id": "github-mattermost-mattermost",
-    "source": "github",
-    "title": "mattermost / mattermost",
-    "url": "https://github.com/mattermost/mattermost",
-    "score": 37351,
-    "metadata": {
-      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-      "language": "TypeScript",
-      "starsToday": 53
-    },
-    "createdAt": "2026-06-12T02:49:04.240Z"
-  },
-  {
     "id": "github-bannedbook-fanqiang",
     "source": "github",
     "title": "bannedbook / fanqiang",
@@ -50,19 +492,6 @@
       "starsToday": 161
     },
     "createdAt": "2026-06-12T02:49:04.240Z"
-  },
-  {
-    "id": "github-masterking32-MasterDnsVPN",
-    "source": "github",
-    "title": "masterking32 / MasterDnsVPN",
-    "url": "https://github.com/masterking32/MasterDnsVPN",
-    "score": 5730,
-    "metadata": {
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "starsToday": 507
-    },
-    "createdAt": "2026-06-12T02:49:04.239Z"
   },
   {
     "id": "github-chatwoot-chatwoot",
@@ -104,19 +533,6 @@
     "createdAt": "2026-06-12T02:49:04.239Z"
   },
   {
-    "id": "github-obra-superpowers",
-    "source": "github",
-    "title": "obra / superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "score": 224963,
-    "metadata": {
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "starsToday": 1322
-    },
-    "createdAt": "2026-06-12T02:49:04.238Z"
-  },
-  {
     "id": "github-restic-restic",
     "source": "github",
     "title": "restic / restic",
@@ -126,19 +542,6 @@
       "description": "Fast, secure, efficient backup program",
       "language": "Go",
       "starsToday": 61
-    },
-    "createdAt": "2026-06-12T02:49:04.238Z"
-  },
-  {
-    "id": "github-msitarzewski-agency-agents",
-    "source": "github",
-    "title": "msitarzewski / agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "score": 111669,
-    "metadata": {
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "starsToday": 1599
     },
     "createdAt": "2026-06-12T02:49:04.238Z"
   },
@@ -169,32 +572,6 @@
     "createdAt": "2026-06-12T02:49:04.237Z"
   },
   {
-    "id": "github-refactoringhq-tolaria",
-    "source": "github",
-    "title": "refactoringhq / tolaria",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "score": 15441,
-    "metadata": {
-      "description": "Desktop app to manage markdown knowledge bases",
-      "language": "TypeScript",
-      "starsToday": 604
-    },
-    "createdAt": "2026-06-12T02:49:04.237Z"
-  },
-  {
-    "id": "github-phuryn-pm-skills",
-    "source": "github",
-    "title": "phuryn / pm-skills",
-    "url": "https://github.com/phuryn/pm-skills",
-    "score": 16308,
-    "metadata": {
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "",
-      "starsToday": 1978
-    },
-    "createdAt": "2026-06-12T02:49:04.236Z"
-  },
-  {
     "id": "github-NVIDIA-SkillSpector",
     "source": "github",
     "title": "NVIDIA / SkillSpector",
@@ -206,45 +583,6 @@
       "starsToday": 319
     },
     "createdAt": "2026-06-12T02:49:04.236Z"
-  },
-  {
-    "id": "github-maziyarpanahi-openmed",
-    "source": "github",
-    "title": "maziyarpanahi / openmed",
-    "url": "https://github.com/maziyarpanahi/openmed",
-    "score": 2808,
-    "metadata": {
-      "description": "open-source healthcare ai",
-      "language": "Python",
-      "starsToday": 426
-    },
-    "createdAt": "2026-06-12T02:49:04.235Z"
-  },
-  {
-    "id": "github-apple-container",
-    "source": "github",
-    "title": "apple / container",
-    "url": "https://github.com/apple/container",
-    "score": 32792,
-    "metadata": {
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "starsToday": 2430
-    },
-    "createdAt": "2026-06-12T02:49:04.234Z"
-  },
-  {
-    "id": "github-addyosmani-agent-skills",
-    "source": "github",
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "score": 55000,
-    "metadata": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "starsToday": 3278
-    },
-    "createdAt": "2026-06-12T02:49:04.234Z"
   },
   {
     "id": "hackernews-48498573",
@@ -277,10 +615,10 @@
     "source": "hackernews",
     "title": "If you are asking for human attention, demonstrate human effort",
     "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "score": 311,
+    "score": 1550,
     "metadata": {
       "author": "jjfoooo4",
-      "commentsCount": 86,
+      "commentsCount": 468,
       "hnUrl": "https://news.ycombinator.com/item?id=48497609"
     },
     "createdAt": "2026-06-11T23:01:55.000Z"
@@ -336,6 +674,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48496250"
     },
     "createdAt": "2026-06-11T20:52:26.000Z"
+  },
+  {
+    "id": "hackernews-48495928",
+    "source": "hackernews",
+    "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+    "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+    "score": 362,
+    "metadata": {
+      "author": "marc__1",
+      "commentsCount": 205,
+      "hnUrl": "https://news.ycombinator.com/item?id=48495928"
+    },
+    "createdAt": "2026-06-11T20:24:18.000Z"
   },
   {
     "id": "hackernews-48493564",
@@ -663,6 +1014,19 @@
     "createdAt": "2026-06-11T00:10:08.000Z"
   },
   {
+    "id": "hackernews-48484496",
+    "source": "hackernews",
+    "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
+    "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+    "score": 194,
+    "metadata": {
+      "author": "Cider9986",
+      "commentsCount": 59,
+      "hnUrl": "https://news.ycombinator.com/item?id=48484496"
+    },
+    "createdAt": "2026-06-11T00:00:42.000Z"
+  },
+  {
     "id": "hackernews-48484282",
     "source": "hackernews",
     "title": "Deficient executive control in transformer attention",
@@ -778,6 +1142,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48479705"
     },
     "createdAt": "2026-06-10T17:30:48.000Z"
+  },
+  {
+    "id": "hackernews-48479652",
+    "source": "hackernews",
+    "title": "A key remapping daemon for Linux",
+    "url": "https://github.com/rvaiya/keyd",
+    "score": 32,
+    "metadata": {
+      "author": "joooscha",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=48479652"
+    },
+    "createdAt": "2026-06-10T17:27:56.000Z"
   },
   {
     "id": "hackernews-48479452",
@@ -962,6 +1339,19 @@
     "createdAt": "2026-06-10T14:02:59.000Z"
   },
   {
+    "id": "hackernews-48476202",
+    "source": "hackernews",
+    "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+    "url": "https://github.com/entGriff/ezra",
+    "score": 11,
+    "metadata": {
+      "author": "ent1c3d",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48476202"
+    },
+    "createdAt": "2026-06-10T13:45:26.000Z"
+  },
+  {
     "id": "hackernews-48476136",
     "source": "hackernews",
     "title": "A €0.01 bank transfer could compromise a banking AI agent",
@@ -1144,6 +1534,19 @@
     "createdAt": "2026-06-10T01:44:13.000Z"
   },
   {
+    "id": "hackernews-48470152",
+    "source": "hackernews",
+    "title": "Why a Computer Science Degree Still Opens Hidden Doors",
+    "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+    "score": 49,
+    "metadata": {
+      "author": "jnord",
+      "commentsCount": 38,
+      "hnUrl": "https://news.ycombinator.com/item?id=48470152"
+    },
+    "createdAt": "2026-06-10T01:33:43.000Z"
+  },
+  {
     "id": "hackernews-48469658",
     "source": "hackernews",
     "title": "macOS Container Machines",
@@ -1196,6 +1599,19 @@
     "createdAt": "2026-06-09T21:01:00.000Z"
   },
   {
+    "id": "hackernews-48467697",
+    "source": "hackernews",
+    "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+    "url": "https://tectonic-typesetting.github.io/en-US/",
+    "score": 33,
+    "metadata": {
+      "author": "maxloh",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=48467697"
+    },
+    "createdAt": "2026-06-09T21:00:39.000Z"
+  },
+  {
     "id": "hackernews-48466277",
     "source": "hackernews",
     "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
@@ -1207,6 +1623,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48466277"
     },
     "createdAt": "2026-06-09T19:21:45.000Z"
+  },
+  {
+    "id": "hackernews-48465634",
+    "source": "hackernews",
+    "title": "The Future of wasi-gfx and wasi:webgpu",
+    "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
+    "score": 17,
+    "metadata": {
+      "author": "mendyberger",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48465634"
+    },
+    "createdAt": "2026-06-09T18:42:58.000Z"
   },
   {
     "id": "hackernews-48464484",

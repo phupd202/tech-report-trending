@@ -1,392 +1,392 @@
 [
   {
-    "id": "hackernews-48498573",
+    "id": "hackernews-48511072",
     "source": "hackernews",
-    "title": "Claude Fable is relentlessly proactive",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "score": 90,
+    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "score": 1751,
     "metadata": {
-      "author": "lumpa",
-      "commentsCount": 62,
-      "hnUrl": "https://news.ycombinator.com/item?id=48498573"
+      "author": "Dylan1312",
+      "commentsCount": 1342,
+      "hnUrl": "https://news.ycombinator.com/item?id=48511072"
     },
-    "createdAt": "2026-06-12T01:06:51.000Z"
+    "createdAt": "2026-06-13T00:51:30.000Z"
   },
   {
-    "id": "hackernews-48498385",
+    "id": "hackernews-48511908",
     "source": "hackernews",
-    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-    "score": 121,
+    "title": "Open source AI must win",
+    "url": "https://opensourceaimustwin.com/?share=v2",
+    "score": 634,
     "metadata": {
-      "author": "sam_bristow",
+      "author": "vednig",
+      "commentsCount": 201,
+      "hnUrl": "https://news.ycombinator.com/item?id=48511908"
+    },
+    "createdAt": "2026-06-13T02:14:24.000Z"
+  },
+  {
+    "id": "hackernews-48512915",
+    "source": "hackernews",
+    "title": "Our response to the US ban on Fable 5 and Mythos 5",
+    "url": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
+    "score": 84,
+    "metadata": {
+      "author": "ubutler",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48512915"
+    },
+    "createdAt": "2026-06-13T03:59:45.000Z"
+  },
+  {
+    "id": "hackernews-48510010",
+    "source": "hackernews",
+    "title": "Electric motors with no rare earths",
+    "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+    "score": 355,
+    "metadata": {
+      "author": "bestouff",
+      "commentsCount": 89,
+      "hnUrl": "https://news.ycombinator.com/item?id=48510010"
+    },
+    "createdAt": "2026-06-12T22:08:03.000Z"
+  },
+  {
+    "id": "hackernews-48513222",
+    "source": "hackernews",
+    "title": "On CPU Physics and CPU Cycles",
+    "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+    "score": 19,
+    "metadata": {
+      "author": "signa11",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48513222"
+    },
+    "createdAt": "2026-06-13T04:37:08.000Z"
+  },
+  {
+    "id": "hackernews-48513536",
+    "source": "hackernews",
+    "title": "There is a shadow hanging over this Fable thing",
+    "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
+    "score": 21,
+    "metadata": {
+      "author": "theahura",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48513536"
+    },
+    "createdAt": "2026-06-13T05:16:41.000Z"
+  },
+  {
+    "id": "hackernews-48505231",
+    "source": "hackernews",
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+    "score": 772,
+    "metadata": {
+      "author": "gmays",
+      "commentsCount": 186,
+      "hnUrl": "https://news.ycombinator.com/item?id=48505231"
+    },
+    "createdAt": "2026-06-12T15:15:24.000Z"
+  },
+  {
+    "id": "hackernews-48465634",
+    "source": "hackernews",
+    "title": "The Future of wasi-gfx and wasi:webgpu",
+    "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
+    "score": 17,
+    "metadata": {
+      "author": "mendyberger",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48465634"
+    },
+    "createdAt": "2026-06-09T18:42:58.000Z"
+  },
+  {
+    "id": "hackernews-48510341",
+    "source": "hackernews",
+    "title": "Show HN: Putt.day a daily mini golf game",
+    "url": "https://putt.day/",
+    "score": 135,
+    "metadata": {
+      "author": "ellg",
+      "commentsCount": 66,
+      "hnUrl": "https://news.ycombinator.com/item?id=48510341"
+    },
+    "createdAt": "2026-06-12T22:56:06.000Z"
+  },
+  {
+    "id": "hackernews-48470152",
+    "source": "hackernews",
+    "title": "Why a Computer Science Degree Still Opens Hidden Doors",
+    "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
+    "score": 49,
+    "metadata": {
+      "author": "jnord",
       "commentsCount": 38,
-      "hnUrl": "https://news.ycombinator.com/item?id=48498385"
+      "hnUrl": "https://news.ycombinator.com/item?id=48470152"
     },
-    "createdAt": "2026-06-12T00:38:11.000Z"
+    "createdAt": "2026-06-10T01:33:43.000Z"
   },
   {
-    "id": "hackernews-48490024",
+    "id": "hackernews-48510046",
     "source": "hackernews",
-    "title": "Show HN: Homebrew 6.0.0",
-    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "score": 1017,
+    "title": "Twenty One Zero-Days in FFmpeg",
+    "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+    "score": 164,
     "metadata": {
-      "author": "mikemcquaid",
-      "commentsCount": 241,
-      "hnUrl": "https://news.ycombinator.com/item?id=48490024"
+      "author": "redbell",
+      "commentsCount": 97,
+      "hnUrl": "https://news.ycombinator.com/item?id=48510046"
     },
-    "createdAt": "2026-06-11T13:24:29.000Z"
+    "createdAt": "2026-06-12T22:13:29.000Z"
   },
   {
-    "id": "hackernews-48496539",
+    "id": "hackernews-48507020",
     "source": "hackernews",
-    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-    "url": "https://fablepool.com",
-    "score": 267,
+    "title": "How to setup a local coding agent on macOS",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "score": 330,
     "metadata": {
-      "author": "matthewbarras",
-      "commentsCount": 154,
-      "hnUrl": "https://news.ycombinator.com/item?id=48496539"
+      "author": "kkm",
+      "commentsCount": 79,
+      "hnUrl": "https://news.ycombinator.com/item?id=48507020"
     },
-    "createdAt": "2026-06-11T21:17:30.000Z"
+    "createdAt": "2026-06-12T17:34:55.000Z"
+  },
+  {
+    "id": "hackernews-48508726",
+    "source": "hackernews",
+    "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+    "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+    "score": 184,
+    "metadata": {
+      "author": "DASD",
+      "commentsCount": 72,
+      "hnUrl": "https://news.ycombinator.com/item?id=48508726"
+    },
+    "createdAt": "2026-06-12T19:54:27.000Z"
+  },
+  {
+    "id": "hackernews-48476202",
+    "source": "hackernews",
+    "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
+    "url": "https://github.com/entGriff/ezra",
+    "score": 11,
+    "metadata": {
+      "author": "ent1c3d",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48476202"
+    },
+    "createdAt": "2026-06-10T13:45:26.000Z"
+  },
+  {
+    "id": "hackernews-48513728",
+    "source": "hackernews",
+    "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+    "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+    "score": 4,
+    "metadata": {
+      "author": "vnglst",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48513728"
+    },
+    "createdAt": "2026-06-13T05:44:46.000Z"
+  },
+  {
+    "id": "hackernews-48495928",
+    "source": "hackernews",
+    "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+    "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+    "score": 362,
+    "metadata": {
+      "author": "marc__1",
+      "commentsCount": 205,
+      "hnUrl": "https://news.ycombinator.com/item?id=48495928"
+    },
+    "createdAt": "2026-06-11T20:24:18.000Z"
+  },
+  {
+    "id": "hackernews-48484496",
+    "source": "hackernews",
+    "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
+    "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+    "score": 194,
+    "metadata": {
+      "author": "Cider9986",
+      "commentsCount": 59,
+      "hnUrl": "https://news.ycombinator.com/item?id=48484496"
+    },
+    "createdAt": "2026-06-11T00:00:42.000Z"
+  },
+  {
+    "id": "hackernews-48506659",
+    "source": "hackernews",
+    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+    "url": "https://piwodlaiwo.github.io/pirates/",
+    "score": 235,
+    "metadata": {
+      "author": "iweczek",
+      "commentsCount": 75,
+      "hnUrl": "https://news.ycombinator.com/item?id=48506659"
+    },
+    "createdAt": "2026-06-12T17:07:46.000Z"
+  },
+  {
+    "id": "hackernews-48467697",
+    "source": "hackernews",
+    "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+    "url": "https://tectonic-typesetting.github.io/en-US/",
+    "score": 33,
+    "metadata": {
+      "author": "maxloh",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=48467697"
+    },
+    "createdAt": "2026-06-09T21:00:39.000Z"
+  },
+  {
+    "id": "hackernews-48504912",
+    "source": "hackernews",
+    "title": "Slightly reducing the sloppiness of AI generated front end",
+    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+    "score": 182,
+    "metadata": {
+      "author": "FergusArgyll",
+      "commentsCount": 114,
+      "hnUrl": "https://news.ycombinator.com/item?id=48504912"
+    },
+    "createdAt": "2026-06-12T14:48:38.000Z"
+  },
+  {
+    "id": "hackernews-48511773",
+    "source": "hackernews",
+    "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
+    "url": "https://github.com/vrtnis/tycoon-learning-environment",
+    "score": 9,
+    "metadata": {
+      "author": "vrtnis",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48511773"
+    },
+    "createdAt": "2026-06-13T02:02:07.000Z"
+  },
+  {
+    "id": "hackernews-48479652",
+    "source": "hackernews",
+    "title": "A key remapping daemon for Linux",
+    "url": "https://github.com/rvaiya/keyd",
+    "score": 32,
+    "metadata": {
+      "author": "joooscha",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=48479652"
+    },
+    "createdAt": "2026-06-10T17:27:56.000Z"
+  },
+  {
+    "id": "hackernews-48509182",
+    "source": "hackernews",
+    "title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+    "score": 265,
+    "metadata": {
+      "author": "sschueller",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=48509182"
+    },
+    "createdAt": "2026-06-12T20:39:36.000Z"
+  },
+  {
+    "id": "hackernews-48512286",
+    "source": "hackernews",
+    "title": "A generic dynamic array in C that stores no capacity and needs no struct",
+    "url": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
+    "score": 6,
+    "metadata": {
+      "author": "alurm",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48512286"
+    },
+    "createdAt": "2026-06-13T02:50:10.000Z"
+  },
+  {
+    "id": "hackernews-48509844",
+    "source": "hackernews",
+    "title": "SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "score": 34,
+    "metadata": {
+      "author": "taubek",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48509844"
+    },
+    "createdAt": "2026-06-12T21:49:49.000Z"
   },
   {
     "id": "hackernews-48497609",
     "source": "hackernews",
     "title": "If you are asking for human attention, demonstrate human effort",
     "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "score": 311,
+    "score": 1550,
     "metadata": {
       "author": "jjfoooo4",
-      "commentsCount": 86,
+      "commentsCount": 468,
       "hnUrl": "https://news.ycombinator.com/item?id=48497609"
     },
     "createdAt": "2026-06-11T23:01:55.000Z"
   },
   {
-    "id": "hackernews-48487229",
+    "id": "hackernews-48504929",
     "source": "hackernews",
-    "title": "A greyscale iPhone setup that works in everyday life",
-    "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
-    "score": 49,
+    "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
+    "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
+    "score": 88,
     "metadata": {
-      "author": "hemmert",
-      "commentsCount": 28,
-      "hnUrl": "https://news.ycombinator.com/item?id=48487229"
-    },
-    "createdAt": "2026-06-11T07:06:40.000Z"
-  },
-  {
-    "id": "hackernews-48490826",
-    "source": "hackernews",
-    "title": "MiMo Code is now released and open-source",
-    "url": "https://mimo.xiaomi.com/mimocode",
-    "score": 432,
-    "metadata": {
-      "author": "apeters",
-      "commentsCount": 248,
-      "hnUrl": "https://news.ycombinator.com/item?id=48490826"
-    },
-    "createdAt": "2026-06-11T14:27:19.000Z"
-  },
-  {
-    "id": "hackernews-48489229",
-    "source": "hackernews",
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "score": 328,
-    "metadata": {
-      "author": "rarisma",
-      "commentsCount": 325,
-      "hnUrl": "https://news.ycombinator.com/item?id=48489229"
-    },
-    "createdAt": "2026-06-11T12:05:02.000Z"
-  },
-  {
-    "id": "hackernews-48491830",
-    "source": "hackernews",
-    "title": "Petition to Withdraw Canada's Bill C-22",
-    "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-    "score": 375,
-    "metadata": {
-      "author": "hmokiguess",
-      "commentsCount": 127,
-      "hnUrl": "https://news.ycombinator.com/item?id=48491830"
-    },
-    "createdAt": "2026-06-11T15:37:23.000Z"
-  },
-  {
-    "id": "hackernews-48497576",
-    "source": "hackernews",
-    "title": "A jacket that harvests drinking water from the air",
-    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "score": 48,
-    "metadata": {
-      "author": "ilreb",
+      "author": "jtlebigot",
       "commentsCount": 29,
-      "hnUrl": "https://news.ycombinator.com/item?id=48497576"
+      "hnUrl": "https://news.ycombinator.com/item?id=48504929"
     },
-    "createdAt": "2026-06-11T22:59:22.000Z"
+    "createdAt": "2026-06-12T14:50:06.000Z"
   },
   {
-    "id": "hackernews-48492533",
+    "id": "hackernews-48506209",
     "source": "hackernews",
-    "title": "Software is made between commits",
-    "url": "https://zed.dev/blog/introducing-deltadb",
-    "score": 212,
+    "title": "Adaptive PDFs",
+    "url": "https://sgaud.com/texts/pdf",
+    "score": 137,
     "metadata": {
-      "author": "jeremy_k",
-      "commentsCount": 163,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492533"
+      "author": "SarthakGaud",
+      "commentsCount": 67,
+      "hnUrl": "https://news.ycombinator.com/item?id=48506209"
     },
-    "createdAt": "2026-06-11T16:28:24.000Z"
+    "createdAt": "2026-06-12T16:32:50.000Z"
   },
   {
-    "id": "hackernews-48474274",
+    "id": "hackernews-48507278",
     "source": "hackernews",
-    "title": "Emacs appearances in pop culture",
-    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-    "score": 270,
+    "title": "\"Don't You Just Upload It to ChatGPT?\"",
+    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "score": 381,
     "metadata": {
-      "author": "ggcr",
-      "commentsCount": 75,
-      "hnUrl": "https://news.ycombinator.com/item?id=48474274"
+      "author": "speckx",
+      "commentsCount": 300,
+      "hnUrl": "https://news.ycombinator.com/item?id=48507278"
     },
-    "createdAt": "2026-06-10T10:37:45.000Z"
+    "createdAt": "2026-06-12T17:52:46.000Z"
   },
   {
-    "id": "hackernews-48447598",
+    "id": "hackernews-48506545",
     "source": "hackernews",
-    "title": "Ear Training Practice",
-    "url": "https://tonedear.com/",
-    "score": 166,
+    "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+    "url": "https://bitboard.work/",
+    "score": 39,
     "metadata": {
-      "author": "mattbit",
-      "commentsCount": 86,
-      "hnUrl": "https://news.ycombinator.com/item?id=48447598"
-    },
-    "createdAt": "2026-06-08T16:38:07.000Z"
-  },
-  {
-    "id": "hackernews-48492215",
-    "source": "hackernews",
-    "title": "The RCE that AMD wouldn't fix",
-    "url": "https://mrbruh.com/amd2/",
-    "score": 230,
-    "metadata": {
-      "author": "MrBruh",
-      "commentsCount": 100,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492215"
-    },
-    "createdAt": "2026-06-11T16:03:40.000Z"
-  },
-  {
-    "id": "hackernews-48496483",
-    "source": "hackernews",
-    "title": "Tailwind and slop apps",
-    "url": "https://briandouglas.ie/llm-tailwind-template/",
-    "score": 47,
-    "metadata": {
-      "author": "coneonthefloor",
-      "commentsCount": 25,
-      "hnUrl": "https://news.ycombinator.com/item?id=48496483"
-    },
-    "createdAt": "2026-06-11T21:12:47.000Z"
-  },
-  {
-    "id": "hackernews-48462070",
-    "source": "hackernews",
-    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-    "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-    "score": 249,
-    "metadata": {
-      "author": "josephcsible",
-      "commentsCount": 110,
-      "hnUrl": "https://news.ycombinator.com/item?id=48462070"
-    },
-    "createdAt": "2026-06-09T15:01:43.000Z"
-  },
-  {
-    "id": "hackernews-48492210",
-    "source": "hackernews",
-    "title": "Claude Fable 5: mid-tier results on coding tasks",
-    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-    "score": 247,
-    "metadata": {
-      "author": "bugvader",
-      "commentsCount": 111,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492210"
-    },
-    "createdAt": "2026-06-11T16:03:21.000Z"
-  },
-  {
-    "id": "hackernews-48489402",
-    "source": "hackernews",
-    "title": "Lines of code got a better publicist",
-    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "score": 365,
-    "metadata": {
-      "author": "RyeCombinator",
-      "commentsCount": 248,
-      "hnUrl": "https://news.ycombinator.com/item?id=48489402"
-    },
-    "createdAt": "2026-06-11T12:26:42.000Z"
-  },
-  {
-    "id": "hackernews-48452001",
-    "source": "hackernews",
-    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
-    "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-    "score": 222,
-    "metadata": {
-      "author": "ljf",
-      "commentsCount": 74,
-      "hnUrl": "https://news.ycombinator.com/item?id=48452001"
-    },
-    "createdAt": "2026-06-08T21:02:01.000Z"
-  },
-  {
-    "id": "hackernews-48496250",
-    "source": "hackernews",
-    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
-    "url": "https://github.com/coder/boo",
-    "score": 52,
-    "metadata": {
-      "author": "kylecarbs",
+      "author": "arcb",
       "commentsCount": 20,
-      "hnUrl": "https://news.ycombinator.com/item?id=48496250"
+      "hnUrl": "https://news.ycombinator.com/item?id=48506545"
     },
-    "createdAt": "2026-06-11T20:52:26.000Z"
-  },
-  {
-    "id": "hackernews-48487829",
-    "source": "hackernews",
-    "title": "Making a vintage LLM from scratch",
-    "url": "https://crlf.link/log/entries/260525-1/",
-    "score": 27,
-    "metadata": {
-      "author": "croqaz",
-      "commentsCount": 3,
-      "hnUrl": "https://news.ycombinator.com/item?id=48487829"
-    },
-    "createdAt": "2026-06-11T08:38:00.000Z"
-  },
-  {
-    "id": "hackernews-48490939",
-    "source": "hackernews",
-    "title": "How a new DSL may survive in the era of LLMs",
-    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-    "score": 17,
-    "metadata": {
-      "author": "williamcotton",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48490939"
-    },
-    "createdAt": "2026-06-11T14:35:41.000Z"
-  },
-  {
-    "id": "hackernews-48479314",
-    "source": "hackernews",
-    "title": "Reading for pleasure is sharply down among schoolkids, report shows",
-    "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
-    "score": 86,
-    "metadata": {
-      "author": "freejoe76",
-      "commentsCount": 95,
-      "hnUrl": "https://news.ycombinator.com/item?id=48479314"
-    },
-    "createdAt": "2026-06-10T17:03:48.000Z"
-  },
-  {
-    "id": "hackernews-48493564",
-    "source": "hackernews",
-    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-    "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-    "score": 93,
-    "metadata": {
-      "author": "geerlingguy",
-      "commentsCount": 8,
-      "hnUrl": "https://news.ycombinator.com/item?id=48493564"
-    },
-    "createdAt": "2026-06-11T17:35:19.000Z"
-  },
-  {
-    "id": "hackernews-48491486",
-    "source": "hackernews",
-    "title": "FPS.cob: A first person shooter in COBOL",
-    "url": "https://github.com/icitry/FPS.cob",
-    "score": 107,
-    "metadata": {
-      "author": "MBCook",
-      "commentsCount": 63,
-      "hnUrl": "https://news.ycombinator.com/item?id=48491486"
-    },
-    "createdAt": "2026-06-11T15:13:57.000Z"
-  },
-  {
-    "id": "hackernews-48492177",
-    "source": "hackernews",
-    "title": "MTG Bench: Testing how well LLMs can play Magic",
-    "url": "https://mtgautodeck.com/articles/mtg-bench/",
-    "score": 30,
-    "metadata": {
-      "author": "CallumFerg",
-      "commentsCount": 18,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492177"
-    },
-    "createdAt": "2026-06-11T16:01:01.000Z"
-  },
-  {
-    "id": "hackernews-48492304",
-    "source": "hackernews",
-    "title": "Waymo Premier",
-    "url": "https://waymo.com/blog/2026/06/waymo-premier/",
-    "score": 157,
-    "metadata": {
-      "author": "boulos",
-      "commentsCount": 409,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492304"
-    },
-    "createdAt": "2026-06-11T16:10:02.000Z"
-  },
-  {
-    "id": "hackernews-48478766",
-    "source": "hackernews",
-    "title": "Babel-USB: USB drive with every file",
-    "url": "https://github.com/p2r3/babel-usb",
-    "score": 31,
-    "metadata": {
-      "author": "LorenDB",
-      "commentsCount": 12,
-      "hnUrl": "https://news.ycombinator.com/item?id=48478766"
-    },
-    "createdAt": "2026-06-10T16:28:30.000Z"
-  },
-  {
-    "id": "hackernews-48459999",
-    "source": "hackernews",
-    "title": "Faking keyword arguments to functions in C++",
-    "url": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
-    "score": 8,
-    "metadata": {
-      "author": "ibobev",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48459999"
-    },
-    "createdAt": "2026-06-09T12:05:12.000Z"
-  },
-  {
-    "id": "hackernews-48489917",
-    "source": "hackernews",
-    "title": "Open Reproduction of DeepSeek-R1",
-    "url": "https://github.com/huggingface/open-r1",
-    "score": 205,
-    "metadata": {
-      "author": "yogthos",
-      "commentsCount": 17,
-      "hnUrl": "https://news.ycombinator.com/item?id=48489917"
-    },
-    "createdAt": "2026-06-11T13:14:31.000Z"
+    "createdAt": "2026-06-12T16:58:03.000Z"
   }
 ]
