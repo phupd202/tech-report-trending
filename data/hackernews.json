@@ -1,392 +1,392 @@
 [
   {
-    "id": "hackernews-48511072",
+    "id": "hackernews-48523080",
     "source": "hackernews",
-    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-    "url": "https://www.anthropic.com/news/fable-mythos-access",
-    "score": 1751,
+    "title": "Honda Civics and the Evil Valet",
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "score": 203,
     "metadata": {
-      "author": "Dylan1312",
-      "commentsCount": 1342,
-      "hnUrl": "https://news.ycombinator.com/item?id=48511072"
+      "author": "librick",
+      "commentsCount": 33,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523080"
     },
-    "createdAt": "2026-06-13T00:51:30.000Z"
+    "createdAt": "2026-06-14T00:49:46.000Z"
   },
   {
-    "id": "hackernews-48511908",
+    "id": "hackernews-48524135",
     "source": "hackernews",
-    "title": "Open source AI must win",
-    "url": "https://opensourceaimustwin.com/?share=v2",
-    "score": 634,
+    "title": "Pac-Man, but you're the ghost",
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "score": 40,
     "metadata": {
-      "author": "vednig",
-      "commentsCount": 201,
-      "hnUrl": "https://news.ycombinator.com/item?id=48511908"
+      "author": "mindracer",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=48524135"
     },
-    "createdAt": "2026-06-13T02:14:24.000Z"
+    "createdAt": "2026-06-14T04:18:45.000Z"
   },
   {
-    "id": "hackernews-48512915",
+    "id": "hackernews-48524434",
     "source": "hackernews",
-    "title": "Our response to the US ban on Fable 5 and Mythos 5",
-    "url": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
-    "score": 84,
+    "title": "Tribblix: The retro Illumos distribution",
+    "url": "http://tribblix.org/",
+    "score": 14,
     "metadata": {
-      "author": "ubutler",
-      "commentsCount": 17,
-      "hnUrl": "https://news.ycombinator.com/item?id=48512915"
+      "author": "naturalmovement",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48524434"
     },
-    "createdAt": "2026-06-13T03:59:45.000Z"
+    "createdAt": "2026-06-14T05:23:12.000Z"
   },
   {
-    "id": "hackernews-48510010",
+    "id": "hackernews-48517377",
     "source": "hackernews",
-    "title": "Electric motors with no rare earths",
-    "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-    "score": 355,
+    "title": "Noise infusion banned from statistical products published by Census Bureau",
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "score": 796,
     "metadata": {
-      "author": "bestouff",
-      "commentsCount": 89,
-      "hnUrl": "https://news.ycombinator.com/item?id=48510010"
+      "author": "nl",
+      "commentsCount": 492,
+      "hnUrl": "https://news.ycombinator.com/item?id=48517377"
     },
-    "createdAt": "2026-06-12T22:08:03.000Z"
+    "createdAt": "2026-06-13T13:54:56.000Z"
   },
   {
-    "id": "hackernews-48513222",
+    "id": "hackernews-48518684",
     "source": "hackernews",
-    "title": "On CPU Physics and CPU Cycles",
-    "url": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+    "title": "GLM 5.2 Is Out",
+    "url": "https://twitter.com/jietang/status/2065784751345287314",
+    "score": 484,
+    "metadata": {
+      "author": "aloknnikhil",
+      "commentsCount": 265,
+      "hnUrl": "https://news.ycombinator.com/item?id=48518684"
+    },
+    "createdAt": "2026-06-13T16:18:31.000Z"
+  },
+  {
+    "id": "hackernews-48516251",
+    "source": "hackernews",
+    "title": "Every Frame Perfect",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "score": 656,
+    "metadata": {
+      "author": "ravenical",
+      "commentsCount": 214,
+      "hnUrl": "https://news.ycombinator.com/item?id=48516251"
+    },
+    "createdAt": "2026-06-13T11:40:20.000Z"
+  },
+  {
+    "id": "hackernews-48523992",
+    "source": "hackernews",
+    "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+    "url": "https://sqltoerdiagram.com/",
+    "score": 30,
+    "metadata": {
+      "author": "robhati",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523992"
+    },
+    "createdAt": "2026-06-14T03:43:30.000Z"
+  },
+  {
+    "id": "hackernews-48523615",
+    "source": "hackernews",
+    "title": "Building a serial and VGA \"everything console\"",
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
     "score": 19,
     "metadata": {
-      "author": "signa11",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48513222"
+      "author": "classichasclass",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523615"
     },
-    "createdAt": "2026-06-13T04:37:08.000Z"
+    "createdAt": "2026-06-14T02:31:15.000Z"
   },
   {
-    "id": "hackernews-48513536",
+    "id": "hackernews-48490927",
     "source": "hackernews",
-    "title": "There is a shadow hanging over this Fable thing",
-    "url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
-    "score": 21,
+    "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+    "url": "https://github.com/kekcleader/FreeOberon",
+    "score": 65,
     "metadata": {
-      "author": "theahura",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48513536"
+      "author": "peter_d_sherman",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=48490927"
     },
-    "createdAt": "2026-06-13T05:16:41.000Z"
+    "createdAt": "2026-06-11T14:34:46.000Z"
   },
   {
-    "id": "hackernews-48505231",
+    "id": "hackernews-48517199",
     "source": "hackernews",
-    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-    "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-    "score": 772,
+    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+    "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+    "score": 339,
+    "metadata": {
+      "author": "andsoitis",
+      "commentsCount": 120,
+      "hnUrl": "https://news.ycombinator.com/item?id=48517199"
+    },
+    "createdAt": "2026-06-13T13:34:00.000Z"
+  },
+  {
+    "id": "hackernews-48503009",
+    "source": "hackernews",
+    "title": "Python 3.14 garbage collection rigamarole",
+    "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+    "score": 35,
+    "metadata": {
+      "author": "eatonphil",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48503009"
+    },
+    "createdAt": "2026-06-12T11:59:40.000Z"
+  },
+  {
+    "id": "hackernews-48523705",
+    "source": "hackernews",
+    "title": "Weave: Merging based on language structure and not lines",
+    "url": "https://ataraxy-labs.github.io/weave/",
+    "score": 20,
+    "metadata": {
+      "author": "rohanat",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523705"
+    },
+    "createdAt": "2026-06-14T02:45:38.000Z"
+  },
+  {
+    "id": "hackernews-48462759",
+    "source": "hackernews",
+    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+    "url": "https://blog.pyodide.org/posts/314-release/",
+    "score": 108,
+    "metadata": {
+      "author": "agriyakhetarpal",
+      "commentsCount": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=48462759"
+    },
+    "createdAt": "2026-06-09T15:54:31.000Z"
+  },
+  {
+    "id": "hackernews-48523752",
+    "source": "hackernews",
+    "title": "Making Claude a Chemist",
+    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+    "score": 23,
     "metadata": {
       "author": "gmays",
-      "commentsCount": 186,
-      "hnUrl": "https://news.ycombinator.com/item?id=48505231"
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523752"
     },
-    "createdAt": "2026-06-12T15:15:24.000Z"
+    "createdAt": "2026-06-14T02:55:36.000Z"
   },
   {
-    "id": "hackernews-48465634",
+    "id": "hackernews-48491376",
     "source": "hackernews",
-    "title": "The Future of wasi-gfx and wasi:webgpu",
-    "url": "https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/",
-    "score": 17,
-    "metadata": {
-      "author": "mendyberger",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48465634"
-    },
-    "createdAt": "2026-06-09T18:42:58.000Z"
-  },
-  {
-    "id": "hackernews-48510341",
-    "source": "hackernews",
-    "title": "Show HN: Putt.day a daily mini golf game",
-    "url": "https://putt.day/",
-    "score": 135,
-    "metadata": {
-      "author": "ellg",
-      "commentsCount": 66,
-      "hnUrl": "https://news.ycombinator.com/item?id=48510341"
-    },
-    "createdAt": "2026-06-12T22:56:06.000Z"
-  },
-  {
-    "id": "hackernews-48470152",
-    "source": "hackernews",
-    "title": "Why a Computer Science Degree Still Opens Hidden Doors",
-    "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
-    "score": 49,
-    "metadata": {
-      "author": "jnord",
-      "commentsCount": 38,
-      "hnUrl": "https://news.ycombinator.com/item?id=48470152"
-    },
-    "createdAt": "2026-06-10T01:33:43.000Z"
-  },
-  {
-    "id": "hackernews-48510046",
-    "source": "hackernews",
-    "title": "Twenty One Zero-Days in FFmpeg",
-    "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-    "score": 164,
-    "metadata": {
-      "author": "redbell",
-      "commentsCount": 97,
-      "hnUrl": "https://news.ycombinator.com/item?id=48510046"
-    },
-    "createdAt": "2026-06-12T22:13:29.000Z"
-  },
-  {
-    "id": "hackernews-48507020",
-    "source": "hackernews",
-    "title": "How to setup a local coding agent on macOS",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "score": 330,
-    "metadata": {
-      "author": "kkm",
-      "commentsCount": 79,
-      "hnUrl": "https://news.ycombinator.com/item?id=48507020"
-    },
-    "createdAt": "2026-06-12T17:34:55.000Z"
-  },
-  {
-    "id": "hackernews-48508726",
-    "source": "hackernews",
-    "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-    "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-    "score": 184,
-    "metadata": {
-      "author": "DASD",
-      "commentsCount": 72,
-      "hnUrl": "https://news.ycombinator.com/item?id=48508726"
-    },
-    "createdAt": "2026-06-12T19:54:27.000Z"
-  },
-  {
-    "id": "hackernews-48476202",
-    "source": "hackernews",
-    "title": "Show HN: Lightweight Task queue on Erlang/OTP, SQLite-backed, no overengineering",
-    "url": "https://github.com/entGriff/ezra",
+    "title": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
+    "url": "https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf",
     "score": 11,
     "metadata": {
-      "author": "ent1c3d",
+      "author": "not_a9",
       "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48476202"
+      "hnUrl": "https://news.ycombinator.com/item?id=48491376"
     },
-    "createdAt": "2026-06-10T13:45:26.000Z"
+    "createdAt": "2026-06-11T15:06:28.000Z"
   },
   {
-    "id": "hackernews-48513728",
+    "id": "hackernews-48497195",
     "source": "hackernews",
-    "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-    "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-    "score": 4,
+    "title": "Codex for open source",
+    "url": "https://openai.com/form/codex-for-oss/",
+    "score": 214,
     "metadata": {
-      "author": "vnglst",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48513728"
+      "author": "EvgeniyZh",
+      "commentsCount": 71,
+      "hnUrl": "https://news.ycombinator.com/item?id=48497195"
     },
-    "createdAt": "2026-06-13T05:44:46.000Z"
+    "createdAt": "2026-06-11T22:20:03.000Z"
   },
   {
-    "id": "hackernews-48495928",
+    "id": "hackernews-48524084",
     "source": "hackernews",
-    "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-    "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-    "score": 362,
+    "title": "Software Architecture Guide (2019)",
+    "url": "https://martinfowler.com/architecture/",
+    "score": 41,
     "metadata": {
-      "author": "marc__1",
-      "commentsCount": 205,
-      "hnUrl": "https://news.ycombinator.com/item?id=48495928"
+      "author": "laxmena",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48524084"
     },
-    "createdAt": "2026-06-11T20:24:18.000Z"
+    "createdAt": "2026-06-14T04:07:37.000Z"
   },
   {
-    "id": "hackernews-48484496",
+    "id": "hackernews-48470746",
     "source": "hackernews",
-    "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
-    "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
-    "score": 194,
-    "metadata": {
-      "author": "Cider9986",
-      "commentsCount": 59,
-      "hnUrl": "https://news.ycombinator.com/item?id=48484496"
-    },
-    "createdAt": "2026-06-11T00:00:42.000Z"
-  },
-  {
-    "id": "hackernews-48506659",
-    "source": "hackernews",
-    "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
-    "url": "https://piwodlaiwo.github.io/pirates/",
-    "score": 235,
-    "metadata": {
-      "author": "iweczek",
-      "commentsCount": 75,
-      "hnUrl": "https://news.ycombinator.com/item?id=48506659"
-    },
-    "createdAt": "2026-06-12T17:07:46.000Z"
-  },
-  {
-    "id": "hackernews-48467697",
-    "source": "hackernews",
-    "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
-    "url": "https://tectonic-typesetting.github.io/en-US/",
-    "score": 33,
-    "metadata": {
-      "author": "maxloh",
-      "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=48467697"
-    },
-    "createdAt": "2026-06-09T21:00:39.000Z"
-  },
-  {
-    "id": "hackernews-48504912",
-    "source": "hackernews",
-    "title": "Slightly reducing the sloppiness of AI generated front end",
-    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-    "score": 182,
-    "metadata": {
-      "author": "FergusArgyll",
-      "commentsCount": 114,
-      "hnUrl": "https://news.ycombinator.com/item?id=48504912"
-    },
-    "createdAt": "2026-06-12T14:48:38.000Z"
-  },
-  {
-    "id": "hackernews-48511773",
-    "source": "hackernews",
-    "title": "TycoonLE: A Jax reinforcement learning environment for long-horizon planning",
-    "url": "https://github.com/vrtnis/tycoon-learning-environment",
-    "score": 9,
-    "metadata": {
-      "author": "vrtnis",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48511773"
-    },
-    "createdAt": "2026-06-13T02:02:07.000Z"
-  },
-  {
-    "id": "hackernews-48479652",
-    "source": "hackernews",
-    "title": "A key remapping daemon for Linux",
-    "url": "https://github.com/rvaiya/keyd",
-    "score": 32,
-    "metadata": {
-      "author": "joooscha",
-      "commentsCount": 12,
-      "hnUrl": "https://news.ycombinator.com/item?id=48479652"
-    },
-    "createdAt": "2026-06-10T17:27:56.000Z"
-  },
-  {
-    "id": "hackernews-48509182",
-    "source": "hackernews",
-    "title": "Palantir loses legal challenge against Swiss investigative magazine",
-    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-    "score": 265,
-    "metadata": {
-      "author": "sschueller",
-      "commentsCount": 54,
-      "hnUrl": "https://news.ycombinator.com/item?id=48509182"
-    },
-    "createdAt": "2026-06-12T20:39:36.000Z"
-  },
-  {
-    "id": "hackernews-48512286",
-    "source": "hackernews",
-    "title": "A generic dynamic array in C that stores no capacity and needs no struct",
-    "url": "https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e",
+    "title": "The Neat Little Vehicles That Run a Cemetery",
+    "url": "https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery",
     "score": 6,
     "metadata": {
-      "author": "alurm",
+      "author": "PaulHoule",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48470746"
+    },
+    "createdAt": "2026-06-10T02:48:08.000Z"
+  },
+  {
+    "id": "hackernews-48519092",
+    "source": "hackernews",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "score": 633,
+    "metadata": {
+      "author": "ls612",
+      "commentsCount": 461,
+      "hnUrl": "https://news.ycombinator.com/item?id=48519092"
+    },
+    "createdAt": "2026-06-13T16:57:49.000Z"
+  },
+  {
+    "id": "hackernews-48519552",
+    "source": "hackernews",
+    "title": "GameBoy Workboy",
+    "url": "https://tcrf.net/Workboy",
+    "score": 177,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 62,
+      "hnUrl": "https://news.ycombinator.com/item?id=48519552"
+    },
+    "createdAt": "2026-06-13T17:43:02.000Z"
+  },
+  {
+    "id": "hackernews-48523550",
+    "source": "hackernews",
+    "title": "Apt Encounters of the Third Kind",
+    "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
+    "score": 19,
+    "metadata": {
+      "author": "ogurechny",
       "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48512286"
+      "hnUrl": "https://news.ycombinator.com/item?id=48523550"
     },
-    "createdAt": "2026-06-13T02:50:10.000Z"
+    "createdAt": "2026-06-14T02:17:13.000Z"
   },
   {
-    "id": "hackernews-48509844",
+    "id": "hackernews-48520080",
     "source": "hackernews",
-    "title": "SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "score": 34,
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "score": 87,
     "metadata": {
-      "author": "taubek",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48509844"
-    },
-    "createdAt": "2026-06-12T21:49:49.000Z"
-  },
-  {
-    "id": "hackernews-48497609",
-    "source": "hackernews",
-    "title": "If you are asking for human attention, demonstrate human effort",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "score": 1550,
-    "metadata": {
-      "author": "jjfoooo4",
-      "commentsCount": 468,
-      "hnUrl": "https://news.ycombinator.com/item?id=48497609"
-    },
-    "createdAt": "2026-06-11T23:01:55.000Z"
-  },
-  {
-    "id": "hackernews-48504929",
-    "source": "hackernews",
-    "title": "Introduction to UEFI HTTP(s) Boot with QEMU/OVMF",
-    "url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
-    "score": 88,
-    "metadata": {
-      "author": "jtlebigot",
-      "commentsCount": 29,
-      "hnUrl": "https://news.ycombinator.com/item?id=48504929"
-    },
-    "createdAt": "2026-06-12T14:50:06.000Z"
-  },
-  {
-    "id": "hackernews-48506209",
-    "source": "hackernews",
-    "title": "Adaptive PDFs",
-    "url": "https://sgaud.com/texts/pdf",
-    "score": 137,
-    "metadata": {
-      "author": "SarthakGaud",
-      "commentsCount": 67,
-      "hnUrl": "https://news.ycombinator.com/item?id=48506209"
-    },
-    "createdAt": "2026-06-12T16:32:50.000Z"
-  },
-  {
-    "id": "hackernews-48507278",
-    "source": "hackernews",
-    "title": "\"Don't You Just Upload It to ChatGPT?\"",
-    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-    "score": 381,
-    "metadata": {
-      "author": "speckx",
-      "commentsCount": 300,
-      "hnUrl": "https://news.ycombinator.com/item?id=48507278"
-    },
-    "createdAt": "2026-06-12T17:52:46.000Z"
-  },
-  {
-    "id": "hackernews-48506545",
-    "source": "hackernews",
-    "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
-    "url": "https://bitboard.work/",
-    "score": 39,
-    "metadata": {
-      "author": "arcb",
+      "author": "rasz",
       "commentsCount": 20,
-      "hnUrl": "https://news.ycombinator.com/item?id=48506545"
+      "hnUrl": "https://news.ycombinator.com/item?id=48520080"
     },
-    "createdAt": "2026-06-12T16:58:03.000Z"
+    "createdAt": "2026-06-13T18:32:22.000Z"
+  },
+  {
+    "id": "hackernews-48522486",
+    "source": "hackernews",
+    "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+    "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+    "score": 165,
+    "metadata": {
+      "author": "jeditobe",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=48522486"
+    },
+    "createdAt": "2026-06-13T23:22:05.000Z"
+  },
+  {
+    "id": "hackernews-48515336",
+    "source": "hackernews",
+    "title": "A low-carbon computing platform from your retired phones",
+    "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+    "score": 270,
+    "metadata": {
+      "author": "vikas-sharma",
+      "commentsCount": 143,
+      "hnUrl": "https://news.ycombinator.com/item?id=48515336"
+    },
+    "createdAt": "2026-06-13T09:38:32.000Z"
+  },
+  {
+    "id": "hackernews-48467437",
+    "source": "hackernews",
+    "title": "Appreciating Exif",
+    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+    "score": 149,
+    "metadata": {
+      "author": "burnto",
+      "commentsCount": 32,
+      "hnUrl": "https://news.ycombinator.com/item?id=48467437"
+    },
+    "createdAt": "2026-06-09T20:41:44.000Z"
+  },
+  {
+    "id": "hackernews-48522310",
+    "source": "hackernews",
+    "title": "Ancient genome duplications laid the foundations of complex brains",
+    "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+    "score": 31,
+    "metadata": {
+      "author": "hhs",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48522310"
+    },
+    "createdAt": "2026-06-13T22:54:37.000Z"
+  },
+  {
+    "id": "hackernews-48520807",
+    "source": "hackernews",
+    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "score": 294,
+    "metadata": {
+      "author": "austinallegro",
+      "commentsCount": 137,
+      "hnUrl": "https://news.ycombinator.com/item?id=48520807"
+    },
+    "createdAt": "2026-06-13T19:54:55.000Z"
+  },
+  {
+    "id": "hackernews-48515454",
+    "source": "hackernews",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "score": 225,
+    "metadata": {
+      "author": "iMil",
+      "commentsCount": 76,
+      "hnUrl": "https://news.ycombinator.com/item?id=48515454"
+    },
+    "createdAt": "2026-06-13T09:55:32.000Z"
+  },
+  {
+    "id": "hackernews-48523773",
+    "source": "hackernews",
+    "title": "The redistribution of housing wealth caused by rent control [pdf]",
+    "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
+    "score": 62,
+    "metadata": {
+      "author": "luu",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523773"
+    },
+    "createdAt": "2026-06-14T02:59:34.000Z"
+  },
+  {
+    "id": "hackernews-48519011",
+    "source": "hackernews",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip",
+    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "score": 108,
+    "metadata": {
+      "author": "pwg",
+      "commentsCount": 27,
+      "hnUrl": "https://news.ycombinator.com/item?id=48519011"
+    },
+    "createdAt": "2026-06-13T16:49:42.000Z"
   }
 ]

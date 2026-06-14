@@ -1,5 +1,486 @@
 [
   {
+    "id": "github-x1xhlol-system-prompts-and-models-of-ai-tools",
+    "source": "github",
+    "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "score": 140366,
+    "metadata": {
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "",
+      "starsToday": 109
+    },
+    "createdAt": "2026-06-14T06:29:01.122Z"
+  },
+  {
+    "id": "github-bannedbook-fanqiang",
+    "source": "github",
+    "title": "bannedbook / fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "score": 47577,
+    "metadata": {
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "starsToday": 93
+    },
+    "createdAt": "2026-06-14T06:29:01.121Z"
+  },
+  {
+    "id": "github-NVIDIA-SkillSpector",
+    "source": "github",
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "score": 4628,
+    "metadata": {
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "starsToday": 804
+    },
+    "createdAt": "2026-06-14T06:29:01.121Z"
+  },
+  {
+    "id": "github-andrewyng-aisuite",
+    "source": "github",
+    "title": "andrewyng / aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "score": 14189,
+    "metadata": {
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "starsToday": 127
+    },
+    "createdAt": "2026-06-14T06:29:01.121Z"
+  },
+  {
+    "id": "github-swc-project-swc",
+    "source": "github",
+    "title": "swc-project / swc",
+    "url": "https://github.com/swc-project/swc",
+    "score": 33669,
+    "metadata": {
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "starsToday": 20
+    },
+    "createdAt": "2026-06-14T06:29:01.121Z"
+  },
+  {
+    "id": "github-microsoft-PowerToys",
+    "source": "github",
+    "title": "microsoft / PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "score": 134748,
+    "metadata": {
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "starsToday": 370
+    },
+    "createdAt": "2026-06-14T06:29:01.120Z"
+  },
+  {
+    "id": "github-LMCache-LMCache",
+    "source": "github",
+    "title": "LMCache / LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "score": 8962,
+    "metadata": {
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "starsToday": 238
+    },
+    "createdAt": "2026-06-14T06:29:01.120Z"
+  },
+  {
+    "id": "github-music-assistant-server",
+    "source": "github",
+    "title": "music-assistant / server",
+    "url": "https://github.com/music-assistant/server",
+    "score": 2044,
+    "metadata": {
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "starsToday": 270
+    },
+    "createdAt": "2026-06-14T06:29:01.119Z"
+  },
+  {
+    "id": "github-kenn-io-agentsview",
+    "source": "github",
+    "title": "kenn-io / agentsview",
+    "url": "https://github.com/kenn-io/agentsview",
+    "score": 2446,
+    "metadata": {
+      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "language": "Go",
+      "starsToday": 190
+    },
+    "createdAt": "2026-06-14T06:29:01.119Z"
+  },
+  {
+    "id": "github-obra-superpowers",
+    "source": "github",
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "score": 227164,
+    "metadata": {
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "starsToday": 924
+    },
+    "createdAt": "2026-06-14T06:29:01.118Z"
+  },
+  {
+    "id": "github-apple-container",
+    "source": "github",
+    "title": "apple / container",
+    "url": "https://github.com/apple/container",
+    "score": 36491,
+    "metadata": {
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "starsToday": 1487
+    },
+    "createdAt": "2026-06-14T06:29:01.118Z"
+  },
+  {
+    "id": "github-chatwoot-chatwoot",
+    "source": "github",
+    "title": "chatwoot / chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "score": 30943,
+    "metadata": {
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "starsToday": 83
+    },
+    "createdAt": "2026-06-14T06:29:01.117Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 58692,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "starsToday": 1514
+    },
+    "createdAt": "2026-06-14T06:29:01.116Z"
+  },
+  {
+    "id": "github-iptv-org-iptv",
+    "source": "github",
+    "title": "iptv-org / iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "score": 119423,
+    "metadata": {
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "starsToday": 530
+    },
+    "createdAt": "2026-06-14T06:29:01.115Z"
+  },
+  {
+    "id": "hackernews-48524434",
+    "source": "hackernews",
+    "title": "Tribblix: The retro Illumos distribution",
+    "url": "http://tribblix.org/",
+    "score": 14,
+    "metadata": {
+      "author": "naturalmovement",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48524434"
+    },
+    "createdAt": "2026-06-14T05:23:12.000Z"
+  },
+  {
+    "id": "hackernews-48524135",
+    "source": "hackernews",
+    "title": "Pac-Man, but you're the ghost",
+    "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "score": 40,
+    "metadata": {
+      "author": "mindracer",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=48524135"
+    },
+    "createdAt": "2026-06-14T04:18:45.000Z"
+  },
+  {
+    "id": "hackernews-48524084",
+    "source": "hackernews",
+    "title": "Software Architecture Guide (2019)",
+    "url": "https://martinfowler.com/architecture/",
+    "score": 41,
+    "metadata": {
+      "author": "laxmena",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48524084"
+    },
+    "createdAt": "2026-06-14T04:07:37.000Z"
+  },
+  {
+    "id": "hackernews-48523992",
+    "source": "hackernews",
+    "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+    "url": "https://sqltoerdiagram.com/",
+    "score": 30,
+    "metadata": {
+      "author": "robhati",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523992"
+    },
+    "createdAt": "2026-06-14T03:43:30.000Z"
+  },
+  {
+    "id": "hackernews-48523773",
+    "source": "hackernews",
+    "title": "The redistribution of housing wealth caused by rent control [pdf]",
+    "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
+    "score": 62,
+    "metadata": {
+      "author": "luu",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523773"
+    },
+    "createdAt": "2026-06-14T02:59:34.000Z"
+  },
+  {
+    "id": "hackernews-48523752",
+    "source": "hackernews",
+    "title": "Making Claude a Chemist",
+    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+    "score": 23,
+    "metadata": {
+      "author": "gmays",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523752"
+    },
+    "createdAt": "2026-06-14T02:55:36.000Z"
+  },
+  {
+    "id": "hackernews-48523705",
+    "source": "hackernews",
+    "title": "Weave: Merging based on language structure and not lines",
+    "url": "https://ataraxy-labs.github.io/weave/",
+    "score": 20,
+    "metadata": {
+      "author": "rohanat",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523705"
+    },
+    "createdAt": "2026-06-14T02:45:38.000Z"
+  },
+  {
+    "id": "hackernews-48523615",
+    "source": "hackernews",
+    "title": "Building a serial and VGA \"everything console\"",
+    "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "score": 19,
+    "metadata": {
+      "author": "classichasclass",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523615"
+    },
+    "createdAt": "2026-06-14T02:31:15.000Z"
+  },
+  {
+    "id": "hackernews-48523550",
+    "source": "hackernews",
+    "title": "Apt Encounters of the Third Kind",
+    "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
+    "score": 19,
+    "metadata": {
+      "author": "ogurechny",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523550"
+    },
+    "createdAt": "2026-06-14T02:17:13.000Z"
+  },
+  {
+    "id": "hackernews-48523080",
+    "source": "hackernews",
+    "title": "Honda Civics and the Evil Valet",
+    "url": "https://juniperspring.org/posts/honda-evil-valet/",
+    "score": 203,
+    "metadata": {
+      "author": "librick",
+      "commentsCount": 33,
+      "hnUrl": "https://news.ycombinator.com/item?id=48523080"
+    },
+    "createdAt": "2026-06-14T00:49:46.000Z"
+  },
+  {
+    "id": "hackernews-48522486",
+    "source": "hackernews",
+    "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+    "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+    "score": 165,
+    "metadata": {
+      "author": "jeditobe",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=48522486"
+    },
+    "createdAt": "2026-06-13T23:22:05.000Z"
+  },
+  {
+    "id": "hackernews-48522310",
+    "source": "hackernews",
+    "title": "Ancient genome duplications laid the foundations of complex brains",
+    "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+    "score": 31,
+    "metadata": {
+      "author": "hhs",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48522310"
+    },
+    "createdAt": "2026-06-13T22:54:37.000Z"
+  },
+  {
+    "id": "hackernews-48520807",
+    "source": "hackernews",
+    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "score": 294,
+    "metadata": {
+      "author": "austinallegro",
+      "commentsCount": 137,
+      "hnUrl": "https://news.ycombinator.com/item?id=48520807"
+    },
+    "createdAt": "2026-06-13T19:54:55.000Z"
+  },
+  {
+    "id": "hackernews-48520080",
+    "source": "hackernews",
+    "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+    "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+    "score": 87,
+    "metadata": {
+      "author": "rasz",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=48520080"
+    },
+    "createdAt": "2026-06-13T18:32:22.000Z"
+  },
+  {
+    "id": "hackernews-48519552",
+    "source": "hackernews",
+    "title": "GameBoy Workboy",
+    "url": "https://tcrf.net/Workboy",
+    "score": 177,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 62,
+      "hnUrl": "https://news.ycombinator.com/item?id=48519552"
+    },
+    "createdAt": "2026-06-13T17:43:02.000Z"
+  },
+  {
+    "id": "hackernews-48519092",
+    "source": "hackernews",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "score": 633,
+    "metadata": {
+      "author": "ls612",
+      "commentsCount": 461,
+      "hnUrl": "https://news.ycombinator.com/item?id=48519092"
+    },
+    "createdAt": "2026-06-13T16:57:49.000Z"
+  },
+  {
+    "id": "hackernews-48519011",
+    "source": "hackernews",
+    "title": "The adder at the heart of Intel's 8087 floating-point chip",
+    "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+    "score": 108,
+    "metadata": {
+      "author": "pwg",
+      "commentsCount": 27,
+      "hnUrl": "https://news.ycombinator.com/item?id=48519011"
+    },
+    "createdAt": "2026-06-13T16:49:42.000Z"
+  },
+  {
+    "id": "hackernews-48518684",
+    "source": "hackernews",
+    "title": "GLM 5.2 Is Out",
+    "url": "https://twitter.com/jietang/status/2065784751345287314",
+    "score": 484,
+    "metadata": {
+      "author": "aloknnikhil",
+      "commentsCount": 265,
+      "hnUrl": "https://news.ycombinator.com/item?id=48518684"
+    },
+    "createdAt": "2026-06-13T16:18:31.000Z"
+  },
+  {
+    "id": "hackernews-48517377",
+    "source": "hackernews",
+    "title": "Noise infusion banned from statistical products published by Census Bureau",
+    "url": "https://desfontain.es/blog/banning-noise.html",
+    "score": 796,
+    "metadata": {
+      "author": "nl",
+      "commentsCount": 492,
+      "hnUrl": "https://news.ycombinator.com/item?id=48517377"
+    },
+    "createdAt": "2026-06-13T13:54:56.000Z"
+  },
+  {
+    "id": "hackernews-48517199",
+    "source": "hackernews",
+    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+    "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+    "score": 339,
+    "metadata": {
+      "author": "andsoitis",
+      "commentsCount": 120,
+      "hnUrl": "https://news.ycombinator.com/item?id=48517199"
+    },
+    "createdAt": "2026-06-13T13:34:00.000Z"
+  },
+  {
+    "id": "hackernews-48516251",
+    "source": "hackernews",
+    "title": "Every Frame Perfect",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "score": 656,
+    "metadata": {
+      "author": "ravenical",
+      "commentsCount": 214,
+      "hnUrl": "https://news.ycombinator.com/item?id=48516251"
+    },
+    "createdAt": "2026-06-13T11:40:20.000Z"
+  },
+  {
+    "id": "hackernews-48515454",
+    "source": "hackernews",
+    "title": "RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8",
+    "url": "https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/",
+    "score": 225,
+    "metadata": {
+      "author": "iMil",
+      "commentsCount": 76,
+      "hnUrl": "https://news.ycombinator.com/item?id=48515454"
+    },
+    "createdAt": "2026-06-13T09:55:32.000Z"
+  },
+  {
+    "id": "hackernews-48515336",
+    "source": "hackernews",
+    "title": "A low-carbon computing platform from your retired phones",
+    "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+    "score": 270,
+    "metadata": {
+      "author": "vikas-sharma",
+      "commentsCount": 143,
+      "hnUrl": "https://news.ycombinator.com/item?id=48515336"
+    },
+    "createdAt": "2026-06-13T09:38:32.000Z"
+  },
+  {
     "id": "github-msitarzewski-agency-agents",
     "source": "github",
     "title": "msitarzewski / agency-agents",
@@ -9,19 +490,6 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "starsToday": 1026
-    },
-    "createdAt": "2026-06-13T06:11:26.130Z"
-  },
-  {
-    "id": "github-microsoft-PowerToys",
-    "source": "github",
-    "title": "microsoft / PowerToys",
-    "url": "https://github.com/microsoft/PowerToys",
-    "score": 134406,
-    "metadata": {
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "starsToday": 103
     },
     "createdAt": "2026-06-13T06:11:26.130Z"
   },
@@ -52,19 +520,6 @@
     "createdAt": "2026-06-13T06:11:26.129Z"
   },
   {
-    "id": "github-LMCache-LMCache",
-    "source": "github",
-    "title": "LMCache / LMCache",
-    "url": "https://github.com/LMCache/LMCache",
-    "score": 8685,
-    "metadata": {
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "language": "Python",
-      "starsToday": 28
-    },
-    "createdAt": "2026-06-13T06:11:26.129Z"
-  },
-  {
     "id": "github-refactoringhq-tolaria",
     "source": "github",
     "title": "refactoringhq / tolaria",
@@ -91,32 +546,6 @@
     "createdAt": "2026-06-13T06:11:26.128Z"
   },
   {
-    "id": "github-obra-superpowers",
-    "source": "github",
-    "title": "obra / superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "score": 226217,
-    "metadata": {
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "starsToday": 1275
-    },
-    "createdAt": "2026-06-13T06:11:26.127Z"
-  },
-  {
-    "id": "github-iptv-org-iptv",
-    "source": "github",
-    "title": "iptv-org / iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "score": 118138,
-    "metadata": {
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "starsToday": 179
-    },
-    "createdAt": "2026-06-13T06:11:26.127Z"
-  },
-  {
     "id": "github-mattermost-mattermost",
     "source": "github",
     "title": "mattermost / mattermost",
@@ -128,45 +557,6 @@
       "starsToday": 388
     },
     "createdAt": "2026-06-13T06:11:26.126Z"
-  },
-  {
-    "id": "github-apple-container",
-    "source": "github",
-    "title": "apple / container",
-    "url": "https://github.com/apple/container",
-    "score": 35385,
-    "metadata": {
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "starsToday": 3504
-    },
-    "createdAt": "2026-06-13T06:11:26.126Z"
-  },
-  {
-    "id": "github-music-assistant-server",
-    "source": "github",
-    "title": "music-assistant / server",
-    "url": "https://github.com/music-assistant/server",
-    "score": 1842,
-    "metadata": {
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "starsToday": 20
-    },
-    "createdAt": "2026-06-13T06:11:26.125Z"
-  },
-  {
-    "id": "github-addyosmani-agent-skills",
-    "source": "github",
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "score": 57116,
-    "metadata": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "starsToday": 2656
-    },
-    "createdAt": "2026-06-13T06:11:26.124Z"
   },
   {
     "id": "hackernews-48513728",
@@ -455,6 +845,19 @@
     "createdAt": "2026-06-12T14:48:38.000Z"
   },
   {
+    "id": "hackernews-48503009",
+    "source": "hackernews",
+    "title": "Python 3.14 garbage collection rigamarole",
+    "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+    "score": 35,
+    "metadata": {
+      "author": "eatonphil",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48503009"
+    },
+    "createdAt": "2026-06-12T11:59:40.000Z"
+  },
+  {
     "id": "github-TapXWorld-ChinaTextbook",
     "source": "github",
     "title": "TapXWorld / ChinaTextbook",
@@ -479,45 +882,6 @@
       "starsToday": 199
     },
     "createdAt": "2026-06-12T02:49:04.240Z"
-  },
-  {
-    "id": "github-bannedbook-fanqiang",
-    "source": "github",
-    "title": "bannedbook / fanqiang",
-    "url": "https://github.com/bannedbook/fanqiang",
-    "score": 46895,
-    "metadata": {
-      "description": "翻墙-科学上网",
-      "language": "Kotlin",
-      "starsToday": 161
-    },
-    "createdAt": "2026-06-12T02:49:04.240Z"
-  },
-  {
-    "id": "github-chatwoot-chatwoot",
-    "source": "github",
-    "title": "chatwoot / chatwoot",
-    "url": "https://github.com/chatwoot/chatwoot",
-    "score": 30398,
-    "metadata": {
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "starsToday": 67
-    },
-    "createdAt": "2026-06-12T02:49:04.239Z"
-  },
-  {
-    "id": "github-kenn-io-agentsview",
-    "source": "github",
-    "title": "kenn-io / agentsview",
-    "url": "https://github.com/kenn-io/agentsview",
-    "score": 1698,
-    "metadata": {
-      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-      "language": "Go",
-      "starsToday": 114
-    },
-    "createdAt": "2026-06-12T02:49:04.239Z"
   },
   {
     "id": "github-alchaincyf-zhangxuefeng-skill",
@@ -546,19 +910,6 @@
     "createdAt": "2026-06-12T02:49:04.238Z"
   },
   {
-    "id": "github-x1xhlol-system-prompts-and-models-of-ai-tools",
-    "source": "github",
-    "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
-    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-    "score": 139908,
-    "metadata": {
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "language": "",
-      "starsToday": 368
-    },
-    "createdAt": "2026-06-12T02:49:04.237Z"
-  },
-  {
     "id": "github-soxoj-maigret",
     "source": "github",
     "title": "soxoj / maigret",
@@ -570,19 +921,6 @@
       "starsToday": 661
     },
     "createdAt": "2026-06-12T02:49:04.237Z"
-  },
-  {
-    "id": "github-NVIDIA-SkillSpector",
-    "source": "github",
-    "title": "NVIDIA / SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "score": 2755,
-    "metadata": {
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "starsToday": 319
-    },
-    "createdAt": "2026-06-12T02:49:04.236Z"
   },
   {
     "id": "hackernews-48498573",
@@ -635,6 +973,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48497576"
     },
     "createdAt": "2026-06-11T22:59:22.000Z"
+  },
+  {
+    "id": "hackernews-48497195",
+    "source": "hackernews",
+    "title": "Codex for open source",
+    "url": "https://openai.com/form/codex-for-oss/",
+    "score": 214,
+    "metadata": {
+      "author": "EvgeniyZh",
+      "commentsCount": 71,
+      "hnUrl": "https://news.ycombinator.com/item?id=48497195"
+    },
+    "createdAt": "2026-06-11T22:20:03.000Z"
   },
   {
     "id": "hackernews-48496539",
@@ -793,6 +1144,19 @@
     "createdAt": "2026-06-11T15:13:57.000Z"
   },
   {
+    "id": "hackernews-48491376",
+    "source": "hackernews",
+    "title": "(Re//Verse 2026) Taxonomy and Deobfuscation of a Real World Binary Obfuscator [pdf]",
+    "url": "https://github.com/AnalogCyberNuke/RE-Verse-2026-Slides/blob/main/Reverse26.pdf",
+    "score": 11,
+    "metadata": {
+      "author": "not_a9",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48491376"
+    },
+    "createdAt": "2026-06-11T15:06:28.000Z"
+  },
+  {
     "id": "hackernews-48490939",
     "source": "hackernews",
     "title": "How a new DSL may survive in the era of LLMs",
@@ -804,6 +1168,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48490939"
     },
     "createdAt": "2026-06-11T14:35:41.000Z"
+  },
+  {
+    "id": "hackernews-48490927",
+    "source": "hackernews",
+    "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+    "url": "https://github.com/kekcleader/FreeOberon",
+    "score": 65,
+    "metadata": {
+      "author": "peter_d_sherman",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=48490927"
+    },
+    "createdAt": "2026-06-11T14:34:46.000Z"
   },
   {
     "id": "hackernews-48490826",
@@ -1495,6 +1872,19 @@
     "createdAt": "2026-06-10T02:48:20.000Z"
   },
   {
+    "id": "hackernews-48470746",
+    "source": "hackernews",
+    "title": "The Neat Little Vehicles That Run a Cemetery",
+    "url": "https://www.thedrive.com/news/meet-the-neat-little-vehicles-that-run-a-cemetery",
+    "score": 6,
+    "metadata": {
+      "author": "PaulHoule",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48470746"
+    },
+    "createdAt": "2026-06-10T02:48:08.000Z"
+  },
+  {
     "id": "hackernews-48470581",
     "source": "hackernews",
     "title": "Rich Sutton on AI creativity and discovery",
@@ -1612,6 +2002,19 @@
     "createdAt": "2026-06-09T21:00:39.000Z"
   },
   {
+    "id": "hackernews-48467437",
+    "source": "hackernews",
+    "title": "Appreciating Exif",
+    "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+    "score": 149,
+    "metadata": {
+      "author": "burnto",
+      "commentsCount": 32,
+      "hnUrl": "https://news.ycombinator.com/item?id=48467437"
+    },
+    "createdAt": "2026-06-09T20:41:44.000Z"
+  },
+  {
     "id": "hackernews-48466277",
     "source": "hackernews",
     "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
@@ -1688,6 +2091,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48463808"
     },
     "createdAt": "2026-06-09T16:58:01.000Z"
+  },
+  {
+    "id": "hackernews-48462759",
+    "source": "hackernews",
+    "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+    "url": "https://blog.pyodide.org/posts/314-release/",
+    "score": 108,
+    "metadata": {
+      "author": "agriyakhetarpal",
+      "commentsCount": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=48462759"
+    },
+    "createdAt": "2026-06-09T15:54:31.000Z"
   },
   {
     "id": "hackernews-48462070",
