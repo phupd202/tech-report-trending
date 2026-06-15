@@ -1,5 +1,421 @@
 [
   {
+    "id": "github-andrewyng-aisuite",
+    "source": "github",
+    "title": "andrewyng / aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "score": 14479,
+    "metadata": {
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "starsToday": 291
+    },
+    "createdAt": "2026-06-15T07:12:28.611Z"
+  },
+  {
+    "id": "github-puppeteer-puppeteer",
+    "source": "github",
+    "title": "puppeteer / puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "score": 94701,
+    "metadata": {
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "starsToday": 29
+    },
+    "createdAt": "2026-06-15T07:12:28.611Z"
+  },
+  {
+    "id": "github-music-assistant-server",
+    "source": "github",
+    "title": "music-assistant / server",
+    "url": "https://github.com/music-assistant/server",
+    "score": 2262,
+    "metadata": {
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "starsToday": 197
+    },
+    "createdAt": "2026-06-15T07:12:28.610Z"
+  },
+  {
+    "id": "github-Free-TV-IPTV",
+    "source": "github",
+    "title": "Free-TV / IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "score": 17050,
+    "metadata": {
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "starsToday": 70
+    },
+    "createdAt": "2026-06-15T07:12:28.610Z"
+  },
+  {
+    "id": "github-GorvGoyl-Clone-Wars",
+    "source": "github",
+    "title": "GorvGoyl / Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "score": 35681,
+    "metadata": {
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "language": "",
+      "starsToday": 269
+    },
+    "createdAt": "2026-06-15T07:12:28.609Z"
+  },
+  {
+    "id": "github-Introduction-to-Autonomous-Robots-Introduction-to-Autonomous-Robots",
+    "source": "github",
+    "title": "Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+    "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+    "score": 2866,
+    "metadata": {
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "starsToday": 293
+    },
+    "createdAt": "2026-06-15T07:12:28.609Z"
+  },
+  {
+    "id": "github-shiyu-coder-Kronos",
+    "source": "github",
+    "title": "shiyu-coder / Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "score": 30022,
+    "metadata": {
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "starsToday": 244
+    },
+    "createdAt": "2026-06-15T07:12:28.609Z"
+  },
+  {
+    "id": "github-meshery-meshery",
+    "source": "github",
+    "title": "meshery / meshery",
+    "url": "https://github.com/meshery/meshery",
+    "score": 10471,
+    "metadata": {
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "starsToday": 20
+    },
+    "createdAt": "2026-06-15T07:12:28.608Z"
+  },
+  {
+    "id": "github-cypress-io-cypress",
+    "source": "github",
+    "title": "cypress-io / cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "score": 50047,
+    "metadata": {
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "starsToday": 39
+    },
+    "createdAt": "2026-06-15T07:12:28.608Z"
+  },
+  {
+    "id": "github-NVIDIA-SkillSpector",
+    "source": "github",
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "score": 5656,
+    "metadata": {
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "starsToday": 964
+    },
+    "createdAt": "2026-06-15T07:12:28.607Z"
+  },
+  {
+    "id": "github-swc-project-swc",
+    "source": "github",
+    "title": "swc-project / swc",
+    "url": "https://github.com/swc-project/swc",
+    "score": 33835,
+    "metadata": {
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "starsToday": 163
+    },
+    "createdAt": "2026-06-15T07:12:28.606Z"
+  },
+  {
+    "id": "github-chatwoot-chatwoot",
+    "source": "github",
+    "title": "chatwoot / chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "score": 31370,
+    "metadata": {
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "starsToday": 400
+    },
+    "createdAt": "2026-06-15T07:12:28.606Z"
+  },
+  {
+    "id": "github-pytest-dev-pytest",
+    "source": "github",
+    "title": "pytest-dev / pytest",
+    "url": "https://github.com/pytest-dev/pytest",
+    "score": 14094,
+    "metadata": {
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "language": "Python",
+      "starsToday": 14
+    },
+    "createdAt": "2026-06-15T07:12:28.605Z"
+  },
+  {
+    "id": "github-freeCodeCamp-freeCodeCamp",
+    "source": "github",
+    "title": "freeCodeCamp / freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "score": 447435,
+    "metadata": {
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "starsToday": 146
+    },
+    "createdAt": "2026-06-15T07:12:28.604Z"
+  },
+  {
+    "id": "github-iptv-org-iptv",
+    "source": "github",
+    "title": "iptv-org / iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "score": 121764,
+    "metadata": {
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "starsToday": 1528
+    },
+    "createdAt": "2026-06-15T07:12:28.603Z"
+  },
+  {
+    "id": "hackernews-48537165",
+    "source": "hackernews",
+    "title": "Curl will not accept vulnerability reports during July 2026",
+    "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+    "score": 173,
+    "metadata": {
+      "author": "secret-noun",
+      "commentsCount": 37,
+      "hnUrl": "https://news.ycombinator.com/item?id=48537165"
+    },
+    "createdAt": "2026-06-15T06:02:57.000Z"
+  },
+  {
+    "id": "hackernews-48536776",
+    "source": "hackernews",
+    "title": "Apple Foundation Models",
+    "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+    "score": 11,
+    "metadata": {
+      "author": "MehrdadKhnzd",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48536776"
+    },
+    "createdAt": "2026-06-15T04:55:34.000Z"
+  },
+  {
+    "id": "hackernews-48535886",
+    "source": "hackernews",
+    "title": "Even more batteries included with Emacs",
+    "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+    "score": 143,
+    "metadata": {
+      "author": "signa11",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=48535886"
+    },
+    "createdAt": "2026-06-15T02:30:25.000Z"
+  },
+  {
+    "id": "hackernews-48534628",
+    "source": "hackernews",
+    "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+    "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+    "score": 64,
+    "metadata": {
+      "author": "teleforce",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=48534628"
+    },
+    "createdAt": "2026-06-15T00:07:32.000Z"
+  },
+  {
+    "id": "hackernews-48533848",
+    "source": "hackernews",
+    "title": "Your ePub Is fine",
+    "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+    "score": 476,
+    "metadata": {
+      "author": "sohkamyung",
+      "commentsCount": 176,
+      "hnUrl": "https://news.ycombinator.com/item?id=48533848"
+    },
+    "createdAt": "2026-06-14T22:54:55.000Z"
+  },
+  {
+    "id": "hackernews-48533101",
+    "source": "hackernews",
+    "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+    "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
+    "score": 242,
+    "metadata": {
+      "author": "josephcsible",
+      "commentsCount": 163,
+      "hnUrl": "https://news.ycombinator.com/item?id=48533101"
+    },
+    "createdAt": "2026-06-14T21:42:12.000Z"
+  },
+  {
+    "id": "hackernews-48531449",
+    "source": "hackernews",
+    "title": "Chaosnet (1981)",
+    "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+    "score": 78,
+    "metadata": {
+      "author": "RGBCube",
+      "commentsCount": 9,
+      "hnUrl": "https://news.ycombinator.com/item?id=48531449"
+    },
+    "createdAt": "2026-06-14T19:14:21.000Z"
+  },
+  {
+    "id": "hackernews-48530382",
+    "source": "hackernews",
+    "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+    "url": "https://www.orangecrumbs.com/",
+    "score": 93,
+    "metadata": {
+      "author": "octopus143",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=48530382"
+    },
+    "createdAt": "2026-06-14T17:54:17.000Z"
+  },
+  {
+    "id": "hackernews-48529990",
+    "source": "hackernews",
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "url": "https://github.com/tamnd/kage",
+    "score": 516,
+    "metadata": {
+      "author": "tamnd",
+      "commentsCount": 106,
+      "hnUrl": "https://news.ycombinator.com/item?id=48529990"
+    },
+    "createdAt": "2026-06-14T17:25:38.000Z"
+  },
+  {
+    "id": "hackernews-48528779",
+    "source": "hackernews",
+    "title": "Ask HN: What are you working on? (June 2026)",
+    "url": "https://news.ycombinator.com/item?id=48528779",
+    "score": 209,
+    "metadata": {
+      "author": "david927",
+      "commentsCount": 752,
+      "hnUrl": "https://news.ycombinator.com/item?id=48528779"
+    },
+    "createdAt": "2026-06-14T16:05:28.000Z"
+  },
+  {
+    "id": "hackernews-48528371",
+    "source": "hackernews",
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "score": 327,
+    "metadata": {
+      "author": "unrvl22",
+      "commentsCount": 181,
+      "hnUrl": "https://news.ycombinator.com/item?id=48528371"
+    },
+    "createdAt": "2026-06-14T15:37:31.000Z"
+  },
+  {
+    "id": "hackernews-48528029",
+    "source": "hackernews",
+    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+    "url": "https://news.ycombinator.com/item?id=48528029",
+    "score": 347,
+    "metadata": {
+      "author": "iliashad",
+      "commentsCount": 86,
+      "hnUrl": "https://news.ycombinator.com/item?id=48528029"
+    },
+    "createdAt": "2026-06-14T15:13:57.000Z"
+  },
+  {
+    "id": "hackernews-48527820",
+    "source": "hackernews",
+    "title": "Perlisisms (1982)",
+    "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "score": 107,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=48527820"
+    },
+    "createdAt": "2026-06-14T14:56:56.000Z"
+  },
+  {
+    "id": "hackernews-48527360",
+    "source": "hackernews",
+    "title": "FarOutCompany",
+    "url": "https://faroutcompany.com/",
+    "score": 117,
+    "metadata": {
+      "author": "bookofjoe",
+      "commentsCount": 19,
+      "hnUrl": "https://news.ycombinator.com/item?id=48527360"
+    },
+    "createdAt": "2026-06-14T14:09:29.000Z"
+  },
+  {
+    "id": "hackernews-48527145",
+    "source": "hackernews",
+    "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+    "url": "https://su3.io/posts/zeroserve-caddy-compat",
+    "score": 173,
+    "metadata": {
+      "author": "losfair",
+      "commentsCount": 52,
+      "hnUrl": "https://news.ycombinator.com/item?id=48527145"
+    },
+    "createdAt": "2026-06-14T13:43:08.000Z"
+  },
+  {
+    "id": "hackernews-48526633",
+    "source": "hackernews",
+    "title": "Formal methods and the future of programming",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
+    "score": 245,
+    "metadata": {
+      "author": "eatonphil",
+      "commentsCount": 86,
+      "hnUrl": "https://news.ycombinator.com/item?id=48526633"
+    },
+    "createdAt": "2026-06-14T12:35:27.000Z"
+  },
+  {
+    "id": "hackernews-48526360",
+    "source": "hackernews",
+    "title": "How to earn a billion dollars",
+    "url": "https://paulgraham.com/earn.html",
+    "score": 585,
+    "metadata": {
+      "author": "kingstoned",
+      "commentsCount": 1594,
+      "hnUrl": "https://news.ycombinator.com/item?id=48526360"
+    },
+    "createdAt": "2026-06-14T11:50:48.000Z"
+  },
+  {
     "id": "github-x1xhlol-system-prompts-and-models-of-ai-tools",
     "source": "github",
     "title": "x1xhlol / system-prompts-and-models-of-ai-tools",
@@ -22,45 +438,6 @@
       "description": "翻墙-科学上网",
       "language": "Kotlin",
       "starsToday": 93
-    },
-    "createdAt": "2026-06-14T06:29:01.121Z"
-  },
-  {
-    "id": "github-NVIDIA-SkillSpector",
-    "source": "github",
-    "title": "NVIDIA / SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "score": 4628,
-    "metadata": {
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "starsToday": 804
-    },
-    "createdAt": "2026-06-14T06:29:01.121Z"
-  },
-  {
-    "id": "github-andrewyng-aisuite",
-    "source": "github",
-    "title": "andrewyng / aisuite",
-    "url": "https://github.com/andrewyng/aisuite",
-    "score": 14189,
-    "metadata": {
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "starsToday": 127
-    },
-    "createdAt": "2026-06-14T06:29:01.121Z"
-  },
-  {
-    "id": "github-swc-project-swc",
-    "source": "github",
-    "title": "swc-project / swc",
-    "url": "https://github.com/swc-project/swc",
-    "score": 33669,
-    "metadata": {
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "starsToday": 20
     },
     "createdAt": "2026-06-14T06:29:01.121Z"
   },
@@ -89,19 +466,6 @@
       "starsToday": 238
     },
     "createdAt": "2026-06-14T06:29:01.120Z"
-  },
-  {
-    "id": "github-music-assistant-server",
-    "source": "github",
-    "title": "music-assistant / server",
-    "url": "https://github.com/music-assistant/server",
-    "score": 2044,
-    "metadata": {
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "starsToday": 270
-    },
-    "createdAt": "2026-06-14T06:29:01.119Z"
   },
   {
     "id": "github-kenn-io-agentsview",
@@ -143,19 +507,6 @@
     "createdAt": "2026-06-14T06:29:01.118Z"
   },
   {
-    "id": "github-chatwoot-chatwoot",
-    "source": "github",
-    "title": "chatwoot / chatwoot",
-    "url": "https://github.com/chatwoot/chatwoot",
-    "score": 30943,
-    "metadata": {
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "starsToday": 83
-    },
-    "createdAt": "2026-06-14T06:29:01.117Z"
-  },
-  {
     "id": "github-addyosmani-agent-skills",
     "source": "github",
     "title": "addyosmani / agent-skills",
@@ -167,19 +518,6 @@
       "starsToday": 1514
     },
     "createdAt": "2026-06-14T06:29:01.116Z"
-  },
-  {
-    "id": "github-iptv-org-iptv",
-    "source": "github",
-    "title": "iptv-org / iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "score": 119423,
-    "metadata": {
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "starsToday": 530
-    },
-    "createdAt": "2026-06-14T06:29:01.115Z"
   },
   {
     "id": "hackernews-48524434",
@@ -338,6 +676,19 @@
     "createdAt": "2026-06-13T22:54:37.000Z"
   },
   {
+    "id": "hackernews-48521236",
+    "source": "hackernews",
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+    "url": "https://traceapp.info",
+    "score": 146,
+    "metadata": {
+      "author": "AG342",
+      "commentsCount": 55,
+      "hnUrl": "https://news.ycombinator.com/item?id=48521236"
+    },
+    "createdAt": "2026-06-13T20:41:58.000Z"
+  },
+  {
     "id": "hackernews-48520807",
     "source": "hackernews",
     "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
@@ -349,6 +700,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48520807"
     },
     "createdAt": "2026-06-13T19:54:55.000Z"
+  },
+  {
+    "id": "hackernews-48520596",
+    "source": "hackernews",
+    "title": "Why does paper fold so well?",
+    "url": "https://www.bbc.co.uk/programmes/w3ct8k70",
+    "score": 24,
+    "metadata": {
+      "author": "zeristor",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48520596"
+    },
+    "createdAt": "2026-06-13T19:31:54.000Z"
   },
   {
     "id": "hackernews-48520080",
@@ -650,6 +1014,19 @@
     "createdAt": "2026-06-13T02:02:07.000Z"
   },
   {
+    "id": "hackernews-48511734",
+    "source": "hackernews",
+    "title": "The Last Surviving Japanese Porsche 912 Police Car",
+    "url": "https://kottke.org/26/06/the-last-surviving-japanese-porsche-912-police-car",
+    "score": 43,
+    "metadata": {
+      "author": "zdw",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=48511734"
+    },
+    "createdAt": "2026-06-13T01:58:11.000Z"
+  },
+  {
     "id": "hackernews-48511072",
     "source": "hackernews",
     "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
@@ -754,6 +1131,19 @@
     "createdAt": "2026-06-12T17:52:46.000Z"
   },
   {
+    "id": "hackernews-48507039",
+    "source": "hackernews",
+    "title": "Write for One Person",
+    "url": "https://wizardzines.com/comics/write-for-one-person/",
+    "score": 185,
+    "metadata": {
+      "author": "evakhoury",
+      "commentsCount": 62,
+      "hnUrl": "https://news.ycombinator.com/item?id=48507039"
+    },
+    "createdAt": "2026-06-12T17:36:10.000Z"
+  },
+  {
     "id": "hackernews-48507020",
     "source": "hackernews",
     "title": "How to setup a local coding agent on macOS",
@@ -843,6 +1233,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48504912"
     },
     "createdAt": "2026-06-12T14:48:38.000Z"
+  },
+  {
+    "id": "hackernews-48503806",
+    "source": "hackernews",
+    "title": "Prove you're human by winning a claw machine",
+    "url": "https://feralui.vercel.app/#/captcha",
+    "score": 54,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 43,
+      "hnUrl": "https://news.ycombinator.com/item?id=48503806"
+    },
+    "createdAt": "2026-06-12T13:23:48.000Z"
   },
   {
     "id": "hackernews-48503009",
@@ -1014,6 +1417,19 @@
     "createdAt": "2026-06-11T21:12:47.000Z"
   },
   {
+    "id": "hackernews-48496290",
+    "source": "hackernews",
+    "title": "Bitsy",
+    "url": "https://bitsy.org/",
+    "score": 150,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48496290"
+    },
+    "createdAt": "2026-06-11T20:56:30.000Z"
+  },
+  {
     "id": "hackernews-48496250",
     "source": "hackernews",
     "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
@@ -1051,6 +1467,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48493564"
     },
     "createdAt": "2026-06-11T17:35:19.000Z"
+  },
+  {
+    "id": "hackernews-48492822",
+    "source": "hackernews",
+    "title": "The only scalable delete in Postgres is DROP TABLE",
+    "url": "https://planetscale.com/blog/the-only-scalable-delete",
+    "score": 156,
+    "metadata": {
+      "author": "hollylawly",
+      "commentsCount": 56,
+      "hnUrl": "https://news.ycombinator.com/item?id=48492822"
+    },
+    "createdAt": "2026-06-11T16:48:49.000Z"
   },
   {
     "id": "hackernews-48492533",
@@ -1196,6 +1625,19 @@
     "createdAt": "2026-06-11T14:27:19.000Z"
   },
   {
+    "id": "hackernews-48490649",
+    "source": "hackernews",
+    "title": "There Is(Ǝ) – Such That (∋)",
+    "url": "https://www.fractalkitty.com/there-is-3-such-that/",
+    "score": 4,
+    "metadata": {
+      "author": "evakhoury",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48490649"
+    },
+    "createdAt": "2026-06-11T14:13:03.000Z"
+  },
+  {
     "id": "hackernews-48490024",
     "source": "hackernews",
     "title": "Show HN: Homebrew 6.0.0",
@@ -1220,6 +1662,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48489917"
     },
     "createdAt": "2026-06-11T13:14:31.000Z"
+  },
+  {
+    "id": "hackernews-48489636",
+    "source": "hackernews",
+    "title": "Segmented type appreciation corner (2018)",
+    "url": "https://aresluna.org/segmented-type/",
+    "score": 71,
+    "metadata": {
+      "author": "unexpectedVCR",
+      "commentsCount": 16,
+      "hnUrl": "https://news.ycombinator.com/item?id=48489636"
+    },
+    "createdAt": "2026-06-11T12:50:29.000Z"
   },
   {
     "id": "hackernews-48489402",
@@ -1376,6 +1831,19 @@
       "starsToday": 2535
     },
     "createdAt": "2026-06-11T03:13:24.700Z"
+  },
+  {
+    "id": "hackernews-48484711",
+    "source": "hackernews",
+    "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+    "score": 29,
+    "metadata": {
+      "author": "joebig",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=48484711"
+    },
+    "createdAt": "2026-06-11T00:25:05.000Z"
   },
   {
     "id": "hackernews-48484584",
@@ -1690,6 +2158,19 @@
     "createdAt": "2026-06-10T14:47:52.000Z"
   },
   {
+    "id": "hackernews-48476539",
+    "source": "hackernews",
+    "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+    "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+    "score": 40,
+    "metadata": {
+      "author": "scott_s",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48476539"
+    },
+    "createdAt": "2026-06-10T14:08:36.000Z"
+  },
+  {
     "id": "hackernews-48476474",
     "source": "hackernews",
     "title": "Notes on DeepSeek",
@@ -1857,6 +2338,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48471970"
     },
     "createdAt": "2026-06-10T05:50:07.000Z"
+  },
+  {
+    "id": "hackernews-48471638",
+    "source": "hackernews",
+    "title": "Firewood Splitting Simulator",
+    "url": "https://screen.toys/firewood/",
+    "score": 758,
+    "metadata": {
+      "author": "memalign",
+      "commentsCount": 234,
+      "hnUrl": "https://news.ycombinator.com/item?id=48471638"
+    },
+    "createdAt": "2026-06-10T05:01:31.000Z"
   },
   {
     "id": "hackernews-48470748",
