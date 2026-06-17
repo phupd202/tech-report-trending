@@ -4,179 +4,205 @@
     "source": "github",
     "title": "n0-computer / iroh",
     "url": "https://github.com/n0-computer/iroh",
-    "score": 9387,
+    "score": 9415,
     "metadata": {
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
       "starsToday": 334
     },
-    "createdAt": "2026-06-17T06:48:38.097Z"
+    "createdAt": "2026-06-17T08:30:54.286Z"
   },
   {
     "id": "github-OpenBMB-VoxCPM",
     "source": "github",
     "title": "OpenBMB / VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
-    "score": 30261,
+    "score": 30301,
     "metadata": {
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "starsToday": 408
     },
-    "createdAt": "2026-06-17T06:48:38.096Z"
+    "createdAt": "2026-06-17T08:30:54.285Z"
   },
   {
     "id": "github-alibaba-zvec",
     "source": "github",
     "title": "alibaba / zvec",
     "url": "https://github.com/alibaba/zvec",
-    "score": 10622,
+    "score": 10676,
     "metadata": {
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "starsToday": 156
     },
-    "createdAt": "2026-06-17T06:48:38.096Z"
+    "createdAt": "2026-06-17T08:30:54.285Z"
   },
   {
     "id": "github-rmyndharis-OpenWA",
     "source": "github",
     "title": "rmyndharis / OpenWA",
     "url": "https://github.com/rmyndharis/OpenWA",
-    "score": 9183,
+    "score": 9218,
     "metadata": {
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
       "starsToday": 185
     },
-    "createdAt": "2026-06-17T06:48:38.096Z"
+    "createdAt": "2026-06-17T08:30:54.285Z"
   },
   {
     "id": "github-music-assistant-server",
     "source": "github",
     "title": "music-assistant / server",
     "url": "https://github.com/music-assistant/server",
-    "score": 2616,
+    "score": 2635,
     "metadata": {
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
       "starsToday": 157
     },
-    "createdAt": "2026-06-17T06:48:38.095Z"
+    "createdAt": "2026-06-17T08:30:54.284Z"
   },
   {
     "id": "github-Universal-Debloater-Alliance-universal-android-debloater-next-generation",
     "source": "github",
     "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
     "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "score": 7431,
+    "score": 7479,
     "metadata": {
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "starsToday": 146
     },
-    "createdAt": "2026-06-17T06:48:38.095Z"
+    "createdAt": "2026-06-17T08:30:54.284Z"
   },
   {
     "id": "github-cypress-io-cypress",
     "source": "github",
     "title": "cypress-io / cypress",
     "url": "https://github.com/cypress-io/cypress",
-    "score": 50265,
+    "score": 50284,
     "metadata": {
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
       "starsToday": 13
     },
-    "createdAt": "2026-06-17T06:48:38.094Z"
+    "createdAt": "2026-06-17T08:30:54.283Z"
   },
   {
     "id": "github-meshery-meshery",
     "source": "github",
     "title": "meshery / meshery",
     "url": "https://github.com/meshery/meshery",
-    "score": 10903,
+    "score": 10918,
     "metadata": {
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
       "starsToday": 228
     },
-    "createdAt": "2026-06-17T06:48:38.093Z"
+    "createdAt": "2026-06-17T08:30:54.282Z"
   },
   {
     "id": "github-puppeteer-puppeteer",
     "source": "github",
     "title": "puppeteer / puppeteer",
     "url": "https://github.com/puppeteer/puppeteer",
-    "score": 94958,
+    "score": 94984,
     "metadata": {
       "description": "JavaScript API for Chrome and Firefox",
       "language": "TypeScript",
       "starsToday": 56
     },
-    "createdAt": "2026-06-17T06:48:38.093Z"
+    "createdAt": "2026-06-17T08:30:54.282Z"
   },
   {
     "id": "github-iptv-org-iptv",
     "source": "github",
     "title": "iptv-org / iptv",
     "url": "https://github.com/iptv-org/iptv",
-    "score": 124447,
+    "score": 124553,
     "metadata": {
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
       "starsToday": 1197
     },
-    "createdAt": "2026-06-17T06:48:38.092Z"
+    "createdAt": "2026-06-17T08:30:54.281Z"
   },
   {
     "id": "github-teslamate-org-teslamate",
     "source": "github",
     "title": "teslamate-org / teslamate",
     "url": "https://github.com/teslamate-org/teslamate",
-    "score": 8444,
+    "score": 8467,
     "metadata": {
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "starsToday": 215
     },
-    "createdAt": "2026-06-17T06:48:38.092Z"
+    "createdAt": "2026-06-17T08:30:54.281Z"
   },
   {
     "id": "github-swc-project-swc",
     "source": "github",
     "title": "swc-project / swc",
     "url": "https://github.com/swc-project/swc",
-    "score": 34009,
+    "score": 34020,
     "metadata": {
       "description": "Rust-based platform for the Web",
       "language": "Rust",
       "starsToday": 20
     },
-    "createdAt": "2026-06-17T06:48:38.091Z"
+    "createdAt": "2026-06-17T08:30:54.280Z"
   },
   {
     "id": "github-freeCodeCamp-freeCodeCamp",
     "source": "github",
     "title": "freeCodeCamp / freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "score": 448760,
+    "score": 448835,
     "metadata": {
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "starsToday": 633
     },
-    "createdAt": "2026-06-17T06:48:38.090Z"
+    "createdAt": "2026-06-17T08:30:54.279Z"
+  },
+  {
+    "id": "hackernews-48566832",
+    "source": "hackernews",
+    "title": "The founder's playbook: Building an AI-native startup",
+    "url": "https://claude.com/blog/the-founders-playbook",
+    "score": 48,
+    "metadata": {
+      "author": "e2e4",
+      "commentsCount": 42,
+      "hnUrl": "https://news.ycombinator.com/item?id=48566832"
+    },
+    "createdAt": "2026-06-17T07:04:42.000Z"
+  },
+  {
+    "id": "hackernews-48566791",
+    "source": "hackernews",
+    "title": "Why do commercial spaces sit vacant?",
+    "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
+    "score": 5,
+    "metadata": {
+      "author": "Redoubts",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48566791"
+    },
+    "createdAt": "2026-06-17T06:59:29.000Z"
   },
   {
     "id": "hackernews-48565685",
     "source": "hackernews",
     "title": "NetNewsWire Status",
     "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "score": 42,
+    "score": 57,
     "metadata": {
       "author": "droidjj",
-      "commentsCount": 4,
+      "commentsCount": 9,
       "hnUrl": "https://news.ycombinator.com/item?id=48565685"
     },
     "createdAt": "2026-06-17T04:30:49.000Z"
@@ -195,14 +221,27 @@
     "createdAt": "2026-06-17T03:42:02.000Z"
   },
   {
+    "id": "hackernews-48565326",
+    "source": "hackernews",
+    "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+    "url": "https://arxiv.org/abs/2606.14806",
+    "score": 19,
+    "metadata": {
+      "author": "ascarshen",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48565326"
+    },
+    "createdAt": "2026-06-17T03:25:51.000Z"
+  },
+  {
     "id": "hackernews-48564696",
     "source": "hackernews",
     "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
     "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-    "score": 139,
+    "score": 200,
     "metadata": {
       "author": "slymax",
-      "commentsCount": 40,
+      "commentsCount": 94,
       "hnUrl": "https://news.ycombinator.com/item?id=48564696"
     },
     "createdAt": "2026-06-17T01:40:22.000Z"
@@ -210,12 +249,12 @@
   {
     "id": "hackernews-48563609",
     "source": "hackernews",
-    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+    "title": "Wolfram Language and Mathematica version 15",
     "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "score": 145,
+    "score": 159,
     "metadata": {
       "author": "alok-g",
-      "commentsCount": 61,
+      "commentsCount": 74,
       "hnUrl": "https://news.ycombinator.com/item?id=48563609"
     },
     "createdAt": "2026-06-16T23:15:44.000Z"
@@ -225,10 +264,10 @@
     "source": "hackernews",
     "title": "Humiliating IIS servers for fun and jail time",
     "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "score": 198,
+    "score": 231,
     "metadata": {
       "author": "denysvitali",
-      "commentsCount": 49,
+      "commentsCount": 54,
       "hnUrl": "https://news.ycombinator.com/item?id=48563394"
     },
     "createdAt": "2026-06-16T22:53:34.000Z"
@@ -238,10 +277,10 @@
     "source": "hackernews",
     "title": "GrapheneOS has been ported to Android 17",
     "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-    "score": 624,
+    "score": 712,
     "metadata": {
       "author": "Cider9986",
-      "commentsCount": 273,
+      "commentsCount": 318,
       "hnUrl": "https://news.ycombinator.com/item?id=48561654"
     },
     "createdAt": "2026-06-16T20:34:35.000Z"
@@ -251,10 +290,10 @@
     "source": "hackernews",
     "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
     "url": "https://github.com/nvlabs/cutile-rs",
-    "score": 62,
+    "score": 72,
     "metadata": {
       "author": "melihelibol",
-      "commentsCount": 12,
+      "commentsCount": 14,
       "hnUrl": "https://news.ycombinator.com/item?id=48561410"
     },
     "createdAt": "2026-06-16T20:17:42.000Z"
@@ -290,10 +329,10 @@
     "source": "hackernews",
     "title": "GPT‑NL: a sovereign language model for the Netherlands",
     "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-    "score": 187,
+    "score": 202,
     "metadata": {
       "author": "root-parent",
-      "commentsCount": 166,
+      "commentsCount": 196,
       "hnUrl": "https://news.ycombinator.com/item?id=48559188"
     },
     "createdAt": "2026-06-16T17:54:02.000Z"
@@ -303,10 +342,10 @@
     "source": "hackernews",
     "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
     "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-    "score": 125,
+    "score": 139,
     "metadata": {
       "author": "gpjt",
-      "commentsCount": 119,
+      "commentsCount": 127,
       "hnUrl": "https://news.ycombinator.com/item?id=48559083"
     },
     "createdAt": "2026-06-16T17:48:42.000Z"
@@ -316,10 +355,10 @@
     "source": "hackernews",
     "title": "Has AI already killed self-help nonfiction books?",
     "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "score": 254,
+    "score": 278,
     "metadata": {
       "author": "imakwana",
-      "commentsCount": 262,
+      "commentsCount": 304,
       "hnUrl": "https://news.ycombinator.com/item?id=48558489"
     },
     "createdAt": "2026-06-16T17:11:05.000Z"
@@ -329,10 +368,10 @@
     "source": "hackernews",
     "title": "Stop Using JWTs",
     "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-    "score": 344,
+    "score": 367,
     "metadata": {
       "author": "dzonga",
-      "commentsCount": 197,
+      "commentsCount": 212,
       "hnUrl": "https://news.ycombinator.com/item?id=48558147"
     },
     "createdAt": "2026-06-16T16:49:46.000Z"
@@ -342,10 +381,10 @@
     "source": "hackernews",
     "title": "Is Meta destroying its engineering organization?",
     "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-    "score": 536,
+    "score": 568,
     "metadata": {
       "author": "throwarayes",
-      "commentsCount": 474,
+      "commentsCount": 495,
       "hnUrl": "https://news.ycombinator.com/item?id=48558045"
     },
     "createdAt": "2026-06-16T16:42:32.000Z"
@@ -355,10 +394,10 @@
     "source": "hackernews",
     "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "score": 367,
+    "score": 396,
     "metadata": {
       "author": "mrshu",
-      "commentsCount": 168,
+      "commentsCount": 186,
       "hnUrl": "https://news.ycombinator.com/item?id=48558018"
     },
     "createdAt": "2026-06-16T16:40:58.000Z"
@@ -368,10 +407,10 @@
     "source": "hackernews",
     "title": "Apple's weird anti-nausea dots cured my car sickness",
     "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-    "score": 703,
+    "score": 739,
     "metadata": {
       "author": "neilfrndes",
-      "commentsCount": 212,
+      "commentsCount": 232,
       "hnUrl": "https://news.ycombinator.com/item?id=48557530"
     },
     "createdAt": "2026-06-16T16:12:06.000Z"
@@ -381,10 +420,10 @@
     "source": "hackernews",
     "title": "Calvin and Hobbes and the price of integrity",
     "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-    "score": 372,
+    "score": 405,
     "metadata": {
       "author": "pseudolus",
-      "commentsCount": 163,
+      "commentsCount": 175,
       "hnUrl": "https://news.ycombinator.com/item?id=48557079"
     },
     "createdAt": "2026-06-16T15:44:44.000Z"
@@ -394,10 +433,10 @@
     "source": "hackernews",
     "title": "Running local models is good now",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "score": 1209,
+    "score": 1277,
     "metadata": {
       "author": "jfb",
-      "commentsCount": 485,
+      "commentsCount": 497,
       "hnUrl": "https://news.ycombinator.com/item?id=48555993"
     },
     "createdAt": "2026-06-16T14:36:57.000Z"
@@ -407,10 +446,10 @@
     "source": "hackernews",
     "title": "But yak shaving is fun (2019)",
     "url": "https://parksb.github.io/en/article/32.html",
-    "score": 243,
+    "score": 255,
     "metadata": {
       "author": "parksb",
-      "commentsCount": 71,
+      "commentsCount": 73,
       "hnUrl": "https://news.ycombinator.com/item?id=48555838"
     },
     "createdAt": "2026-06-16T14:26:26.000Z"
@@ -420,10 +459,10 @@
     "source": "hackernews",
     "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
     "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-    "score": 158,
+    "score": 171,
     "metadata": {
       "author": "ilreb",
-      "commentsCount": 26,
+      "commentsCount": 28,
       "hnUrl": "https://news.ycombinator.com/item?id=48554814"
     },
     "createdAt": "2026-06-16T13:15:15.000Z"
@@ -433,10 +472,10 @@
     "source": "hackernews",
     "title": "Mechanical Watch (2022)",
     "url": "https://ciechanow.ski/mechanical-watch/",
-    "score": 672,
+    "score": 689,
     "metadata": {
       "author": "razin",
-      "commentsCount": 115,
+      "commentsCount": 116,
       "hnUrl": "https://news.ycombinator.com/item?id=48553550"
     },
     "createdAt": "2026-06-16T11:26:27.000Z"
@@ -446,10 +485,10 @@
     "source": "hackernews",
     "title": "SpaceX to buy Cursor for $60B",
     "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-    "score": 975,
+    "score": 1006,
     "metadata": {
       "author": "itsmarcelg",
-      "commentsCount": 1476,
+      "commentsCount": 1504,
       "hnUrl": "https://news.ycombinator.com/item?id=48553224"
     },
     "createdAt": "2026-06-16T10:44:24.000Z"
@@ -1018,10 +1057,10 @@
     "source": "hackernews",
     "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
     "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
-    "score": 67,
+    "score": 74,
     "metadata": {
       "author": "jensgk",
-      "commentsCount": 23,
+      "commentsCount": 30,
       "hnUrl": "https://news.ycombinator.com/item?id=48536660"
     },
     "createdAt": "2026-06-15T04:37:42.000Z"
@@ -1148,10 +1187,10 @@
     "source": "hackernews",
     "title": "Chameleon Ultra: a flashdrive sized NFC toolkit",
     "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
-    "score": 5,
+    "score": 11,
     "metadata": {
       "author": "elisaado",
-      "commentsCount": 0,
+      "commentsCount": 4,
       "hnUrl": "https://news.ycombinator.com/item?id=48528111"
     },
     "createdAt": "2026-06-14T15:18:33.000Z"
@@ -1200,10 +1239,10 @@
     "source": "hackernews",
     "title": "The Amphibious Villagers of Indonesia",
     "url": "https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia",
-    "score": 19,
+    "score": 24,
     "metadata": {
       "author": "haritha-j",
-      "commentsCount": 3,
+      "commentsCount": 4,
       "hnUrl": "https://news.ycombinator.com/item?id=48527233"
     },
     "createdAt": "2026-06-14T13:55:04.000Z"
@@ -1213,10 +1252,10 @@
     "source": "hackernews",
     "title": "All about the IBM 1130 Computing System",
     "url": "http://ibm1130.org/",
-    "score": 28,
+    "score": 32,
     "metadata": {
       "author": "jruohonen",
-      "commentsCount": 10,
+      "commentsCount": 11,
       "hnUrl": "https://news.ycombinator.com/item?id=48527210"
     },
     "createdAt": "2026-06-14T13:53:04.000Z"
@@ -1265,10 +1304,10 @@
     "source": "hackernews",
     "title": "A Nipkow Disk Mechanical TV Simulator",
     "url": "https://analogtv.net/mechanical-lab",
-    "score": 38,
+    "score": 44,
     "metadata": {
       "author": "ambanmba",
-      "commentsCount": 5,
+      "commentsCount": 6,
       "hnUrl": "https://news.ycombinator.com/item?id=48526256"
     },
     "createdAt": "2026-06-14T11:33:18.000Z"
@@ -2344,10 +2383,10 @@
     "source": "hackernews",
     "title": "Subterranean fungi networks more than 100 quadrillion km in length",
     "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-    "score": 24,
+    "score": 46,
     "metadata": {
       "author": "tosh",
-      "commentsCount": 1,
+      "commentsCount": 5,
       "hnUrl": "https://news.ycombinator.com/item?id=48496233"
     },
     "createdAt": "2026-06-11T20:51:11.000Z"
@@ -2370,7 +2409,7 @@
     "source": "hackernews",
     "title": "Working in Glass",
     "url": "https://www.asimov.press/p/glass",
-    "score": 20,
+    "score": 29,
     "metadata": {
       "author": "bookofjoe",
       "commentsCount": 1,
@@ -2793,6 +2832,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48484711"
     },
     "createdAt": "2026-06-11T00:25:05.000Z"
+  },
+  {
+    "id": "hackernews-48484608",
+    "source": "hackernews",
+    "title": "Lattice Triangles Are Rare",
+    "url": "https://axiommath.ai/territory/the-reveal",
+    "score": 15,
+    "metadata": {
+      "author": "skogstokig",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48484608"
+    },
+    "createdAt": "2026-06-11T00:13:12.000Z"
   },
   {
     "id": "hackernews-48484584",
