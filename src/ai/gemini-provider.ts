@@ -26,6 +26,29 @@ export class GeminiProvider {
       const response = await result.response;
       return response.text();
     } catch (error) {
+      console.error('================ GEMINI ERROR ================');
+      console.error('Model:', config.geminiModel);
+      console.error('API Key Exists:', !!config.geminiApiKey);
+      console.error('API Key Length:', config.geminiApiKey?.length ?? 0);
+
+      if (error instanceof Error) {
+        console.error('Message:', error.message);
+        console.error('Stack:', error.stack);
+      }
+
+      console.error('Raw Error:', error);
+
+      // Một số SDK nhét response vào object này
+      console.error(
+        'Error JSON:',
+        JSON.stringify(
+          error,
+          Object.getOwnPropertyNames(error),
+          2
+        )
+      );
+
+      console.error('==============================================');
       console.warn('Error generating content from Gemini, falling back to mock response:', error);
       return this.getMockResponse(prompt);
     }
