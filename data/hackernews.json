@@ -1,392 +1,392 @@
 [
   {
-    "id": "hackernews-48550693",
+    "id": "hackernews-48561654",
     "source": "hackernews",
-    "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-    "score": 158,
+    "title": "GrapheneOS has been ported to Android 17",
+    "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "score": 624,
     "metadata": {
-      "author": "paulmooreparks",
-      "commentsCount": 32,
-      "hnUrl": "https://news.ycombinator.com/item?id=48550693"
+      "author": "Cider9986",
+      "commentsCount": 273,
+      "hnUrl": "https://news.ycombinator.com/item?id=48561654"
     },
-    "createdAt": "2026-06-16T04:46:36.000Z"
+    "createdAt": "2026-06-16T20:34:35.000Z"
   },
   {
-    "id": "hackernews-48550936",
+    "id": "hackernews-48555993",
     "source": "hackernews",
-    "title": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
-    "url": "https://bobdahacker.com/blog/fifa-hack",
-    "score": 188,
+    "title": "Running local models is good now",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "score": 1209,
     "metadata": {
-      "author": "BobDaHacker",
-      "commentsCount": 59,
-      "hnUrl": "https://news.ycombinator.com/item?id=48550936"
+      "author": "jfb",
+      "commentsCount": 485,
+      "hnUrl": "https://news.ycombinator.com/item?id=48555993"
     },
-    "createdAt": "2026-06-16T05:23:42.000Z"
+    "createdAt": "2026-06-16T14:36:57.000Z"
   },
   {
-    "id": "hackernews-48550779",
+    "id": "hackernews-48565429",
     "source": "hackernews",
-    "title": "John Carmack on Fabrice Bellard",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-    "score": 99,
-    "metadata": {
-      "author": "apitman",
-      "commentsCount": 42,
-      "hnUrl": "https://news.ycombinator.com/item?id=48550779"
-    },
-    "createdAt": "2026-06-16T04:58:15.000Z"
-  },
-  {
-    "id": "hackernews-48546294",
-    "source": "hackernews",
-    "title": "A backdoor in a LinkedIn job offer",
-    "url": "https://roman.pt/posts/linkedin-backdoor/",
-    "score": 1024,
-    "metadata": {
-      "author": "lwhsiao",
-      "commentsCount": 194,
-      "hnUrl": "https://news.ycombinator.com/item?id=48546294"
-    },
-    "createdAt": "2026-06-15T20:00:57.000Z"
-  },
-  {
-    "id": "hackernews-48547985",
-    "source": "hackernews",
-    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-    "url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "score": 327,
-    "metadata": {
-      "author": "sohkamyung",
-      "commentsCount": 166,
-      "hnUrl": "https://news.ycombinator.com/item?id=48547985"
-    },
-    "createdAt": "2026-06-15T22:37:55.000Z"
-  },
-  {
-    "id": "hackernews-48542480",
-    "source": "hackernews",
-    "title": "Iroh 1.0",
-    "url": "https://www.iroh.computer/blog/v1",
-    "score": 1114,
-    "metadata": {
-      "author": "chadfowler",
-      "commentsCount": 329,
-      "hnUrl": "https://news.ycombinator.com/item?id=48542480"
-    },
-    "createdAt": "2026-06-15T15:13:06.000Z"
-  },
-  {
-    "id": "hackernews-48542100",
-    "source": "hackernews",
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "score": 900,
-    "metadata": {
-      "author": "cloudking",
-      "commentsCount": 414,
-      "hnUrl": "https://news.ycombinator.com/item?id=48542100"
-    },
-    "createdAt": "2026-06-15T14:46:53.000Z"
-  },
-  {
-    "id": "hackernews-48550569",
-    "source": "hackernews",
-    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-    "url": "https://garden-of-flowers.heikkilotvonen.com/",
-    "score": 40,
-    "metadata": {
-      "author": "california-og",
-      "commentsCount": 8,
-      "hnUrl": "https://news.ycombinator.com/item?id=48550569"
-    },
-    "createdAt": "2026-06-16T04:25:57.000Z"
-  },
-  {
-    "id": "hackernews-48543475",
-    "source": "hackernews",
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "url": "https://tinywind.io",
-    "score": 761,
-    "metadata": {
-      "author": "tinywind",
-      "commentsCount": 150,
-      "hnUrl": "https://news.ycombinator.com/item?id=48543475"
-    },
-    "createdAt": "2026-06-15T16:15:53.000Z"
-  },
-  {
-    "id": "hackernews-48479957",
-    "source": "hackernews",
-    "title": "I hacked into the worst e-bike and fixed it [video]",
-    "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
+    "title": "DOJ claims xAI's gas turbines are a matter of 'national and energy security'",
+    "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
     "score": 59,
     "metadata": {
-      "author": "alexis-d",
-      "commentsCount": 21,
-      "hnUrl": "https://news.ycombinator.com/item?id=48479957"
+      "author": "dlgeek",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=48565429"
     },
-    "createdAt": "2026-06-10T17:45:24.000Z"
+    "createdAt": "2026-06-17T03:42:02.000Z"
   },
   {
-    "id": "hackernews-48546441",
+    "id": "hackernews-48563394",
     "source": "hackernews",
-    "title": "I Love the Computer",
-    "url": "https://michaelenger.com/blog/i-love-the-computer/",
-    "score": 209,
+    "title": "Humiliating IIS servers for fun and jail time",
+    "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "score": 198,
     "metadata": {
-      "author": "speckx",
-      "commentsCount": 123,
-      "hnUrl": "https://news.ycombinator.com/item?id=48546441"
+      "author": "denysvitali",
+      "commentsCount": 49,
+      "hnUrl": "https://news.ycombinator.com/item?id=48563394"
     },
-    "createdAt": "2026-06-15T20:14:15.000Z"
+    "createdAt": "2026-06-16T22:53:34.000Z"
   },
   {
-    "id": "hackernews-48549628",
+    "id": "hackernews-48563609",
     "source": "hackernews",
-    "title": "Humanity isn't ready for the coming intelligence explosion",
-    "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
-    "score": 60,
-    "metadata": {
-      "author": "andsoitis",
-      "commentsCount": 121,
-      "hnUrl": "https://news.ycombinator.com/item?id=48549628"
-    },
-    "createdAt": "2026-06-16T02:00:45.000Z"
-  },
-  {
-    "id": "hackernews-48547566",
-    "source": "hackernews",
-    "title": "Why I email complete strangers",
-    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "score": 135,
-    "metadata": {
-      "author": "karakoram",
-      "commentsCount": 58,
-      "hnUrl": "https://news.ycombinator.com/item?id=48547566"
-    },
-    "createdAt": "2026-06-15T21:57:10.000Z"
-  },
-  {
-    "id": "hackernews-48489934",
-    "source": "hackernews",
-    "title": "Cohere's First Model for Developers",
-    "url": "https://cohere.com/blog/north-mini-code",
-    "score": 70,
-    "metadata": {
-      "author": "hmokiguess",
-      "commentsCount": 17,
-      "hnUrl": "https://news.ycombinator.com/item?id=48489934"
-    },
-    "createdAt": "2026-06-11T13:15:45.000Z"
-  },
-  {
-    "id": "hackernews-48548975",
-    "source": "hackernews",
-    "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
-    "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-    "score": 100,
-    "metadata": {
-      "author": "thelonelyborg",
-      "commentsCount": 89,
-      "hnUrl": "https://news.ycombinator.com/item?id=48548975"
-    },
-    "createdAt": "2026-06-16T00:28:14.000Z"
-  },
-  {
-    "id": "hackernews-48542433",
-    "source": "hackernews",
-    "title": "My Homelab AI Dev Platform",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "score": 294,
-    "metadata": {
-      "author": "rsgm",
-      "commentsCount": 51,
-      "hnUrl": "https://news.ycombinator.com/item?id=48542433"
-    },
-    "createdAt": "2026-06-15T15:09:40.000Z"
-  },
-  {
-    "id": "hackernews-48490578",
-    "source": "hackernews",
-    "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
-    "url": "https://shonczinner.github.io/posts/embedding-prediction/",
-    "score": 44,
-    "metadata": {
-      "author": "Anon84",
-      "commentsCount": 7,
-      "hnUrl": "https://news.ycombinator.com/item?id=48490578"
-    },
-    "createdAt": "2026-06-11T14:07:39.000Z"
-  },
-  {
-    "id": "hackernews-48540844",
-    "source": "hackernews",
-    "title": "Hetzner Price Adjustment",
-    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-    "score": 404,
-    "metadata": {
-      "author": "tuhtah",
-      "commentsCount": 559,
-      "hnUrl": "https://news.ycombinator.com/item?id=48540844"
-    },
-    "createdAt": "2026-06-15T13:19:39.000Z"
-  },
-  {
-    "id": "hackernews-48547062",
-    "source": "hackernews",
-    "title": "Peopleless economy? Not technically impossible",
-    "url": "https://gmalandrakis.com/writings/ad-economicum.html",
-    "score": 160,
-    "metadata": {
-      "author": "l0new0lf-G",
-      "commentsCount": 279,
-      "hnUrl": "https://news.ycombinator.com/item?id=48547062"
-    },
-    "createdAt": "2026-06-15T21:10:36.000Z"
-  },
-  {
-    "id": "hackernews-48546428",
-    "source": "hackernews",
-    "title": "What job interviews taught me about Kubernetes",
-    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-    "score": 160,
-    "metadata": {
-      "author": "chmaynard",
-      "commentsCount": 113,
-      "hnUrl": "https://news.ycombinator.com/item?id=48546428"
-    },
-    "createdAt": "2026-06-15T20:12:37.000Z"
-  },
-  {
-    "id": "hackernews-48540499",
-    "source": "hackernews",
-    "title": "Fox to buy Roku",
-    "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
-    "score": 312,
-    "metadata": {
-      "author": "thm",
-      "commentsCount": 387,
-      "hnUrl": "https://news.ycombinator.com/item?id=48540499"
-    },
-    "createdAt": "2026-06-15T12:50:03.000Z"
-  },
-  {
-    "id": "hackernews-48521925",
-    "source": "hackernews",
-    "title": "What every coder should know about gamma (2016)",
-    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-    "score": 90,
-    "metadata": {
-      "author": "sph",
-      "commentsCount": 27,
-      "hnUrl": "https://news.ycombinator.com/item?id=48521925"
-    },
-    "createdAt": "2026-06-13T22:01:29.000Z"
-  },
-  {
-    "id": "hackernews-48542132",
-    "source": "hackernews",
-    "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-    "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
-    "score": 287,
-    "metadata": {
-      "author": "bookofjoe",
-      "commentsCount": 108,
-      "hnUrl": "https://news.ycombinator.com/item?id=48542132"
-    },
-    "createdAt": "2026-06-15T14:48:47.000Z"
-  },
-  {
-    "id": "hackernews-48540126",
-    "source": "hackernews",
-    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
-    "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-    "score": 300,
-    "metadata": {
-      "author": "colesantiago",
-      "commentsCount": 220,
-      "hnUrl": "https://news.ycombinator.com/item?id=48540126"
-    },
-    "createdAt": "2026-06-15T12:08:59.000Z"
-  },
-  {
-    "id": "hackernews-48548883",
-    "source": "hackernews",
-    "title": "Reviews have become expensive, rewrites have become cheap",
-    "url": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
-    "score": 56,
-    "metadata": {
-      "author": "arzh2",
-      "commentsCount": 45,
-      "hnUrl": "https://news.ycombinator.com/item?id=48548883"
-    },
-    "createdAt": "2026-06-16T00:13:34.000Z"
-  },
-  {
-    "id": "hackernews-48507128",
-    "source": "hackernews",
-    "title": "Chili peppers of the world: cultivars, species, and heat",
-    "url": "https://www.notesfromtheroad.com/desertmexico/chili-peppers.html",
-    "score": 25,
-    "metadata": {
-      "author": "fanf2",
-      "commentsCount": 2,
-      "hnUrl": "https://news.ycombinator.com/item?id=48507128"
-    },
-    "createdAt": "2026-06-12T17:42:04.000Z"
-  },
-  {
-    "id": "hackernews-48544781",
-    "source": "hackernews",
-    "title": "Game Engine White Papers: Commander Keen",
-    "url": "https://forgottenbytes.net/commander_keen.html",
-    "score": 191,
-    "metadata": {
-      "author": "mfiguiere",
-      "commentsCount": 64,
-      "hnUrl": "https://news.ycombinator.com/item?id=48544781"
-    },
-    "createdAt": "2026-06-15T17:52:39.000Z"
-  },
-  {
-    "id": "hackernews-48543908",
-    "source": "hackernews",
-    "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
-    "url": "https://news.ycombinator.com/item?id=48543908",
-    "score": 52,
-    "metadata": {
-      "author": "PrimalNick",
-      "commentsCount": 56,
-      "hnUrl": "https://news.ycombinator.com/item?id=48543908"
-    },
-    "createdAt": "2026-06-15T16:47:21.000Z"
-  },
-  {
-    "id": "hackernews-48544451",
-    "source": "hackernews",
-    "title": "How TimescaleDB compresses time-series data",
-    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
     "score": 145,
     "metadata": {
-      "author": "lkanwoqwp",
-      "commentsCount": 16,
-      "hnUrl": "https://news.ycombinator.com/item?id=48544451"
+      "author": "alok-g",
+      "commentsCount": 61,
+      "hnUrl": "https://news.ycombinator.com/item?id=48563609"
     },
-    "createdAt": "2026-06-15T17:29:17.000Z"
+    "createdAt": "2026-06-16T23:15:44.000Z"
   },
   {
-    "id": "hackernews-48544823",
+    "id": "hackernews-48558018",
     "source": "hackernews",
-    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-    "url": "https://grassdx.com/",
-    "score": 60,
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "score": 367,
     "metadata": {
-      "author": "andrewbr",
-      "commentsCount": 54,
-      "hnUrl": "https://news.ycombinator.com/item?id=48544823"
+      "author": "mrshu",
+      "commentsCount": 168,
+      "hnUrl": "https://news.ycombinator.com/item?id=48558018"
     },
-    "createdAt": "2026-06-15T17:56:00.000Z"
+    "createdAt": "2026-06-16T16:40:58.000Z"
+  },
+  {
+    "id": "hackernews-48557079",
+    "source": "hackernews",
+    "title": "Calvin and Hobbes and the price of integrity",
+    "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+    "score": 372,
+    "metadata": {
+      "author": "pseudolus",
+      "commentsCount": 163,
+      "hnUrl": "https://news.ycombinator.com/item?id=48557079"
+    },
+    "createdAt": "2026-06-16T15:44:44.000Z"
+  },
+  {
+    "id": "hackernews-48559188",
+    "source": "hackernews",
+    "title": "GPT‑NL: a sovereign language model for the Netherlands",
+    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "score": 187,
+    "metadata": {
+      "author": "root-parent",
+      "commentsCount": 166,
+      "hnUrl": "https://news.ycombinator.com/item?id=48559188"
+    },
+    "createdAt": "2026-06-16T17:54:02.000Z"
+  },
+  {
+    "id": "hackernews-48558489",
+    "source": "hackernews",
+    "title": "Has AI already killed self-help nonfiction books?",
+    "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "score": 254,
+    "metadata": {
+      "author": "imakwana",
+      "commentsCount": 262,
+      "hnUrl": "https://news.ycombinator.com/item?id=48558489"
+    },
+    "createdAt": "2026-06-16T17:11:05.000Z"
+  },
+  {
+    "id": "hackernews-48558147",
+    "source": "hackernews",
+    "title": "Stop Using JWTs",
+    "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+    "score": 344,
+    "metadata": {
+      "author": "dzonga",
+      "commentsCount": 197,
+      "hnUrl": "https://news.ycombinator.com/item?id=48558147"
+    },
+    "createdAt": "2026-06-16T16:49:46.000Z"
+  },
+  {
+    "id": "hackernews-48496233",
+    "source": "hackernews",
+    "title": "Subterranean fungi networks more than 100 quadrillion km in length",
+    "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
+    "score": 24,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48496233"
+    },
+    "createdAt": "2026-06-11T20:51:11.000Z"
+  },
+  {
+    "id": "hackernews-48564696",
+    "source": "hackernews",
+    "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+    "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+    "score": 139,
+    "metadata": {
+      "author": "slymax",
+      "commentsCount": 40,
+      "hnUrl": "https://news.ycombinator.com/item?id=48564696"
+    },
+    "createdAt": "2026-06-17T01:40:22.000Z"
+  },
+  {
+    "id": "hackernews-48555838",
+    "source": "hackernews",
+    "title": "But yak shaving is fun (2019)",
+    "url": "https://parksb.github.io/en/article/32.html",
+    "score": 243,
+    "metadata": {
+      "author": "parksb",
+      "commentsCount": 71,
+      "hnUrl": "https://news.ycombinator.com/item?id=48555838"
+    },
+    "createdAt": "2026-06-16T14:26:26.000Z"
+  },
+  {
+    "id": "hackernews-48553224",
+    "source": "hackernews",
+    "title": "SpaceX to buy Cursor for $60B",
+    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "score": 975,
+    "metadata": {
+      "author": "itsmarcelg",
+      "commentsCount": 1476,
+      "hnUrl": "https://news.ycombinator.com/item?id=48553224"
+    },
+    "createdAt": "2026-06-16T10:44:24.000Z"
+  },
+  {
+    "id": "hackernews-48527233",
+    "source": "hackernews",
+    "title": "The Amphibious Villagers of Indonesia",
+    "url": "https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia",
+    "score": 19,
+    "metadata": {
+      "author": "haritha-j",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48527233"
+    },
+    "createdAt": "2026-06-14T13:55:04.000Z"
+  },
+  {
+    "id": "hackernews-48527210",
+    "source": "hackernews",
+    "title": "All about the IBM 1130 Computing System",
+    "url": "http://ibm1130.org/",
+    "score": 28,
+    "metadata": {
+      "author": "jruohonen",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=48527210"
+    },
+    "createdAt": "2026-06-14T13:53:04.000Z"
+  },
+  {
+    "id": "hackernews-48495090",
+    "source": "hackernews",
+    "title": "Working in Glass",
+    "url": "https://www.asimov.press/p/glass",
+    "score": 20,
+    "metadata": {
+      "author": "bookofjoe",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48495090"
+    },
+    "createdAt": "2026-06-11T19:15:29.000Z"
+  },
+  {
+    "id": "hackernews-48565685",
+    "source": "hackernews",
+    "title": "NetNewsWire Status",
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "score": 42,
+    "metadata": {
+      "author": "droidjj",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48565685"
+    },
+    "createdAt": "2026-06-17T04:30:49.000Z"
+  },
+  {
+    "id": "hackernews-48536660",
+    "source": "hackernews",
+    "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
+    "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
+    "score": 67,
+    "metadata": {
+      "author": "jensgk",
+      "commentsCount": 23,
+      "hnUrl": "https://news.ycombinator.com/item?id=48536660"
+    },
+    "createdAt": "2026-06-15T04:37:42.000Z"
+  },
+  {
+    "id": "hackernews-48528111",
+    "source": "hackernews",
+    "title": "Chameleon Ultra: a flashdrive sized NFC toolkit",
+    "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
+    "score": 5,
+    "metadata": {
+      "author": "elisaado",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48528111"
+    },
+    "createdAt": "2026-06-14T15:18:33.000Z"
+  },
+  {
+    "id": "hackernews-48559083",
+    "source": "hackernews",
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "score": 125,
+    "metadata": {
+      "author": "gpjt",
+      "commentsCount": 119,
+      "hnUrl": "https://news.ycombinator.com/item?id=48559083"
+    },
+    "createdAt": "2026-06-16T17:48:42.000Z"
+  },
+  {
+    "id": "hackernews-48526256",
+    "source": "hackernews",
+    "title": "A Nipkow Disk Mechanical TV Simulator",
+    "url": "https://analogtv.net/mechanical-lab",
+    "score": 38,
+    "metadata": {
+      "author": "ambanmba",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=48526256"
+    },
+    "createdAt": "2026-06-14T11:33:18.000Z"
+  },
+  {
+    "id": "hackernews-48561410",
+    "source": "hackernews",
+    "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+    "url": "https://github.com/nvlabs/cutile-rs",
+    "score": 62,
+    "metadata": {
+      "author": "melihelibol",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=48561410"
+    },
+    "createdAt": "2026-06-16T20:17:42.000Z"
+  },
+  {
+    "id": "hackernews-48554814",
+    "source": "hackernews",
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "score": 158,
+    "metadata": {
+      "author": "ilreb",
+      "commentsCount": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=48554814"
+    },
+    "createdAt": "2026-06-16T13:15:15.000Z"
+  },
+  {
+    "id": "hackernews-48557530",
+    "source": "hackernews",
+    "title": "Apple's weird anti-nausea dots cured my car sickness",
+    "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+    "score": 703,
+    "metadata": {
+      "author": "neilfrndes",
+      "commentsCount": 212,
+      "hnUrl": "https://news.ycombinator.com/item?id=48557530"
+    },
+    "createdAt": "2026-06-16T16:12:06.000Z"
+  },
+  {
+    "id": "hackernews-48553550",
+    "source": "hackernews",
+    "title": "Mechanical Watch (2022)",
+    "url": "https://ciechanow.ski/mechanical-watch/",
+    "score": 672,
+    "metadata": {
+      "author": "razin",
+      "commentsCount": 115,
+      "hnUrl": "https://news.ycombinator.com/item?id=48553550"
+    },
+    "createdAt": "2026-06-16T11:26:27.000Z"
+  },
+  {
+    "id": "hackernews-48558045",
+    "source": "hackernews",
+    "title": "Is Meta destroying its engineering organization?",
+    "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "score": 536,
+    "metadata": {
+      "author": "throwarayes",
+      "commentsCount": 474,
+      "hnUrl": "https://news.ycombinator.com/item?id=48558045"
+    },
+    "createdAt": "2026-06-16T16:42:32.000Z"
+  },
+  {
+    "id": "hackernews-48497067",
+    "source": "hackernews",
+    "title": "Formal Methods and the Future of Programming",
+    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+    "score": 101,
+    "metadata": {
+      "author": "nextos",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48497067"
+    },
+    "createdAt": "2026-06-11T22:07:37.000Z"
+  },
+  {
+    "id": "hackernews-48561402",
+    "source": "hackernews",
+    "title": "Frood, an Alpine Initramfs NAS (2024)",
+    "url": "https://words.filippo.io/frood/",
+    "score": 46,
+    "metadata": {
+      "author": "ethanpil",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=48561402"
+    },
+    "createdAt": "2026-06-16T20:17:04.000Z"
+  },
+  {
+    "id": "hackernews-48559935",
+    "source": "hackernews",
+    "title": "Apple is about to make Hide My Email useless",
+    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "score": 465,
+    "metadata": {
+      "author": "SXX",
+      "commentsCount": 287,
+      "hnUrl": "https://news.ycombinator.com/item?id=48559935"
+    },
+    "createdAt": "2026-06-16T18:37:21.000Z"
   }
 ]
