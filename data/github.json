@@ -4,168 +4,168 @@
     "source": "github",
     "title": "freeCodeCamp / freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "score": 448760,
+    "score": 448844,
     "metadata": {
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "starsToday": 633
     },
-    "createdAt": "2026-06-17T06:48:38.090Z"
+    "createdAt": "2026-06-17T08:42:23.061Z"
   },
   {
     "id": "github-swc-project-swc",
     "source": "github",
     "title": "swc-project / swc",
     "url": "https://github.com/swc-project/swc",
-    "score": 34009,
+    "score": 34020,
     "metadata": {
       "description": "Rust-based platform for the Web",
       "language": "Rust",
       "starsToday": 20
     },
-    "createdAt": "2026-06-17T06:48:38.091Z"
+    "createdAt": "2026-06-17T08:42:23.062Z"
   },
   {
     "id": "github-teslamate-org-teslamate",
     "source": "github",
     "title": "teslamate-org / teslamate",
     "url": "https://github.com/teslamate-org/teslamate",
-    "score": 8444,
+    "score": 8469,
     "metadata": {
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "starsToday": 215
     },
-    "createdAt": "2026-06-17T06:48:38.092Z"
+    "createdAt": "2026-06-17T08:42:23.062Z"
   },
   {
     "id": "github-iptv-org-iptv",
     "source": "github",
     "title": "iptv-org / iptv",
     "url": "https://github.com/iptv-org/iptv",
-    "score": 124447,
+    "score": 124564,
     "metadata": {
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
       "starsToday": 1197
     },
-    "createdAt": "2026-06-17T06:48:38.092Z"
+    "createdAt": "2026-06-17T08:42:23.063Z"
   },
   {
     "id": "github-puppeteer-puppeteer",
     "source": "github",
     "title": "puppeteer / puppeteer",
     "url": "https://github.com/puppeteer/puppeteer",
-    "score": 94958,
+    "score": 94984,
     "metadata": {
       "description": "JavaScript API for Chrome and Firefox",
       "language": "TypeScript",
       "starsToday": 56
     },
-    "createdAt": "2026-06-17T06:48:38.093Z"
+    "createdAt": "2026-06-17T08:42:23.063Z"
   },
   {
     "id": "github-meshery-meshery",
     "source": "github",
     "title": "meshery / meshery",
     "url": "https://github.com/meshery/meshery",
-    "score": 10903,
+    "score": 10918,
     "metadata": {
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
       "starsToday": 228
     },
-    "createdAt": "2026-06-17T06:48:38.093Z"
+    "createdAt": "2026-06-17T08:42:23.064Z"
   },
   {
     "id": "github-cypress-io-cypress",
     "source": "github",
     "title": "cypress-io / cypress",
     "url": "https://github.com/cypress-io/cypress",
-    "score": 50265,
+    "score": 50284,
     "metadata": {
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
       "starsToday": 13
     },
-    "createdAt": "2026-06-17T06:48:38.094Z"
+    "createdAt": "2026-06-17T08:42:23.064Z"
   },
   {
     "id": "github-music-assistant-server",
     "source": "github",
     "title": "music-assistant / server",
     "url": "https://github.com/music-assistant/server",
-    "score": 2616,
+    "score": 2635,
     "metadata": {
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
       "starsToday": 157
     },
-    "createdAt": "2026-06-17T06:48:38.095Z"
+    "createdAt": "2026-06-17T08:42:23.065Z"
   },
   {
     "id": "github-Universal-Debloater-Alliance-universal-android-debloater-next-generation",
     "source": "github",
     "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
     "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "score": 7431,
+    "score": 7482,
     "metadata": {
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "starsToday": 146
     },
-    "createdAt": "2026-06-17T06:48:38.095Z"
+    "createdAt": "2026-06-17T08:42:23.065Z"
   },
   {
     "id": "github-OpenBMB-VoxCPM",
     "source": "github",
     "title": "OpenBMB / VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
-    "score": 30261,
+    "score": 30304,
     "metadata": {
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "starsToday": 408
     },
-    "createdAt": "2026-06-17T06:48:38.096Z"
+    "createdAt": "2026-06-17T08:42:23.066Z"
   },
   {
     "id": "github-alibaba-zvec",
     "source": "github",
     "title": "alibaba / zvec",
     "url": "https://github.com/alibaba/zvec",
-    "score": 10622,
+    "score": 10679,
     "metadata": {
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "starsToday": 156
     },
-    "createdAt": "2026-06-17T06:48:38.096Z"
+    "createdAt": "2026-06-17T08:42:23.066Z"
   },
   {
     "id": "github-rmyndharis-OpenWA",
     "source": "github",
     "title": "rmyndharis / OpenWA",
     "url": "https://github.com/rmyndharis/OpenWA",
-    "score": 9183,
+    "score": 9223,
     "metadata": {
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
       "starsToday": 185
     },
-    "createdAt": "2026-06-17T06:48:38.096Z"
+    "createdAt": "2026-06-17T08:42:23.066Z"
   },
   {
     "id": "github-n0-computer-iroh",
     "source": "github",
     "title": "n0-computer / iroh",
     "url": "https://github.com/n0-computer/iroh",
-    "score": 9387,
+    "score": 9415,
     "metadata": {
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
       "starsToday": 334
     },
-    "createdAt": "2026-06-17T06:48:38.097Z"
+    "createdAt": "2026-06-17T08:42:23.066Z"
   }
 ]

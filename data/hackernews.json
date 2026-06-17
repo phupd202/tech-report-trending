@@ -1,13 +1,26 @@
 [
   {
+    "id": "hackernews-48566832",
+    "source": "hackernews",
+    "title": "The founder's playbook: Building an AI-native startup",
+    "url": "https://claude.com/blog/the-founders-playbook",
+    "score": 56,
+    "metadata": {
+      "author": "e2e4",
+      "commentsCount": 52,
+      "hnUrl": "https://news.ycombinator.com/item?id=48566832"
+    },
+    "createdAt": "2026-06-17T07:04:42.000Z"
+  },
+  {
     "id": "hackernews-48561654",
     "source": "hackernews",
     "title": "GrapheneOS has been ported to Android 17",
     "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-    "score": 624,
+    "score": 725,
     "metadata": {
       "author": "Cider9986",
-      "commentsCount": 273,
+      "commentsCount": 327,
       "hnUrl": "https://news.ycombinator.com/item?id=48561654"
     },
     "createdAt": "2026-06-16T20:34:35.000Z"
@@ -17,75 +30,88 @@
     "source": "hackernews",
     "title": "Running local models is good now",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "score": 1209,
+    "score": 1282,
     "metadata": {
       "author": "jfb",
-      "commentsCount": 485,
+      "commentsCount": 498,
       "hnUrl": "https://news.ycombinator.com/item?id=48555993"
     },
     "createdAt": "2026-06-16T14:36:57.000Z"
-  },
-  {
-    "id": "hackernews-48565429",
-    "source": "hackernews",
-    "title": "DOJ claims xAI's gas turbines are a matter of 'national and energy security'",
-    "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-    "score": 59,
-    "metadata": {
-      "author": "dlgeek",
-      "commentsCount": 28,
-      "hnUrl": "https://news.ycombinator.com/item?id=48565429"
-    },
-    "createdAt": "2026-06-17T03:42:02.000Z"
   },
   {
     "id": "hackernews-48563394",
     "source": "hackernews",
     "title": "Humiliating IIS servers for fun and jail time",
     "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "score": 198,
+    "score": 234,
     "metadata": {
       "author": "denysvitali",
-      "commentsCount": 49,
+      "commentsCount": 55,
       "hnUrl": "https://news.ycombinator.com/item?id=48563394"
     },
     "createdAt": "2026-06-16T22:53:34.000Z"
-  },
-  {
-    "id": "hackernews-48563609",
-    "source": "hackernews",
-    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "score": 145,
-    "metadata": {
-      "author": "alok-g",
-      "commentsCount": 61,
-      "hnUrl": "https://news.ycombinator.com/item?id=48563609"
-    },
-    "createdAt": "2026-06-16T23:15:44.000Z"
   },
   {
     "id": "hackernews-48558018",
     "source": "hackernews",
     "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
     "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "score": 367,
+    "score": 399,
     "metadata": {
       "author": "mrshu",
-      "commentsCount": 168,
+      "commentsCount": 187,
       "hnUrl": "https://news.ycombinator.com/item?id=48558018"
     },
     "createdAt": "2026-06-16T16:40:58.000Z"
+  },
+  {
+    "id": "hackernews-48563609",
+    "source": "hackernews",
+    "title": "Wolfram Language and Mathematica version 15",
+    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "score": 159,
+    "metadata": {
+      "author": "alok-g",
+      "commentsCount": 77,
+      "hnUrl": "https://news.ycombinator.com/item?id=48563609"
+    },
+    "createdAt": "2026-06-16T23:15:44.000Z"
+  },
+  {
+    "id": "hackernews-48496233",
+    "source": "hackernews",
+    "title": "Subterranean fungi networks more than 100 quadrillion km in length",
+    "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
+    "score": 50,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48496233"
+    },
+    "createdAt": "2026-06-11T20:51:11.000Z"
+  },
+  {
+    "id": "hackernews-48566791",
+    "source": "hackernews",
+    "title": "Why do commercial spaces sit vacant?",
+    "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
+    "score": 7,
+    "metadata": {
+      "author": "Redoubts",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48566791"
+    },
+    "createdAt": "2026-06-17T06:59:29.000Z"
   },
   {
     "id": "hackernews-48557079",
     "source": "hackernews",
     "title": "Calvin and Hobbes and the price of integrity",
     "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-    "score": 372,
+    "score": 406,
     "metadata": {
       "author": "pseudolus",
-      "commentsCount": 163,
+      "commentsCount": 176,
       "hnUrl": "https://news.ycombinator.com/item?id=48557079"
     },
     "createdAt": "2026-06-16T15:44:44.000Z"
@@ -95,10 +121,10 @@
     "source": "hackernews",
     "title": "GPT‑NL: a sovereign language model for the Netherlands",
     "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-    "score": 187,
+    "score": 205,
     "metadata": {
       "author": "root-parent",
-      "commentsCount": 166,
+      "commentsCount": 202,
       "hnUrl": "https://news.ycombinator.com/item?id=48559188"
     },
     "createdAt": "2026-06-16T17:54:02.000Z"
@@ -108,49 +134,49 @@
     "source": "hackernews",
     "title": "Has AI already killed self-help nonfiction books?",
     "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "score": 254,
+    "score": 280,
     "metadata": {
       "author": "imakwana",
-      "commentsCount": 262,
+      "commentsCount": 308,
       "hnUrl": "https://news.ycombinator.com/item?id=48558489"
     },
     "createdAt": "2026-06-16T17:11:05.000Z"
+  },
+  {
+    "id": "hackernews-48484608",
+    "source": "hackernews",
+    "title": "Lattice Triangles Are Rare",
+    "url": "https://axiommath.ai/territory/the-reveal",
+    "score": 16,
+    "metadata": {
+      "author": "skogstokig",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48484608"
+    },
+    "createdAt": "2026-06-11T00:13:12.000Z"
   },
   {
     "id": "hackernews-48558147",
     "source": "hackernews",
     "title": "Stop Using JWTs",
     "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-    "score": 344,
+    "score": 370,
     "metadata": {
       "author": "dzonga",
-      "commentsCount": 197,
+      "commentsCount": 212,
       "hnUrl": "https://news.ycombinator.com/item?id=48558147"
     },
     "createdAt": "2026-06-16T16:49:46.000Z"
-  },
-  {
-    "id": "hackernews-48496233",
-    "source": "hackernews",
-    "title": "Subterranean fungi networks more than 100 quadrillion km in length",
-    "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-    "score": 24,
-    "metadata": {
-      "author": "tosh",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48496233"
-    },
-    "createdAt": "2026-06-11T20:51:11.000Z"
   },
   {
     "id": "hackernews-48564696",
     "source": "hackernews",
     "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
     "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-    "score": 139,
+    "score": 204,
     "metadata": {
       "author": "slymax",
-      "commentsCount": 40,
+      "commentsCount": 102,
       "hnUrl": "https://news.ycombinator.com/item?id=48564696"
     },
     "createdAt": "2026-06-17T01:40:22.000Z"
@@ -160,10 +186,10 @@
     "source": "hackernews",
     "title": "But yak shaving is fun (2019)",
     "url": "https://parksb.github.io/en/article/32.html",
-    "score": 243,
+    "score": 257,
     "metadata": {
       "author": "parksb",
-      "commentsCount": 71,
+      "commentsCount": 73,
       "hnUrl": "https://news.ycombinator.com/item?id=48555838"
     },
     "createdAt": "2026-06-16T14:26:26.000Z"
@@ -173,46 +199,98 @@
     "source": "hackernews",
     "title": "SpaceX to buy Cursor for $60B",
     "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-    "score": 975,
+    "score": 1010,
     "metadata": {
       "author": "itsmarcelg",
-      "commentsCount": 1476,
+      "commentsCount": 1505,
       "hnUrl": "https://news.ycombinator.com/item?id=48553224"
     },
     "createdAt": "2026-06-16T10:44:24.000Z"
+  },
+  {
+    "id": "hackernews-48565326",
+    "source": "hackernews",
+    "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+    "url": "https://arxiv.org/abs/2606.14806",
+    "score": 19,
+    "metadata": {
+      "author": "ascarshen",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=48565326"
+    },
+    "createdAt": "2026-06-17T03:25:51.000Z"
   },
   {
     "id": "hackernews-48527233",
     "source": "hackernews",
     "title": "The Amphibious Villagers of Indonesia",
     "url": "https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia",
-    "score": 19,
+    "score": 25,
     "metadata": {
       "author": "haritha-j",
-      "commentsCount": 3,
+      "commentsCount": 4,
       "hnUrl": "https://news.ycombinator.com/item?id=48527233"
     },
     "createdAt": "2026-06-14T13:55:04.000Z"
   },
   {
-    "id": "hackernews-48527210",
+    "id": "hackernews-48528111",
     "source": "hackernews",
-    "title": "All about the IBM 1130 Computing System",
-    "url": "http://ibm1130.org/",
-    "score": 28,
+    "title": "Chameleon Ultra: a flashdrive sized NFC toolkit",
+    "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
+    "score": 11,
     "metadata": {
-      "author": "jruohonen",
-      "commentsCount": 10,
-      "hnUrl": "https://news.ycombinator.com/item?id=48527210"
+      "author": "elisaado",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=48528111"
     },
-    "createdAt": "2026-06-14T13:53:04.000Z"
+    "createdAt": "2026-06-14T15:18:33.000Z"
+  },
+  {
+    "id": "hackernews-48536660",
+    "source": "hackernews",
+    "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
+    "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
+    "score": 75,
+    "metadata": {
+      "author": "jensgk",
+      "commentsCount": 30,
+      "hnUrl": "https://news.ycombinator.com/item?id=48536660"
+    },
+    "createdAt": "2026-06-15T04:37:42.000Z"
+  },
+  {
+    "id": "hackernews-48559083",
+    "source": "hackernews",
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "score": 139,
+    "metadata": {
+      "author": "gpjt",
+      "commentsCount": 130,
+      "hnUrl": "https://news.ycombinator.com/item?id=48559083"
+    },
+    "createdAt": "2026-06-16T17:48:42.000Z"
+  },
+  {
+    "id": "hackernews-48554814",
+    "source": "hackernews",
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "score": 172,
+    "metadata": {
+      "author": "ilreb",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=48554814"
+    },
+    "createdAt": "2026-06-16T13:15:15.000Z"
   },
   {
     "id": "hackernews-48495090",
     "source": "hackernews",
     "title": "Working in Glass",
     "url": "https://www.asimov.press/p/glass",
-    "score": 20,
+    "score": 29,
     "metadata": {
       "author": "bookofjoe",
       "commentsCount": 1,
@@ -221,66 +299,14 @@
     "createdAt": "2026-06-11T19:15:29.000Z"
   },
   {
-    "id": "hackernews-48565685",
-    "source": "hackernews",
-    "title": "NetNewsWire Status",
-    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "score": 42,
-    "metadata": {
-      "author": "droidjj",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48565685"
-    },
-    "createdAt": "2026-06-17T04:30:49.000Z"
-  },
-  {
-    "id": "hackernews-48536660",
-    "source": "hackernews",
-    "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
-    "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
-    "score": 67,
-    "metadata": {
-      "author": "jensgk",
-      "commentsCount": 23,
-      "hnUrl": "https://news.ycombinator.com/item?id=48536660"
-    },
-    "createdAt": "2026-06-15T04:37:42.000Z"
-  },
-  {
-    "id": "hackernews-48528111",
-    "source": "hackernews",
-    "title": "Chameleon Ultra: a flashdrive sized NFC toolkit",
-    "url": "https://github.com/RfidResearchGroup/ChameleonUltra",
-    "score": 5,
-    "metadata": {
-      "author": "elisaado",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48528111"
-    },
-    "createdAt": "2026-06-14T15:18:33.000Z"
-  },
-  {
-    "id": "hackernews-48559083",
-    "source": "hackernews",
-    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
-    "url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-    "score": 125,
-    "metadata": {
-      "author": "gpjt",
-      "commentsCount": 119,
-      "hnUrl": "https://news.ycombinator.com/item?id=48559083"
-    },
-    "createdAt": "2026-06-16T17:48:42.000Z"
-  },
-  {
     "id": "hackernews-48526256",
     "source": "hackernews",
     "title": "A Nipkow Disk Mechanical TV Simulator",
     "url": "https://analogtv.net/mechanical-lab",
-    "score": 38,
+    "score": 44,
     "metadata": {
       "author": "ambanmba",
-      "commentsCount": 5,
+      "commentsCount": 6,
       "hnUrl": "https://news.ycombinator.com/item?id=48526256"
     },
     "createdAt": "2026-06-14T11:33:18.000Z"
@@ -290,103 +316,77 @@
     "source": "hackernews",
     "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
     "url": "https://github.com/nvlabs/cutile-rs",
-    "score": 62,
+    "score": 73,
     "metadata": {
       "author": "melihelibol",
-      "commentsCount": 12,
+      "commentsCount": 14,
       "hnUrl": "https://news.ycombinator.com/item?id=48561410"
     },
     "createdAt": "2026-06-16T20:17:42.000Z"
   },
   {
-    "id": "hackernews-48554814",
+    "id": "hackernews-48565685",
     "source": "hackernews",
-    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-    "score": 158,
+    "title": "NetNewsWire Status",
+    "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "score": 58,
     "metadata": {
-      "author": "ilreb",
-      "commentsCount": 26,
-      "hnUrl": "https://news.ycombinator.com/item?id=48554814"
+      "author": "droidjj",
+      "commentsCount": 9,
+      "hnUrl": "https://news.ycombinator.com/item?id=48565685"
     },
-    "createdAt": "2026-06-16T13:15:15.000Z"
-  },
-  {
-    "id": "hackernews-48557530",
-    "source": "hackernews",
-    "title": "Apple's weird anti-nausea dots cured my car sickness",
-    "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-    "score": 703,
-    "metadata": {
-      "author": "neilfrndes",
-      "commentsCount": 212,
-      "hnUrl": "https://news.ycombinator.com/item?id=48557530"
-    },
-    "createdAt": "2026-06-16T16:12:06.000Z"
+    "createdAt": "2026-06-17T04:30:49.000Z"
   },
   {
     "id": "hackernews-48553550",
     "source": "hackernews",
     "title": "Mechanical Watch (2022)",
     "url": "https://ciechanow.ski/mechanical-watch/",
-    "score": 672,
+    "score": 691,
     "metadata": {
       "author": "razin",
-      "commentsCount": 115,
+      "commentsCount": 116,
       "hnUrl": "https://news.ycombinator.com/item?id=48553550"
     },
     "createdAt": "2026-06-16T11:26:27.000Z"
+  },
+  {
+    "id": "hackernews-48557530",
+    "source": "hackernews",
+    "title": "Apple's weird anti-nausea dots cured my car sickness",
+    "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+    "score": 745,
+    "metadata": {
+      "author": "neilfrndes",
+      "commentsCount": 232,
+      "hnUrl": "https://news.ycombinator.com/item?id=48557530"
+    },
+    "createdAt": "2026-06-16T16:12:06.000Z"
+  },
+  {
+    "id": "hackernews-48527210",
+    "source": "hackernews",
+    "title": "All about the IBM 1130 Computing System",
+    "url": "http://ibm1130.org/",
+    "score": 33,
+    "metadata": {
+      "author": "jruohonen",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=48527210"
+    },
+    "createdAt": "2026-06-14T13:53:04.000Z"
   },
   {
     "id": "hackernews-48558045",
     "source": "hackernews",
     "title": "Is Meta destroying its engineering organization?",
     "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-    "score": 536,
+    "score": 569,
     "metadata": {
       "author": "throwarayes",
-      "commentsCount": 474,
+      "commentsCount": 495,
       "hnUrl": "https://news.ycombinator.com/item?id=48558045"
     },
     "createdAt": "2026-06-16T16:42:32.000Z"
-  },
-  {
-    "id": "hackernews-48497067",
-    "source": "hackernews",
-    "title": "Formal Methods and the Future of Programming",
-    "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
-    "score": 101,
-    "metadata": {
-      "author": "nextos",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48497067"
-    },
-    "createdAt": "2026-06-11T22:07:37.000Z"
-  },
-  {
-    "id": "hackernews-48561402",
-    "source": "hackernews",
-    "title": "Frood, an Alpine Initramfs NAS (2024)",
-    "url": "https://words.filippo.io/frood/",
-    "score": 46,
-    "metadata": {
-      "author": "ethanpil",
-      "commentsCount": 12,
-      "hnUrl": "https://news.ycombinator.com/item?id=48561402"
-    },
-    "createdAt": "2026-06-16T20:17:04.000Z"
-  },
-  {
-    "id": "hackernews-48559935",
-    "source": "hackernews",
-    "title": "Apple is about to make Hide My Email useless",
-    "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-    "score": 465,
-    "metadata": {
-      "author": "SXX",
-      "commentsCount": 287,
-      "hnUrl": "https://news.ycombinator.com/item?id=48559935"
-    },
-    "createdAt": "2026-06-16T18:37:21.000Z"
   }
 ]
