@@ -4,10 +4,10 @@
     "source": "hackernews",
     "title": "The founder's playbook: Building an AI-native startup",
     "url": "https://claude.com/blog/the-founders-playbook",
-    "score": 48,
+    "score": 56,
     "metadata": {
       "author": "e2e4",
-      "commentsCount": 42,
+      "commentsCount": 52,
       "hnUrl": "https://news.ycombinator.com/item?id=48566832"
     },
     "createdAt": "2026-06-17T07:04:42.000Z"
@@ -17,10 +17,10 @@
     "source": "hackernews",
     "title": "GrapheneOS has been ported to Android 17",
     "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-    "score": 712,
+    "score": 725,
     "metadata": {
       "author": "Cider9986",
-      "commentsCount": 318,
+      "commentsCount": 327,
       "hnUrl": "https://news.ycombinator.com/item?id=48561654"
     },
     "createdAt": "2026-06-16T20:34:35.000Z"
@@ -30,10 +30,10 @@
     "source": "hackernews",
     "title": "Running local models is good now",
     "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "score": 1277,
+    "score": 1282,
     "metadata": {
       "author": "jfb",
-      "commentsCount": 497,
+      "commentsCount": 498,
       "hnUrl": "https://news.ycombinator.com/item?id=48555993"
     },
     "createdAt": "2026-06-16T14:36:57.000Z"
@@ -43,13 +43,26 @@
     "source": "hackernews",
     "title": "Humiliating IIS servers for fun and jail time",
     "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "score": 231,
+    "score": 234,
     "metadata": {
       "author": "denysvitali",
-      "commentsCount": 54,
+      "commentsCount": 55,
       "hnUrl": "https://news.ycombinator.com/item?id=48563394"
     },
     "createdAt": "2026-06-16T22:53:34.000Z"
+  },
+  {
+    "id": "hackernews-48558018",
+    "source": "hackernews",
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "score": 399,
+    "metadata": {
+      "author": "mrshu",
+      "commentsCount": 187,
+      "hnUrl": "https://news.ycombinator.com/item?id=48558018"
+    },
+    "createdAt": "2026-06-16T16:40:58.000Z"
   },
   {
     "id": "hackernews-48563609",
@@ -59,46 +72,46 @@
     "score": 159,
     "metadata": {
       "author": "alok-g",
-      "commentsCount": 74,
+      "commentsCount": 77,
       "hnUrl": "https://news.ycombinator.com/item?id=48563609"
     },
     "createdAt": "2026-06-16T23:15:44.000Z"
-  },
-  {
-    "id": "hackernews-48558018",
-    "source": "hackernews",
-    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-    "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "score": 396,
-    "metadata": {
-      "author": "mrshu",
-      "commentsCount": 186,
-      "hnUrl": "https://news.ycombinator.com/item?id=48558018"
-    },
-    "createdAt": "2026-06-16T16:40:58.000Z"
   },
   {
     "id": "hackernews-48496233",
     "source": "hackernews",
     "title": "Subterranean fungi networks more than 100 quadrillion km in length",
     "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-    "score": 46,
+    "score": 50,
     "metadata": {
       "author": "tosh",
-      "commentsCount": 5,
+      "commentsCount": 7,
       "hnUrl": "https://news.ycombinator.com/item?id=48496233"
     },
     "createdAt": "2026-06-11T20:51:11.000Z"
+  },
+  {
+    "id": "hackernews-48566791",
+    "source": "hackernews",
+    "title": "Why do commercial spaces sit vacant?",
+    "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
+    "score": 7,
+    "metadata": {
+      "author": "Redoubts",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48566791"
+    },
+    "createdAt": "2026-06-17T06:59:29.000Z"
   },
   {
     "id": "hackernews-48557079",
     "source": "hackernews",
     "title": "Calvin and Hobbes and the price of integrity",
     "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-    "score": 405,
+    "score": 406,
     "metadata": {
       "author": "pseudolus",
-      "commentsCount": 175,
+      "commentsCount": 176,
       "hnUrl": "https://news.ycombinator.com/item?id=48557079"
     },
     "createdAt": "2026-06-16T15:44:44.000Z"
@@ -108,10 +121,10 @@
     "source": "hackernews",
     "title": "GPT‑NL: a sovereign language model for the Netherlands",
     "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-    "score": 202,
+    "score": 205,
     "metadata": {
       "author": "root-parent",
-      "commentsCount": 196,
+      "commentsCount": 202,
       "hnUrl": "https://news.ycombinator.com/item?id=48559188"
     },
     "createdAt": "2026-06-16T17:54:02.000Z"
@@ -121,33 +134,20 @@
     "source": "hackernews",
     "title": "Has AI already killed self-help nonfiction books?",
     "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "score": 278,
+    "score": 280,
     "metadata": {
       "author": "imakwana",
-      "commentsCount": 304,
+      "commentsCount": 308,
       "hnUrl": "https://news.ycombinator.com/item?id=48558489"
     },
     "createdAt": "2026-06-16T17:11:05.000Z"
-  },
-  {
-    "id": "hackernews-48566791",
-    "source": "hackernews",
-    "title": "Why do commercial spaces sit vacant?",
-    "url": "https://www.freerange.city/p/why-do-commercial-spaces-sit-vacant",
-    "score": 5,
-    "metadata": {
-      "author": "Redoubts",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48566791"
-    },
-    "createdAt": "2026-06-17T06:59:29.000Z"
   },
   {
     "id": "hackernews-48484608",
     "source": "hackernews",
     "title": "Lattice Triangles Are Rare",
     "url": "https://axiommath.ai/territory/the-reveal",
-    "score": 15,
+    "score": 16,
     "metadata": {
       "author": "skogstokig",
       "commentsCount": 3,
@@ -160,7 +160,7 @@
     "source": "hackernews",
     "title": "Stop Using JWTs",
     "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-    "score": 367,
+    "score": 370,
     "metadata": {
       "author": "dzonga",
       "commentsCount": 212,
@@ -173,13 +173,39 @@
     "source": "hackernews",
     "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
     "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-    "score": 200,
+    "score": 204,
     "metadata": {
       "author": "slymax",
-      "commentsCount": 94,
+      "commentsCount": 102,
       "hnUrl": "https://news.ycombinator.com/item?id=48564696"
     },
     "createdAt": "2026-06-17T01:40:22.000Z"
+  },
+  {
+    "id": "hackernews-48555838",
+    "source": "hackernews",
+    "title": "But yak shaving is fun (2019)",
+    "url": "https://parksb.github.io/en/article/32.html",
+    "score": 257,
+    "metadata": {
+      "author": "parksb",
+      "commentsCount": 73,
+      "hnUrl": "https://news.ycombinator.com/item?id=48555838"
+    },
+    "createdAt": "2026-06-16T14:26:26.000Z"
+  },
+  {
+    "id": "hackernews-48553224",
+    "source": "hackernews",
+    "title": "SpaceX to buy Cursor for $60B",
+    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "score": 1010,
+    "metadata": {
+      "author": "itsmarcelg",
+      "commentsCount": 1505,
+      "hnUrl": "https://news.ycombinator.com/item?id=48553224"
+    },
+    "createdAt": "2026-06-16T10:44:24.000Z"
   },
   {
     "id": "hackernews-48565326",
@@ -189,36 +215,23 @@
     "score": 19,
     "metadata": {
       "author": "ascarshen",
-      "commentsCount": 7,
+      "commentsCount": 8,
       "hnUrl": "https://news.ycombinator.com/item?id=48565326"
     },
     "createdAt": "2026-06-17T03:25:51.000Z"
   },
   {
-    "id": "hackernews-48553224",
+    "id": "hackernews-48527233",
     "source": "hackernews",
-    "title": "SpaceX to buy Cursor for $60B",
-    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-    "score": 1006,
+    "title": "The Amphibious Villagers of Indonesia",
+    "url": "https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia",
+    "score": 25,
     "metadata": {
-      "author": "itsmarcelg",
-      "commentsCount": 1504,
-      "hnUrl": "https://news.ycombinator.com/item?id=48553224"
+      "author": "haritha-j",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48527233"
     },
-    "createdAt": "2026-06-16T10:44:24.000Z"
-  },
-  {
-    "id": "hackernews-48555838",
-    "source": "hackernews",
-    "title": "But yak shaving is fun (2019)",
-    "url": "https://parksb.github.io/en/article/32.html",
-    "score": 255,
-    "metadata": {
-      "author": "parksb",
-      "commentsCount": 73,
-      "hnUrl": "https://news.ycombinator.com/item?id=48555838"
-    },
-    "createdAt": "2026-06-16T14:26:26.000Z"
+    "createdAt": "2026-06-14T13:55:04.000Z"
   },
   {
     "id": "hackernews-48528111",
@@ -228,30 +241,17 @@
     "score": 11,
     "metadata": {
       "author": "elisaado",
-      "commentsCount": 4,
+      "commentsCount": 5,
       "hnUrl": "https://news.ycombinator.com/item?id=48528111"
     },
     "createdAt": "2026-06-14T15:18:33.000Z"
-  },
-  {
-    "id": "hackernews-48527233",
-    "source": "hackernews",
-    "title": "The Amphibious Villagers of Indonesia",
-    "url": "https://www.economist.com/interactive/1843/2026/06/12/the-amphibious-villagers-of-indonesia",
-    "score": 24,
-    "metadata": {
-      "author": "haritha-j",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48527233"
-    },
-    "createdAt": "2026-06-14T13:55:04.000Z"
   },
   {
     "id": "hackernews-48536660",
     "source": "hackernews",
     "title": "A brief tour of the PDP-11, the most influential minicomputer of all time (2022)",
     "url": "https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/",
-    "score": 74,
+    "score": 75,
     "metadata": {
       "author": "jensgk",
       "commentsCount": 30,
@@ -267,10 +267,23 @@
     "score": 139,
     "metadata": {
       "author": "gpjt",
-      "commentsCount": 127,
+      "commentsCount": 130,
       "hnUrl": "https://news.ycombinator.com/item?id=48559083"
     },
     "createdAt": "2026-06-16T17:48:42.000Z"
+  },
+  {
+    "id": "hackernews-48554814",
+    "source": "hackernews",
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "score": 172,
+    "metadata": {
+      "author": "ilreb",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=48554814"
+    },
+    "createdAt": "2026-06-16T13:15:15.000Z"
   },
   {
     "id": "hackernews-48495090",
@@ -284,19 +297,6 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48495090"
     },
     "createdAt": "2026-06-11T19:15:29.000Z"
-  },
-  {
-    "id": "hackernews-48554814",
-    "source": "hackernews",
-    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
-    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
-    "score": 171,
-    "metadata": {
-      "author": "ilreb",
-      "commentsCount": 28,
-      "hnUrl": "https://news.ycombinator.com/item?id=48554814"
-    },
-    "createdAt": "2026-06-16T13:15:15.000Z"
   },
   {
     "id": "hackernews-48526256",
@@ -316,7 +316,7 @@
     "source": "hackernews",
     "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
     "url": "https://github.com/nvlabs/cutile-rs",
-    "score": 72,
+    "score": 73,
     "metadata": {
       "author": "melihelibol",
       "commentsCount": 14,
@@ -329,7 +329,7 @@
     "source": "hackernews",
     "title": "NetNewsWire Status",
     "url": "https://inessential.com/2026/06/15/netnewswire-status.html",
-    "score": 57,
+    "score": 58,
     "metadata": {
       "author": "droidjj",
       "commentsCount": 9,
@@ -342,7 +342,7 @@
     "source": "hackernews",
     "title": "Mechanical Watch (2022)",
     "url": "https://ciechanow.ski/mechanical-watch/",
-    "score": 689,
+    "score": 691,
     "metadata": {
       "author": "razin",
       "commentsCount": 116,
@@ -355,7 +355,7 @@
     "source": "hackernews",
     "title": "Apple's weird anti-nausea dots cured my car sickness",
     "url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-    "score": 739,
+    "score": 745,
     "metadata": {
       "author": "neilfrndes",
       "commentsCount": 232,
@@ -368,7 +368,7 @@
     "source": "hackernews",
     "title": "All about the IBM 1130 Computing System",
     "url": "http://ibm1130.org/",
-    "score": 32,
+    "score": 33,
     "metadata": {
       "author": "jruohonen",
       "commentsCount": 11,
@@ -381,7 +381,7 @@
     "source": "hackernews",
     "title": "Is Meta destroying its engineering organization?",
     "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-    "score": 568,
+    "score": 569,
     "metadata": {
       "author": "throwarayes",
       "commentsCount": 495,

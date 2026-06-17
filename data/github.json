@@ -4,13 +4,13 @@
     "source": "github",
     "title": "freeCodeCamp / freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "score": 448835,
+    "score": 448844,
     "metadata": {
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "starsToday": 633
     },
-    "createdAt": "2026-06-17T08:30:54.279Z"
+    "createdAt": "2026-06-17T08:42:23.061Z"
   },
   {
     "id": "github-swc-project-swc",
@@ -23,33 +23,33 @@
       "language": "Rust",
       "starsToday": 20
     },
-    "createdAt": "2026-06-17T08:30:54.280Z"
+    "createdAt": "2026-06-17T08:42:23.062Z"
   },
   {
     "id": "github-teslamate-org-teslamate",
     "source": "github",
     "title": "teslamate-org / teslamate",
     "url": "https://github.com/teslamate-org/teslamate",
-    "score": 8467,
+    "score": 8469,
     "metadata": {
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "starsToday": 215
     },
-    "createdAt": "2026-06-17T08:30:54.281Z"
+    "createdAt": "2026-06-17T08:42:23.062Z"
   },
   {
     "id": "github-iptv-org-iptv",
     "source": "github",
     "title": "iptv-org / iptv",
     "url": "https://github.com/iptv-org/iptv",
-    "score": 124553,
+    "score": 124564,
     "metadata": {
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
       "starsToday": 1197
     },
-    "createdAt": "2026-06-17T08:30:54.281Z"
+    "createdAt": "2026-06-17T08:42:23.063Z"
   },
   {
     "id": "github-puppeteer-puppeteer",
@@ -62,7 +62,7 @@
       "language": "TypeScript",
       "starsToday": 56
     },
-    "createdAt": "2026-06-17T08:30:54.282Z"
+    "createdAt": "2026-06-17T08:42:23.063Z"
   },
   {
     "id": "github-meshery-meshery",
@@ -75,7 +75,7 @@
       "language": "TypeScript",
       "starsToday": 228
     },
-    "createdAt": "2026-06-17T08:30:54.282Z"
+    "createdAt": "2026-06-17T08:42:23.064Z"
   },
   {
     "id": "github-cypress-io-cypress",
@@ -88,7 +88,7 @@
       "language": "TypeScript",
       "starsToday": 13
     },
-    "createdAt": "2026-06-17T08:30:54.283Z"
+    "createdAt": "2026-06-17T08:42:23.064Z"
   },
   {
     "id": "github-music-assistant-server",
@@ -101,59 +101,59 @@
       "language": "Python",
       "starsToday": 157
     },
-    "createdAt": "2026-06-17T08:30:54.284Z"
+    "createdAt": "2026-06-17T08:42:23.065Z"
   },
   {
     "id": "github-Universal-Debloater-Alliance-universal-android-debloater-next-generation",
     "source": "github",
     "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
     "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "score": 7479,
+    "score": 7482,
     "metadata": {
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "starsToday": 146
     },
-    "createdAt": "2026-06-17T08:30:54.284Z"
+    "createdAt": "2026-06-17T08:42:23.065Z"
   },
   {
     "id": "github-OpenBMB-VoxCPM",
     "source": "github",
     "title": "OpenBMB / VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
-    "score": 30301,
+    "score": 30304,
     "metadata": {
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "starsToday": 408
     },
-    "createdAt": "2026-06-17T08:30:54.285Z"
+    "createdAt": "2026-06-17T08:42:23.066Z"
   },
   {
     "id": "github-alibaba-zvec",
     "source": "github",
     "title": "alibaba / zvec",
     "url": "https://github.com/alibaba/zvec",
-    "score": 10676,
+    "score": 10679,
     "metadata": {
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "starsToday": 156
     },
-    "createdAt": "2026-06-17T08:30:54.285Z"
+    "createdAt": "2026-06-17T08:42:23.066Z"
   },
   {
     "id": "github-rmyndharis-OpenWA",
     "source": "github",
     "title": "rmyndharis / OpenWA",
     "url": "https://github.com/rmyndharis/OpenWA",
-    "score": 9218,
+    "score": 9223,
     "metadata": {
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
       "starsToday": 185
     },
-    "createdAt": "2026-06-17T08:30:54.285Z"
+    "createdAt": "2026-06-17T08:42:23.066Z"
   },
   {
     "id": "github-n0-computer-iroh",
@@ -166,6 +166,6 @@
       "language": "Rust",
       "starsToday": 334
     },
-    "createdAt": "2026-06-17T08:30:54.286Z"
+    "createdAt": "2026-06-17T08:42:23.066Z"
   }
 ]
