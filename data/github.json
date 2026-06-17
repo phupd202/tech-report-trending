@@ -4,13 +4,13 @@
     "source": "github",
     "title": "freeCodeCamp / freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "score": 448844,
+    "score": 448845,
     "metadata": {
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "starsToday": 633
     },
-    "createdAt": "2026-06-17T08:42:23.061Z"
+    "createdAt": "2026-06-17T08:46:42.965Z"
   },
   {
     "id": "github-swc-project-swc",
@@ -23,7 +23,7 @@
       "language": "Rust",
       "starsToday": 20
     },
-    "createdAt": "2026-06-17T08:42:23.062Z"
+    "createdAt": "2026-06-17T08:46:42.966Z"
   },
   {
     "id": "github-teslamate-org-teslamate",
@@ -36,20 +36,20 @@
       "language": "Elixir",
       "starsToday": 215
     },
-    "createdAt": "2026-06-17T08:42:23.062Z"
+    "createdAt": "2026-06-17T08:46:42.967Z"
   },
   {
     "id": "github-iptv-org-iptv",
     "source": "github",
     "title": "iptv-org / iptv",
     "url": "https://github.com/iptv-org/iptv",
-    "score": 124564,
+    "score": 124569,
     "metadata": {
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
       "starsToday": 1197
     },
-    "createdAt": "2026-06-17T08:42:23.063Z"
+    "createdAt": "2026-06-17T08:46:42.967Z"
   },
   {
     "id": "github-puppeteer-puppeteer",
@@ -62,7 +62,7 @@
       "language": "TypeScript",
       "starsToday": 56
     },
-    "createdAt": "2026-06-17T08:42:23.063Z"
+    "createdAt": "2026-06-17T08:46:42.968Z"
   },
   {
     "id": "github-meshery-meshery",
@@ -75,20 +75,20 @@
       "language": "TypeScript",
       "starsToday": 228
     },
-    "createdAt": "2026-06-17T08:42:23.064Z"
+    "createdAt": "2026-06-17T08:46:42.969Z"
   },
   {
     "id": "github-cypress-io-cypress",
     "source": "github",
     "title": "cypress-io / cypress",
     "url": "https://github.com/cypress-io/cypress",
-    "score": 50284,
+    "score": 50285,
     "metadata": {
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
       "starsToday": 13
     },
-    "createdAt": "2026-06-17T08:42:23.064Z"
+    "createdAt": "2026-06-17T08:46:42.970Z"
   },
   {
     "id": "github-music-assistant-server",
@@ -101,46 +101,46 @@
       "language": "Python",
       "starsToday": 157
     },
-    "createdAt": "2026-06-17T08:42:23.065Z"
+    "createdAt": "2026-06-17T08:46:42.970Z"
   },
   {
     "id": "github-Universal-Debloater-Alliance-universal-android-debloater-next-generation",
     "source": "github",
     "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
     "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "score": 7482,
+    "score": 7486,
     "metadata": {
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "starsToday": 146
     },
-    "createdAt": "2026-06-17T08:42:23.065Z"
+    "createdAt": "2026-06-17T08:46:42.971Z"
   },
   {
     "id": "github-OpenBMB-VoxCPM",
     "source": "github",
     "title": "OpenBMB / VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
-    "score": 30304,
+    "score": 30306,
     "metadata": {
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "starsToday": 408
     },
-    "createdAt": "2026-06-17T08:42:23.066Z"
+    "createdAt": "2026-06-17T08:46:42.971Z"
   },
   {
     "id": "github-alibaba-zvec",
     "source": "github",
     "title": "alibaba / zvec",
     "url": "https://github.com/alibaba/zvec",
-    "score": 10679,
+    "score": 10682,
     "metadata": {
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "starsToday": 156
     },
-    "createdAt": "2026-06-17T08:42:23.066Z"
+    "createdAt": "2026-06-17T08:46:42.972Z"
   },
   {
     "id": "github-rmyndharis-OpenWA",
@@ -153,7 +153,7 @@
       "language": "TypeScript",
       "starsToday": 185
     },
-    "createdAt": "2026-06-17T08:42:23.066Z"
+    "createdAt": "2026-06-17T08:46:42.972Z"
   },
   {
     "id": "github-n0-computer-iroh",
@@ -166,6 +166,6 @@
       "language": "Rust",
       "starsToday": 334
     },
-    "createdAt": "2026-06-17T08:42:23.066Z"
+    "createdAt": "2026-06-17T08:46:42.973Z"
   }
 ]
