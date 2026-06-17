@@ -1,236 +1,171 @@
 [
   {
-    "id": "github-iptv-org-iptv",
+    "id": "github-freeCodeCamp-freeCodeCamp",
     "source": "github",
-    "title": "iptv-org / iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "score": 123268,
+    "title": "freeCodeCamp / freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "score": 448760,
     "metadata": {
-      "description": "Collection of publicly available IPTV channels from all over the world",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "starsToday": 2657
+      "starsToday": 633
     },
-    "createdAt": "2026-06-16T07:21:19.359Z"
+    "createdAt": "2026-06-17T06:48:38.090Z"
+  },
+  {
+    "id": "github-swc-project-swc",
+    "source": "github",
+    "title": "swc-project / swc",
+    "url": "https://github.com/swc-project/swc",
+    "score": 34009,
+    "metadata": {
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "starsToday": 20
+    },
+    "createdAt": "2026-06-17T06:48:38.091Z"
   },
   {
     "id": "github-teslamate-org-teslamate",
     "source": "github",
     "title": "teslamate-org / teslamate",
     "url": "https://github.com/teslamate-org/teslamate",
-    "score": 8307,
+    "score": 8444,
     "metadata": {
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "starsToday": 33
+      "starsToday": 215
     },
-    "createdAt": "2026-06-16T07:21:19.359Z"
+    "createdAt": "2026-06-17T06:48:38.092Z"
   },
   {
-    "id": "github-Panniantong-Agent-Reach",
+    "id": "github-iptv-org-iptv",
     "source": "github",
-    "title": "Panniantong / Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "score": 30948,
+    "title": "iptv-org / iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "score": 124447,
     "metadata": {
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "starsToday": 1100
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "starsToday": 1197
     },
-    "createdAt": "2026-06-16T07:21:19.360Z"
+    "createdAt": "2026-06-17T06:48:38.092Z"
+  },
+  {
+    "id": "github-puppeteer-puppeteer",
+    "source": "github",
+    "title": "puppeteer / puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "score": 94958,
+    "metadata": {
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "starsToday": 56
+    },
+    "createdAt": "2026-06-17T06:48:38.093Z"
   },
   {
     "id": "github-meshery-meshery",
     "source": "github",
     "title": "meshery / meshery",
     "url": "https://github.com/meshery/meshery",
-    "score": 10699,
+    "score": 10903,
     "metadata": {
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
       "starsToday": 228
     },
-    "createdAt": "2026-06-16T07:21:19.361Z"
+    "createdAt": "2026-06-17T06:48:38.093Z"
   },
   {
-    "id": "github-chatwoot-chatwoot",
+    "id": "github-cypress-io-cypress",
     "source": "github",
-    "title": "chatwoot / chatwoot",
-    "url": "https://github.com/chatwoot/chatwoot",
-    "score": 31823,
+    "title": "cypress-io / cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "score": 50265,
     "metadata": {
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "starsToday": 431
-    },
-    "createdAt": "2026-06-16T07:21:19.362Z"
-  },
-  {
-    "id": "github-krahets-hello-algo",
-    "source": "github",
-    "title": "krahets / hello-algo",
-    "url": "https://github.com/krahets/hello-algo",
-    "score": 127146,
-    "metadata": {
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "language": "Java",
-      "starsToday": 71
-    },
-    "createdAt": "2026-06-16T07:21:19.362Z"
-  },
-  {
-    "id": "github-freeCodeCamp-freeCodeCamp",
-    "source": "github",
-    "title": "freeCodeCamp / freeCodeCamp",
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "score": 448078,
-    "metadata": {
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
-      "starsToday": 736
+      "starsToday": 13
     },
-    "createdAt": "2026-06-16T07:21:19.363Z"
-  },
-  {
-    "id": "github-trycua-cua",
-    "source": "github",
-    "title": "trycua / cua",
-    "url": "https://github.com/trycua/cua",
-    "score": 18267,
-    "metadata": {
-      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-      "language": "HTML",
-      "starsToday": 70
-    },
-    "createdAt": "2026-06-16T07:21:19.363Z"
-  },
-  {
-    "id": "github-jwasham-coding-interview-university",
-    "source": "github",
-    "title": "jwasham / coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "score": 352475,
-    "metadata": {
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": "",
-      "starsToday": 364
-    },
-    "createdAt": "2026-06-16T07:21:19.364Z"
-  },
-  {
-    "id": "github-rohitg00-ai-engineering-from-scratch",
-    "source": "github",
-    "title": "rohitg00 / ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "score": 33360,
-    "metadata": {
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "starsToday": 562
-    },
-    "createdAt": "2026-06-16T07:21:19.364Z"
+    "createdAt": "2026-06-17T06:48:38.094Z"
   },
   {
     "id": "github-music-assistant-server",
     "source": "github",
     "title": "music-assistant / server",
     "url": "https://github.com/music-assistant/server",
-    "score": 2431,
+    "score": 2616,
     "metadata": {
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "starsToday": 225
+      "starsToday": 157
     },
-    "createdAt": "2026-06-16T07:21:19.364Z"
+    "createdAt": "2026-06-17T06:48:38.095Z"
   },
   {
-    "id": "github-Free-TV-IPTV",
+    "id": "github-Universal-Debloater-Alliance-universal-android-debloater-next-generation",
     "source": "github",
-    "title": "Free-TV / IPTV",
-    "url": "https://github.com/Free-TV/IPTV",
-    "score": 17372,
+    "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "score": 7431,
     "metadata": {
-      "description": "M3U Playlist for free TV channels",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "starsToday": 146
+    },
+    "createdAt": "2026-06-17T06:48:38.095Z"
+  },
+  {
+    "id": "github-OpenBMB-VoxCPM",
+    "source": "github",
+    "title": "OpenBMB / VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "score": 30261,
+    "metadata": {
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "starsToday": 361
+      "starsToday": 408
     },
-    "createdAt": "2026-06-16T07:21:19.365Z"
+    "createdAt": "2026-06-17T06:48:38.096Z"
   },
   {
-    "id": "github-Introduction-to-Autonomous-Robots-Introduction-to-Autonomous-Robots",
+    "id": "github-alibaba-zvec",
     "source": "github",
-    "title": "Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
-    "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-    "score": 3131,
+    "title": "alibaba / zvec",
+    "url": "https://github.com/alibaba/zvec",
+    "score": 10622,
     "metadata": {
-      "description": "Introduction to Autonomous Robots",
-      "language": "TeX",
-      "starsToday": 489
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "starsToday": 156
     },
-    "createdAt": "2026-06-16T07:21:19.365Z"
+    "createdAt": "2026-06-17T06:48:38.096Z"
   },
   {
-    "id": "github-Raphire-Win11Debloat",
+    "id": "github-rmyndharis-OpenWA",
     "source": "github",
-    "title": "Raphire / Win11Debloat",
-    "url": "https://github.com/Raphire/Win11Debloat",
-    "score": 48151,
+    "title": "rmyndharis / OpenWA",
+    "url": "https://github.com/rmyndharis/OpenWA",
+    "score": 9183,
     "metadata": {
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "language": "PowerShell",
-      "starsToday": 112
+      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "language": "TypeScript",
+      "starsToday": 185
     },
-    "createdAt": "2026-06-16T07:21:19.366Z"
+    "createdAt": "2026-06-17T06:48:38.096Z"
   },
   {
-    "id": "github-mikeroyal-Self-Hosting-Guide",
+    "id": "github-n0-computer-iroh",
     "source": "github",
-    "title": "mikeroyal / Self-Hosting-Guide",
-    "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
-    "score": 21240,
+    "title": "n0-computer / iroh",
+    "url": "https://github.com/n0-computer/iroh",
+    "score": 9387,
     "metadata": {
-      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
-      "language": "Dockerfile",
-      "starsToday": 188
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "starsToday": 334
     },
-    "createdAt": "2026-06-16T07:21:19.366Z"
-  },
-  {
-    "id": "github-itsfatduck-optimizerDuck",
-    "source": "github",
-    "title": "itsfatduck / optimizerDuck",
-    "url": "https://github.com/itsfatduck/optimizerDuck",
-    "score": 3851,
-    "metadata": {
-      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
-      "language": "C#",
-      "starsToday": 340
-    },
-    "createdAt": "2026-06-16T07:21:19.366Z"
-  },
-  {
-    "id": "github-NVIDIA-SkillSpector",
-    "source": "github",
-    "title": "NVIDIA / SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "score": 6612,
-    "metadata": {
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "starsToday": 1079
-    },
-    "createdAt": "2026-06-16T07:21:19.367Z"
-  },
-  {
-    "id": "github-shiyu-coder-Kronos",
-    "source": "github",
-    "title": "shiyu-coder / Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "score": 30400,
-    "metadata": {
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "starsToday": 396
-    },
-    "createdAt": "2026-06-16T07:21:19.367Z"
+    "createdAt": "2026-06-17T06:48:38.097Z"
   }
 ]
