@@ -14,7 +14,7 @@ export const config = {
   hnTopStoriesCount: parseInt(process.env.HN_TOP_STORIES_COUNT || '30', 10),
   githubTrendingUrl: process.env.GITHUB_TRENDING_URL || 'https://github.com/trending',
   geminiApiKey: process.env.GEMINI_API_KEY || '',
-  geminiModel: process.env.GEMINI_MODEL || 'gemini-2.5-pro',
+  geminiModel: process.env.GEMINI_MODEL || 'gemini-2.5-flash',
   // Discord integration (used by GitHub Actions pipeline)
   discordWebhookUrl: process.env.DISCORD_WEBHOOK_URL || '',
 };
