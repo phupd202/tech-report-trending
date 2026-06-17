@@ -12,7 +12,7 @@ export const config = {
     .map(s => s.trim())
     .filter(Boolean),
   hnTopStoriesCount: parseInt(process.env.HN_TOP_STORIES_COUNT || '30', 10),
-  githubTrendingUrl: process.env.GITHUB_TRENDING_URL || 'https://github.com/trending',
+  githubTrendingUrl: process.env.GITHUB_TRENDING_URL || 'https://github.com/trending?since=weekly',
   geminiApiKey: process.env.GEMINI_API_KEY || '',
   geminiModel: process.env.GEMINI_MODEL || 'gemini-2.5-flash',
   // Discord integration (used by GitHub Actions pipeline)

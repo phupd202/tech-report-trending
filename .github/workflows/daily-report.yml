@@ -3,7 +3,7 @@ name: Daily Tech Intelligence Report
 on:
   # ── Scheduled trigger: every day at 02:00 UTC ──────────────────────────────
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * 6"
 
   # ── Manual trigger for testing or back-fills ───────────────────────────────
   workflow_dispatch:
