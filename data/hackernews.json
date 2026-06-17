@@ -1,392 +1,392 @@
 [
   {
-    "id": "hackernews-48498573",
+    "id": "hackernews-48550693",
     "source": "hackernews",
-    "title": "Claude Fable is relentlessly proactive",
-    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "score": 90,
+    "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+    "score": 158,
     "metadata": {
-      "author": "lumpa",
-      "commentsCount": 62,
-      "hnUrl": "https://news.ycombinator.com/item?id=48498573"
+      "author": "paulmooreparks",
+      "commentsCount": 32,
+      "hnUrl": "https://news.ycombinator.com/item?id=48550693"
     },
-    "createdAt": "2026-06-12T01:06:51.000Z"
+    "createdAt": "2026-06-16T04:46:36.000Z"
   },
   {
-    "id": "hackernews-48498385",
+    "id": "hackernews-48550936",
     "source": "hackernews",
-    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-    "score": 121,
+    "title": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
+    "url": "https://bobdahacker.com/blog/fifa-hack",
+    "score": 188,
     "metadata": {
-      "author": "sam_bristow",
-      "commentsCount": 38,
-      "hnUrl": "https://news.ycombinator.com/item?id=48498385"
+      "author": "BobDaHacker",
+      "commentsCount": 59,
+      "hnUrl": "https://news.ycombinator.com/item?id=48550936"
     },
-    "createdAt": "2026-06-12T00:38:11.000Z"
+    "createdAt": "2026-06-16T05:23:42.000Z"
   },
   {
-    "id": "hackernews-48490024",
+    "id": "hackernews-48550779",
     "source": "hackernews",
-    "title": "Show HN: Homebrew 6.0.0",
-    "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "score": 1017,
+    "title": "John Carmack on Fabrice Bellard",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+    "score": 99,
     "metadata": {
-      "author": "mikemcquaid",
-      "commentsCount": 241,
-      "hnUrl": "https://news.ycombinator.com/item?id=48490024"
+      "author": "apitman",
+      "commentsCount": 42,
+      "hnUrl": "https://news.ycombinator.com/item?id=48550779"
     },
-    "createdAt": "2026-06-11T13:24:29.000Z"
+    "createdAt": "2026-06-16T04:58:15.000Z"
   },
   {
-    "id": "hackernews-48496539",
+    "id": "hackernews-48546294",
     "source": "hackernews",
-    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-    "url": "https://fablepool.com",
-    "score": 267,
+    "title": "A backdoor in a LinkedIn job offer",
+    "url": "https://roman.pt/posts/linkedin-backdoor/",
+    "score": 1024,
     "metadata": {
-      "author": "matthewbarras",
-      "commentsCount": 154,
-      "hnUrl": "https://news.ycombinator.com/item?id=48496539"
+      "author": "lwhsiao",
+      "commentsCount": 194,
+      "hnUrl": "https://news.ycombinator.com/item?id=48546294"
     },
-    "createdAt": "2026-06-11T21:17:30.000Z"
+    "createdAt": "2026-06-15T20:00:57.000Z"
   },
   {
-    "id": "hackernews-48497609",
+    "id": "hackernews-48547985",
     "source": "hackernews",
-    "title": "If you are asking for human attention, demonstrate human effort",
-    "url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "score": 311,
+    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+    "url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "score": 327,
     "metadata": {
-      "author": "jjfoooo4",
-      "commentsCount": 86,
-      "hnUrl": "https://news.ycombinator.com/item?id=48497609"
+      "author": "sohkamyung",
+      "commentsCount": 166,
+      "hnUrl": "https://news.ycombinator.com/item?id=48547985"
     },
-    "createdAt": "2026-06-11T23:01:55.000Z"
+    "createdAt": "2026-06-15T22:37:55.000Z"
   },
   {
-    "id": "hackernews-48487229",
+    "id": "hackernews-48542480",
     "source": "hackernews",
-    "title": "A greyscale iPhone setup that works in everyday life",
-    "url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
-    "score": 49,
+    "title": "Iroh 1.0",
+    "url": "https://www.iroh.computer/blog/v1",
+    "score": 1114,
     "metadata": {
-      "author": "hemmert",
-      "commentsCount": 28,
-      "hnUrl": "https://news.ycombinator.com/item?id=48487229"
+      "author": "chadfowler",
+      "commentsCount": 329,
+      "hnUrl": "https://news.ycombinator.com/item?id=48542480"
     },
-    "createdAt": "2026-06-11T07:06:40.000Z"
+    "createdAt": "2026-06-15T15:13:06.000Z"
   },
   {
-    "id": "hackernews-48490826",
+    "id": "hackernews-48542100",
     "source": "hackernews",
-    "title": "MiMo Code is now released and open-source",
-    "url": "https://mimo.xiaomi.com/mimocode",
-    "score": 432,
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "score": 900,
     "metadata": {
-      "author": "apeters",
-      "commentsCount": 248,
-      "hnUrl": "https://news.ycombinator.com/item?id=48490826"
+      "author": "cloudking",
+      "commentsCount": 414,
+      "hnUrl": "https://news.ycombinator.com/item?id=48542100"
     },
-    "createdAt": "2026-06-11T14:27:19.000Z"
+    "createdAt": "2026-06-15T14:46:53.000Z"
   },
   {
-    "id": "hackernews-48489229",
+    "id": "hackernews-48550569",
     "source": "hackernews",
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "score": 328,
+    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+    "url": "https://garden-of-flowers.heikkilotvonen.com/",
+    "score": 40,
     "metadata": {
-      "author": "rarisma",
-      "commentsCount": 325,
-      "hnUrl": "https://news.ycombinator.com/item?id=48489229"
+      "author": "california-og",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=48550569"
     },
-    "createdAt": "2026-06-11T12:05:02.000Z"
+    "createdAt": "2026-06-16T04:25:57.000Z"
   },
   {
-    "id": "hackernews-48491830",
+    "id": "hackernews-48543475",
     "source": "hackernews",
-    "title": "Petition to Withdraw Canada's Bill C-22",
-    "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-    "score": 375,
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+    "url": "https://tinywind.io",
+    "score": 761,
+    "metadata": {
+      "author": "tinywind",
+      "commentsCount": 150,
+      "hnUrl": "https://news.ycombinator.com/item?id=48543475"
+    },
+    "createdAt": "2026-06-15T16:15:53.000Z"
+  },
+  {
+    "id": "hackernews-48479957",
+    "source": "hackernews",
+    "title": "I hacked into the worst e-bike and fixed it [video]",
+    "url": "https://www.youtube.com/watch?v=hPrtVGimBYs",
+    "score": 59,
+    "metadata": {
+      "author": "alexis-d",
+      "commentsCount": 21,
+      "hnUrl": "https://news.ycombinator.com/item?id=48479957"
+    },
+    "createdAt": "2026-06-10T17:45:24.000Z"
+  },
+  {
+    "id": "hackernews-48546441",
+    "source": "hackernews",
+    "title": "I Love the Computer",
+    "url": "https://michaelenger.com/blog/i-love-the-computer/",
+    "score": 209,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 123,
+      "hnUrl": "https://news.ycombinator.com/item?id=48546441"
+    },
+    "createdAt": "2026-06-15T20:14:15.000Z"
+  },
+  {
+    "id": "hackernews-48549628",
+    "source": "hackernews",
+    "title": "Humanity isn't ready for the coming intelligence explosion",
+    "url": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
+    "score": 60,
+    "metadata": {
+      "author": "andsoitis",
+      "commentsCount": 121,
+      "hnUrl": "https://news.ycombinator.com/item?id=48549628"
+    },
+    "createdAt": "2026-06-16T02:00:45.000Z"
+  },
+  {
+    "id": "hackernews-48547566",
+    "source": "hackernews",
+    "title": "Why I email complete strangers",
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "score": 135,
+    "metadata": {
+      "author": "karakoram",
+      "commentsCount": 58,
+      "hnUrl": "https://news.ycombinator.com/item?id=48547566"
+    },
+    "createdAt": "2026-06-15T21:57:10.000Z"
+  },
+  {
+    "id": "hackernews-48489934",
+    "source": "hackernews",
+    "title": "Cohere's First Model for Developers",
+    "url": "https://cohere.com/blog/north-mini-code",
+    "score": 70,
     "metadata": {
       "author": "hmokiguess",
-      "commentsCount": 127,
-      "hnUrl": "https://news.ycombinator.com/item?id=48491830"
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48489934"
     },
-    "createdAt": "2026-06-11T15:37:23.000Z"
+    "createdAt": "2026-06-11T13:15:45.000Z"
   },
   {
-    "id": "hackernews-48497576",
+    "id": "hackernews-48548975",
     "source": "hackernews",
-    "title": "A jacket that harvests drinking water from the air",
-    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "score": 48,
+    "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+    "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+    "score": 100,
     "metadata": {
-      "author": "ilreb",
-      "commentsCount": 29,
-      "hnUrl": "https://news.ycombinator.com/item?id=48497576"
+      "author": "thelonelyborg",
+      "commentsCount": 89,
+      "hnUrl": "https://news.ycombinator.com/item?id=48548975"
     },
-    "createdAt": "2026-06-11T22:59:22.000Z"
+    "createdAt": "2026-06-16T00:28:14.000Z"
   },
   {
-    "id": "hackernews-48492533",
+    "id": "hackernews-48542433",
     "source": "hackernews",
-    "title": "Software is made between commits",
-    "url": "https://zed.dev/blog/introducing-deltadb",
-    "score": 212,
+    "title": "My Homelab AI Dev Platform",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "score": 294,
     "metadata": {
-      "author": "jeremy_k",
-      "commentsCount": 163,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492533"
+      "author": "rsgm",
+      "commentsCount": 51,
+      "hnUrl": "https://news.ycombinator.com/item?id=48542433"
     },
-    "createdAt": "2026-06-11T16:28:24.000Z"
+    "createdAt": "2026-06-15T15:09:40.000Z"
   },
   {
-    "id": "hackernews-48474274",
+    "id": "hackernews-48490578",
     "source": "hackernews",
-    "title": "Emacs appearances in pop culture",
-    "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-    "score": 270,
+    "title": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
+    "url": "https://shonczinner.github.io/posts/embedding-prediction/",
+    "score": 44,
     "metadata": {
-      "author": "ggcr",
-      "commentsCount": 75,
-      "hnUrl": "https://news.ycombinator.com/item?id=48474274"
+      "author": "Anon84",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48490578"
     },
-    "createdAt": "2026-06-10T10:37:45.000Z"
+    "createdAt": "2026-06-11T14:07:39.000Z"
   },
   {
-    "id": "hackernews-48447598",
+    "id": "hackernews-48540844",
     "source": "hackernews",
-    "title": "Ear Training Practice",
-    "url": "https://tonedear.com/",
-    "score": 166,
+    "title": "Hetzner Price Adjustment",
+    "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+    "score": 404,
     "metadata": {
-      "author": "mattbit",
-      "commentsCount": 86,
-      "hnUrl": "https://news.ycombinator.com/item?id=48447598"
+      "author": "tuhtah",
+      "commentsCount": 559,
+      "hnUrl": "https://news.ycombinator.com/item?id=48540844"
     },
-    "createdAt": "2026-06-08T16:38:07.000Z"
+    "createdAt": "2026-06-15T13:19:39.000Z"
   },
   {
-    "id": "hackernews-48492215",
+    "id": "hackernews-48547062",
     "source": "hackernews",
-    "title": "The RCE that AMD wouldn't fix",
-    "url": "https://mrbruh.com/amd2/",
-    "score": 230,
+    "title": "Peopleless economy? Not technically impossible",
+    "url": "https://gmalandrakis.com/writings/ad-economicum.html",
+    "score": 160,
     "metadata": {
-      "author": "MrBruh",
-      "commentsCount": 100,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492215"
+      "author": "l0new0lf-G",
+      "commentsCount": 279,
+      "hnUrl": "https://news.ycombinator.com/item?id=48547062"
     },
-    "createdAt": "2026-06-11T16:03:40.000Z"
+    "createdAt": "2026-06-15T21:10:36.000Z"
   },
   {
-    "id": "hackernews-48496483",
+    "id": "hackernews-48546428",
     "source": "hackernews",
-    "title": "Tailwind and slop apps",
-    "url": "https://briandouglas.ie/llm-tailwind-template/",
-    "score": 47,
+    "title": "What job interviews taught me about Kubernetes",
+    "url": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
+    "score": 160,
     "metadata": {
-      "author": "coneonthefloor",
-      "commentsCount": 25,
-      "hnUrl": "https://news.ycombinator.com/item?id=48496483"
+      "author": "chmaynard",
+      "commentsCount": 113,
+      "hnUrl": "https://news.ycombinator.com/item?id=48546428"
     },
-    "createdAt": "2026-06-11T21:12:47.000Z"
+    "createdAt": "2026-06-15T20:12:37.000Z"
   },
   {
-    "id": "hackernews-48462070",
+    "id": "hackernews-48540499",
     "source": "hackernews",
-    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
-    "url": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
-    "score": 249,
+    "title": "Fox to buy Roku",
+    "url": "https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9",
+    "score": 312,
     "metadata": {
-      "author": "josephcsible",
-      "commentsCount": 110,
-      "hnUrl": "https://news.ycombinator.com/item?id=48462070"
+      "author": "thm",
+      "commentsCount": 387,
+      "hnUrl": "https://news.ycombinator.com/item?id=48540499"
     },
-    "createdAt": "2026-06-09T15:01:43.000Z"
+    "createdAt": "2026-06-15T12:50:03.000Z"
   },
   {
-    "id": "hackernews-48492210",
+    "id": "hackernews-48521925",
     "source": "hackernews",
-    "title": "Claude Fable 5: mid-tier results on coding tasks",
-    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-    "score": 247,
+    "title": "What every coder should know about gamma (2016)",
+    "url": "https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "score": 90,
     "metadata": {
-      "author": "bugvader",
-      "commentsCount": 111,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492210"
+      "author": "sph",
+      "commentsCount": 27,
+      "hnUrl": "https://news.ycombinator.com/item?id=48521925"
     },
-    "createdAt": "2026-06-11T16:03:21.000Z"
+    "createdAt": "2026-06-13T22:01:29.000Z"
   },
   {
-    "id": "hackernews-48489402",
+    "id": "hackernews-48542132",
     "source": "hackernews",
-    "title": "Lines of code got a better publicist",
-    "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-    "score": 365,
+    "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+    "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+    "score": 287,
     "metadata": {
-      "author": "RyeCombinator",
-      "commentsCount": 248,
-      "hnUrl": "https://news.ycombinator.com/item?id=48489402"
+      "author": "bookofjoe",
+      "commentsCount": 108,
+      "hnUrl": "https://news.ycombinator.com/item?id=48542132"
     },
-    "createdAt": "2026-06-11T12:26:42.000Z"
+    "createdAt": "2026-06-15T14:48:47.000Z"
   },
   {
-    "id": "hackernews-48452001",
+    "id": "hackernews-48540126",
     "source": "hackernews",
-    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
-    "url": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
-    "score": 222,
+    "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6B",
+    "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+    "score": 300,
     "metadata": {
-      "author": "ljf",
-      "commentsCount": 74,
-      "hnUrl": "https://news.ycombinator.com/item?id=48452001"
+      "author": "colesantiago",
+      "commentsCount": 220,
+      "hnUrl": "https://news.ycombinator.com/item?id=48540126"
     },
-    "createdAt": "2026-06-08T21:02:01.000Z"
+    "createdAt": "2026-06-15T12:08:59.000Z"
   },
   {
-    "id": "hackernews-48496250",
+    "id": "hackernews-48548883",
     "source": "hackernews",
-    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
-    "url": "https://github.com/coder/boo",
+    "title": "Reviews have become expensive, rewrites have become cheap",
+    "url": "http://ishmeetbindra.com/posts/reviews-have-become-expensive-rewrites-have-become-cheap/",
+    "score": 56,
+    "metadata": {
+      "author": "arzh2",
+      "commentsCount": 45,
+      "hnUrl": "https://news.ycombinator.com/item?id=48548883"
+    },
+    "createdAt": "2026-06-16T00:13:34.000Z"
+  },
+  {
+    "id": "hackernews-48507128",
+    "source": "hackernews",
+    "title": "Chili peppers of the world: cultivars, species, and heat",
+    "url": "https://www.notesfromtheroad.com/desertmexico/chili-peppers.html",
+    "score": 25,
+    "metadata": {
+      "author": "fanf2",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=48507128"
+    },
+    "createdAt": "2026-06-12T17:42:04.000Z"
+  },
+  {
+    "id": "hackernews-48544781",
+    "source": "hackernews",
+    "title": "Game Engine White Papers: Commander Keen",
+    "url": "https://forgottenbytes.net/commander_keen.html",
+    "score": 191,
+    "metadata": {
+      "author": "mfiguiere",
+      "commentsCount": 64,
+      "hnUrl": "https://news.ycombinator.com/item?id=48544781"
+    },
+    "createdAt": "2026-06-15T17:52:39.000Z"
+  },
+  {
+    "id": "hackernews-48543908",
+    "source": "hackernews",
+    "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+    "url": "https://news.ycombinator.com/item?id=48543908",
     "score": 52,
     "metadata": {
-      "author": "kylecarbs",
-      "commentsCount": 20,
-      "hnUrl": "https://news.ycombinator.com/item?id=48496250"
+      "author": "PrimalNick",
+      "commentsCount": 56,
+      "hnUrl": "https://news.ycombinator.com/item?id=48543908"
     },
-    "createdAt": "2026-06-11T20:52:26.000Z"
+    "createdAt": "2026-06-15T16:47:21.000Z"
   },
   {
-    "id": "hackernews-48487829",
+    "id": "hackernews-48544451",
     "source": "hackernews",
-    "title": "Making a vintage LLM from scratch",
-    "url": "https://crlf.link/log/entries/260525-1/",
-    "score": 27,
+    "title": "How TimescaleDB compresses time-series data",
+    "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
+    "score": 145,
     "metadata": {
-      "author": "croqaz",
-      "commentsCount": 3,
-      "hnUrl": "https://news.ycombinator.com/item?id=48487829"
+      "author": "lkanwoqwp",
+      "commentsCount": 16,
+      "hnUrl": "https://news.ycombinator.com/item?id=48544451"
     },
-    "createdAt": "2026-06-11T08:38:00.000Z"
+    "createdAt": "2026-06-15T17:29:17.000Z"
   },
   {
-    "id": "hackernews-48490939",
+    "id": "hackernews-48544823",
     "source": "hackernews",
-    "title": "How a new DSL may survive in the era of LLMs",
-    "url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-    "score": 17,
+    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+    "url": "https://grassdx.com/",
+    "score": 60,
     "metadata": {
-      "author": "williamcotton",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48490939"
+      "author": "andrewbr",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=48544823"
     },
-    "createdAt": "2026-06-11T14:35:41.000Z"
-  },
-  {
-    "id": "hackernews-48479314",
-    "source": "hackernews",
-    "title": "Reading for pleasure is sharply down among schoolkids, report shows",
-    "url": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
-    "score": 86,
-    "metadata": {
-      "author": "freejoe76",
-      "commentsCount": 95,
-      "hnUrl": "https://news.ycombinator.com/item?id=48479314"
-    },
-    "createdAt": "2026-06-10T17:03:48.000Z"
-  },
-  {
-    "id": "hackernews-48493564",
-    "source": "hackernews",
-    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-    "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-    "score": 93,
-    "metadata": {
-      "author": "geerlingguy",
-      "commentsCount": 8,
-      "hnUrl": "https://news.ycombinator.com/item?id=48493564"
-    },
-    "createdAt": "2026-06-11T17:35:19.000Z"
-  },
-  {
-    "id": "hackernews-48491486",
-    "source": "hackernews",
-    "title": "FPS.cob: A first person shooter in COBOL",
-    "url": "https://github.com/icitry/FPS.cob",
-    "score": 107,
-    "metadata": {
-      "author": "MBCook",
-      "commentsCount": 63,
-      "hnUrl": "https://news.ycombinator.com/item?id=48491486"
-    },
-    "createdAt": "2026-06-11T15:13:57.000Z"
-  },
-  {
-    "id": "hackernews-48492177",
-    "source": "hackernews",
-    "title": "MTG Bench: Testing how well LLMs can play Magic",
-    "url": "https://mtgautodeck.com/articles/mtg-bench/",
-    "score": 30,
-    "metadata": {
-      "author": "CallumFerg",
-      "commentsCount": 18,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492177"
-    },
-    "createdAt": "2026-06-11T16:01:01.000Z"
-  },
-  {
-    "id": "hackernews-48492304",
-    "source": "hackernews",
-    "title": "Waymo Premier",
-    "url": "https://waymo.com/blog/2026/06/waymo-premier/",
-    "score": 157,
-    "metadata": {
-      "author": "boulos",
-      "commentsCount": 409,
-      "hnUrl": "https://news.ycombinator.com/item?id=48492304"
-    },
-    "createdAt": "2026-06-11T16:10:02.000Z"
-  },
-  {
-    "id": "hackernews-48478766",
-    "source": "hackernews",
-    "title": "Babel-USB: USB drive with every file",
-    "url": "https://github.com/p2r3/babel-usb",
-    "score": 31,
-    "metadata": {
-      "author": "LorenDB",
-      "commentsCount": 12,
-      "hnUrl": "https://news.ycombinator.com/item?id=48478766"
-    },
-    "createdAt": "2026-06-10T16:28:30.000Z"
-  },
-  {
-    "id": "hackernews-48459999",
-    "source": "hackernews",
-    "title": "Faking keyword arguments to functions in C++",
-    "url": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
-    "score": 8,
-    "metadata": {
-      "author": "ibobev",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48459999"
-    },
-    "createdAt": "2026-06-09T12:05:12.000Z"
-  },
-  {
-    "id": "hackernews-48489917",
-    "source": "hackernews",
-    "title": "Open Reproduction of DeepSeek-R1",
-    "url": "https://github.com/huggingface/open-r1",
-    "score": 205,
-    "metadata": {
-      "author": "yogthos",
-      "commentsCount": 17,
-      "hnUrl": "https://news.ycombinator.com/item?id=48489917"
-    },
-    "createdAt": "2026-06-11T13:14:31.000Z"
+    "createdAt": "2026-06-15T17:56:00.000Z"
   }
 ]
