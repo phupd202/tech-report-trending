@@ -8,6 +8,8 @@ export class GeminiProvider {
     const apiKey = config.geminiApiKey;
     if (apiKey) {
       this.genAI = new GoogleGenerativeAI(apiKey);
+      console.log("GEMINI_API_KEY exists:", !!process.env.GEMINI_API_KEY);
+      console.log("GEMINI_API_KEY length:", process.env.GEMINI_API_KEY?.length);
     } else {
       console.warn('GEMINI_API_KEY is not configured. AI capabilities will be disabled or simulated.');
     }
