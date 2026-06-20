@@ -1,5 +1,564 @@
 [
   {
+    "id": "github-freeCodeCamp-freeCodeCamp",
+    "source": "github",
+    "title": "freeCodeCamp / freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "score": 449862,
+    "metadata": {
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "starsToday": 3232
+    },
+    "createdAt": "2026-06-20T06:24:50.504Z"
+  },
+  {
+    "id": "github-chatwoot-chatwoot",
+    "source": "github",
+    "title": "chatwoot / chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "score": 32761,
+    "metadata": {
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "starsToday": 2094
+    },
+    "createdAt": "2026-06-20T06:24:50.504Z"
+  },
+  {
+    "id": "github-puppeteer-puppeteer",
+    "source": "github",
+    "title": "puppeteer / puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "score": 95131,
+    "metadata": {
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "starsToday": 620
+    },
+    "createdAt": "2026-06-20T06:24:50.503Z"
+  },
+  {
+    "id": "github-lfnovo-open-notebook",
+    "source": "github",
+    "title": "lfnovo / open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "score": 31866,
+    "metadata": {
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "starsToday": 2381
+    },
+    "createdAt": "2026-06-20T06:24:50.503Z"
+  },
+  {
+    "id": "github-cypress-io-cypress",
+    "source": "github",
+    "title": "cypress-io / cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "score": 50372,
+    "metadata": {
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "language": "TypeScript",
+      "starsToday": 648
+    },
+    "createdAt": "2026-06-20T06:24:50.502Z"
+  },
+  {
+    "id": "github-pytest-dev-pytest",
+    "source": "github",
+    "title": "pytest-dev / pytest",
+    "url": "https://github.com/pytest-dev/pytest",
+    "score": 14232,
+    "metadata": {
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "language": "Python",
+      "starsToday": 309
+    },
+    "createdAt": "2026-06-20T06:24:50.502Z"
+  },
+  {
+    "id": "github-LMCache-LMCache",
+    "source": "github",
+    "title": "LMCache / LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "score": 9425,
+    "metadata": {
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "starsToday": 876
+    },
+    "createdAt": "2026-06-20T06:24:50.502Z"
+  },
+  {
+    "id": "github-music-assistant-server",
+    "source": "github",
+    "title": "music-assistant / server",
+    "url": "https://github.com/music-assistant/server",
+    "score": 2720,
+    "metadata": {
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "starsToday": 1081
+    },
+    "createdAt": "2026-06-20T06:24:50.501Z"
+  },
+  {
+    "id": "github-meshery-meshery",
+    "source": "github",
+    "title": "meshery / meshery",
+    "url": "https://github.com/meshery/meshery",
+    "score": 11150,
+    "metadata": {
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "starsToday": 879
+    },
+    "createdAt": "2026-06-20T06:24:50.501Z"
+  },
+  {
+    "id": "github-swc-project-swc",
+    "source": "github",
+    "title": "swc-project / swc",
+    "url": "https://github.com/swc-project/swc",
+    "score": 34068,
+    "metadata": {
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "starsToday": 545
+    },
+    "createdAt": "2026-06-20T06:24:50.500Z"
+  },
+  {
+    "id": "github-kenn-io-agentsview",
+    "source": "github",
+    "title": "kenn-io / agentsview",
+    "url": "https://github.com/kenn-io/agentsview",
+    "score": 2980,
+    "metadata": {
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "language": "Go",
+      "starsToday": 955
+    },
+    "createdAt": "2026-06-20T06:24:50.500Z"
+  },
+  {
+    "id": "github-asgeirtj-system_prompts_leaks",
+    "source": "github",
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "score": 43670,
+    "metadata": {
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "starsToday": 1682
+    },
+    "createdAt": "2026-06-20T06:24:50.500Z"
+  },
+  {
+    "id": "github-apple-container",
+    "source": "github",
+    "title": "apple / container",
+    "url": "https://github.com/apple/container",
+    "score": 38914,
+    "metadata": {
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "starsToday": 4492
+    },
+    "createdAt": "2026-06-20T06:24:50.499Z"
+  },
+  {
+    "id": "github-phuryn-pm-skills",
+    "source": "github",
+    "title": "phuryn / pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "score": 19887,
+    "metadata": {
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "starsToday": 3025
+    },
+    "createdAt": "2026-06-20T06:24:50.499Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 63559,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "starsToday": 7170
+    },
+    "createdAt": "2026-06-20T06:24:50.498Z"
+  },
+  {
+    "id": "github-Panniantong-Agent-Reach",
+    "source": "github",
+    "title": "Panniantong / Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "score": 35262,
+    "metadata": {
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "starsToday": 8324
+    },
+    "createdAt": "2026-06-20T06:24:50.497Z"
+  },
+  {
+    "id": "github-chopratejas-headroom",
+    "source": "github",
+    "title": "chopratejas / headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "score": 39418,
+    "metadata": {
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "starsToday": 12793
+    },
+    "createdAt": "2026-06-20T06:24:50.497Z"
+  },
+  {
+    "id": "github-DeusData-codebase-memory-mcp",
+    "source": "github",
+    "title": "DeusData / codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "score": 8500,
+    "metadata": {
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "starsToday": 4212
+    },
+    "createdAt": "2026-06-20T06:24:50.496Z"
+  },
+  {
+    "id": "github-iptv-org-iptv",
+    "source": "github",
+    "title": "iptv-org / iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "score": 125892,
+    "metadata": {
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "starsToday": 8035
+    },
+    "createdAt": "2026-06-20T06:24:50.495Z"
+  },
+  {
+    "id": "github-NVIDIA-SkillSpector",
+    "source": "github",
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "score": 8392,
+    "metadata": {
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "starsToday": 5026
+    },
+    "createdAt": "2026-06-20T06:24:50.494Z"
+  },
+  {
+    "id": "hackernews-48606619",
+    "source": "hackernews",
+    "title": "I Stored a Website in a Favicon",
+    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "score": 25,
+    "metadata": {
+      "author": "theanonymousone",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48606619"
+    },
+    "createdAt": "2026-06-20T05:33:59.000Z"
+  },
+  {
+    "id": "hackernews-48606271",
+    "source": "hackernews",
+    "title": "Satellite reveals immense scale of GPS signal tampering",
+    "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+    "score": 27,
+    "metadata": {
+      "author": "y1n0",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48606271"
+    },
+    "createdAt": "2026-06-20T04:07:03.000Z"
+  },
+  {
+    "id": "hackernews-48605301",
+    "source": "hackernews",
+    "title": "How to feed a dictator",
+    "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+    "score": 121,
+    "metadata": {
+      "author": "Michelangelo11",
+      "commentsCount": 41,
+      "hnUrl": "https://news.ycombinator.com/item?id=48605301"
+    },
+    "createdAt": "2026-06-20T01:16:56.000Z"
+  },
+  {
+    "id": "hackernews-48604851",
+    "source": "hackernews",
+    "title": "Hey, n00b, we didn't hire you to complete tasks",
+    "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+    "score": 140,
+    "metadata": {
+      "author": "rrvsh",
+      "commentsCount": 74,
+      "hnUrl": "https://news.ycombinator.com/item?id=48604851"
+    },
+    "createdAt": "2026-06-20T00:11:07.000Z"
+  },
+  {
+    "id": "hackernews-48604232",
+    "source": "hackernews",
+    "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+    "url": "https://news.ycombinator.com/item?id=48604232",
+    "score": 68,
+    "metadata": {
+      "author": "amichail",
+      "commentsCount": 119,
+      "hnUrl": "https://news.ycombinator.com/item?id=48604232"
+    },
+    "createdAt": "2026-06-19T22:51:09.000Z"
+  },
+  {
+    "id": "hackernews-48603664",
+    "source": "hackernews",
+    "title": "Zenzizenzizenzic",
+    "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
+    "score": 96,
+    "metadata": {
+      "author": "gyosifov",
+      "commentsCount": 29,
+      "hnUrl": "https://news.ycombinator.com/item?id=48603664"
+    },
+    "createdAt": "2026-06-19T21:49:44.000Z"
+  },
+  {
+    "id": "hackernews-48602918",
+    "source": "hackernews",
+    "title": "Surprising economics of load-balanced systems",
+    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+    "score": 83,
+    "metadata": {
+      "author": "KraftyOne",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=48602918"
+    },
+    "createdAt": "2026-06-19T20:30:59.000Z"
+  },
+  {
+    "id": "hackernews-48602817",
+    "source": "hackernews",
+    "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+    "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+    "score": 181,
+    "metadata": {
+      "author": "Bender",
+      "commentsCount": 109,
+      "hnUrl": "https://news.ycombinator.com/item?id=48602817"
+    },
+    "createdAt": "2026-06-19T20:19:57.000Z"
+  },
+  {
+    "id": "hackernews-48602352",
+    "source": "hackernews",
+    "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+    "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+    "score": 302,
+    "metadata": {
+      "author": "pgrote",
+      "commentsCount": 36,
+      "hnUrl": "https://news.ycombinator.com/item?id=48602352"
+    },
+    "createdAt": "2026-06-19T19:35:15.000Z"
+  },
+  {
+    "id": "hackernews-48601420",
+    "source": "hackernews",
+    "title": "Big Banana Car",
+    "url": "https://bigbananacar.com/",
+    "score": 135,
+    "metadata": {
+      "author": "Bender",
+      "commentsCount": 74,
+      "hnUrl": "https://news.ycombinator.com/item?id=48601420"
+    },
+    "createdAt": "2026-06-19T18:14:11.000Z"
+  },
+  {
+    "id": "hackernews-48601162",
+    "source": "hackernews",
+    "title": "John Jumper to join Anthropic",
+    "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+    "score": 107,
+    "metadata": {
+      "author": "artninja1988",
+      "commentsCount": 76,
+      "hnUrl": "https://news.ycombinator.com/item?id=48601162"
+    },
+    "createdAt": "2026-06-19T17:53:00.000Z"
+  },
+  {
+    "id": "hackernews-48600946",
+    "source": "hackernews",
+    "title": "Court Records Should Be Free",
+    "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+    "score": 324,
+    "metadata": {
+      "author": "hn_acker",
+      "commentsCount": 70,
+      "hnUrl": "https://news.ycombinator.com/item?id=48600946"
+    },
+    "createdAt": "2026-06-19T17:34:18.000Z"
+  },
+  {
+    "id": "hackernews-48600593",
+    "source": "hackernews",
+    "title": "AURpocalypse now: a look at the recent AUR attacks",
+    "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
+    "score": 50,
+    "metadata": {
+      "author": "jwilk",
+      "commentsCount": 36,
+      "hnUrl": "https://news.ycombinator.com/item?id=48600593"
+    },
+    "createdAt": "2026-06-19T16:59:16.000Z"
+  },
+  {
+    "id": "hackernews-48600312",
+    "source": "hackernews",
+    "title": "Hyundai buys Boston Dynamics",
+    "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "score": 751,
+    "metadata": {
+      "author": "ck2",
+      "commentsCount": 343,
+      "hnUrl": "https://news.ycombinator.com/item?id=48600312"
+    },
+    "createdAt": "2026-06-19T16:28:20.000Z"
+  },
+  {
+    "id": "hackernews-48600093",
+    "source": "hackernews",
+    "title": "Norway imposes near ban on AI in elementary school",
+    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "score": 580,
+    "metadata": {
+      "author": "ilreb",
+      "commentsCount": 389,
+      "hnUrl": "https://news.ycombinator.com/item?id=48600093"
+    },
+    "createdAt": "2026-06-19T16:03:15.000Z"
+  },
+  {
+    "id": "hackernews-48599515",
+    "source": "hackernews",
+    "title": "There are no instances in ATProto",
+    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "score": 400,
+    "metadata": {
+      "author": "danabramov",
+      "commentsCount": 211,
+      "hnUrl": "https://news.ycombinator.com/item?id=48599515"
+    },
+    "createdAt": "2026-06-19T15:10:02.000Z"
+  },
+  {
+    "id": "hackernews-48598586",
+    "source": "hackernews",
+    "title": "How many of the 170k English words do you know?",
+    "url": "https://vocabowl-870366514258.us-west1.run.app/",
+    "score": 305,
+    "metadata": {
+      "author": "abnry",
+      "commentsCount": 406,
+      "hnUrl": "https://news.ycombinator.com/item?id=48598586"
+    },
+    "createdAt": "2026-06-19T13:51:36.000Z"
+  },
+  {
+    "id": "hackernews-48595511",
+    "source": "hackernews",
+    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "score": 572,
+    "metadata": {
+      "author": "philonoist",
+      "commentsCount": 359,
+      "hnUrl": "https://news.ycombinator.com/item?id=48595511"
+    },
+    "createdAt": "2026-06-19T06:35:57.000Z"
+  },
+  {
+    "id": "hackernews-48592832",
+    "source": "hackernews",
+    "title": "The AirPods Effect",
+    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "score": 400,
+    "metadata": {
+      "author": "herbertl",
+      "commentsCount": 704,
+      "hnUrl": "https://news.ycombinator.com/item?id=48592832"
+    },
+    "createdAt": "2026-06-18T23:08:35.000Z"
+  },
+  {
+    "id": "hackernews-48586329",
+    "source": "hackernews",
+    "title": "Building a robotics research setup that lives next to my desk",
+    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "score": 136,
+    "metadata": {
+      "author": "mplappert",
+      "commentsCount": 47,
+      "hnUrl": "https://news.ycombinator.com/item?id=48586329"
+    },
+    "createdAt": "2026-06-18T14:51:53.000Z"
+  },
+  {
+    "id": "hackernews-48582374",
+    "source": "hackernews",
+    "title": "Can you see three trees?",
+    "url": "https://www.not-ship.com/can-you-see-three-trees/",
+    "score": 34,
+    "metadata": {
+      "author": "Pamar",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48582374"
+    },
+    "createdAt": "2026-06-18T08:16:20.000Z"
+  },
+  {
+    "id": "hackernews-48582180",
+    "source": "hackernews",
+    "title": "A Perceptron in Age of Empires II",
+    "url": "https://adewynter.github.io/notes/aoe2-circuits",
+    "score": 55,
+    "metadata": {
+      "author": "EvgeniyZh",
+      "commentsCount": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=48582180"
+    },
+    "createdAt": "2026-06-18T07:50:12.000Z"
+  },
+  {
+    "id": "hackernews-48568652",
+    "source": "hackernews",
+    "title": "The discovery that changed how scientists think about memory – IBM",
+    "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+    "score": 22,
+    "metadata": {
+      "author": "rbanffy",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48568652"
+    },
+    "createdAt": "2026-06-17T11:09:29.000Z"
+  },
+  {
     "id": "github-n0-computer-iroh",
     "source": "github",
     "title": "n0-computer / iroh",
@@ -65,71 +624,6 @@
     "createdAt": "2026-06-17T08:46:42.971Z"
   },
   {
-    "id": "github-music-assistant-server",
-    "source": "github",
-    "title": "music-assistant / server",
-    "url": "https://github.com/music-assistant/server",
-    "score": 2635,
-    "metadata": {
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "starsToday": 157
-    },
-    "createdAt": "2026-06-17T08:46:42.970Z"
-  },
-  {
-    "id": "github-cypress-io-cypress",
-    "source": "github",
-    "title": "cypress-io / cypress",
-    "url": "https://github.com/cypress-io/cypress",
-    "score": 50285,
-    "metadata": {
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "starsToday": 13
-    },
-    "createdAt": "2026-06-17T08:46:42.970Z"
-  },
-  {
-    "id": "github-meshery-meshery",
-    "source": "github",
-    "title": "meshery / meshery",
-    "url": "https://github.com/meshery/meshery",
-    "score": 10918,
-    "metadata": {
-      "description": "Meshery, the cloud native manager",
-      "language": "TypeScript",
-      "starsToday": 228
-    },
-    "createdAt": "2026-06-17T08:46:42.969Z"
-  },
-  {
-    "id": "github-puppeteer-puppeteer",
-    "source": "github",
-    "title": "puppeteer / puppeteer",
-    "url": "https://github.com/puppeteer/puppeteer",
-    "score": 94984,
-    "metadata": {
-      "description": "JavaScript API for Chrome and Firefox",
-      "language": "TypeScript",
-      "starsToday": 56
-    },
-    "createdAt": "2026-06-17T08:46:42.968Z"
-  },
-  {
-    "id": "github-iptv-org-iptv",
-    "source": "github",
-    "title": "iptv-org / iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "score": 124569,
-    "metadata": {
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "starsToday": 1197
-    },
-    "createdAt": "2026-06-17T08:46:42.967Z"
-  },
-  {
     "id": "github-teslamate-org-teslamate",
     "source": "github",
     "title": "teslamate-org / teslamate",
@@ -141,32 +635,6 @@
       "starsToday": 215
     },
     "createdAt": "2026-06-17T08:46:42.967Z"
-  },
-  {
-    "id": "github-swc-project-swc",
-    "source": "github",
-    "title": "swc-project / swc",
-    "url": "https://github.com/swc-project/swc",
-    "score": 34020,
-    "metadata": {
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "starsToday": 20
-    },
-    "createdAt": "2026-06-17T08:46:42.966Z"
-  },
-  {
-    "id": "github-freeCodeCamp-freeCodeCamp",
-    "source": "github",
-    "title": "freeCodeCamp / freeCodeCamp",
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "score": 448845,
-    "metadata": {
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "starsToday": 633
-    },
-    "createdAt": "2026-06-17T08:46:42.965Z"
   },
   {
     "id": "hackernews-48566832",
@@ -271,6 +739,32 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48563394"
     },
     "createdAt": "2026-06-16T22:53:34.000Z"
+  },
+  {
+    "id": "hackernews-48563047",
+    "source": "hackernews",
+    "title": "Digital Printing of Arabic: explaining the problem",
+    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+    "score": 43,
+    "metadata": {
+      "author": "a_t48",
+      "commentsCount": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=48563047"
+    },
+    "createdAt": "2026-06-16T22:23:04.000Z"
+  },
+  {
+    "id": "hackernews-48562662",
+    "source": "hackernews",
+    "title": "Data Compression Explained (2012)",
+    "url": "https://mattmahoney.net/dc/dce.html",
+    "score": 77,
+    "metadata": {
+      "author": "mtdewcmu",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=48562662"
+    },
+    "createdAt": "2026-06-16T21:51:57.000Z"
   },
   {
     "id": "hackernews-48561654",
@@ -429,6 +923,19 @@
     "createdAt": "2026-06-16T15:44:44.000Z"
   },
   {
+    "id": "hackernews-48556082",
+    "source": "hackernews",
+    "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+    "url": "https://metiq.space",
+    "score": 109,
+    "metadata": {
+      "author": "rakeda",
+      "commentsCount": 30,
+      "hnUrl": "https://news.ycombinator.com/item?id=48556082"
+    },
+    "createdAt": "2026-06-16T14:43:38.000Z"
+  },
+  {
     "id": "hackernews-48555993",
     "source": "hackernews",
     "title": "Running local models is good now",
@@ -494,6 +1001,19 @@
     "createdAt": "2026-06-16T10:44:24.000Z"
   },
   {
+    "id": "hackernews-48553161",
+    "source": "hackernews",
+    "title": "Telescope Ranchers",
+    "url": "https://kottke.org/26/06/telescope-ranchers",
+    "score": 115,
+    "metadata": {
+      "author": "bookofjoe",
+      "commentsCount": 43,
+      "hnUrl": "https://news.ycombinator.com/item?id=48553161"
+    },
+    "createdAt": "2026-06-16T10:34:10.000Z"
+  },
+  {
     "id": "github-shiyu-coder-Kronos",
     "source": "github",
     "title": "shiyu-coder / Kronos",
@@ -503,19 +1023,6 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "starsToday": 396
-    },
-    "createdAt": "2026-06-16T07:21:19.367Z"
-  },
-  {
-    "id": "github-NVIDIA-SkillSpector",
-    "source": "github",
-    "title": "NVIDIA / SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "score": 6612,
-    "metadata": {
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "starsToday": 1079
     },
     "createdAt": "2026-06-16T07:21:19.367Z"
   },
@@ -624,19 +1131,6 @@
     "createdAt": "2026-06-16T07:21:19.363Z"
   },
   {
-    "id": "github-chatwoot-chatwoot",
-    "source": "github",
-    "title": "chatwoot / chatwoot",
-    "url": "https://github.com/chatwoot/chatwoot",
-    "score": 31823,
-    "metadata": {
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "starsToday": 431
-    },
-    "createdAt": "2026-06-16T07:21:19.362Z"
-  },
-  {
     "id": "github-krahets-hello-algo",
     "source": "github",
     "title": "krahets / hello-algo",
@@ -648,19 +1142,6 @@
       "starsToday": 71
     },
     "createdAt": "2026-06-16T07:21:19.362Z"
-  },
-  {
-    "id": "github-Panniantong-Agent-Reach",
-    "source": "github",
-    "title": "Panniantong / Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "score": 30948,
-    "metadata": {
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "starsToday": 1100
-    },
-    "createdAt": "2026-06-16T07:21:19.360Z"
   },
   {
     "id": "hackernews-48550936",
@@ -728,6 +1209,19 @@
     "createdAt": "2026-06-16T02:00:45.000Z"
   },
   {
+    "id": "hackernews-48549118",
+    "source": "hackernews",
+    "title": "Zen and the Art of Machine Learning Research",
+    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "score": 248,
+    "metadata": {
+      "author": "jxmorris12",
+      "commentsCount": 89,
+      "hnUrl": "https://news.ycombinator.com/item?id=48549118"
+    },
+    "createdAt": "2026-06-16T00:45:50.000Z"
+  },
+  {
     "id": "hackernews-48548975",
     "source": "hackernews",
     "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
@@ -752,6 +1246,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48548883"
     },
     "createdAt": "2026-06-16T00:13:34.000Z"
+  },
+  {
+    "id": "hackernews-48548612",
+    "source": "hackernews",
+    "title": "Egyptian Fractions",
+    "url": "https://blog.plover.com/math/egyptian-fractions.html",
+    "score": 85,
+    "metadata": {
+      "author": "luu",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48548612"
+    },
+    "createdAt": "2026-06-15T23:37:54.000Z"
   },
   {
     "id": "hackernews-48547985",
@@ -791,6 +1298,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48547062"
     },
     "createdAt": "2026-06-15T21:10:36.000Z"
+  },
+  {
+    "id": "hackernews-48546890",
+    "source": "hackernews",
+    "title": "Ten years of ClickHouse in open source",
+    "url": "https://clickhouse.com/blog/open-source-10",
+    "score": 296,
+    "metadata": {
+      "author": "saisrirampur",
+      "commentsCount": 75,
+      "hnUrl": "https://news.ycombinator.com/item?id=48546890"
+    },
+    "createdAt": "2026-06-15T20:51:54.000Z"
   },
   {
     "id": "hackernews-48546441",
@@ -1012,19 +1532,6 @@
       "starsToday": 269
     },
     "createdAt": "2026-06-15T07:12:28.609Z"
-  },
-  {
-    "id": "github-pytest-dev-pytest",
-    "source": "github",
-    "title": "pytest-dev / pytest",
-    "url": "https://github.com/pytest-dev/pytest",
-    "score": 14094,
-    "metadata": {
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-      "language": "Python",
-      "starsToday": 14
-    },
-    "createdAt": "2026-06-15T07:12:28.605Z"
   },
   {
     "id": "hackernews-48537165",
@@ -1365,32 +1872,6 @@
     "createdAt": "2026-06-14T06:29:01.120Z"
   },
   {
-    "id": "github-LMCache-LMCache",
-    "source": "github",
-    "title": "LMCache / LMCache",
-    "url": "https://github.com/LMCache/LMCache",
-    "score": 8962,
-    "metadata": {
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "language": "Python",
-      "starsToday": 238
-    },
-    "createdAt": "2026-06-14T06:29:01.120Z"
-  },
-  {
-    "id": "github-kenn-io-agentsview",
-    "source": "github",
-    "title": "kenn-io / agentsview",
-    "url": "https://github.com/kenn-io/agentsview",
-    "score": 2446,
-    "metadata": {
-      "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-      "language": "Go",
-      "starsToday": 190
-    },
-    "createdAt": "2026-06-14T06:29:01.119Z"
-  },
-  {
     "id": "github-obra-superpowers",
     "source": "github",
     "title": "obra / superpowers",
@@ -1402,32 +1883,6 @@
       "starsToday": 924
     },
     "createdAt": "2026-06-14T06:29:01.118Z"
-  },
-  {
-    "id": "github-apple-container",
-    "source": "github",
-    "title": "apple / container",
-    "url": "https://github.com/apple/container",
-    "score": 36491,
-    "metadata": {
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "starsToday": 1487
-    },
-    "createdAt": "2026-06-14T06:29:01.118Z"
-  },
-  {
-    "id": "github-addyosmani-agent-skills",
-    "source": "github",
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "score": 58692,
-    "metadata": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "starsToday": 1514
-    },
-    "createdAt": "2026-06-14T06:29:01.116Z"
   },
   {
     "id": "hackernews-48524434",
@@ -1790,19 +2245,6 @@
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
       "starsToday": 400
-    },
-    "createdAt": "2026-06-13T06:11:26.129Z"
-  },
-  {
-    "id": "github-phuryn-pm-skills",
-    "source": "github",
-    "title": "phuryn / pm-skills",
-    "url": "https://github.com/phuryn/pm-skills",
-    "score": 17164,
-    "metadata": {
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "",
-      "starsToday": 827
     },
     "createdAt": "2026-06-13T06:11:26.129Z"
   },

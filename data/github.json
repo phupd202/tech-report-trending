@@ -1,171 +1,262 @@
 [
   {
-    "id": "github-freeCodeCamp-freeCodeCamp",
+    "id": "github-NVIDIA-SkillSpector",
     "source": "github",
-    "title": "freeCodeCamp / freeCodeCamp",
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "score": 448845,
+    "title": "NVIDIA / SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "score": 8392,
     "metadata": {
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "starsToday": 633
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "starsToday": 5026
     },
-    "createdAt": "2026-06-17T08:46:42.965Z"
-  },
-  {
-    "id": "github-swc-project-swc",
-    "source": "github",
-    "title": "swc-project / swc",
-    "url": "https://github.com/swc-project/swc",
-    "score": 34020,
-    "metadata": {
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "starsToday": 20
-    },
-    "createdAt": "2026-06-17T08:46:42.966Z"
-  },
-  {
-    "id": "github-teslamate-org-teslamate",
-    "source": "github",
-    "title": "teslamate-org / teslamate",
-    "url": "https://github.com/teslamate-org/teslamate",
-    "score": 8469,
-    "metadata": {
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "starsToday": 215
-    },
-    "createdAt": "2026-06-17T08:46:42.967Z"
+    "createdAt": "2026-06-20T06:24:50.494Z"
   },
   {
     "id": "github-iptv-org-iptv",
     "source": "github",
     "title": "iptv-org / iptv",
     "url": "https://github.com/iptv-org/iptv",
-    "score": 124569,
+    "score": 125892,
     "metadata": {
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "starsToday": 1197
+      "starsToday": 8035
     },
-    "createdAt": "2026-06-17T08:46:42.967Z"
+    "createdAt": "2026-06-20T06:24:50.495Z"
   },
   {
-    "id": "github-puppeteer-puppeteer",
+    "id": "github-DeusData-codebase-memory-mcp",
     "source": "github",
-    "title": "puppeteer / puppeteer",
-    "url": "https://github.com/puppeteer/puppeteer",
-    "score": 94984,
+    "title": "DeusData / codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "score": 8500,
     "metadata": {
-      "description": "JavaScript API for Chrome and Firefox",
-      "language": "TypeScript",
-      "starsToday": 56
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "starsToday": 4212
     },
-    "createdAt": "2026-06-17T08:46:42.968Z"
+    "createdAt": "2026-06-20T06:24:50.496Z"
+  },
+  {
+    "id": "github-Panniantong-Agent-Reach",
+    "source": "github",
+    "title": "Panniantong / Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "score": 35262,
+    "metadata": {
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "starsToday": 8324
+    },
+    "createdAt": "2026-06-20T06:24:50.497Z"
+  },
+  {
+    "id": "github-chopratejas-headroom",
+    "source": "github",
+    "title": "chopratejas / headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "score": 39418,
+    "metadata": {
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "starsToday": 12793
+    },
+    "createdAt": "2026-06-20T06:24:50.497Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 63559,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "starsToday": 7170
+    },
+    "createdAt": "2026-06-20T06:24:50.498Z"
+  },
+  {
+    "id": "github-apple-container",
+    "source": "github",
+    "title": "apple / container",
+    "url": "https://github.com/apple/container",
+    "score": 38914,
+    "metadata": {
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "starsToday": 4492
+    },
+    "createdAt": "2026-06-20T06:24:50.499Z"
+  },
+  {
+    "id": "github-phuryn-pm-skills",
+    "source": "github",
+    "title": "phuryn / pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "score": 19887,
+    "metadata": {
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "starsToday": 3025
+    },
+    "createdAt": "2026-06-20T06:24:50.499Z"
+  },
+  {
+    "id": "github-asgeirtj-system_prompts_leaks",
+    "source": "github",
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "score": 43670,
+    "metadata": {
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "starsToday": 1682
+    },
+    "createdAt": "2026-06-20T06:24:50.500Z"
+  },
+  {
+    "id": "github-kenn-io-agentsview",
+    "source": "github",
+    "title": "kenn-io / agentsview",
+    "url": "https://github.com/kenn-io/agentsview",
+    "score": 2980,
+    "metadata": {
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "language": "Go",
+      "starsToday": 955
+    },
+    "createdAt": "2026-06-20T06:24:50.500Z"
+  },
+  {
+    "id": "github-swc-project-swc",
+    "source": "github",
+    "title": "swc-project / swc",
+    "url": "https://github.com/swc-project/swc",
+    "score": 34068,
+    "metadata": {
+      "description": "Rust-based platform for the Web",
+      "language": "Rust",
+      "starsToday": 545
+    },
+    "createdAt": "2026-06-20T06:24:50.500Z"
   },
   {
     "id": "github-meshery-meshery",
     "source": "github",
     "title": "meshery / meshery",
     "url": "https://github.com/meshery/meshery",
-    "score": 10918,
+    "score": 11150,
     "metadata": {
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "starsToday": 228
+      "starsToday": 879
     },
-    "createdAt": "2026-06-17T08:46:42.969Z"
-  },
-  {
-    "id": "github-cypress-io-cypress",
-    "source": "github",
-    "title": "cypress-io / cypress",
-    "url": "https://github.com/cypress-io/cypress",
-    "score": 50285,
-    "metadata": {
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-      "language": "TypeScript",
-      "starsToday": 13
-    },
-    "createdAt": "2026-06-17T08:46:42.970Z"
+    "createdAt": "2026-06-20T06:24:50.501Z"
   },
   {
     "id": "github-music-assistant-server",
     "source": "github",
     "title": "music-assistant / server",
     "url": "https://github.com/music-assistant/server",
-    "score": 2635,
+    "score": 2720,
     "metadata": {
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "starsToday": 157
+      "starsToday": 1081
     },
-    "createdAt": "2026-06-17T08:46:42.970Z"
+    "createdAt": "2026-06-20T06:24:50.501Z"
   },
   {
-    "id": "github-Universal-Debloater-Alliance-universal-android-debloater-next-generation",
+    "id": "github-LMCache-LMCache",
     "source": "github",
-    "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
-    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "score": 7486,
+    "title": "LMCache / LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "score": 9425,
     "metadata": {
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "language": "Rust",
-      "starsToday": 146
-    },
-    "createdAt": "2026-06-17T08:46:42.971Z"
-  },
-  {
-    "id": "github-OpenBMB-VoxCPM",
-    "source": "github",
-    "title": "OpenBMB / VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "score": 30306,
-    "metadata": {
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "starsToday": 408
+      "starsToday": 876
     },
-    "createdAt": "2026-06-17T08:46:42.971Z"
+    "createdAt": "2026-06-20T06:24:50.502Z"
   },
   {
-    "id": "github-alibaba-zvec",
+    "id": "github-cypress-io-cypress",
     "source": "github",
-    "title": "alibaba / zvec",
-    "url": "https://github.com/alibaba/zvec",
-    "score": 10682,
+    "title": "cypress-io / cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "score": 50372,
     "metadata": {
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "starsToday": 156
-    },
-    "createdAt": "2026-06-17T08:46:42.972Z"
-  },
-  {
-    "id": "github-rmyndharis-OpenWA",
-    "source": "github",
-    "title": "rmyndharis / OpenWA",
-    "url": "https://github.com/rmyndharis/OpenWA",
-    "score": 9223,
-    "metadata": {
-      "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
-      "starsToday": 185
+      "starsToday": 648
     },
-    "createdAt": "2026-06-17T08:46:42.972Z"
+    "createdAt": "2026-06-20T06:24:50.502Z"
   },
   {
-    "id": "github-n0-computer-iroh",
+    "id": "github-pytest-dev-pytest",
     "source": "github",
-    "title": "n0-computer / iroh",
-    "url": "https://github.com/n0-computer/iroh",
-    "score": 9415,
+    "title": "pytest-dev / pytest",
+    "url": "https://github.com/pytest-dev/pytest",
+    "score": 14232,
     "metadata": {
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "starsToday": 334
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "language": "Python",
+      "starsToday": 309
     },
-    "createdAt": "2026-06-17T08:46:42.973Z"
+    "createdAt": "2026-06-20T06:24:50.502Z"
+  },
+  {
+    "id": "github-lfnovo-open-notebook",
+    "source": "github",
+    "title": "lfnovo / open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "score": 31866,
+    "metadata": {
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "starsToday": 2381
+    },
+    "createdAt": "2026-06-20T06:24:50.503Z"
+  },
+  {
+    "id": "github-puppeteer-puppeteer",
+    "source": "github",
+    "title": "puppeteer / puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "score": 95131,
+    "metadata": {
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "starsToday": 620
+    },
+    "createdAt": "2026-06-20T06:24:50.503Z"
+  },
+  {
+    "id": "github-freeCodeCamp-freeCodeCamp",
+    "source": "github",
+    "title": "freeCodeCamp / freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "score": 449862,
+    "metadata": {
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "starsToday": 3232
+    },
+    "createdAt": "2026-06-20T06:24:50.504Z"
+  },
+  {
+    "id": "github-chatwoot-chatwoot",
+    "source": "github",
+    "title": "chatwoot / chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "score": 32761,
+    "metadata": {
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "starsToday": 2094
+    },
+    "createdAt": "2026-06-20T06:24:50.504Z"
   }
 ]
