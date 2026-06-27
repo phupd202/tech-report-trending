@@ -1,392 +1,379 @@
 [
   {
-    "id": "hackernews-48606619",
+    "id": "hackernews-48689028",
     "source": "hackernews",
-    "title": "I Stored a Website in a Favicon",
-    "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "score": 25,
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "score": 925,
     "metadata": {
-      "author": "theanonymousone",
+      "author": "minimaxir",
+      "commentsCount": 562,
+      "hnUrl": "https://news.ycombinator.com/item?id=48689028"
+    },
+    "createdAt": "2026-06-26T17:06:55.000Z"
+  },
+  {
+    "id": "hackernews-48692946",
+    "source": "hackernews",
+    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+    "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+    "score": 174,
+    "metadata": {
+      "author": "ProxyTracer",
+      "commentsCount": 85,
+      "hnUrl": "https://news.ycombinator.com/item?id=48692946"
+    },
+    "createdAt": "2026-06-26T22:43:29.000Z"
+  },
+  {
+    "id": "hackernews-48694853",
+    "source": "hackernews",
+    "title": "WordStar: A Writer's Word Processor (1996)",
+    "url": "https://www.sfwriter.com/wordstar.htm",
+    "score": 26,
+    "metadata": {
+      "author": "droidjj",
+      "commentsCount": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=48694853"
+    },
+    "createdAt": "2026-06-27T03:30:01.000Z"
+  },
+  {
+    "id": "hackernews-48692995",
+    "source": "hackernews",
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "score": 338,
+    "metadata": {
+      "author": "bobrenjc93",
+      "commentsCount": 335,
+      "hnUrl": "https://news.ycombinator.com/item?id=48692995"
+    },
+    "createdAt": "2026-06-26T22:48:28.000Z"
+  },
+  {
+    "id": "hackernews-48658148",
+    "source": "hackernews",
+    "title": "Fusion Programming Language",
+    "url": "https://fusion-lang.org/",
+    "score": 32,
+    "metadata": {
+      "author": "efrecon",
+      "commentsCount": 14,
+      "hnUrl": "https://news.ycombinator.com/item?id=48658148"
+    },
+    "createdAt": "2026-06-24T11:27:07.000Z"
+  },
+  {
+    "id": "hackernews-48695363",
+    "source": "hackernews",
+    "title": "IBM MCGA Gate Array Reverse Engineering",
+    "url": "https://github.com/schlae/IBM_MCGA",
+    "score": 4,
+    "metadata": {
+      "author": "userbinator",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48695363"
+    },
+    "createdAt": "2026-06-27T05:17:08.000Z"
+  },
+  {
+    "id": "hackernews-48633839",
+    "source": "hackernews",
+    "title": "Hellishly Slow Level 13 Deflate Compression",
+    "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+    "score": 29,
+    "metadata": {
+      "author": "zX41ZdbW",
       "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48606619"
+      "hnUrl": "https://news.ycombinator.com/item?id=48633839"
     },
-    "createdAt": "2026-06-20T05:33:59.000Z"
+    "createdAt": "2026-06-22T18:17:20.000Z"
   },
   {
-    "id": "hackernews-48562662",
+    "id": "hackernews-48692883",
     "source": "hackernews",
-    "title": "Data Compression Explained (2012)",
-    "url": "https://mattmahoney.net/dc/dce.html",
-    "score": 77,
-    "metadata": {
-      "author": "mtdewcmu",
-      "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=48562662"
-    },
-    "createdAt": "2026-06-16T21:51:57.000Z"
-  },
-  {
-    "id": "hackernews-48599515",
-    "source": "hackernews",
-    "title": "There are no instances in ATProto",
-    "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "score": 400,
-    "metadata": {
-      "author": "danabramov",
-      "commentsCount": 211,
-      "hnUrl": "https://news.ycombinator.com/item?id=48599515"
-    },
-    "createdAt": "2026-06-19T15:10:02.000Z"
-  },
-  {
-    "id": "hackernews-48568652",
-    "source": "hackernews",
-    "title": "The discovery that changed how scientists think about memory – IBM",
-    "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-    "score": 22,
+    "title": "AI in mathematics is forcing big questions",
+    "url": "https://spectrum.ieee.org/ai-in-mathematics",
+    "score": 93,
     "metadata": {
       "author": "rbanffy",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48568652"
+      "commentsCount": 60,
+      "hnUrl": "https://news.ycombinator.com/item?id=48692883"
     },
-    "createdAt": "2026-06-17T11:09:29.000Z"
+    "createdAt": "2026-06-26T22:36:51.000Z"
   },
   {
-    "id": "hackernews-48602918",
+    "id": "hackernews-48642510",
     "source": "hackernews",
-    "title": "Surprising economics of load-balanced systems",
-    "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-    "score": 83,
-    "metadata": {
-      "author": "KraftyOne",
-      "commentsCount": 20,
-      "hnUrl": "https://news.ycombinator.com/item?id=48602918"
-    },
-    "createdAt": "2026-06-19T20:30:59.000Z"
-  },
-  {
-    "id": "hackernews-48600312",
-    "source": "hackernews",
-    "title": "Hyundai buys Boston Dynamics",
-    "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-    "score": 751,
-    "metadata": {
-      "author": "ck2",
-      "commentsCount": 343,
-      "hnUrl": "https://news.ycombinator.com/item?id=48600312"
-    },
-    "createdAt": "2026-06-19T16:28:20.000Z"
-  },
-  {
-    "id": "hackernews-48600093",
-    "source": "hackernews",
-    "title": "Norway imposes near ban on AI in elementary school",
-    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-    "score": 580,
-    "metadata": {
-      "author": "ilreb",
-      "commentsCount": 389,
-      "hnUrl": "https://news.ycombinator.com/item?id=48600093"
-    },
-    "createdAt": "2026-06-19T16:03:15.000Z"
-  },
-  {
-    "id": "hackernews-48582374",
-    "source": "hackernews",
-    "title": "Can you see three trees?",
-    "url": "https://www.not-ship.com/can-you-see-three-trees/",
-    "score": 34,
-    "metadata": {
-      "author": "Pamar",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48582374"
-    },
-    "createdAt": "2026-06-18T08:16:20.000Z"
-  },
-  {
-    "id": "hackernews-48602352",
-    "source": "hackernews",
-    "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-    "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-    "score": 302,
-    "metadata": {
-      "author": "pgrote",
-      "commentsCount": 36,
-      "hnUrl": "https://news.ycombinator.com/item?id=48602352"
-    },
-    "createdAt": "2026-06-19T19:35:15.000Z"
-  },
-  {
-    "id": "hackernews-48606271",
-    "source": "hackernews",
-    "title": "Satellite reveals immense scale of GPS signal tampering",
-    "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-    "score": 27,
-    "metadata": {
-      "author": "y1n0",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48606271"
-    },
-    "createdAt": "2026-06-20T04:07:03.000Z"
-  },
-  {
-    "id": "hackernews-48595511",
-    "source": "hackernews",
-    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "score": 572,
-    "metadata": {
-      "author": "philonoist",
-      "commentsCount": 359,
-      "hnUrl": "https://news.ycombinator.com/item?id=48595511"
-    },
-    "createdAt": "2026-06-19T06:35:57.000Z"
-  },
-  {
-    "id": "hackernews-48598586",
-    "source": "hackernews",
-    "title": "How many of the 170k English words do you know?",
-    "url": "https://vocabowl-870366514258.us-west1.run.app/",
+    "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+    "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
     "score": 305,
     "metadata": {
-      "author": "abnry",
-      "commentsCount": 406,
-      "hnUrl": "https://news.ycombinator.com/item?id=48598586"
+      "author": "justincormack",
+      "commentsCount": 169,
+      "hnUrl": "https://news.ycombinator.com/item?id=48642510"
     },
-    "createdAt": "2026-06-19T13:51:36.000Z"
+    "createdAt": "2026-06-23T09:39:35.000Z"
   },
   {
-    "id": "hackernews-48582180",
+    "id": "hackernews-48693912",
     "source": "hackernews",
-    "title": "A Perceptron in Age of Empires II",
-    "url": "https://adewynter.github.io/notes/aoe2-circuits",
-    "score": 55,
+    "title": "Show HN: Hacker News on a train station-style flip board",
+    "url": "https://popflame.quickish.space/hn-flipboard/",
+    "score": 40,
     "metadata": {
-      "author": "EvgeniyZh",
-      "commentsCount": 26,
-      "hnUrl": "https://news.ycombinator.com/item?id=48582180"
+      "author": "PaybackTony",
+      "commentsCount": 9,
+      "hnUrl": "https://news.ycombinator.com/item?id=48693912"
     },
-    "createdAt": "2026-06-18T07:50:12.000Z"
+    "createdAt": "2026-06-27T00:43:39.000Z"
   },
   {
-    "id": "hackernews-48548612",
+    "id": "hackernews-48690101",
     "source": "hackernews",
-    "title": "Egyptian Fractions",
-    "url": "https://blog.plover.com/math/egyptian-fractions.html",
-    "score": 85,
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "score": 937,
+    "metadata": {
+      "author": "alain94040",
+      "commentsCount": 1003,
+      "hnUrl": "https://news.ycombinator.com/item?id=48690101"
+    },
+    "createdAt": "2026-06-26T18:23:14.000Z"
+  },
+  {
+    "id": "hackernews-48662988",
+    "source": "hackernews",
+    "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+    "url": "https://github.com/dbos-inc/dbosify-py",
+    "score": 44,
+    "metadata": {
+      "author": "KraftyOne",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=48662988"
+    },
+    "createdAt": "2026-06-24T17:20:48.000Z"
+  },
+  {
+    "id": "hackernews-48693420",
+    "source": "hackernews",
+    "title": "Foreign funds help make housing unaffordable: research",
+    "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+    "score": 38,
+    "metadata": {
+      "author": "hhs",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48693420"
+    },
+    "createdAt": "2026-06-26T23:36:30.000Z"
+  },
+  {
+    "id": "hackernews-48692058",
+    "source": "hackernews",
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "score": 173,
+    "metadata": {
+      "author": "kkm",
+      "commentsCount": 141,
+      "hnUrl": "https://news.ycombinator.com/item?id=48692058"
+    },
+    "createdAt": "2026-06-26T21:14:47.000Z"
+  },
+  {
+    "id": "hackernews-48693391",
+    "source": "hackernews",
+    "title": "Om",
+    "url": "https://daringfireball.net/2026/06/om",
+    "score": 259,
+    "metadata": {
+      "author": "throw0101a",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=48693391"
+    },
+    "createdAt": "2026-06-26T23:33:46.000Z"
+  },
+  {
+    "id": "hackernews-48692090",
+    "source": "hackernews",
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "url": "https://github.com/Tessil/hopscotch-map",
+    "score": 81,
+    "metadata": {
+      "author": "gjvc",
+      "commentsCount": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=48692090"
+    },
+    "createdAt": "2026-06-26T21:18:28.000Z"
+  },
+  {
+    "id": "hackernews-48656982",
+    "source": "hackernews",
+    "title": "SCC Technical Assistance Program",
+    "url": "https://nerocam.com/scc_tap.asp",
+    "score": 5,
     "metadata": {
       "author": "luu",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48548612"
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48656982"
     },
-    "createdAt": "2026-06-15T23:37:54.000Z"
+    "createdAt": "2026-06-24T08:46:04.000Z"
   },
   {
-    "id": "hackernews-48605301",
+    "id": "hackernews-48692051",
     "source": "hackernews",
-    "title": "How to feed a dictator",
-    "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
-    "score": 121,
-    "metadata": {
-      "author": "Michelangelo11",
-      "commentsCount": 41,
-      "hnUrl": "https://news.ycombinator.com/item?id=48605301"
-    },
-    "createdAt": "2026-06-20T01:16:56.000Z"
-  },
-  {
-    "id": "hackernews-48604851",
-    "source": "hackernews",
-    "title": "Hey, n00b, we didn't hire you to complete tasks",
-    "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-    "score": 140,
-    "metadata": {
-      "author": "rrvsh",
-      "commentsCount": 74,
-      "hnUrl": "https://news.ycombinator.com/item?id=48604851"
-    },
-    "createdAt": "2026-06-20T00:11:07.000Z"
-  },
-  {
-    "id": "hackernews-48604232",
-    "source": "hackernews",
-    "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
-    "url": "https://news.ycombinator.com/item?id=48604232",
-    "score": 68,
-    "metadata": {
-      "author": "amichail",
-      "commentsCount": 119,
-      "hnUrl": "https://news.ycombinator.com/item?id=48604232"
-    },
-    "createdAt": "2026-06-19T22:51:09.000Z"
-  },
-  {
-    "id": "hackernews-48601162",
-    "source": "hackernews",
-    "title": "John Jumper to join Anthropic",
-    "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-    "score": 107,
-    "metadata": {
-      "author": "artninja1988",
-      "commentsCount": 76,
-      "hnUrl": "https://news.ycombinator.com/item?id=48601162"
-    },
-    "createdAt": "2026-06-19T17:53:00.000Z"
-  },
-  {
-    "id": "hackernews-48553161",
-    "source": "hackernews",
-    "title": "Telescope Ranchers",
-    "url": "https://kottke.org/26/06/telescope-ranchers",
-    "score": 115,
-    "metadata": {
-      "author": "bookofjoe",
-      "commentsCount": 43,
-      "hnUrl": "https://news.ycombinator.com/item?id=48553161"
-    },
-    "createdAt": "2026-06-16T10:34:10.000Z"
-  },
-  {
-    "id": "hackernews-48600946",
-    "source": "hackernews",
-    "title": "Court Records Should Be Free",
-    "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-    "score": 324,
+    "title": "We can still stop California's 3D printer surveillance scheme",
+    "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+    "score": 323,
     "metadata": {
       "author": "hn_acker",
-      "commentsCount": 70,
-      "hnUrl": "https://news.ycombinator.com/item?id=48600946"
+      "commentsCount": 114,
+      "hnUrl": "https://news.ycombinator.com/item?id=48692051"
     },
-    "createdAt": "2026-06-19T17:34:18.000Z"
+    "createdAt": "2026-06-26T21:13:50.000Z"
   },
   {
-    "id": "hackernews-48601420",
+    "id": "hackernews-48694631",
     "source": "hackernews",
-    "title": "Big Banana Car",
-    "url": "https://bigbananacar.com/",
-    "score": 135,
+    "title": "Anatomy of a Failed (Nation-State?) Attack",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "score": 14,
     "metadata": {
-      "author": "Bender",
-      "commentsCount": 74,
-      "hnUrl": "https://news.ycombinator.com/item?id=48601420"
+      "author": "signa11",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48694631"
     },
-    "createdAt": "2026-06-19T18:14:11.000Z"
+    "createdAt": "2026-06-27T02:41:53.000Z"
   },
   {
-    "id": "hackernews-48549118",
+    "id": "hackernews-48685558",
     "source": "hackernews",
-    "title": "Zen and the Art of Machine Learning Research",
-    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-    "score": 248,
+    "title": "Ultrasound imaging of the brain",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "score": 261,
     "metadata": {
-      "author": "jxmorris12",
-      "commentsCount": 89,
-      "hnUrl": "https://news.ycombinator.com/item?id=48549118"
-    },
-    "createdAt": "2026-06-16T00:45:50.000Z"
-  },
-  {
-    "id": "hackernews-48586329",
-    "source": "hackernews",
-    "title": "Building a robotics research setup that lives next to my desk",
-    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "score": 136,
-    "metadata": {
-      "author": "mplappert",
-      "commentsCount": 47,
-      "hnUrl": "https://news.ycombinator.com/item?id=48586329"
-    },
-    "createdAt": "2026-06-18T14:51:53.000Z"
-  },
-  {
-    "id": "hackernews-48556082",
-    "source": "hackernews",
-    "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-    "url": "https://metiq.space",
-    "score": 109,
-    "metadata": {
-      "author": "rakeda",
-      "commentsCount": 30,
-      "hnUrl": "https://news.ycombinator.com/item?id=48556082"
-    },
-    "createdAt": "2026-06-16T14:43:38.000Z"
-  },
-  {
-    "id": "hackernews-48602817",
-    "source": "hackernews",
-    "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-    "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-    "score": 181,
-    "metadata": {
-      "author": "Bender",
+      "author": "rossant",
       "commentsCount": 109,
-      "hnUrl": "https://news.ycombinator.com/item?id=48602817"
+      "hnUrl": "https://news.ycombinator.com/item?id=48685558"
     },
-    "createdAt": "2026-06-19T20:19:57.000Z"
+    "createdAt": "2026-06-26T11:51:11.000Z"
   },
   {
-    "id": "hackernews-48600593",
+    "id": "hackernews-48643661",
     "source": "hackernews",
-    "title": "AURpocalypse now: a look at the recent AUR attacks",
-    "url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
-    "score": 50,
+    "title": "Making Sense of Proof by Contradiction [pdf]",
+    "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+    "score": 26,
     "metadata": {
-      "author": "jwilk",
-      "commentsCount": 36,
-      "hnUrl": "https://news.ycombinator.com/item?id=48600593"
+      "author": "surprisetalk",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=48643661"
     },
-    "createdAt": "2026-06-19T16:59:16.000Z"
+    "createdAt": "2026-06-23T12:00:13.000Z"
   },
   {
-    "id": "hackernews-48546890",
+    "id": "hackernews-48688700",
     "source": "hackernews",
-    "title": "Ten years of ClickHouse in open source",
-    "url": "https://clickhouse.com/blog/open-source-10",
-    "score": 296,
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "url": "https://github.com/workweave/router",
+    "score": 160,
     "metadata": {
-      "author": "saisrirampur",
-      "commentsCount": 75,
-      "hnUrl": "https://news.ycombinator.com/item?id=48546890"
+      "author": "adchurch",
+      "commentsCount": 94,
+      "hnUrl": "https://news.ycombinator.com/item?id=48688700"
     },
-    "createdAt": "2026-06-15T20:51:54.000Z"
+    "createdAt": "2026-06-26T16:40:11.000Z"
   },
   {
-    "id": "hackernews-48592832",
+    "id": "hackernews-48673115",
     "source": "hackernews",
-    "title": "The AirPods Effect",
-    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-    "score": 400,
+    "title": "A Tiny Compiler for Data-Parallel Kernels",
+    "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+    "score": 34,
     "metadata": {
-      "author": "herbertl",
-      "commentsCount": 704,
-      "hnUrl": "https://news.ycombinator.com/item?id=48592832"
+      "author": "healeycodes",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48673115"
     },
-    "createdAt": "2026-06-18T23:08:35.000Z"
+    "createdAt": "2026-06-25T13:32:12.000Z"
   },
   {
-    "id": "hackernews-48563047",
+    "id": "hackernews-48664556",
     "source": "hackernews",
-    "title": "Digital Printing of Arabic: explaining the problem",
-    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-    "score": 43,
+    "title": "Show HN: Turn images into audio that can be decoded with a spectrogram",
+    "url": "https://nsspot.herokuapp.com/imagetoaudio/",
+    "score": 5,
     "metadata": {
-      "author": "a_t48",
-      "commentsCount": 13,
-      "hnUrl": "https://news.ycombinator.com/item?id=48563047"
+      "author": "jupr",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48664556"
     },
-    "createdAt": "2026-06-16T22:23:04.000Z"
+    "createdAt": "2026-06-24T19:23:38.000Z"
   },
   {
-    "id": "hackernews-48603664",
+    "id": "hackernews-48690709",
     "source": "hackernews",
-    "title": "Zenzizenzizenzic",
-    "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
-    "score": 96,
+    "title": "Long Wave radio era set to end with Droitwich switch-off",
+    "url": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
+    "score": 74,
     "metadata": {
-      "author": "gyosifov",
-      "commentsCount": 29,
-      "hnUrl": "https://news.ycombinator.com/item?id=48603664"
+      "author": "speckx",
+      "commentsCount": 30,
+      "hnUrl": "https://news.ycombinator.com/item?id=48690709"
     },
-    "createdAt": "2026-06-19T21:49:44.000Z"
+    "createdAt": "2026-06-26T19:12:20.000Z"
+  },
+  {
+    "id": "hackernews-48689277",
+    "source": "hackernews",
+    "title": "What Is a Nomogram and Why Would It Interest Me?",
+    "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
+    "score": 101,
+    "metadata": {
+      "author": "Eridanus2",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=48689277"
+    },
+    "createdAt": "2026-06-26T17:24:25.000Z"
+  },
+  {
+    "id": "hackernews-48660522",
+    "source": "hackernews",
+    "title": "A human postmortem of the 1996 AOL outage",
+    "url": "https://ngrok.com/blog/aol-was-down-1996",
+    "score": 56,
+    "metadata": {
+      "author": "EndEntire",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=48660522"
+    },
+    "createdAt": "2026-06-24T14:29:17.000Z"
+  },
+  {
+    "id": "hackernews-48689859",
+    "source": "hackernews",
+    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+    "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
+    "score": 80,
+    "metadata": {
+      "author": "jfoucher",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=48689859"
+    },
+    "createdAt": "2026-06-26T18:04:05.000Z"
+  },
+  {
+    "id": "hackernews-48644111",
+    "source": "hackernews",
+    "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+    "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+    "score": 72,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48644111"
+    },
+    "createdAt": "2026-06-23T12:45:09.000Z"
   }
 ]

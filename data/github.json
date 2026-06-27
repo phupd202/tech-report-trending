@@ -1,262 +1,249 @@
 [
   {
-    "id": "github-NVIDIA-SkillSpector",
+    "id": "github-calesthio-OpenMontage",
     "source": "github",
-    "title": "NVIDIA / SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "score": 8392,
+    "title": "calesthio / OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "score": 23928,
     "metadata": {
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "starsToday": 5026
+      "starsToday": 17249
     },
-    "createdAt": "2026-06-20T06:24:50.494Z"
-  },
-  {
-    "id": "github-iptv-org-iptv",
-    "source": "github",
-    "title": "iptv-org / iptv",
-    "url": "https://github.com/iptv-org/iptv",
-    "score": 125892,
-    "metadata": {
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "starsToday": 8035
-    },
-    "createdAt": "2026-06-20T06:24:50.495Z"
+    "createdAt": "2026-06-27T05:56:06.020Z"
   },
   {
     "id": "github-DeusData-codebase-memory-mcp",
     "source": "github",
     "title": "DeusData / codebase-memory-mcp",
     "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "score": 8500,
+    "score": 15948,
     "metadata": {
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "starsToday": 4212
+      "starsToday": 7592
     },
-    "createdAt": "2026-06-20T06:24:50.496Z"
+    "createdAt": "2026-06-27T05:56:06.020Z"
+  },
+  {
+    "id": "github-BuilderIO-agent-native",
+    "source": "github",
+    "title": "BuilderIO / agent-native",
+    "url": "https://github.com/BuilderIO/agent-native",
+    "score": 2581,
+    "metadata": {
+      "description": "A framework for building agent-native applications.",
+      "language": "TypeScript",
+      "starsToday": 1569
+    },
+    "createdAt": "2026-06-27T05:56:06.021Z"
+  },
+  {
+    "id": "github-kunchenguid-no-mistakes",
+    "source": "github",
+    "title": "kunchenguid / no-mistakes",
+    "url": "https://github.com/kunchenguid/no-mistakes",
+    "score": 3552,
+    "metadata": {
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "starsToday": 1744
+    },
+    "createdAt": "2026-06-27T05:56:06.021Z"
+  },
+  {
+    "id": "github-penpot-penpot",
+    "source": "github",
+    "title": "penpot / penpot",
+    "url": "https://github.com/penpot/penpot",
+    "score": 54015,
+    "metadata": {
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "starsToday": 3560
+    },
+    "createdAt": "2026-06-27T05:56:06.021Z"
+  },
+  {
+    "id": "github-ZhuLinsen-daily_stock_analysis",
+    "source": "github",
+    "title": "ZhuLinsen / daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "score": 50206,
+    "metadata": {
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "starsToday": 6919
+    },
+    "createdAt": "2026-06-27T05:56:06.021Z"
+  },
+  {
+    "id": "github-jamiepine-voicebox",
+    "source": "github",
+    "title": "jamiepine / voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "score": 34573,
+    "metadata": {
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "starsToday": 3819
+    },
+    "createdAt": "2026-06-27T05:56:06.022Z"
   },
   {
     "id": "github-Panniantong-Agent-Reach",
     "source": "github",
     "title": "Panniantong / Agent-Reach",
     "url": "https://github.com/Panniantong/Agent-Reach",
-    "score": 35262,
+    "score": 42613,
     "metadata": {
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "starsToday": 8324
+      "starsToday": 7199
     },
-    "createdAt": "2026-06-20T06:24:50.497Z"
+    "createdAt": "2026-06-27T05:56:06.022Z"
   },
   {
-    "id": "github-chopratejas-headroom",
+    "id": "github-koala73-worldmonitor",
     "source": "github",
-    "title": "chopratejas / headroom",
-    "url": "https://github.com/chopratejas/headroom",
-    "score": 39418,
+    "title": "koala73 / worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "score": 60174,
     "metadata": {
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "starsToday": 3170
+    },
+    "createdAt": "2026-06-27T05:56:06.022Z"
+  },
+  {
+    "id": "github-stablyai-orca",
+    "source": "github",
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "score": 7995,
+    "metadata": {
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "starsToday": 2398
+    },
+    "createdAt": "2026-06-27T05:56:06.022Z"
+  },
+  {
+    "id": "github-mukul975-Anthropic-Cybersecurity-Skills",
+    "source": "github",
+    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "score": 21864,
+    "metadata": {
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "starsToday": 12793
+      "starsToday": 5109
     },
-    "createdAt": "2026-06-20T06:24:50.497Z"
-  },
-  {
-    "id": "github-addyosmani-agent-skills",
-    "source": "github",
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "score": 63559,
-    "metadata": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "starsToday": 7170
-    },
-    "createdAt": "2026-06-20T06:24:50.498Z"
-  },
-  {
-    "id": "github-apple-container",
-    "source": "github",
-    "title": "apple / container",
-    "url": "https://github.com/apple/container",
-    "score": 38914,
-    "metadata": {
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "starsToday": 4492
-    },
-    "createdAt": "2026-06-20T06:24:50.499Z"
-  },
-  {
-    "id": "github-phuryn-pm-skills",
-    "source": "github",
-    "title": "phuryn / pm-skills",
-    "url": "https://github.com/phuryn/pm-skills",
-    "score": 19887,
-    "metadata": {
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "",
-      "starsToday": 3025
-    },
-    "createdAt": "2026-06-20T06:24:50.499Z"
+    "createdAt": "2026-06-27T05:56:06.022Z"
   },
   {
     "id": "github-asgeirtj-system_prompts_leaks",
     "source": "github",
     "title": "asgeirtj / system_prompts_leaks",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "score": 43670,
+    "score": 46401,
     "metadata": {
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "starsToday": 1682
+      "starsToday": 2864
     },
-    "createdAt": "2026-06-20T06:24:50.500Z"
+    "createdAt": "2026-06-27T05:56:06.023Z"
   },
   {
-    "id": "github-kenn-io-agentsview",
+    "id": "github-interviewstreet-hiring-agent",
     "source": "github",
-    "title": "kenn-io / agentsview",
-    "url": "https://github.com/kenn-io/agentsview",
-    "score": 2980,
+    "title": "interviewstreet / hiring-agent",
+    "url": "https://github.com/interviewstreet/hiring-agent",
+    "score": 2946,
     "metadata": {
-      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
-      "language": "Go",
-      "starsToday": 955
-    },
-    "createdAt": "2026-06-20T06:24:50.500Z"
-  },
-  {
-    "id": "github-swc-project-swc",
-    "source": "github",
-    "title": "swc-project / swc",
-    "url": "https://github.com/swc-project/swc",
-    "score": 34068,
-    "metadata": {
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "starsToday": 545
-    },
-    "createdAt": "2026-06-20T06:24:50.500Z"
-  },
-  {
-    "id": "github-meshery-meshery",
-    "source": "github",
-    "title": "meshery / meshery",
-    "url": "https://github.com/meshery/meshery",
-    "score": 11150,
-    "metadata": {
-      "description": "Meshery, the cloud native manager",
-      "language": "TypeScript",
-      "starsToday": 879
-    },
-    "createdAt": "2026-06-20T06:24:50.501Z"
-  },
-  {
-    "id": "github-music-assistant-server",
-    "source": "github",
-    "title": "music-assistant / server",
-    "url": "https://github.com/music-assistant/server",
-    "score": 2720,
-    "metadata": {
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "starsToday": 1081
+      "starsToday": 1727
     },
-    "createdAt": "2026-06-20T06:24:50.501Z"
+    "createdAt": "2026-06-27T05:56:06.023Z"
   },
   {
-    "id": "github-LMCache-LMCache",
+    "id": "github-google-labs-code-design.md",
     "source": "github",
-    "title": "LMCache / LMCache",
-    "url": "https://github.com/LMCache/LMCache",
-    "score": 9425,
+    "title": "google-labs-code / design.md",
+    "url": "https://github.com/google-labs-code/design.md",
+    "score": 21565,
     "metadata": {
-      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "starsToday": 4618
+    },
+    "createdAt": "2026-06-27T05:56:06.023Z"
+  },
+  {
+    "id": "github-JCodesMore-ai-website-cloner-template",
+    "source": "github",
+    "title": "JCodesMore / ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "score": 21495,
+    "metadata": {
+      "description": "Clone any website with one command using AI coding agents",
+      "language": "TypeScript",
+      "starsToday": 3906
+    },
+    "createdAt": "2026-06-27T05:56:06.023Z"
+  },
+  {
+    "id": "github-mattpocock-skills",
+    "source": "github",
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "score": 147652,
+    "metadata": {
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "starsToday": 11060
+    },
+    "createdAt": "2026-06-27T05:56:06.023Z"
+  },
+  {
+    "id": "github-aws-agent-toolkit-for-aws",
+    "source": "github",
+    "title": "aws / agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "score": 1398,
+    "metadata": {
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
-      "starsToday": 876
+      "starsToday": 349
     },
-    "createdAt": "2026-06-20T06:24:50.502Z"
+    "createdAt": "2026-06-27T05:56:06.023Z"
   },
   {
-    "id": "github-cypress-io-cypress",
+    "id": "github-Stirling-Tools-Stirling-PDF",
     "source": "github",
-    "title": "cypress-io / cypress",
-    "url": "https://github.com/cypress-io/cypress",
-    "score": 50372,
+    "title": "Stirling-Tools / Stirling-PDF",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+    "score": 84607,
     "metadata": {
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "Java",
+      "starsToday": 3250
+    },
+    "createdAt": "2026-06-27T05:56:06.023Z"
+  },
+  {
+    "id": "github-Kong-insomnia",
+    "source": "github",
+    "title": "Kong / insomnia",
+    "url": "https://github.com/Kong/insomnia",
+    "score": 39799,
+    "metadata": {
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "starsToday": 648
+      "starsToday": 981
     },
-    "createdAt": "2026-06-20T06:24:50.502Z"
-  },
-  {
-    "id": "github-pytest-dev-pytest",
-    "source": "github",
-    "title": "pytest-dev / pytest",
-    "url": "https://github.com/pytest-dev/pytest",
-    "score": 14232,
-    "metadata": {
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-      "language": "Python",
-      "starsToday": 309
-    },
-    "createdAt": "2026-06-20T06:24:50.502Z"
-  },
-  {
-    "id": "github-lfnovo-open-notebook",
-    "source": "github",
-    "title": "lfnovo / open-notebook",
-    "url": "https://github.com/lfnovo/open-notebook",
-    "score": 31866,
-    "metadata": {
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "starsToday": 2381
-    },
-    "createdAt": "2026-06-20T06:24:50.503Z"
-  },
-  {
-    "id": "github-puppeteer-puppeteer",
-    "source": "github",
-    "title": "puppeteer / puppeteer",
-    "url": "https://github.com/puppeteer/puppeteer",
-    "score": 95131,
-    "metadata": {
-      "description": "JavaScript API for Chrome and Firefox",
-      "language": "TypeScript",
-      "starsToday": 620
-    },
-    "createdAt": "2026-06-20T06:24:50.503Z"
-  },
-  {
-    "id": "github-freeCodeCamp-freeCodeCamp",
-    "source": "github",
-    "title": "freeCodeCamp / freeCodeCamp",
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "score": 449862,
-    "metadata": {
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "starsToday": 3232
-    },
-    "createdAt": "2026-06-20T06:24:50.504Z"
-  },
-  {
-    "id": "github-chatwoot-chatwoot",
-    "source": "github",
-    "title": "chatwoot / chatwoot",
-    "url": "https://github.com/chatwoot/chatwoot",
-    "score": 32761,
-    "metadata": {
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "starsToday": 2094
-    },
-    "createdAt": "2026-06-20T06:24:50.504Z"
+    "createdAt": "2026-06-27T05:56:06.023Z"
   }
 ]
