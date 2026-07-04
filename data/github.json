@@ -1,249 +1,275 @@
 [
   {
-    "id": "github-calesthio-OpenMontage",
+    "id": "github-xbtlin-ai-berkshire",
     "source": "github",
-    "title": "calesthio / OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "score": 23928,
+    "title": "xbtlin / ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "score": 9231,
     "metadata": {
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "starsToday": 17249
+      "starsToday": 6230
     },
-    "createdAt": "2026-06-27T05:56:06.020Z"
+    "createdAt": "2026-07-04T05:49:12.735Z"
+  },
+  {
+    "id": "github-simplex-chat-simplex-chat",
+    "source": "github",
+    "title": "simplex-chat / simplex-chat",
+    "url": "https://github.com/simplex-chat/simplex-chat",
+    "score": 17775,
+    "metadata": {
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "starsToday": 5971
+    },
+    "createdAt": "2026-07-04T05:49:12.736Z"
+  },
+  {
+    "id": "github-usestrix-strix",
+    "source": "github",
+    "title": "usestrix / strix",
+    "url": "https://github.com/usestrix/strix",
+    "score": 34923,
+    "metadata": {
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "starsToday": 7567
+    },
+    "createdAt": "2026-07-04T05:49:12.736Z"
+  },
+  {
+    "id": "github-Robbyant-lingbot-map",
+    "source": "github",
+    "title": "Robbyant / lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "score": 9610,
+    "metadata": {
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "starsToday": 2171
+    },
+    "createdAt": "2026-07-04T05:49:12.737Z"
   },
   {
     "id": "github-DeusData-codebase-memory-mcp",
     "source": "github",
     "title": "DeusData / codebase-memory-mcp",
     "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "score": 15948,
+    "score": 25678,
     "metadata": {
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "starsToday": 7592
+      "starsToday": 10186
     },
-    "createdAt": "2026-06-27T05:56:06.020Z"
+    "createdAt": "2026-07-04T05:49:12.738Z"
   },
   {
-    "id": "github-BuilderIO-agent-native",
+    "id": "github-diegosouzapw-OmniRoute",
     "source": "github",
-    "title": "BuilderIO / agent-native",
-    "url": "https://github.com/BuilderIO/agent-native",
-    "score": 2581,
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "score": 10961,
     "metadata": {
-      "description": "A framework for building agent-native applications.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "starsToday": 1569
+      "starsToday": 3631
     },
-    "createdAt": "2026-06-27T05:56:06.021Z"
+    "createdAt": "2026-07-04T05:49:12.738Z"
   },
   {
-    "id": "github-kunchenguid-no-mistakes",
+    "id": "github-browser-use-video-use",
     "source": "github",
-    "title": "kunchenguid / no-mistakes",
-    "url": "https://github.com/kunchenguid/no-mistakes",
-    "score": 3552,
+    "title": "browser-use / video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "score": 14464,
     "metadata": {
-      "description": "git push no-mistakes",
-      "language": "Go",
-      "starsToday": 1744
-    },
-    "createdAt": "2026-06-27T05:56:06.021Z"
-  },
-  {
-    "id": "github-penpot-penpot",
-    "source": "github",
-    "title": "penpot / penpot",
-    "url": "https://github.com/penpot/penpot",
-    "score": 54015,
-    "metadata": {
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "starsToday": 3560
-    },
-    "createdAt": "2026-06-27T05:56:06.021Z"
-  },
-  {
-    "id": "github-ZhuLinsen-daily_stock_analysis",
-    "source": "github",
-    "title": "ZhuLinsen / daily_stock_analysis",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "score": 50206,
-    "metadata": {
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description": "Edit videos with coding agents",
       "language": "Python",
-      "starsToday": 6919
+      "starsToday": 4056
     },
-    "createdAt": "2026-06-27T05:56:06.021Z"
+    "createdAt": "2026-07-04T05:49:12.739Z"
   },
   {
-    "id": "github-jamiepine-voicebox",
+    "id": "github-topoteretes-cognee",
     "source": "github",
-    "title": "jamiepine / voicebox",
-    "url": "https://github.com/jamiepine/voicebox",
-    "score": 34573,
+    "title": "topoteretes / cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "score": 26842,
     "metadata": {
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "starsToday": 3819
-    },
-    "createdAt": "2026-06-27T05:56:06.022Z"
-  },
-  {
-    "id": "github-Panniantong-Agent-Reach",
-    "source": "github",
-    "title": "Panniantong / Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "score": 42613,
-    "metadata": {
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "language": "Python",
-      "starsToday": 7199
+      "starsToday": 4001
     },
-    "createdAt": "2026-06-27T05:56:06.022Z"
+    "createdAt": "2026-07-04T05:49:12.739Z"
   },
   {
-    "id": "github-koala73-worldmonitor",
+    "id": "github-ogulcancelik-herdr",
     "source": "github",
-    "title": "koala73 / worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
-    "score": 60174,
+    "title": "ogulcancelik / herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "score": 10912,
     "metadata": {
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "starsToday": 3170
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "starsToday": 3024
     },
-    "createdAt": "2026-06-27T05:56:06.022Z"
-  },
-  {
-    "id": "github-stablyai-orca",
-    "source": "github",
-    "title": "stablyai / orca",
-    "url": "https://github.com/stablyai/orca",
-    "score": 7995,
-    "metadata": {
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "starsToday": 2398
-    },
-    "createdAt": "2026-06-27T05:56:06.022Z"
-  },
-  {
-    "id": "github-mukul975-Anthropic-Cybersecurity-Skills",
-    "source": "github",
-    "title": "mukul975 / Anthropic-Cybersecurity-Skills",
-    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "score": 21864,
-    "metadata": {
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "starsToday": 5109
-    },
-    "createdAt": "2026-06-27T05:56:06.022Z"
-  },
-  {
-    "id": "github-asgeirtj-system_prompts_leaks",
-    "source": "github",
-    "title": "asgeirtj / system_prompts_leaks",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "score": 46401,
-    "metadata": {
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "starsToday": 2864
-    },
-    "createdAt": "2026-06-27T05:56:06.023Z"
-  },
-  {
-    "id": "github-interviewstreet-hiring-agent",
-    "source": "github",
-    "title": "interviewstreet / hiring-agent",
-    "url": "https://github.com/interviewstreet/hiring-agent",
-    "score": 2946,
-    "metadata": {
-      "description": "AI agent to evaluate and score resumes.",
-      "language": "Python",
-      "starsToday": 1727
-    },
-    "createdAt": "2026-06-27T05:56:06.023Z"
-  },
-  {
-    "id": "github-google-labs-code-design.md",
-    "source": "github",
-    "title": "google-labs-code / design.md",
-    "url": "https://github.com/google-labs-code/design.md",
-    "score": 21565,
-    "metadata": {
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "language": "TypeScript",
-      "starsToday": 4618
-    },
-    "createdAt": "2026-06-27T05:56:06.023Z"
+    "createdAt": "2026-07-04T05:49:12.740Z"
   },
   {
     "id": "github-JCodesMore-ai-website-cloner-template",
     "source": "github",
     "title": "JCodesMore / ai-website-cloner-template",
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-    "score": 21495,
+    "score": 25346,
     "metadata": {
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "starsToday": 3906
+      "starsToday": 4205
     },
-    "createdAt": "2026-06-27T05:56:06.023Z"
+    "createdAt": "2026-07-04T05:49:12.740Z"
   },
   {
-    "id": "github-mattpocock-skills",
+    "id": "github-google-labs-code-design.md",
     "source": "github",
-    "title": "mattpocock / skills",
-    "url": "https://github.com/mattpocock/skills",
-    "score": 147652,
+    "title": "google-labs-code / design.md",
+    "url": "https://github.com/google-labs-code/design.md",
+    "score": 24668,
     "metadata": {
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "starsToday": 11060
-    },
-    "createdAt": "2026-06-27T05:56:06.023Z"
-  },
-  {
-    "id": "github-aws-agent-toolkit-for-aws",
-    "source": "github",
-    "title": "aws / agent-toolkit-for-aws",
-    "url": "https://github.com/aws/agent-toolkit-for-aws",
-    "score": 1398,
-    "metadata": {
-      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "language": "Python",
-      "starsToday": 349
-    },
-    "createdAt": "2026-06-27T05:56:06.023Z"
-  },
-  {
-    "id": "github-Stirling-Tools-Stirling-PDF",
-    "source": "github",
-    "title": "Stirling-Tools / Stirling-PDF",
-    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-    "score": 84607,
-    "metadata": {
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "Java",
-      "starsToday": 3250
-    },
-    "createdAt": "2026-06-27T05:56:06.023Z"
-  },
-  {
-    "id": "github-Kong-insomnia",
-    "source": "github",
-    "title": "Kong / insomnia",
-    "url": "https://github.com/Kong/insomnia",
-    "score": 39799,
-    "metadata": {
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "starsToday": 981
+      "starsToday": 4101
     },
-    "createdAt": "2026-06-27T05:56:06.023Z"
+    "createdAt": "2026-07-04T05:49:12.740Z"
+  },
+  {
+    "id": "github-kunchenguid-no-mistakes",
+    "source": "github",
+    "title": "kunchenguid / no-mistakes",
+    "url": "https://github.com/kunchenguid/no-mistakes",
+    "score": 5118,
+    "metadata": {
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "starsToday": 1868
+    },
+    "createdAt": "2026-07-04T05:49:12.741Z"
+  },
+  {
+    "id": "github-logto-io-logto",
+    "source": "github",
+    "title": "logto-io / logto",
+    "url": "https://github.com/logto-io/logto",
+    "score": 13634,
+    "metadata": {
+      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "language": "TypeScript",
+      "starsToday": 1368
+    },
+    "createdAt": "2026-07-04T05:49:12.741Z"
+  },
+  {
+    "id": "github-msitarzewski-agency-agents",
+    "source": "github",
+    "title": "msitarzewski / agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "score": 126640,
+    "metadata": {
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "starsToday": 10483
+    },
+    "createdAt": "2026-07-04T05:49:12.741Z"
+  },
+  {
+    "id": "github-stablyai-orca",
+    "source": "github",
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "score": 11765,
+    "metadata": {
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "starsToday": 3700
+    },
+    "createdAt": "2026-07-04T05:49:12.742Z"
+  },
+  {
+    "id": "github-calesthio-OpenMontage",
+    "source": "github",
+    "title": "calesthio / OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "score": 32573,
+    "metadata": {
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "starsToday": 9213
+    },
+    "createdAt": "2026-07-04T05:49:12.742Z"
+  },
+  {
+    "id": "github-craft-ai-agents-craft-agents-oss",
+    "source": "github",
+    "title": "craft-ai-agents / craft-agents-oss",
+    "url": "https://github.com/craft-ai-agents/craft-agents-oss",
+    "score": 6682,
+    "metadata": {
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 354
+    },
+    "createdAt": "2026-07-04T05:49:12.742Z"
+  },
+  {
+    "id": "github-interviewstreet-hiring-agent",
+    "source": "github",
+    "title": "interviewstreet / hiring-agent",
+    "url": "https://github.com/interviewstreet/hiring-agent",
+    "score": 4567,
+    "metadata": {
+      "description": "AI agent to evaluate and score resumes.",
+      "language": "Python",
+      "starsToday": 1643
+    },
+    "createdAt": "2026-07-04T05:49:12.743Z"
+  },
+  {
+    "id": "github-mauriceboe-TREK",
+    "source": "github",
+    "title": "mauriceboe / TREK",
+    "url": "https://github.com/mauriceboe/TREK",
+    "score": 9095,
+    "metadata": {
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "starsToday": 1771
+    },
+    "createdAt": "2026-07-04T05:49:12.743Z"
+  },
+  {
+    "id": "github-openai-codex-plugin-cc",
+    "source": "github",
+    "title": "openai / codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "score": 23378,
+    "metadata": {
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "starsToday": 1296
+    },
+    "createdAt": "2026-07-04T05:49:12.743Z"
+  },
+  {
+    "id": "github-alibaba-page-agent",
+    "source": "github",
+    "title": "alibaba / page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "score": 22556,
+    "metadata": {
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "starsToday": 1901
+    },
+    "createdAt": "2026-07-04T05:49:12.743Z"
   }
 ]
