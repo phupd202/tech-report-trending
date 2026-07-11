@@ -1,275 +1,275 @@
 [
   {
-    "id": "github-xbtlin-ai-berkshire",
+    "id": "github-Zackriya-Solutions-meetily",
     "source": "github",
-    "title": "xbtlin / ai-berkshire",
-    "url": "https://github.com/xbtlin/ai-berkshire",
-    "score": 9231,
+    "title": "Zackriya-Solutions / meetily",
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "score": 22774,
     "metadata": {
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "starsToday": 6230
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. The #1 Ai Meeting Minutes generator.",
+      "language": "Rust",
+      "starsToday": 8795
     },
-    "createdAt": "2026-07-04T05:49:12.735Z"
+    "createdAt": "2026-07-11T05:16:07.383Z"
   },
   {
-    "id": "github-simplex-chat-simplex-chat",
+    "id": "github-asgeirtj-system_prompts_leaks",
     "source": "github",
-    "title": "simplex-chat / simplex-chat",
-    "url": "https://github.com/simplex-chat/simplex-chat",
-    "score": 17775,
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "score": 55900,
     "metadata": {
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "starsToday": 5971
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "starsToday": 7765
     },
-    "createdAt": "2026-07-04T05:49:12.736Z"
+    "createdAt": "2026-07-11T05:16:07.384Z"
   },
   {
     "id": "github-usestrix-strix",
     "source": "github",
     "title": "usestrix / strix",
     "url": "https://github.com/usestrix/strix",
-    "score": 34923,
+    "score": 40231,
     "metadata": {
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "starsToday": 7567
+      "starsToday": 6443
     },
-    "createdAt": "2026-07-04T05:49:12.736Z"
-  },
-  {
-    "id": "github-Robbyant-lingbot-map",
-    "source": "github",
-    "title": "Robbyant / lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "score": 9610,
-    "metadata": {
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "starsToday": 2171
-    },
-    "createdAt": "2026-07-04T05:49:12.737Z"
-  },
-  {
-    "id": "github-DeusData-codebase-memory-mcp",
-    "source": "github",
-    "title": "DeusData / codebase-memory-mcp",
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "score": 25678,
-    "metadata": {
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "starsToday": 10186
-    },
-    "createdAt": "2026-07-04T05:49:12.738Z"
-  },
-  {
-    "id": "github-diegosouzapw-OmniRoute",
-    "source": "github",
-    "title": "diegosouzapw / OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "score": 10961,
-    "metadata": {
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "starsToday": 3631
-    },
-    "createdAt": "2026-07-04T05:49:12.738Z"
-  },
-  {
-    "id": "github-browser-use-video-use",
-    "source": "github",
-    "title": "browser-use / video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "score": 14464,
-    "metadata": {
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "starsToday": 4056
-    },
-    "createdAt": "2026-07-04T05:49:12.739Z"
-  },
-  {
-    "id": "github-topoteretes-cognee",
-    "source": "github",
-    "title": "topoteretes / cognee",
-    "url": "https://github.com/topoteretes/cognee",
-    "score": 26842,
-    "metadata": {
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "starsToday": 4001
-    },
-    "createdAt": "2026-07-04T05:49:12.739Z"
-  },
-  {
-    "id": "github-ogulcancelik-herdr",
-    "source": "github",
-    "title": "ogulcancelik / herdr",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "score": 10912,
-    "metadata": {
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "starsToday": 3024
-    },
-    "createdAt": "2026-07-04T05:49:12.740Z"
-  },
-  {
-    "id": "github-JCodesMore-ai-website-cloner-template",
-    "source": "github",
-    "title": "JCodesMore / ai-website-cloner-template",
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-    "score": 25346,
-    "metadata": {
-      "description": "Clone any website with one command using AI coding agents",
-      "language": "TypeScript",
-      "starsToday": 4205
-    },
-    "createdAt": "2026-07-04T05:49:12.740Z"
-  },
-  {
-    "id": "github-google-labs-code-design.md",
-    "source": "github",
-    "title": "google-labs-code / design.md",
-    "url": "https://github.com/google-labs-code/design.md",
-    "score": 24668,
-    "metadata": {
-      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "language": "TypeScript",
-      "starsToday": 4101
-    },
-    "createdAt": "2026-07-04T05:49:12.740Z"
-  },
-  {
-    "id": "github-kunchenguid-no-mistakes",
-    "source": "github",
-    "title": "kunchenguid / no-mistakes",
-    "url": "https://github.com/kunchenguid/no-mistakes",
-    "score": 5118,
-    "metadata": {
-      "description": "git push no-mistakes",
-      "language": "Go",
-      "starsToday": 1868
-    },
-    "createdAt": "2026-07-04T05:49:12.741Z"
-  },
-  {
-    "id": "github-logto-io-logto",
-    "source": "github",
-    "title": "logto-io / logto",
-    "url": "https://github.com/logto-io/logto",
-    "score": 13634,
-    "metadata": {
-      "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-      "language": "TypeScript",
-      "starsToday": 1368
-    },
-    "createdAt": "2026-07-04T05:49:12.741Z"
-  },
-  {
-    "id": "github-msitarzewski-agency-agents",
-    "source": "github",
-    "title": "msitarzewski / agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "score": 126640,
-    "metadata": {
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "starsToday": 10483
-    },
-    "createdAt": "2026-07-04T05:49:12.741Z"
-  },
-  {
-    "id": "github-stablyai-orca",
-    "source": "github",
-    "title": "stablyai / orca",
-    "url": "https://github.com/stablyai/orca",
-    "score": 11765,
-    "metadata": {
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "starsToday": 3700
-    },
-    "createdAt": "2026-07-04T05:49:12.742Z"
-  },
-  {
-    "id": "github-calesthio-OpenMontage",
-    "source": "github",
-    "title": "calesthio / OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "score": 32573,
-    "metadata": {
-      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "starsToday": 9213
-    },
-    "createdAt": "2026-07-04T05:49:12.742Z"
-  },
-  {
-    "id": "github-craft-ai-agents-craft-agents-oss",
-    "source": "github",
-    "title": "craft-ai-agents / craft-agents-oss",
-    "url": "https://github.com/craft-ai-agents/craft-agents-oss",
-    "score": 6682,
-    "metadata": {
-      "description": "",
-      "language": "TypeScript",
-      "starsToday": 354
-    },
-    "createdAt": "2026-07-04T05:49:12.742Z"
-  },
-  {
-    "id": "github-interviewstreet-hiring-agent",
-    "source": "github",
-    "title": "interviewstreet / hiring-agent",
-    "url": "https://github.com/interviewstreet/hiring-agent",
-    "score": 4567,
-    "metadata": {
-      "description": "AI agent to evaluate and score resumes.",
-      "language": "Python",
-      "starsToday": 1643
-    },
-    "createdAt": "2026-07-04T05:49:12.743Z"
-  },
-  {
-    "id": "github-mauriceboe-TREK",
-    "source": "github",
-    "title": "mauriceboe / TREK",
-    "url": "https://github.com/mauriceboe/TREK",
-    "score": 9095,
-    "metadata": {
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "language": "TypeScript",
-      "starsToday": 1771
-    },
-    "createdAt": "2026-07-04T05:49:12.743Z"
+    "createdAt": "2026-07-11T05:16:07.384Z"
   },
   {
     "id": "github-openai-codex-plugin-cc",
     "source": "github",
     "title": "openai / codex-plugin-cc",
     "url": "https://github.com/openai/codex-plugin-cc",
-    "score": 23378,
+    "score": 27467,
     "metadata": {
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "starsToday": 1296
+      "starsToday": 4484
     },
-    "createdAt": "2026-07-04T05:49:12.743Z"
+    "createdAt": "2026-07-11T05:16:07.385Z"
+  },
+  {
+    "id": "github-ogulcancelik-herdr",
+    "source": "github",
+    "title": "ogulcancelik / herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "score": 15276,
+    "metadata": {
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "starsToday": 4714
+    },
+    "createdAt": "2026-07-11T05:16:07.386Z"
+  },
+  {
+    "id": "github-bradautomates-claude-video",
+    "source": "github",
+    "title": "bradautomates / claude-video",
+    "url": "https://github.com/bradautomates/claude-video",
+    "score": 7280,
+    "metadata": {
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "starsToday": 4093
+    },
+    "createdAt": "2026-07-11T05:16:07.386Z"
+  },
+  {
+    "id": "github-facebook-astryx",
+    "source": "github",
+    "title": "facebook / astryx",
+    "url": "https://github.com/facebook/astryx",
+    "score": 7782,
+    "metadata": {
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "starsToday": 3582
+    },
+    "createdAt": "2026-07-11T05:16:07.387Z"
   },
   {
     "id": "github-alibaba-page-agent",
     "source": "github",
     "title": "alibaba / page-agent",
     "url": "https://github.com/alibaba/page-agent",
-    "score": 22556,
+    "score": 25877,
     "metadata": {
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "starsToday": 1901
+      "starsToday": 3799
     },
-    "createdAt": "2026-07-04T05:49:12.743Z"
+    "createdAt": "2026-07-11T05:16:07.387Z"
+  },
+  {
+    "id": "github-TencentCloud-CubeSandbox",
+    "source": "github",
+    "title": "TencentCloud / CubeSandbox",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "score": 9605,
+    "metadata": {
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "starsToday": 2514
+    },
+    "createdAt": "2026-07-11T05:16:07.388Z"
+  },
+  {
+    "id": "github-diegosouzapw-OmniRoute",
+    "source": "github",
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "score": 15178,
+    "metadata": {
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "starsToday": 4268
+    },
+    "createdAt": "2026-07-11T05:16:07.388Z"
+  },
+  {
+    "id": "github-stablyai-orca",
+    "source": "github",
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "score": 16040,
+    "metadata": {
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "starsToday": 4328
+    },
+    "createdAt": "2026-07-11T05:16:07.389Z"
+  },
+  {
+    "id": "github-huggingface-speech-to-speech",
+    "source": "github",
+    "title": "huggingface / speech-to-speech",
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "score": 6030,
+    "metadata": {
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "starsToday": 811
+    },
+    "createdAt": "2026-07-11T05:16:07.389Z"
+  },
+  {
+    "id": "github-ruvnet-RuView",
+    "source": "github",
+    "title": "ruvnet / RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "score": 79911,
+    "metadata": {
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "starsToday": 3657
+    },
+    "createdAt": "2026-07-11T05:16:07.389Z"
+  },
+  {
+    "id": "github-tt-a1i-archify",
+    "source": "github",
+    "title": "tt-a1i / archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "score": 3486,
+    "metadata": {
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "language": "JavaScript",
+      "starsToday": 1019
+    },
+    "createdAt": "2026-07-11T05:16:07.390Z"
+  },
+  {
+    "id": "github-iOfficeAI-OfficeCLI",
+    "source": "github",
+    "title": "iOfficeAI / OfficeCLI",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "score": 14577,
+    "metadata": {
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "starsToday": 5789
+    },
+    "createdAt": "2026-07-11T05:16:07.390Z"
+  },
+  {
+    "id": "github-xbtlin-ai-berkshire",
+    "source": "github",
+    "title": "xbtlin / ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "score": 12673,
+    "metadata": {
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "starsToday": 3596
+    },
+    "createdAt": "2026-07-11T05:16:07.391Z"
+  },
+  {
+    "id": "github-wonderwhy-er-DesktopCommanderMCP",
+    "source": "github",
+    "title": "wonderwhy-er / DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "score": 7419,
+    "metadata": {
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "starsToday": 557
+    },
+    "createdAt": "2026-07-11T05:16:07.391Z"
+  },
+  {
+    "id": "github-dotnet-skills",
+    "source": "github",
+    "title": "dotnet / skills",
+    "url": "https://github.com/dotnet/skills",
+    "score": 4557,
+    "metadata": {
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "starsToday": 914
+    },
+    "createdAt": "2026-07-11T05:16:07.391Z"
+  },
+  {
+    "id": "github-alirezarezvani-claude-skills",
+    "source": "github",
+    "title": "alirezarezvani / claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "score": 22101,
+    "metadata": {
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "starsToday": 2230
+    },
+    "createdAt": "2026-07-11T05:16:07.392Z"
+  },
+  {
+    "id": "github-JuliusBrussee-caveman",
+    "source": "github",
+    "title": "JuliusBrussee / caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "score": 87819,
+    "metadata": {
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "starsToday": 5348
+    },
+    "createdAt": "2026-07-11T05:16:07.392Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 76940,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "starsToday": 7944
+    },
+    "createdAt": "2026-07-11T05:16:07.393Z"
   }
 ]

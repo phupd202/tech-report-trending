@@ -1,5 +1,655 @@
 [
   {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 76940,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "starsToday": 7944
+    },
+    "createdAt": "2026-07-11T05:16:07.393Z"
+  },
+  {
+    "id": "github-alirezarezvani-claude-skills",
+    "source": "github",
+    "title": "alirezarezvani / claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "score": 22101,
+    "metadata": {
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "language": "Python",
+      "starsToday": 2230
+    },
+    "createdAt": "2026-07-11T05:16:07.392Z"
+  },
+  {
+    "id": "github-JuliusBrussee-caveman",
+    "source": "github",
+    "title": "JuliusBrussee / caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "score": 87819,
+    "metadata": {
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "starsToday": 5348
+    },
+    "createdAt": "2026-07-11T05:16:07.392Z"
+  },
+  {
+    "id": "github-xbtlin-ai-berkshire",
+    "source": "github",
+    "title": "xbtlin / ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "score": 12673,
+    "metadata": {
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "starsToday": 3596
+    },
+    "createdAt": "2026-07-11T05:16:07.391Z"
+  },
+  {
+    "id": "github-wonderwhy-er-DesktopCommanderMCP",
+    "source": "github",
+    "title": "wonderwhy-er / DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "score": 7419,
+    "metadata": {
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "starsToday": 557
+    },
+    "createdAt": "2026-07-11T05:16:07.391Z"
+  },
+  {
+    "id": "github-dotnet-skills",
+    "source": "github",
+    "title": "dotnet / skills",
+    "url": "https://github.com/dotnet/skills",
+    "score": 4557,
+    "metadata": {
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "starsToday": 914
+    },
+    "createdAt": "2026-07-11T05:16:07.391Z"
+  },
+  {
+    "id": "github-tt-a1i-archify",
+    "source": "github",
+    "title": "tt-a1i / archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "score": 3486,
+    "metadata": {
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "language": "JavaScript",
+      "starsToday": 1019
+    },
+    "createdAt": "2026-07-11T05:16:07.390Z"
+  },
+  {
+    "id": "github-iOfficeAI-OfficeCLI",
+    "source": "github",
+    "title": "iOfficeAI / OfficeCLI",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "score": 14577,
+    "metadata": {
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "starsToday": 5789
+    },
+    "createdAt": "2026-07-11T05:16:07.390Z"
+  },
+  {
+    "id": "github-stablyai-orca",
+    "source": "github",
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "score": 16040,
+    "metadata": {
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "starsToday": 4328
+    },
+    "createdAt": "2026-07-11T05:16:07.389Z"
+  },
+  {
+    "id": "github-ruvnet-RuView",
+    "source": "github",
+    "title": "ruvnet / RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "score": 79911,
+    "metadata": {
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "starsToday": 3657
+    },
+    "createdAt": "2026-07-11T05:16:07.389Z"
+  },
+  {
+    "id": "github-huggingface-speech-to-speech",
+    "source": "github",
+    "title": "huggingface / speech-to-speech",
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "score": 6030,
+    "metadata": {
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "starsToday": 811
+    },
+    "createdAt": "2026-07-11T05:16:07.389Z"
+  },
+  {
+    "id": "github-diegosouzapw-OmniRoute",
+    "source": "github",
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "score": 15178,
+    "metadata": {
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "starsToday": 4268
+    },
+    "createdAt": "2026-07-11T05:16:07.388Z"
+  },
+  {
+    "id": "github-TencentCloud-CubeSandbox",
+    "source": "github",
+    "title": "TencentCloud / CubeSandbox",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "score": 9605,
+    "metadata": {
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "starsToday": 2514
+    },
+    "createdAt": "2026-07-11T05:16:07.388Z"
+  },
+  {
+    "id": "github-alibaba-page-agent",
+    "source": "github",
+    "title": "alibaba / page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "score": 25877,
+    "metadata": {
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "starsToday": 3799
+    },
+    "createdAt": "2026-07-11T05:16:07.387Z"
+  },
+  {
+    "id": "github-facebook-astryx",
+    "source": "github",
+    "title": "facebook / astryx",
+    "url": "https://github.com/facebook/astryx",
+    "score": 7782,
+    "metadata": {
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "starsToday": 3582
+    },
+    "createdAt": "2026-07-11T05:16:07.387Z"
+  },
+  {
+    "id": "github-ogulcancelik-herdr",
+    "source": "github",
+    "title": "ogulcancelik / herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "score": 15276,
+    "metadata": {
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "starsToday": 4714
+    },
+    "createdAt": "2026-07-11T05:16:07.386Z"
+  },
+  {
+    "id": "github-bradautomates-claude-video",
+    "source": "github",
+    "title": "bradautomates / claude-video",
+    "url": "https://github.com/bradautomates/claude-video",
+    "score": 7280,
+    "metadata": {
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "starsToday": 4093
+    },
+    "createdAt": "2026-07-11T05:16:07.386Z"
+  },
+  {
+    "id": "github-openai-codex-plugin-cc",
+    "source": "github",
+    "title": "openai / codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "score": 27467,
+    "metadata": {
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "starsToday": 4484
+    },
+    "createdAt": "2026-07-11T05:16:07.385Z"
+  },
+  {
+    "id": "github-usestrix-strix",
+    "source": "github",
+    "title": "usestrix / strix",
+    "url": "https://github.com/usestrix/strix",
+    "score": 40231,
+    "metadata": {
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "starsToday": 6443
+    },
+    "createdAt": "2026-07-11T05:16:07.384Z"
+  },
+  {
+    "id": "github-asgeirtj-system_prompts_leaks",
+    "source": "github",
+    "title": "asgeirtj / system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "score": 55900,
+    "metadata": {
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "starsToday": 7765
+    },
+    "createdAt": "2026-07-11T05:16:07.384Z"
+  },
+  {
+    "id": "github-Zackriya-Solutions-meetily",
+    "source": "github",
+    "title": "Zackriya-Solutions / meetily",
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "score": 22774,
+    "metadata": {
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. The #1 Ai Meeting Minutes generator.",
+      "language": "Rust",
+      "starsToday": 8795
+    },
+    "createdAt": "2026-07-11T05:16:07.383Z"
+  },
+  {
+    "id": "hackernews-48866134",
+    "source": "hackernews",
+    "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+    "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+    "score": 166,
+    "metadata": {
+      "author": "hhs",
+      "commentsCount": 55,
+      "hnUrl": "https://news.ycombinator.com/item?id=48866134"
+    },
+    "createdAt": "2026-07-10T22:30:44.000Z"
+  },
+  {
+    "id": "hackernews-48865019",
+    "source": "hackernews",
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+    "score": 788,
+    "metadata": {
+      "author": "stock_toaster",
+      "commentsCount": 393,
+      "hnUrl": "https://news.ycombinator.com/item?id=48865019"
+    },
+    "createdAt": "2026-07-10T20:47:09.000Z"
+  },
+  {
+    "id": "hackernews-48864969",
+    "source": "hackernews",
+    "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
+    "url": "https://nebusec.ai/research/ionstack-part-2/",
+    "score": 56,
+    "metadata": {
+      "author": "djfergus",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=48864969"
+    },
+    "createdAt": "2026-07-10T20:43:02.000Z"
+  },
+  {
+    "id": "hackernews-48864252",
+    "source": "hackernews",
+    "title": "An update on residential proxies and the scraper situation",
+    "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+    "score": 141,
+    "metadata": {
+      "author": "chmaynard",
+      "commentsCount": 128,
+      "hnUrl": "https://news.ycombinator.com/item?id=48864252"
+    },
+    "createdAt": "2026-07-10T19:38:34.000Z"
+  },
+  {
+    "id": "hackernews-48863490",
+    "source": "hackernews",
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "score": 401,
+    "metadata": {
+      "author": "scrlk",
+      "commentsCount": 309,
+      "hnUrl": "https://news.ycombinator.com/item?id=48863490"
+    },
+    "createdAt": "2026-07-10T18:29:19.000Z"
+  },
+  {
+    "id": "hackernews-48863464",
+    "source": "hackernews",
+    "title": "New York City to ban deceptive subscription practices",
+    "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+    "score": 477,
+    "metadata": {
+      "author": "randycupertino",
+      "commentsCount": 234,
+      "hnUrl": "https://news.ycombinator.com/item?id=48863464"
+    },
+    "createdAt": "2026-07-10T18:26:24.000Z"
+  },
+  {
+    "id": "hackernews-48863080",
+    "source": "hackernews",
+    "title": "War Atlas: An interactive cartography of every named war in human history",
+    "url": "https://waratlas.org",
+    "score": 136,
+    "metadata": {
+      "author": "NaOH",
+      "commentsCount": 58,
+      "hnUrl": "https://news.ycombinator.com/item?id=48863080"
+    },
+    "createdAt": "2026-07-10T17:52:48.000Z"
+  },
+  {
+    "id": "hackernews-48863064",
+    "source": "hackernews",
+    "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+    "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+    "score": 130,
+    "metadata": {
+      "author": "CrankyBear",
+      "commentsCount": 379,
+      "hnUrl": "https://news.ycombinator.com/item?id=48863064"
+    },
+    "createdAt": "2026-07-10T17:51:07.000Z"
+  },
+  {
+    "id": "hackernews-48862365",
+    "source": "hackernews",
+    "title": "The tech of 'Terminator 2' – an oral history (2017)",
+    "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+    "score": 194,
+    "metadata": {
+      "author": "markus_zhang",
+      "commentsCount": 70,
+      "hnUrl": "https://news.ycombinator.com/item?id=48862365"
+    },
+    "createdAt": "2026-07-10T16:48:41.000Z"
+  },
+  {
+    "id": "hackernews-48862252",
+    "source": "hackernews",
+    "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+    "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+    "score": 171,
+    "metadata": {
+      "author": "simonebrunozzi",
+      "commentsCount": 133,
+      "hnUrl": "https://news.ycombinator.com/item?id=48862252"
+    },
+    "createdAt": "2026-07-10T16:37:52.000Z"
+  },
+  {
+    "id": "hackernews-48861717",
+    "source": "hackernews",
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "score": 509,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 184,
+      "hnUrl": "https://news.ycombinator.com/item?id=48861717"
+    },
+    "createdAt": "2026-07-10T15:59:53.000Z"
+  },
+  {
+    "id": "hackernews-48861319",
+    "source": "hackernews",
+    "title": "A love letter to flashcards",
+    "url": "https://lesleylai.info/en/flashcards/",
+    "score": 140,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 88,
+      "hnUrl": "https://news.ycombinator.com/item?id=48861319"
+    },
+    "createdAt": "2026-07-10T15:30:44.000Z"
+  },
+  {
+    "id": "hackernews-48861213",
+    "source": "hackernews",
+    "title": "Computation as a universal and fundamental concept",
+    "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+    "score": 108,
+    "metadata": {
+      "author": "simonpure",
+      "commentsCount": 79,
+      "hnUrl": "https://news.ycombinator.com/item?id=48861213"
+    },
+    "createdAt": "2026-07-10T15:23:42.000Z"
+  },
+  {
+    "id": "hackernews-48859678",
+    "source": "hackernews",
+    "title": "Successful Companies Go Blind",
+    "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+    "score": 202,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 71,
+      "hnUrl": "https://news.ycombinator.com/item?id=48859678"
+    },
+    "createdAt": "2026-07-10T13:31:08.000Z"
+  },
+  {
+    "id": "hackernews-48859673",
+    "source": "hackernews",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+    "url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
+    "score": 101,
+    "metadata": {
+      "author": "aviaviavi",
+      "commentsCount": 119,
+      "hnUrl": "https://news.ycombinator.com/item?id=48859673"
+    },
+    "createdAt": "2026-07-10T13:30:41.000Z"
+  },
+  {
+    "id": "hackernews-48858737",
+    "source": "hackernews",
+    "title": "Late Bronze Age Collapse",
+    "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "score": 345,
+    "metadata": {
+      "author": "dmonay",
+      "commentsCount": 235,
+      "hnUrl": "https://news.ycombinator.com/item?id=48858737"
+    },
+    "createdAt": "2026-07-10T11:59:55.000Z"
+  },
+  {
+    "id": "hackernews-48858121",
+    "source": "hackernews",
+    "title": "Good Tools Are Invisible",
+    "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "score": 387,
+    "metadata": {
+      "author": "theanonymousone",
+      "commentsCount": 182,
+      "hnUrl": "https://news.ycombinator.com/item?id=48858121"
+    },
+    "createdAt": "2026-07-10T10:32:41.000Z"
+  },
+  {
+    "id": "hackernews-48848425",
+    "source": "hackernews",
+    "title": "AI 2040: Plan A",
+    "url": "https://ai-2040.com/",
+    "score": 196,
+    "metadata": {
+      "author": "kschaul",
+      "commentsCount": 201,
+      "hnUrl": "https://news.ycombinator.com/item?id=48848425"
+    },
+    "createdAt": "2026-07-09T16:21:44.000Z"
+  },
+  {
+    "id": "hackernews-48844046",
+    "source": "hackernews",
+    "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
+    "url": "https://github.com/dicroce/wyrm_math",
+    "score": 68,
+    "metadata": {
+      "author": "dicroce",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=48844046"
+    },
+    "createdAt": "2026-07-09T11:16:18.000Z"
+  },
+  {
+    "id": "hackernews-48842459",
+    "source": "hackernews",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "url": "https://github.com/JustVugg/colibri",
+    "score": 839,
+    "metadata": {
+      "author": "vforno",
+      "commentsCount": 207,
+      "hnUrl": "https://news.ycombinator.com/item?id=48842459"
+    },
+    "createdAt": "2026-07-09T08:05:04.000Z"
+  },
+  {
+    "id": "hackernews-48831814",
+    "source": "hackernews",
+    "title": "Preemption is GC for memory reordering (2019)",
+    "url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/",
+    "score": 21,
+    "metadata": {
+      "author": "mpweiher",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=48831814"
+    },
+    "createdAt": "2026-07-08T13:38:04.000Z"
+  },
+  {
+    "id": "hackernews-48825216",
+    "source": "hackernews",
+    "title": "Silent speech with ultrasound",
+    "url": "https://alephneuro.com/blog/silent-speech",
+    "score": 28,
+    "metadata": {
+      "author": "chrwn",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48825216"
+    },
+    "createdAt": "2026-07-07T23:06:09.000Z"
+  },
+  {
+    "id": "hackernews-48817539",
+    "source": "hackernews",
+    "title": "An iroh powered smart fan",
+    "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+    "score": 56,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48817539"
+    },
+    "createdAt": "2026-07-07T13:30:17.000Z"
+  },
+  {
+    "id": "hackernews-48814170",
+    "source": "hackernews",
+    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "score": 60,
+    "metadata": {
+      "author": "theanonymousone",
+      "commentsCount": 24,
+      "hnUrl": "https://news.ycombinator.com/item?id=48814170"
+    },
+    "createdAt": "2026-07-07T06:06:25.000Z"
+  },
+  {
+    "id": "hackernews-48813246",
+    "source": "hackernews",
+    "title": "The footgun of right-to-left decorative characters",
+    "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
+    "score": 28,
+    "metadata": {
+      "author": "dado3212",
+      "commentsCount": 16,
+      "hnUrl": "https://news.ycombinator.com/item?id=48813246"
+    },
+    "createdAt": "2026-07-07T03:04:46.000Z"
+  },
+  {
+    "id": "hackernews-48810543",
+    "source": "hackernews",
+    "title": "Alternate clock designs and time systems",
+    "url": "https://serialc.github.io/altClocks/",
+    "score": 122,
+    "metadata": {
+      "author": "ethanpil",
+      "commentsCount": 64,
+      "hnUrl": "https://news.ycombinator.com/item?id=48810543"
+    },
+    "createdAt": "2026-07-06T21:09:56.000Z"
+  },
+  {
+    "id": "hackernews-48807108",
+    "source": "hackernews",
+    "title": "Ask HN: Are systems ready for the first negative leap second?",
+    "url": "https://news.ycombinator.com/item?id=48807108",
+    "score": 64,
+    "metadata": {
+      "author": "Asmod4n",
+      "commentsCount": 67,
+      "hnUrl": "https://news.ycombinator.com/item?id=48807108"
+    },
+    "createdAt": "2026-07-06T16:41:26.000Z"
+  },
+  {
+    "id": "hackernews-48803707",
+    "source": "hackernews",
+    "title": "Lost city discovered beneath Egypt's desert with ancient church",
+    "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+    "score": 171,
+    "metadata": {
+      "author": "Bender",
+      "commentsCount": 89,
+      "hnUrl": "https://news.ycombinator.com/item?id=48803707"
+    },
+    "createdAt": "2026-07-06T12:32:57.000Z"
+  },
+  {
+    "id": "hackernews-48795900",
+    "source": "hackernews",
+    "title": "Combustion engine web-based simulator",
+    "url": "https://combustionlab.net",
+    "score": 142,
+    "metadata": {
+      "author": "mytuny",
+      "commentsCount": 63,
+      "hnUrl": "https://news.ycombinator.com/item?id=48795900"
+    },
+    "createdAt": "2026-07-05T17:11:38.000Z"
+  },
+  {
     "id": "github-interviewstreet-hiring-agent",
     "source": "github",
     "title": "interviewstreet / hiring-agent",
@@ -24,45 +674,6 @@
       "starsToday": 1771
     },
     "createdAt": "2026-07-04T05:49:12.743Z"
-  },
-  {
-    "id": "github-openai-codex-plugin-cc",
-    "source": "github",
-    "title": "openai / codex-plugin-cc",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "score": 23378,
-    "metadata": {
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "starsToday": 1296
-    },
-    "createdAt": "2026-07-04T05:49:12.743Z"
-  },
-  {
-    "id": "github-alibaba-page-agent",
-    "source": "github",
-    "title": "alibaba / page-agent",
-    "url": "https://github.com/alibaba/page-agent",
-    "score": 22556,
-    "metadata": {
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "starsToday": 1901
-    },
-    "createdAt": "2026-07-04T05:49:12.743Z"
-  },
-  {
-    "id": "github-stablyai-orca",
-    "source": "github",
-    "title": "stablyai / orca",
-    "url": "https://github.com/stablyai/orca",
-    "score": 11765,
-    "metadata": {
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "starsToday": 3700
-    },
-    "createdAt": "2026-07-04T05:49:12.742Z"
   },
   {
     "id": "github-calesthio-OpenMontage",
@@ -156,19 +767,6 @@
     "createdAt": "2026-07-04T05:49:12.740Z"
   },
   {
-    "id": "github-ogulcancelik-herdr",
-    "source": "github",
-    "title": "ogulcancelik / herdr",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "score": 10912,
-    "metadata": {
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "starsToday": 3024
-    },
-    "createdAt": "2026-07-04T05:49:12.740Z"
-  },
-  {
     "id": "github-browser-use-video-use",
     "source": "github",
     "title": "browser-use / video-use",
@@ -208,19 +806,6 @@
     "createdAt": "2026-07-04T05:49:12.738Z"
   },
   {
-    "id": "github-diegosouzapw-OmniRoute",
-    "source": "github",
-    "title": "diegosouzapw / OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "score": 10961,
-    "metadata": {
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "starsToday": 3631
-    },
-    "createdAt": "2026-07-04T05:49:12.738Z"
-  },
-  {
     "id": "github-Robbyant-lingbot-map",
     "source": "github",
     "title": "Robbyant / lingbot-map",
@@ -245,32 +830,6 @@
       "starsToday": 5971
     },
     "createdAt": "2026-07-04T05:49:12.736Z"
-  },
-  {
-    "id": "github-usestrix-strix",
-    "source": "github",
-    "title": "usestrix / strix",
-    "url": "https://github.com/usestrix/strix",
-    "score": 34923,
-    "metadata": {
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "starsToday": 7567
-    },
-    "createdAt": "2026-07-04T05:49:12.736Z"
-  },
-  {
-    "id": "github-xbtlin-ai-berkshire",
-    "source": "github",
-    "title": "xbtlin / ai-berkshire",
-    "url": "https://github.com/xbtlin/ai-berkshire",
-    "score": 9231,
-    "metadata": {
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "starsToday": 6230
-    },
-    "createdAt": "2026-07-04T05:49:12.735Z"
   },
   {
     "id": "hackernews-48782671",
@@ -648,19 +1207,6 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48730953"
     },
     "createdAt": "2026-06-30T11:07:38.000Z"
-  },
-  {
-    "id": "github-asgeirtj-system_prompts_leaks",
-    "source": "github",
-    "title": "asgeirtj / system_prompts_leaks",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks",
-    "score": 46401,
-    "metadata": {
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "starsToday": 2864
-    },
-    "createdAt": "2026-06-27T05:56:06.023Z"
   },
   {
     "id": "github-mattpocock-skills",
@@ -1350,19 +1896,6 @@
       "starsToday": 3025
     },
     "createdAt": "2026-06-20T06:24:50.499Z"
-  },
-  {
-    "id": "github-addyosmani-agent-skills",
-    "source": "github",
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "score": 63559,
-    "metadata": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "starsToday": 7170
-    },
-    "createdAt": "2026-06-20T06:24:50.498Z"
   },
   {
     "id": "github-chopratejas-headroom",
@@ -4338,19 +4871,6 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "starsToday": 695
-    },
-    "createdAt": "2026-06-11T03:13:24.704Z"
-  },
-  {
-    "id": "github-ruvnet-RuView",
-    "source": "github",
-    "title": "ruvnet / RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "score": 72939,
-    "metadata": {
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "starsToday": 420
     },
     "createdAt": "2026-06-11T03:13:24.704Z"
   },
