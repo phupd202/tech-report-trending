@@ -1,5 +1,629 @@
 [
   {
+    "id": "github-actions-checkout",
+    "source": "github",
+    "title": "actions / checkout",
+    "url": "https://github.com/actions/checkout",
+    "score": 8488,
+    "metadata": {
+      "description": "Action for checking out a repo",
+      "language": "TypeScript",
+      "starsToday": 159
+    },
+    "createdAt": "2026-07-18T04:51:13.775Z"
+  },
+  {
+    "id": "github-vercel-labs-native",
+    "source": "github",
+    "title": "vercel-labs / native",
+    "url": "https://github.com/vercel-labs/native",
+    "score": 6533,
+    "metadata": {
+      "description": "Toolkit for building native desktop apps",
+      "language": "Zig",
+      "starsToday": 854
+    },
+    "createdAt": "2026-07-18T04:51:13.775Z"
+  },
+  {
+    "id": "github-diegosouzapw-OmniRoute",
+    "source": "github",
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "score": 18431,
+    "metadata": {
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "starsToday": 3605
+    },
+    "createdAt": "2026-07-18T04:51:13.774Z"
+  },
+  {
+    "id": "github-ogulcancelik-herdr",
+    "source": "github",
+    "title": "ogulcancelik / herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "score": 17715,
+    "metadata": {
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "starsToday": 2512
+    },
+    "createdAt": "2026-07-18T04:51:13.774Z"
+  },
+  {
+    "id": "github-kangarooking-cangjie-skill",
+    "source": "github",
+    "title": "kangarooking / cangjie-skill",
+    "url": "https://github.com/kangarooking/cangjie-skill",
+    "score": 3535,
+    "metadata": {
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "language": "Python",
+      "starsToday": 1158
+    },
+    "createdAt": "2026-07-18T04:51:13.774Z"
+  },
+  {
+    "id": "github-openai-codex-plugin-cc",
+    "source": "github",
+    "title": "openai / codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "score": 29135,
+    "metadata": {
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "starsToday": 1801
+    },
+    "createdAt": "2026-07-18T04:51:13.773Z"
+  },
+  {
+    "id": "github-HKUDS-DeepTutor",
+    "source": "github",
+    "title": "HKUDS / DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "score": 27435,
+    "metadata": {
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "starsToday": 1801
+    },
+    "createdAt": "2026-07-18T04:51:13.773Z"
+  },
+  {
+    "id": "github-pbakaus-impeccable",
+    "source": "github",
+    "title": "pbakaus / impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "score": 47682,
+    "metadata": {
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "starsToday": 2331
+    },
+    "createdAt": "2026-07-18T04:51:13.773Z"
+  },
+  {
+    "id": "github-iOfficeAI-OfficeCLI",
+    "source": "github",
+    "title": "iOfficeAI / OfficeCLI",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "score": 18909,
+    "metadata": {
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "starsToday": 4611
+    },
+    "createdAt": "2026-07-18T04:51:13.772Z"
+  },
+  {
+    "id": "github-davila7-claude-code-templates",
+    "source": "github",
+    "title": "davila7 / claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "score": 29688,
+    "metadata": {
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "starsToday": 1084
+    },
+    "createdAt": "2026-07-18T04:51:13.772Z"
+  },
+  {
+    "id": "github-Shubhamsaboo-awesome-llm-apps",
+    "source": "github",
+    "title": "Shubhamsaboo / awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "score": 123658,
+    "metadata": {
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "starsToday": 6252
+    },
+    "createdAt": "2026-07-18T04:51:13.771Z"
+  },
+  {
+    "id": "github-oven-sh-bun",
+    "source": "github",
+    "title": "oven-sh / bun",
+    "url": "https://github.com/oven-sh/bun",
+    "score": 94806,
+    "metadata": {
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "starsToday": 1212
+    },
+    "createdAt": "2026-07-18T04:51:13.771Z"
+  },
+  {
+    "id": "github-stablyai-orca",
+    "source": "github",
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "score": 21256,
+    "metadata": {
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "starsToday": 5409
+    },
+    "createdAt": "2026-07-18T04:51:13.770Z"
+  },
+  {
+    "id": "github-wonderwhy-er-DesktopCommanderMCP",
+    "source": "github",
+    "title": "wonderwhy-er / DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "score": 8462,
+    "metadata": {
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "starsToday": 1657
+    },
+    "createdAt": "2026-07-18T04:51:13.769Z"
+  },
+  {
+    "id": "github-OpenCut-app-OpenCut",
+    "source": "github",
+    "title": "OpenCut-app / OpenCut",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "score": 74998,
+    "metadata": {
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "starsToday": 12718
+    },
+    "createdAt": "2026-07-18T04:51:13.769Z"
+  },
+  {
+    "id": "github-HKUDS-Vibe-Trading",
+    "source": "github",
+    "title": "HKUDS / Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "score": 24691,
+    "metadata": {
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "starsToday": 5616
+    },
+    "createdAt": "2026-07-18T04:51:13.768Z"
+  },
+  {
+    "id": "github-google-labs-code-stitch-skills",
+    "source": "github",
+    "title": "google-labs-code / stitch-skills",
+    "url": "https://github.com/google-labs-code/stitch-skills",
+    "score": 7628,
+    "metadata": {
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "starsToday": 1076
+    },
+    "createdAt": "2026-07-18T04:51:13.767Z"
+  },
+  {
+    "id": "github-abseil-abseil-cpp",
+    "source": "github",
+    "title": "abseil / abseil-cpp",
+    "url": "https://github.com/abseil/abseil-cpp",
+    "score": 17962,
+    "metadata": {
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "starsToday": 608
+    },
+    "createdAt": "2026-07-18T04:51:13.766Z"
+  },
+  {
+    "id": "github-Nutlope-hallmark",
+    "source": "github",
+    "title": "Nutlope / hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "score": 12186,
+    "metadata": {
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "starsToday": 8075
+    },
+    "createdAt": "2026-07-18T04:51:13.765Z"
+  },
+  {
+    "id": "hackernews-48955159",
+    "source": "hackernews",
+    "title": "Mac gaming is finally getting the overpowered upgrade it deserves",
+    "url": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
+    "score": 10,
+    "metadata": {
+      "author": "kristianp",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48955159"
+    },
+    "createdAt": "2026-07-18T04:13:00.000Z"
+  },
+  {
+    "id": "hackernews-48954175",
+    "source": "hackernews",
+    "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+    "url": "https://moonstone.sh/",
+    "score": 23,
+    "metadata": {
+      "author": "ksymph",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48954175"
+    },
+    "createdAt": "2026-07-18T01:18:15.000Z"
+  },
+  {
+    "id": "hackernews-48954149",
+    "source": "hackernews",
+    "title": "I Started a \"Dirt Notebook\"",
+    "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "score": 34,
+    "metadata": {
+      "author": "herbertl",
+      "commentsCount": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=48954149"
+    },
+    "createdAt": "2026-07-18T01:12:13.000Z"
+  },
+  {
+    "id": "hackernews-48953981",
+    "source": "hackernews",
+    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+    "url": "https://www.stenchill.com/en/",
+    "score": 21,
+    "metadata": {
+      "author": "radeeyate",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48953981"
+    },
+    "createdAt": "2026-07-18T00:48:37.000Z"
+  },
+  {
+    "id": "hackernews-48953406",
+    "source": "hackernews",
+    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+    "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+    "score": 52,
+    "metadata": {
+      "author": "andsoitis",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=48953406"
+    },
+    "createdAt": "2026-07-17T23:26:35.000Z"
+  },
+  {
+    "id": "hackernews-48952880",
+    "source": "hackernews",
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "score": 392,
+    "metadata": {
+      "author": "gnabgib",
+      "commentsCount": 262,
+      "hnUrl": "https://news.ycombinator.com/item?id=48952880"
+    },
+    "createdAt": "2026-07-17T22:26:30.000Z"
+  },
+  {
+    "id": "hackernews-48952565",
+    "source": "hackernews",
+    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+    "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+    "score": 65,
+    "metadata": {
+      "author": "BadChemical",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=48952565"
+    },
+    "createdAt": "2026-07-17T21:42:43.000Z"
+  },
+  {
+    "id": "hackernews-48952439",
+    "source": "hackernews",
+    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "score": 152,
+    "metadata": {
+      "author": "hmm37",
+      "commentsCount": 80,
+      "hnUrl": "https://news.ycombinator.com/item?id=48952439"
+    },
+    "createdAt": "2026-07-17T21:22:53.000Z"
+  },
+  {
+    "id": "hackernews-48952135",
+    "source": "hackernews",
+    "title": "Open Book Touch: open-source e-reader",
+    "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+    "score": 80,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 23,
+      "hnUrl": "https://news.ycombinator.com/item?id=48952135"
+    },
+    "createdAt": "2026-07-17T20:47:57.000Z"
+  },
+  {
+    "id": "hackernews-48952067",
+    "source": "hackernews",
+    "title": "Topcoat: The full full-stack framework for Rust",
+    "url": "https://github.com/tokio-rs/topcoat",
+    "score": 58,
+    "metadata": {
+      "author": "wertyk",
+      "commentsCount": 38,
+      "hnUrl": "https://news.ycombinator.com/item?id=48952067"
+    },
+    "createdAt": "2026-07-17T20:41:43.000Z"
+  },
+  {
+    "id": "hackernews-48951898",
+    "source": "hackernews",
+    "title": "Static search trees: 40x faster than binary search (2024)",
+    "url": "https://curiouscoding.nl/posts/static-search-tree/",
+    "score": 72,
+    "metadata": {
+      "author": "lalitmaganti",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=48951898"
+    },
+    "createdAt": "2026-07-17T20:24:55.000Z"
+  },
+  {
+    "id": "hackernews-48951780",
+    "source": "hackernews",
+    "title": "Painting the sides of railroad rails white to reduce derailment",
+    "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+    "score": 67,
+    "metadata": {
+      "author": "zdw",
+      "commentsCount": 37,
+      "hnUrl": "https://news.ycombinator.com/item?id=48951780"
+    },
+    "createdAt": "2026-07-17T20:12:59.000Z"
+  },
+  {
+    "id": "hackernews-48951461",
+    "source": "hackernews",
+    "title": "The Zilog Z80 has turned 50",
+    "url": "https://goliath32.com/blog/z80.html",
+    "score": 189,
+    "metadata": {
+      "author": "st_goliath",
+      "commentsCount": 56,
+      "hnUrl": "https://news.ycombinator.com/item?id=48951461"
+    },
+    "createdAt": "2026-07-17T19:41:02.000Z"
+  },
+  {
+    "id": "hackernews-48950774",
+    "source": "hackernews",
+    "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+    "url": "https://app.everything.diena.co/",
+    "score": 69,
+    "metadata": {
+      "author": "lortex",
+      "commentsCount": 30,
+      "hnUrl": "https://news.ycombinator.com/item?id=48950774"
+    },
+    "createdAt": "2026-07-17T18:37:33.000Z"
+  },
+  {
+    "id": "hackernews-48950518",
+    "source": "hackernews",
+    "title": "Lego building instructions through time",
+    "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+    "score": 87,
+    "metadata": {
+      "author": "NaOH",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=48950518"
+    },
+    "createdAt": "2026-07-17T18:21:14.000Z"
+  },
+  {
+    "id": "hackernews-48950122",
+    "source": "hackernews",
+    "title": "Learning a few things about running SQLite",
+    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "score": 196,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 50,
+      "hnUrl": "https://news.ycombinator.com/item?id=48950122"
+    },
+    "createdAt": "2026-07-17T17:45:41.000Z"
+  },
+  {
+    "id": "hackernews-48949551",
+    "source": "hackernews",
+    "title": "Thanks HN for 15 years of support and helping me find my life's work",
+    "url": "https://news.ycombinator.com/item?id=48949551",
+    "score": 450,
+    "metadata": {
+      "author": "nicholasjbs",
+      "commentsCount": 48,
+      "hnUrl": "https://news.ycombinator.com/item?id=48949551"
+    },
+    "createdAt": "2026-07-17T16:57:27.000Z"
+  },
+  {
+    "id": "hackernews-48947825",
+    "source": "hackernews",
+    "title": "The state of open source AI",
+    "url": "https://stateofopensource.ai/",
+    "score": 399,
+    "metadata": {
+      "author": "rellem",
+      "commentsCount": 293,
+      "hnUrl": "https://news.ycombinator.com/item?id=48947825"
+    },
+    "createdAt": "2026-07-17T14:31:10.000Z"
+  },
+  {
+    "id": "hackernews-48947717",
+    "source": "hackernews",
+    "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+    "score": 296,
+    "metadata": {
+      "author": "droidjj",
+      "commentsCount": 158,
+      "hnUrl": "https://news.ycombinator.com/item?id=48947717"
+    },
+    "createdAt": "2026-07-17T14:21:51.000Z"
+  },
+  {
+    "id": "hackernews-48947560",
+    "source": "hackernews",
+    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+    "score": 403,
+    "metadata": {
+      "author": "neversaydie",
+      "commentsCount": 248,
+      "hnUrl": "https://news.ycombinator.com/item?id=48947560"
+    },
+    "createdAt": "2026-07-17T14:06:13.000Z"
+  },
+  {
+    "id": "hackernews-48947548",
+    "source": "hackernews",
+    "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+    "url": "https://honeypotlive.cc/",
+    "score": 149,
+    "metadata": {
+      "author": "tusksm",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=48947548"
+    },
+    "createdAt": "2026-07-17T14:05:15.000Z"
+  },
+  {
+    "id": "hackernews-48947490",
+    "source": "hackernews",
+    "title": "Three ways people respond to a problem (other than solving it)",
+    "url": "https://improvesomething.today/responses-to-problems/",
+    "score": 215,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 117,
+      "hnUrl": "https://news.ycombinator.com/item?id=48947490"
+    },
+    "createdAt": "2026-07-17T14:00:04.000Z"
+  },
+  {
+    "id": "hackernews-48945241",
+    "source": "hackernews",
+    "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "url": "https://news.ycombinator.com/item?id=48945241",
+    "score": 1101,
+    "metadata": {
+      "author": "nprateem",
+      "commentsCount": 663,
+      "hnUrl": "https://news.ycombinator.com/item?id=48945241"
+    },
+    "createdAt": "2026-07-17T09:42:05.000Z"
+  },
+  {
+    "id": "hackernews-48910579",
+    "source": "hackernews",
+    "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
+    "url": "https://github.com/CharmingBlaze/moonbasic",
+    "score": 59,
+    "metadata": {
+      "author": "klaussilveira",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=48910579"
+    },
+    "createdAt": "2026-07-14T17:53:06.000Z"
+  },
+  {
+    "id": "hackernews-48907063",
+    "source": "hackernews",
+    "title": "Reviving a 15-year-old netbook with Arch Linux",
+    "url": "https://parksb.github.io/en/article/41.html",
+    "score": 17,
+    "metadata": {
+      "author": "parksb",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=48907063"
+    },
+    "createdAt": "2026-07-14T14:02:36.000Z"
+  },
+  {
+    "id": "hackernews-48906171",
+    "source": "hackernews",
+    "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+    "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+    "score": 22,
+    "metadata": {
+      "author": "bkardell",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=48906171"
+    },
+    "createdAt": "2026-07-14T12:59:58.000Z"
+  },
+  {
+    "id": "hackernews-48896149",
+    "source": "hackernews",
+    "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+    "url": "https://prathosh.in/vagdhenu/",
+    "score": 106,
+    "metadata": {
+      "author": "subinalex",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=48896149"
+    },
+    "createdAt": "2026-07-13T17:43:26.000Z"
+  },
+  {
+    "id": "hackernews-48887102",
+    "source": "hackernews",
+    "title": "Frank Lloyd Wright’s first home",
+    "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+    "score": 92,
+    "metadata": {
+      "author": "NaOH",
+      "commentsCount": 46,
+      "hnUrl": "https://news.ycombinator.com/item?id=48887102"
+    },
+    "createdAt": "2026-07-13T02:23:19.000Z"
+  },
+  {
+    "id": "hackernews-48874347",
+    "source": "hackernews",
+    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+    "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+    "score": 12,
+    "metadata": {
+      "author": "itvision",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=48874347"
+    },
+    "createdAt": "2026-07-11T18:20:49.000Z"
+  },
+  {
     "id": "github-addyosmani-agent-skills",
     "source": "github",
     "title": "addyosmani / agent-skills",
@@ -52,19 +676,6 @@
     "createdAt": "2026-07-11T05:16:07.391Z"
   },
   {
-    "id": "github-wonderwhy-er-DesktopCommanderMCP",
-    "source": "github",
-    "title": "wonderwhy-er / DesktopCommanderMCP",
-    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-    "score": 7419,
-    "metadata": {
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-      "language": "TypeScript",
-      "starsToday": 557
-    },
-    "createdAt": "2026-07-11T05:16:07.391Z"
-  },
-  {
     "id": "github-dotnet-skills",
     "source": "github",
     "title": "dotnet / skills",
@@ -91,32 +702,6 @@
     "createdAt": "2026-07-11T05:16:07.390Z"
   },
   {
-    "id": "github-iOfficeAI-OfficeCLI",
-    "source": "github",
-    "title": "iOfficeAI / OfficeCLI",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "score": 14577,
-    "metadata": {
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "starsToday": 5789
-    },
-    "createdAt": "2026-07-11T05:16:07.390Z"
-  },
-  {
-    "id": "github-stablyai-orca",
-    "source": "github",
-    "title": "stablyai / orca",
-    "url": "https://github.com/stablyai/orca",
-    "score": 16040,
-    "metadata": {
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "starsToday": 4328
-    },
-    "createdAt": "2026-07-11T05:16:07.389Z"
-  },
-  {
     "id": "github-ruvnet-RuView",
     "source": "github",
     "title": "ruvnet / RuView",
@@ -141,19 +726,6 @@
       "starsToday": 811
     },
     "createdAt": "2026-07-11T05:16:07.389Z"
-  },
-  {
-    "id": "github-diegosouzapw-OmniRoute",
-    "source": "github",
-    "title": "diegosouzapw / OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "score": 15178,
-    "metadata": {
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "starsToday": 4268
-    },
-    "createdAt": "2026-07-11T05:16:07.388Z"
   },
   {
     "id": "github-TencentCloud-CubeSandbox",
@@ -195,19 +767,6 @@
     "createdAt": "2026-07-11T05:16:07.387Z"
   },
   {
-    "id": "github-ogulcancelik-herdr",
-    "source": "github",
-    "title": "ogulcancelik / herdr",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "score": 15276,
-    "metadata": {
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "starsToday": 4714
-    },
-    "createdAt": "2026-07-11T05:16:07.386Z"
-  },
-  {
     "id": "github-bradautomates-claude-video",
     "source": "github",
     "title": "bradautomates / claude-video",
@@ -219,19 +778,6 @@
       "starsToday": 4093
     },
     "createdAt": "2026-07-11T05:16:07.386Z"
-  },
-  {
-    "id": "github-openai-codex-plugin-cc",
-    "source": "github",
-    "title": "openai / codex-plugin-cc",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "score": 27467,
-    "metadata": {
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "starsToday": 4484
-    },
-    "createdAt": "2026-07-11T05:16:07.385Z"
   },
   {
     "id": "github-usestrix-strix",
