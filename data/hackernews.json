@@ -1,379 +1,392 @@
 [
   {
-    "id": "hackernews-48952880",
+    "id": "hackernews-49038433",
     "source": "hackernews",
-    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "score": 392,
+    "title": "Claude Opus 5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "score": 1411,
     "metadata": {
-      "author": "gnabgib",
-      "commentsCount": 262,
-      "hnUrl": "https://news.ycombinator.com/item?id=48952880"
+      "author": "alvis",
+      "commentsCount": 771,
+      "hnUrl": "https://news.ycombinator.com/item?id=49038433"
     },
-    "createdAt": "2026-07-17T22:26:30.000Z"
+    "createdAt": "2026-07-24T16:57:41.000Z"
   },
   {
-    "id": "hackernews-48945241",
+    "id": "hackernews-49008618",
     "source": "hackernews",
-    "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-    "url": "https://news.ycombinator.com/item?id=48945241",
-    "score": 1101,
-    "metadata": {
-      "author": "nprateem",
-      "commentsCount": 663,
-      "hnUrl": "https://news.ycombinator.com/item?id=48945241"
-    },
-    "createdAt": "2026-07-17T09:42:05.000Z"
-  },
-  {
-    "id": "hackernews-48949551",
-    "source": "hackernews",
-    "title": "Thanks HN for 15 years of support and helping me find my life's work",
-    "url": "https://news.ycombinator.com/item?id=48949551",
-    "score": 450,
-    "metadata": {
-      "author": "nicholasjbs",
-      "commentsCount": 48,
-      "hnUrl": "https://news.ycombinator.com/item?id=48949551"
-    },
-    "createdAt": "2026-07-17T16:57:27.000Z"
-  },
-  {
-    "id": "hackernews-48907063",
-    "source": "hackernews",
-    "title": "Reviving a 15-year-old netbook with Arch Linux",
-    "url": "https://parksb.github.io/en/article/41.html",
-    "score": 17,
-    "metadata": {
-      "author": "parksb",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=48907063"
-    },
-    "createdAt": "2026-07-14T14:02:36.000Z"
-  },
-  {
-    "id": "hackernews-48951461",
-    "source": "hackernews",
-    "title": "The Zilog Z80 has turned 50",
-    "url": "https://goliath32.com/blog/z80.html",
-    "score": 189,
-    "metadata": {
-      "author": "st_goliath",
-      "commentsCount": 56,
-      "hnUrl": "https://news.ycombinator.com/item?id=48951461"
-    },
-    "createdAt": "2026-07-17T19:41:02.000Z"
-  },
-  {
-    "id": "hackernews-48947560",
-    "source": "hackernews",
-    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-    "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-    "score": 403,
-    "metadata": {
-      "author": "neversaydie",
-      "commentsCount": 248,
-      "hnUrl": "https://news.ycombinator.com/item?id=48947560"
-    },
-    "createdAt": "2026-07-17T14:06:13.000Z"
-  },
-  {
-    "id": "hackernews-48954175",
-    "source": "hackernews",
-    "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-    "url": "https://moonstone.sh/",
+    "title": "Re: Bye Bye Gravatar",
+    "url": "https://unattributed.cc/re-bye-bye-gravatar",
     "score": 23,
     "metadata": {
-      "author": "ksymph",
-      "commentsCount": 7,
-      "hnUrl": "https://news.ycombinator.com/item?id=48954175"
-    },
-    "createdAt": "2026-07-18T01:18:15.000Z"
-  },
-  {
-    "id": "hackernews-48954149",
-    "source": "hackernews",
-    "title": "I Started a \"Dirt Notebook\"",
-    "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-    "score": 34,
-    "metadata": {
-      "author": "herbertl",
-      "commentsCount": 26,
-      "hnUrl": "https://news.ycombinator.com/item?id=48954149"
-    },
-    "createdAt": "2026-07-18T01:12:13.000Z"
-  },
-  {
-    "id": "hackernews-48952565",
-    "source": "hackernews",
-    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-    "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-    "score": 65,
-    "metadata": {
-      "author": "BadChemical",
-      "commentsCount": 15,
-      "hnUrl": "https://news.ycombinator.com/item?id=48952565"
-    },
-    "createdAt": "2026-07-17T21:42:43.000Z"
-  },
-  {
-    "id": "hackernews-48953406",
-    "source": "hackernews",
-    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-    "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-    "score": 52,
-    "metadata": {
-      "author": "andsoitis",
-      "commentsCount": 5,
-      "hnUrl": "https://news.ycombinator.com/item?id=48953406"
-    },
-    "createdAt": "2026-07-17T23:26:35.000Z"
-  },
-  {
-    "id": "hackernews-48950122",
-    "source": "hackernews",
-    "title": "Learning a few things about running SQLite",
-    "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-    "score": 196,
-    "metadata": {
       "author": "surprisetalk",
-      "commentsCount": 50,
-      "hnUrl": "https://news.ycombinator.com/item?id=48950122"
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=49008618"
     },
-    "createdAt": "2026-07-17T17:45:41.000Z"
+    "createdAt": "2026-07-22T15:43:21.000Z"
   },
   {
-    "id": "hackernews-48874347",
+    "id": "hackernews-49040296",
     "source": "hackernews",
-    "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
-    "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+    "title": "Postgres LISTEN/NOTIFY actually scales",
+    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "score": 250,
+    "metadata": {
+      "author": "KraftyOne",
+      "commentsCount": 45,
+      "hnUrl": "https://news.ycombinator.com/item?id=49040296"
+    },
+    "createdAt": "2026-07-24T19:05:53.000Z"
+  },
+  {
+    "id": "hackernews-48981665",
+    "source": "hackernews",
+    "title": "GC and Exceptions in Wasmtime",
+    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
     "score": 12,
     "metadata": {
-      "author": "itvision",
-      "commentsCount": 7,
-      "hnUrl": "https://news.ycombinator.com/item?id=48874347"
+      "author": "phickey",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48981665"
     },
-    "createdAt": "2026-07-11T18:20:49.000Z"
+    "createdAt": "2026-07-20T17:10:50.000Z"
   },
   {
-    "id": "hackernews-48896149",
+    "id": "hackernews-49040741",
     "source": "hackernews",
-    "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-    "url": "https://prathosh.in/vagdhenu/",
-    "score": 106,
+    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+    "url": "https://artificialanalysis.ai/models",
+    "score": 210,
     "metadata": {
-      "author": "subinalex",
-      "commentsCount": 11,
-      "hnUrl": "https://news.ycombinator.com/item?id=48896149"
+      "author": "aarondong",
+      "commentsCount": 127,
+      "hnUrl": "https://news.ycombinator.com/item?id=49040741"
     },
-    "createdAt": "2026-07-13T17:43:26.000Z"
+    "createdAt": "2026-07-24T19:45:10.000Z"
   },
   {
-    "id": "hackernews-48906171",
+    "id": "hackernews-49044074",
     "source": "hackernews",
-    "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
-    "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
-    "score": 22,
+    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+    "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+    "score": 130,
     "metadata": {
-      "author": "bkardell",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48906171"
+      "author": "JumpCrisscross",
+      "commentsCount": 39,
+      "hnUrl": "https://news.ycombinator.com/item?id=49044074"
     },
-    "createdAt": "2026-07-14T12:59:58.000Z"
+    "createdAt": "2026-07-25T02:54:36.000Z"
   },
   {
-    "id": "hackernews-48947717",
+    "id": "hackernews-48973835",
     "source": "hackernews",
-    "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-    "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-    "score": 296,
+    "title": "India's first privately-developed rocket reaches orbit on debut launch",
+    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "score": 553,
     "metadata": {
-      "author": "droidjj",
-      "commentsCount": 158,
-      "hnUrl": "https://news.ycombinator.com/item?id=48947717"
+      "author": "sohkamyung",
+      "commentsCount": 155,
+      "hnUrl": "https://news.ycombinator.com/item?id=48973835"
     },
-    "createdAt": "2026-07-17T14:21:51.000Z"
+    "createdAt": "2026-07-20T02:43:54.000Z"
   },
   {
-    "id": "hackernews-48953981",
+    "id": "hackernews-49042751",
     "source": "hackernews",
-    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-    "url": "https://www.stenchill.com/en/",
-    "score": 21,
-    "metadata": {
-      "author": "radeeyate",
-      "commentsCount": 3,
-      "hnUrl": "https://news.ycombinator.com/item?id=48953981"
-    },
-    "createdAt": "2026-07-18T00:48:37.000Z"
-  },
-  {
-    "id": "hackernews-48951898",
-    "source": "hackernews",
-    "title": "Static search trees: 40x faster than binary search (2024)",
-    "url": "https://curiouscoding.nl/posts/static-search-tree/",
-    "score": 72,
-    "metadata": {
-      "author": "lalitmaganti",
-      "commentsCount": 3,
-      "hnUrl": "https://news.ycombinator.com/item?id=48951898"
-    },
-    "createdAt": "2026-07-17T20:24:55.000Z"
-  },
-  {
-    "id": "hackernews-48952135",
-    "source": "hackernews",
-    "title": "Open Book Touch: open-source e-reader",
-    "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-    "score": 80,
-    "metadata": {
-      "author": "surprisetalk",
-      "commentsCount": 23,
-      "hnUrl": "https://news.ycombinator.com/item?id=48952135"
-    },
-    "createdAt": "2026-07-17T20:47:57.000Z"
-  },
-  {
-    "id": "hackernews-48951780",
-    "source": "hackernews",
-    "title": "Painting the sides of railroad rails white to reduce derailment",
-    "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-    "score": 67,
-    "metadata": {
-      "author": "zdw",
-      "commentsCount": 37,
-      "hnUrl": "https://news.ycombinator.com/item?id=48951780"
-    },
-    "createdAt": "2026-07-17T20:12:59.000Z"
-  },
-  {
-    "id": "hackernews-48950518",
-    "source": "hackernews",
-    "title": "Lego building instructions through time",
-    "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-    "score": 87,
-    "metadata": {
-      "author": "NaOH",
-      "commentsCount": 17,
-      "hnUrl": "https://news.ycombinator.com/item?id=48950518"
-    },
-    "createdAt": "2026-07-17T18:21:14.000Z"
-  },
-  {
-    "id": "hackernews-48952067",
-    "source": "hackernews",
-    "title": "Topcoat: The full full-stack framework for Rust",
-    "url": "https://github.com/tokio-rs/topcoat",
-    "score": 58,
-    "metadata": {
-      "author": "wertyk",
-      "commentsCount": 38,
-      "hnUrl": "https://news.ycombinator.com/item?id=48952067"
-    },
-    "createdAt": "2026-07-17T20:41:43.000Z"
-  },
-  {
-    "id": "hackernews-48947825",
-    "source": "hackernews",
-    "title": "The state of open source AI",
-    "url": "https://stateofopensource.ai/",
-    "score": 399,
-    "metadata": {
-      "author": "rellem",
-      "commentsCount": 293,
-      "hnUrl": "https://news.ycombinator.com/item?id=48947825"
-    },
-    "createdAt": "2026-07-17T14:31:10.000Z"
-  },
-  {
-    "id": "hackernews-48950774",
-    "source": "hackernews",
-    "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-    "url": "https://app.everything.diena.co/",
+    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
     "score": 69,
     "metadata": {
-      "author": "lortex",
-      "commentsCount": 30,
-      "hnUrl": "https://news.ycombinator.com/item?id=48950774"
+      "author": "hhs",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=49042751"
     },
-    "createdAt": "2026-07-17T18:37:33.000Z"
+    "createdAt": "2026-07-24T23:13:18.000Z"
   },
   {
-    "id": "hackernews-48887102",
+    "id": "hackernews-49034292",
     "source": "hackernews",
-    "title": "Frank Lloyd Wright’s first home",
-    "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-    "score": 92,
+    "title": "My security camera shipped a GitHub admin token in its login page",
+    "url": "https://hhh.hn/hanwha-github-token/",
+    "score": 544,
     "metadata": {
-      "author": "NaOH",
-      "commentsCount": 46,
-      "hnUrl": "https://news.ycombinator.com/item?id=48887102"
+      "author": "hhh",
+      "commentsCount": 185,
+      "hnUrl": "https://news.ycombinator.com/item?id=49034292"
     },
-    "createdAt": "2026-07-13T02:23:19.000Z"
+    "createdAt": "2026-07-24T11:54:41.000Z"
   },
   {
-    "id": "hackernews-48947490",
+    "id": "hackernews-49033004",
     "source": "hackernews",
-    "title": "Three ways people respond to a problem (other than solving it)",
-    "url": "https://improvesomething.today/responses-to-problems/",
-    "score": 215,
+    "title": "If coding has been solved, why does software keep getting worse?",
+    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "score": 649,
     "metadata": {
-      "author": "surprisetalk",
-      "commentsCount": 117,
-      "hnUrl": "https://news.ycombinator.com/item?id=48947490"
+      "author": "pchm",
+      "commentsCount": 495,
+      "hnUrl": "https://news.ycombinator.com/item?id=49033004"
     },
-    "createdAt": "2026-07-17T14:00:04.000Z"
+    "createdAt": "2026-07-24T09:08:17.000Z"
   },
   {
-    "id": "hackernews-48952439",
+    "id": "hackernews-49020545",
     "source": "hackernews",
-    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-    "score": 152,
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "score": 137,
     "metadata": {
-      "author": "hmm37",
-      "commentsCount": 80,
-      "hnUrl": "https://news.ycombinator.com/item?id=48952439"
+      "author": "eliotho",
+      "commentsCount": 73,
+      "hnUrl": "https://news.ycombinator.com/item?id=49020545"
     },
-    "createdAt": "2026-07-17T21:22:53.000Z"
+    "createdAt": "2026-07-23T12:31:21.000Z"
   },
   {
-    "id": "hackernews-48955159",
+    "id": "hackernews-48985182",
     "source": "hackernews",
-    "title": "Mac gaming is finally getting the overpowered upgrade it deserves",
-    "url": "https://www.macworld.com/article/3189951/apples-latest-game-porting-toolkit-beta-changed-how-i-think-about-mac-gaming.html",
-    "score": 10,
+    "title": "Designing an Ethernet Switch ASIC",
+    "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+    "score": 151,
     "metadata": {
-      "author": "kristianp",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=48955159"
+      "author": "random__duck",
+      "commentsCount": 38,
+      "hnUrl": "https://news.ycombinator.com/item?id=48985182"
     },
-    "createdAt": "2026-07-18T04:13:00.000Z"
+    "createdAt": "2026-07-20T21:35:33.000Z"
   },
   {
-    "id": "hackernews-48947548",
+    "id": "hackernews-49043724",
     "source": "hackernews",
-    "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-    "url": "https://honeypotlive.cc/",
-    "score": 149,
+    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+    "score": 23,
     "metadata": {
-      "author": "tusksm",
-      "commentsCount": 54,
-      "hnUrl": "https://news.ycombinator.com/item?id=48947548"
+      "author": "agnishom",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=49043724"
     },
-    "createdAt": "2026-07-17T14:05:15.000Z"
+    "createdAt": "2026-07-25T01:44:12.000Z"
   },
   {
-    "id": "hackernews-48910579",
+    "id": "hackernews-49008512",
     "source": "hackernews",
-    "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
-    "url": "https://github.com/CharmingBlaze/moonbasic",
-    "score": 59,
+    "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+    "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+    "score": 158,
     "metadata": {
-      "author": "klaussilveira",
-      "commentsCount": 18,
-      "hnUrl": "https://news.ycombinator.com/item?id=48910579"
+      "author": "crescit_eundo",
+      "commentsCount": 34,
+      "hnUrl": "https://news.ycombinator.com/item?id=49008512"
     },
-    "createdAt": "2026-07-14T17:53:06.000Z"
+    "createdAt": "2026-07-22T15:37:25.000Z"
+  },
+  {
+    "id": "hackernews-49024938",
+    "source": "hackernews",
+    "title": "Kimi K3 exploited the latest Redis server",
+    "url": "https://twitter.com/fried_rice/status/2080059356322918777",
+    "score": 179,
+    "metadata": {
+      "author": "Alifatisk",
+      "commentsCount": 49,
+      "hnUrl": "https://news.ycombinator.com/item?id=49024938"
+    },
+    "createdAt": "2026-07-23T17:10:02.000Z"
+  },
+  {
+    "id": "hackernews-48992539",
+    "source": "hackernews",
+    "title": "A concrete explanation of how a cache works",
+    "url": "https://parksb.github.io/en/article/29.html",
+    "score": 15,
+    "metadata": {
+      "author": "parksb",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=48992539"
+    },
+    "createdAt": "2026-07-21T14:05:16.000Z"
+  },
+  {
+    "id": "hackernews-49035303",
+    "source": "hackernews",
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "score": 566,
+    "metadata": {
+      "author": "louiereederson",
+      "commentsCount": 254,
+      "hnUrl": "https://news.ycombinator.com/item?id=49035303"
+    },
+    "createdAt": "2026-07-24T13:32:30.000Z"
+  },
+  {
+    "id": "hackernews-48995409",
+    "source": "hackernews",
+    "title": "Firefox Containers Preview",
+    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+    "score": 272,
+    "metadata": {
+      "author": "twapi",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=48995409"
+    },
+    "createdAt": "2026-07-21T17:27:59.000Z"
+  },
+  {
+    "id": "hackernews-49034868",
+    "source": "hackernews",
+    "title": "Half-Life 2 running natively on HaikuOS",
+    "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+    "score": 288,
+    "metadata": {
+      "author": "m0do1",
+      "commentsCount": 53,
+      "hnUrl": "https://news.ycombinator.com/item?id=49034868"
+    },
+    "createdAt": "2026-07-24T12:53:59.000Z"
+  },
+  {
+    "id": "hackernews-49038298",
+    "source": "hackernews",
+    "title": "Don't Take the Black Pill [video]",
+    "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+    "score": 151,
+    "metadata": {
+      "author": "signa11",
+      "commentsCount": 127,
+      "hnUrl": "https://news.ycombinator.com/item?id=49038298"
+    },
+    "createdAt": "2026-07-24T16:48:57.000Z"
+  },
+  {
+    "id": "hackernews-49026933",
+    "source": "hackernews",
+    "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+    "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+    "score": 121,
+    "metadata": {
+      "author": "Bootvis",
+      "commentsCount": 111,
+      "hnUrl": "https://news.ycombinator.com/item?id=49026933"
+    },
+    "createdAt": "2026-07-23T19:37:37.000Z"
+  },
+  {
+    "id": "hackernews-49033240",
+    "source": "hackernews",
+    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "score": 274,
+    "metadata": {
+      "author": "thisislife2",
+      "commentsCount": 343,
+      "hnUrl": "https://news.ycombinator.com/item?id=49033240"
+    },
+    "createdAt": "2026-07-24T09:52:58.000Z"
+  },
+  {
+    "id": "hackernews-49033110",
+    "source": "hackernews",
+    "title": "Future euro banknote design proposals",
+    "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
+    "score": 150,
+    "metadata": {
+      "author": "robin_reala",
+      "commentsCount": 130,
+      "hnUrl": "https://news.ycombinator.com/item?id=49033110"
+    },
+    "createdAt": "2026-07-24T09:29:44.000Z"
+  },
+  {
+    "id": "hackernews-49004464",
+    "source": "hackernews",
+    "title": "Marimo now runs in PyCharm",
+    "url": "https://marimo.io/blog/pycharm",
+    "score": 89,
+    "metadata": {
+      "author": "cantdutchthis",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=49004464"
+    },
+    "createdAt": "2026-07-22T10:24:40.000Z"
+  },
+  {
+    "id": "hackernews-49034217",
+    "source": "hackernews",
+    "title": "The case for MUDs in modern times (2018)",
+    "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+    "score": 91,
+    "metadata": {
+      "author": "bw86",
+      "commentsCount": 73,
+      "hnUrl": "https://news.ycombinator.com/item?id=49034217"
+    },
+    "createdAt": "2026-07-24T11:46:40.000Z"
+  },
+  {
+    "id": "hackernews-49036433",
+    "source": "hackernews",
+    "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+    "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+    "score": 423,
+    "metadata": {
+      "author": "rootkea",
+      "commentsCount": 305,
+      "hnUrl": "https://news.ycombinator.com/item?id=49036433"
+    },
+    "createdAt": "2026-07-24T14:41:59.000Z"
+  },
+  {
+    "id": "hackernews-49038045",
+    "source": "hackernews",
+    "title": "Unitree As2-W",
+    "url": "https://www.unitree.com/As2-W/",
+    "score": 112,
+    "metadata": {
+      "author": "MehrdadKhnzd",
+      "commentsCount": 47,
+      "hnUrl": "https://news.ycombinator.com/item?id=49038045"
+    },
+    "createdAt": "2026-07-24T16:32:52.000Z"
+  },
+  {
+    "id": "hackernews-49033099",
+    "source": "hackernews",
+    "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+    "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+    "score": 244,
+    "metadata": {
+      "author": "kristoff_it",
+      "commentsCount": 167,
+      "hnUrl": "https://news.ycombinator.com/item?id=49033099"
+    },
+    "createdAt": "2026-07-24T09:26:40.000Z"
+  },
+  {
+    "id": "hackernews-48977849",
+    "source": "hackernews",
+    "title": "The footprints of every building in NYC",
+    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+    "score": 60,
+    "metadata": {
+      "author": "jonathanmkeegan",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=48977849"
+    },
+    "createdAt": "2026-07-20T12:25:49.000Z"
+  },
+  {
+    "id": "hackernews-49038060",
+    "source": "hackernews",
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+    "score": 467,
+    "metadata": {
+      "author": "rwmj",
+      "commentsCount": 272,
+      "hnUrl": "https://news.ycombinator.com/item?id=49038060"
+    },
+    "createdAt": "2026-07-24T16:33:31.000Z"
   }
 ]

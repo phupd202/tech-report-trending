@@ -1,249 +1,262 @@
 [
   {
-    "id": "github-Nutlope-hallmark",
+    "id": "github-bojieli-ai-agent-book",
     "source": "github",
-    "title": "Nutlope / hallmark",
-    "url": "https://github.com/Nutlope/hallmark",
-    "score": 12186,
+    "title": "bojieli / ai-agent-book",
+    "url": "https://github.com/bojieli/ai-agent-book",
+    "score": 19303,
     "metadata": {
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "starsToday": 8075
-    },
-    "createdAt": "2026-07-18T04:51:13.765Z"
-  },
-  {
-    "id": "github-abseil-abseil-cpp",
-    "source": "github",
-    "title": "abseil / abseil-cpp",
-    "url": "https://github.com/abseil/abseil-cpp",
-    "score": 17962,
-    "metadata": {
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "starsToday": 608
-    },
-    "createdAt": "2026-07-18T04:51:13.766Z"
-  },
-  {
-    "id": "github-google-labs-code-stitch-skills",
-    "source": "github",
-    "title": "google-labs-code / stitch-skills",
-    "url": "https://github.com/google-labs-code/stitch-skills",
-    "score": 7628,
-    "metadata": {
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "starsToday": 1076
-    },
-    "createdAt": "2026-07-18T04:51:13.767Z"
-  },
-  {
-    "id": "github-HKUDS-Vibe-Trading",
-    "source": "github",
-    "title": "HKUDS / Vibe-Trading",
-    "url": "https://github.com/HKUDS/Vibe-Trading",
-    "score": 24691,
-    "metadata": {
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
-      "starsToday": 5616
+      "starsToday": 17401
     },
-    "createdAt": "2026-07-18T04:51:13.768Z"
+    "createdAt": "2026-07-25T05:17:35.323Z"
   },
   {
-    "id": "github-wonderwhy-er-DesktopCommanderMCP",
+    "id": "github-koala73-worldmonitor",
     "source": "github",
-    "title": "wonderwhy-er / DesktopCommanderMCP",
-    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-    "score": 8462,
+    "title": "koala73 / worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "score": 73478,
     "metadata": {
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "starsToday": 1657
+      "starsToday": 10936
     },
-    "createdAt": "2026-07-18T04:51:13.769Z"
+    "createdAt": "2026-07-25T05:17:35.324Z"
   },
   {
-    "id": "github-OpenCut-app-OpenCut",
+    "id": "github-tirth8205-code-review-graph",
     "source": "github",
-    "title": "OpenCut-app / OpenCut",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "score": 74998,
+    "title": "tirth8205 / code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "score": 26261,
     "metadata": {
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "starsToday": 12718
-    },
-    "createdAt": "2026-07-18T04:51:13.769Z"
-  },
-  {
-    "id": "github-stablyai-orca",
-    "source": "github",
-    "title": "stablyai / orca",
-    "url": "https://github.com/stablyai/orca",
-    "score": 21256,
-    "metadata": {
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "starsToday": 5409
-    },
-    "createdAt": "2026-07-18T04:51:13.770Z"
-  },
-  {
-    "id": "github-Shubhamsaboo-awesome-llm-apps",
-    "source": "github",
-    "title": "Shubhamsaboo / awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "score": 123658,
-    "metadata": {
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "starsToday": 6252
+      "starsToday": 6565
     },
-    "createdAt": "2026-07-18T04:51:13.771Z"
+    "createdAt": "2026-07-25T05:17:35.325Z"
   },
   {
-    "id": "github-oven-sh-bun",
+    "id": "github-MoonshotAI-kimi-code",
     "source": "github",
-    "title": "oven-sh / bun",
-    "url": "https://github.com/oven-sh/bun",
-    "score": 94806,
+    "title": "MoonshotAI / kimi-code",
+    "url": "https://github.com/MoonshotAI/kimi-code",
+    "score": 4968,
     "metadata": {
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "language": "TypeScript",
+      "starsToday": 1589
+    },
+    "createdAt": "2026-07-25T05:17:35.325Z"
+  },
+  {
+    "id": "github-1jehuang-jcode",
+    "source": "github",
+    "title": "1jehuang / jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "score": 11263,
+    "metadata": {
+      "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "starsToday": 1212
+      "starsToday": 2773
     },
-    "createdAt": "2026-07-18T04:51:13.771Z"
-  },
-  {
-    "id": "github-iOfficeAI-OfficeCLI",
-    "source": "github",
-    "title": "iOfficeAI / OfficeCLI",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "score": 18909,
-    "metadata": {
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "starsToday": 4611
-    },
-    "createdAt": "2026-07-18T04:51:13.772Z"
-  },
-  {
-    "id": "github-davila7-claude-code-templates",
-    "source": "github",
-    "title": "davila7 / claude-code-templates",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "score": 29688,
-    "metadata": {
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "starsToday": 1084
-    },
-    "createdAt": "2026-07-18T04:51:13.772Z"
-  },
-  {
-    "id": "github-openai-codex-plugin-cc",
-    "source": "github",
-    "title": "openai / codex-plugin-cc",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "score": 29135,
-    "metadata": {
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "starsToday": 1801
-    },
-    "createdAt": "2026-07-18T04:51:13.773Z"
-  },
-  {
-    "id": "github-HKUDS-DeepTutor",
-    "source": "github",
-    "title": "HKUDS / DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "score": 27435,
-    "metadata": {
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "starsToday": 1801
-    },
-    "createdAt": "2026-07-18T04:51:13.773Z"
-  },
-  {
-    "id": "github-pbakaus-impeccable",
-    "source": "github",
-    "title": "pbakaus / impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "score": 47682,
-    "metadata": {
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "starsToday": 2331
-    },
-    "createdAt": "2026-07-18T04:51:13.773Z"
-  },
-  {
-    "id": "github-kangarooking-cangjie-skill",
-    "source": "github",
-    "title": "kangarooking / cangjie-skill",
-    "url": "https://github.com/kangarooking/cangjie-skill",
-    "score": 3535,
-    "metadata": {
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
-      "language": "Python",
-      "starsToday": 1158
-    },
-    "createdAt": "2026-07-18T04:51:13.774Z"
+    "createdAt": "2026-07-25T05:17:35.326Z"
   },
   {
     "id": "github-diegosouzapw-OmniRoute",
     "source": "github",
     "title": "diegosouzapw / OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "score": 18431,
+    "score": 29085,
     "metadata": {
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "starsToday": 3605
+      "starsToday": 9965
     },
-    "createdAt": "2026-07-18T04:51:13.774Z"
+    "createdAt": "2026-07-25T05:17:35.326Z"
   },
   {
-    "id": "github-ogulcancelik-herdr",
+    "id": "github-agegr-pi-web",
     "source": "github",
-    "title": "ogulcancelik / herdr",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "score": 17715,
+    "title": "agegr / pi-web",
+    "url": "https://github.com/agegr/pi-web",
+    "score": 2643,
     "metadata": {
-      "description": "agent multiplexer that lives in your terminal.",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "starsToday": 1316
+    },
+    "createdAt": "2026-07-25T05:17:35.326Z"
+  },
+  {
+    "id": "github-HKUDS-DeepTutor",
+    "source": "github",
+    "title": "HKUDS / DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "score": 29589,
+    "metadata": {
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "starsToday": 2380
+    },
+    "createdAt": "2026-07-25T05:17:35.327Z"
+  },
+  {
+    "id": "github-MoonshotAI-kimi-cli",
+    "source": "github",
+    "title": "MoonshotAI / kimi-cli",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "score": 10798,
+    "metadata": {
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "starsToday": 1570
+    },
+    "createdAt": "2026-07-25T05:17:35.327Z"
+  },
+  {
+    "id": "github-earendil-works-pi",
+    "source": "github",
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "score": 77154,
+    "metadata": {
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "starsToday": 4880
+    },
+    "createdAt": "2026-07-25T05:17:35.327Z"
+  },
+  {
+    "id": "github-rohitg00-ai-engineering-from-scratch",
+    "source": "github",
+    "title": "rohitg00 / ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "score": 43229,
+    "metadata": {
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "starsToday": 4399
+    },
+    "createdAt": "2026-07-25T05:17:35.327Z"
+  },
+  {
+    "id": "github-ibelick-ui-skills",
+    "source": "github",
+    "title": "ibelick / ui-skills",
+    "url": "https://github.com/ibelick/ui-skills",
+    "score": 6335,
+    "metadata": {
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "starsToday": 1691
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-PrismML-Eng-Bonsai-demo",
+    "source": "github",
+    "title": "PrismML-Eng / Bonsai-demo",
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "score": 2034,
+    "metadata": {
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "starsToday": 364
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-Robbyant-lingbot-map",
+    "source": "github",
+    "title": "Robbyant / lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "score": 15309,
+    "metadata": {
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "starsToday": 3640
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-apache-ossie",
+    "source": "github",
+    "title": "apache / ossie",
+    "url": "https://github.com/apache/ossie",
+    "score": 1618,
+    "metadata": {
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "starsToday": 471
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-Nutlope-hallmark",
+    "source": "github",
+    "title": "Nutlope / hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "score": 17181,
+    "metadata": {
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "starsToday": 4978
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-mattpocock-skills",
+    "source": "github",
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "score": 187080,
+    "metadata": {
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsToday": 10969
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-kvcache-ai-ktransformers",
+    "source": "github",
+    "title": "kvcache-ai / ktransformers",
+    "url": "https://github.com/kvcache-ai/ktransformers",
+    "score": 19008,
+    "metadata": {
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "starsToday": 1538
+    },
+    "createdAt": "2026-07-25T05:17:35.329Z"
+  },
+  {
+    "id": "github-ruvnet-RuView",
+    "source": "github",
+    "title": "ruvnet / RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "score": 86030,
+    "metadata": {
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "starsToday": 2512
+      "starsToday": 4821
     },
-    "createdAt": "2026-07-18T04:51:13.774Z"
+    "createdAt": "2026-07-25T05:17:35.329Z"
   },
   {
-    "id": "github-actions-checkout",
+    "id": "github-schollz-croc",
     "source": "github",
-    "title": "actions / checkout",
-    "url": "https://github.com/actions/checkout",
-    "score": 8488,
+    "title": "schollz / croc",
+    "url": "https://github.com/schollz/croc",
+    "score": 38342,
     "metadata": {
-      "description": "Action for checking out a repo",
-      "language": "TypeScript",
-      "starsToday": 159
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "starsToday": 2647
     },
-    "createdAt": "2026-07-18T04:51:13.775Z"
-  },
-  {
-    "id": "github-vercel-labs-native",
-    "source": "github",
-    "title": "vercel-labs / native",
-    "url": "https://github.com/vercel-labs/native",
-    "score": 6533,
-    "metadata": {
-      "description": "Toolkit for building native desktop apps",
-      "language": "Zig",
-      "starsToday": 854
-    },
-    "createdAt": "2026-07-18T04:51:13.775Z"
+    "createdAt": "2026-07-25T05:17:35.329Z"
   }
 ]

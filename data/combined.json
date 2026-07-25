@@ -1,5 +1,655 @@
 [
   {
+    "id": "github-ruvnet-RuView",
+    "source": "github",
+    "title": "ruvnet / RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "score": 86030,
+    "metadata": {
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "starsToday": 4821
+    },
+    "createdAt": "2026-07-25T05:17:35.329Z"
+  },
+  {
+    "id": "github-kvcache-ai-ktransformers",
+    "source": "github",
+    "title": "kvcache-ai / ktransformers",
+    "url": "https://github.com/kvcache-ai/ktransformers",
+    "score": 19008,
+    "metadata": {
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "starsToday": 1538
+    },
+    "createdAt": "2026-07-25T05:17:35.329Z"
+  },
+  {
+    "id": "github-schollz-croc",
+    "source": "github",
+    "title": "schollz / croc",
+    "url": "https://github.com/schollz/croc",
+    "score": 38342,
+    "metadata": {
+      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "language": "Go",
+      "starsToday": 2647
+    },
+    "createdAt": "2026-07-25T05:17:35.329Z"
+  },
+  {
+    "id": "github-Nutlope-hallmark",
+    "source": "github",
+    "title": "Nutlope / hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "score": 17181,
+    "metadata": {
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "starsToday": 4978
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-Robbyant-lingbot-map",
+    "source": "github",
+    "title": "Robbyant / lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "score": 15309,
+    "metadata": {
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "starsToday": 3640
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-mattpocock-skills",
+    "source": "github",
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "score": 187080,
+    "metadata": {
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsToday": 10969
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-ibelick-ui-skills",
+    "source": "github",
+    "title": "ibelick / ui-skills",
+    "url": "https://github.com/ibelick/ui-skills",
+    "score": 6335,
+    "metadata": {
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "starsToday": 1691
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-PrismML-Eng-Bonsai-demo",
+    "source": "github",
+    "title": "PrismML-Eng / Bonsai-demo",
+    "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "score": 2034,
+    "metadata": {
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "starsToday": 364
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-apache-ossie",
+    "source": "github",
+    "title": "apache / ossie",
+    "url": "https://github.com/apache/ossie",
+    "score": 1618,
+    "metadata": {
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "starsToday": 471
+    },
+    "createdAt": "2026-07-25T05:17:35.328Z"
+  },
+  {
+    "id": "github-HKUDS-DeepTutor",
+    "source": "github",
+    "title": "HKUDS / DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "score": 29589,
+    "metadata": {
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "starsToday": 2380
+    },
+    "createdAt": "2026-07-25T05:17:35.327Z"
+  },
+  {
+    "id": "github-rohitg00-ai-engineering-from-scratch",
+    "source": "github",
+    "title": "rohitg00 / ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "score": 43229,
+    "metadata": {
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "starsToday": 4399
+    },
+    "createdAt": "2026-07-25T05:17:35.327Z"
+  },
+  {
+    "id": "github-MoonshotAI-kimi-cli",
+    "source": "github",
+    "title": "MoonshotAI / kimi-cli",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "score": 10798,
+    "metadata": {
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "starsToday": 1570
+    },
+    "createdAt": "2026-07-25T05:17:35.327Z"
+  },
+  {
+    "id": "github-earendil-works-pi",
+    "source": "github",
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "score": 77154,
+    "metadata": {
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "starsToday": 4880
+    },
+    "createdAt": "2026-07-25T05:17:35.327Z"
+  },
+  {
+    "id": "github-diegosouzapw-OmniRoute",
+    "source": "github",
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "score": 29085,
+    "metadata": {
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "starsToday": 9965
+    },
+    "createdAt": "2026-07-25T05:17:35.326Z"
+  },
+  {
+    "id": "github-1jehuang-jcode",
+    "source": "github",
+    "title": "1jehuang / jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "score": 11263,
+    "metadata": {
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "starsToday": 2773
+    },
+    "createdAt": "2026-07-25T05:17:35.326Z"
+  },
+  {
+    "id": "github-agegr-pi-web",
+    "source": "github",
+    "title": "agegr / pi-web",
+    "url": "https://github.com/agegr/pi-web",
+    "score": 2643,
+    "metadata": {
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "starsToday": 1316
+    },
+    "createdAt": "2026-07-25T05:17:35.326Z"
+  },
+  {
+    "id": "github-tirth8205-code-review-graph",
+    "source": "github",
+    "title": "tirth8205 / code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "score": 26261,
+    "metadata": {
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "starsToday": 6565
+    },
+    "createdAt": "2026-07-25T05:17:35.325Z"
+  },
+  {
+    "id": "github-MoonshotAI-kimi-code",
+    "source": "github",
+    "title": "MoonshotAI / kimi-code",
+    "url": "https://github.com/MoonshotAI/kimi-code",
+    "score": 4968,
+    "metadata": {
+      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
+      "language": "TypeScript",
+      "starsToday": 1589
+    },
+    "createdAt": "2026-07-25T05:17:35.325Z"
+  },
+  {
+    "id": "github-koala73-worldmonitor",
+    "source": "github",
+    "title": "koala73 / worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "score": 73478,
+    "metadata": {
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "starsToday": 10936
+    },
+    "createdAt": "2026-07-25T05:17:35.324Z"
+  },
+  {
+    "id": "github-bojieli-ai-agent-book",
+    "source": "github",
+    "title": "bojieli / ai-agent-book",
+    "url": "https://github.com/bojieli/ai-agent-book",
+    "score": 19303,
+    "metadata": {
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "starsToday": 17401
+    },
+    "createdAt": "2026-07-25T05:17:35.323Z"
+  },
+  {
+    "id": "hackernews-49044074",
+    "source": "hackernews",
+    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+    "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+    "score": 130,
+    "metadata": {
+      "author": "JumpCrisscross",
+      "commentsCount": 39,
+      "hnUrl": "https://news.ycombinator.com/item?id=49044074"
+    },
+    "createdAt": "2026-07-25T02:54:36.000Z"
+  },
+  {
+    "id": "hackernews-49043724",
+    "source": "hackernews",
+    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+    "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+    "score": 23,
+    "metadata": {
+      "author": "agnishom",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=49043724"
+    },
+    "createdAt": "2026-07-25T01:44:12.000Z"
+  },
+  {
+    "id": "hackernews-49042751",
+    "source": "hackernews",
+    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+    "score": 69,
+    "metadata": {
+      "author": "hhs",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=49042751"
+    },
+    "createdAt": "2026-07-24T23:13:18.000Z"
+  },
+  {
+    "id": "hackernews-49040741",
+    "source": "hackernews",
+    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+    "url": "https://artificialanalysis.ai/models",
+    "score": 210,
+    "metadata": {
+      "author": "aarondong",
+      "commentsCount": 127,
+      "hnUrl": "https://news.ycombinator.com/item?id=49040741"
+    },
+    "createdAt": "2026-07-24T19:45:10.000Z"
+  },
+  {
+    "id": "hackernews-49040296",
+    "source": "hackernews",
+    "title": "Postgres LISTEN/NOTIFY actually scales",
+    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+    "score": 250,
+    "metadata": {
+      "author": "KraftyOne",
+      "commentsCount": 45,
+      "hnUrl": "https://news.ycombinator.com/item?id=49040296"
+    },
+    "createdAt": "2026-07-24T19:05:53.000Z"
+  },
+  {
+    "id": "hackernews-49038433",
+    "source": "hackernews",
+    "title": "Claude Opus 5",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "score": 1411,
+    "metadata": {
+      "author": "alvis",
+      "commentsCount": 771,
+      "hnUrl": "https://news.ycombinator.com/item?id=49038433"
+    },
+    "createdAt": "2026-07-24T16:57:41.000Z"
+  },
+  {
+    "id": "hackernews-49038298",
+    "source": "hackernews",
+    "title": "Don't Take the Black Pill [video]",
+    "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+    "score": 151,
+    "metadata": {
+      "author": "signa11",
+      "commentsCount": 127,
+      "hnUrl": "https://news.ycombinator.com/item?id=49038298"
+    },
+    "createdAt": "2026-07-24T16:48:57.000Z"
+  },
+  {
+    "id": "hackernews-49038060",
+    "source": "hackernews",
+    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+    "score": 467,
+    "metadata": {
+      "author": "rwmj",
+      "commentsCount": 272,
+      "hnUrl": "https://news.ycombinator.com/item?id=49038060"
+    },
+    "createdAt": "2026-07-24T16:33:31.000Z"
+  },
+  {
+    "id": "hackernews-49038045",
+    "source": "hackernews",
+    "title": "Unitree As2-W",
+    "url": "https://www.unitree.com/As2-W/",
+    "score": 112,
+    "metadata": {
+      "author": "MehrdadKhnzd",
+      "commentsCount": 47,
+      "hnUrl": "https://news.ycombinator.com/item?id=49038045"
+    },
+    "createdAt": "2026-07-24T16:32:52.000Z"
+  },
+  {
+    "id": "hackernews-49036433",
+    "source": "hackernews",
+    "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+    "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+    "score": 423,
+    "metadata": {
+      "author": "rootkea",
+      "commentsCount": 305,
+      "hnUrl": "https://news.ycombinator.com/item?id=49036433"
+    },
+    "createdAt": "2026-07-24T14:41:59.000Z"
+  },
+  {
+    "id": "hackernews-49035303",
+    "source": "hackernews",
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "score": 566,
+    "metadata": {
+      "author": "louiereederson",
+      "commentsCount": 254,
+      "hnUrl": "https://news.ycombinator.com/item?id=49035303"
+    },
+    "createdAt": "2026-07-24T13:32:30.000Z"
+  },
+  {
+    "id": "hackernews-49034868",
+    "source": "hackernews",
+    "title": "Half-Life 2 running natively on HaikuOS",
+    "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+    "score": 288,
+    "metadata": {
+      "author": "m0do1",
+      "commentsCount": 53,
+      "hnUrl": "https://news.ycombinator.com/item?id=49034868"
+    },
+    "createdAt": "2026-07-24T12:53:59.000Z"
+  },
+  {
+    "id": "hackernews-49034292",
+    "source": "hackernews",
+    "title": "My security camera shipped a GitHub admin token in its login page",
+    "url": "https://hhh.hn/hanwha-github-token/",
+    "score": 544,
+    "metadata": {
+      "author": "hhh",
+      "commentsCount": 185,
+      "hnUrl": "https://news.ycombinator.com/item?id=49034292"
+    },
+    "createdAt": "2026-07-24T11:54:41.000Z"
+  },
+  {
+    "id": "hackernews-49034217",
+    "source": "hackernews",
+    "title": "The case for MUDs in modern times (2018)",
+    "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+    "score": 91,
+    "metadata": {
+      "author": "bw86",
+      "commentsCount": 73,
+      "hnUrl": "https://news.ycombinator.com/item?id=49034217"
+    },
+    "createdAt": "2026-07-24T11:46:40.000Z"
+  },
+  {
+    "id": "hackernews-49033240",
+    "source": "hackernews",
+    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "score": 274,
+    "metadata": {
+      "author": "thisislife2",
+      "commentsCount": 343,
+      "hnUrl": "https://news.ycombinator.com/item?id=49033240"
+    },
+    "createdAt": "2026-07-24T09:52:58.000Z"
+  },
+  {
+    "id": "hackernews-49033110",
+    "source": "hackernews",
+    "title": "Future euro banknote design proposals",
+    "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
+    "score": 150,
+    "metadata": {
+      "author": "robin_reala",
+      "commentsCount": 130,
+      "hnUrl": "https://news.ycombinator.com/item?id=49033110"
+    },
+    "createdAt": "2026-07-24T09:29:44.000Z"
+  },
+  {
+    "id": "hackernews-49033099",
+    "source": "hackernews",
+    "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+    "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+    "score": 244,
+    "metadata": {
+      "author": "kristoff_it",
+      "commentsCount": 167,
+      "hnUrl": "https://news.ycombinator.com/item?id=49033099"
+    },
+    "createdAt": "2026-07-24T09:26:40.000Z"
+  },
+  {
+    "id": "hackernews-49033004",
+    "source": "hackernews",
+    "title": "If coding has been solved, why does software keep getting worse?",
+    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+    "score": 649,
+    "metadata": {
+      "author": "pchm",
+      "commentsCount": 495,
+      "hnUrl": "https://news.ycombinator.com/item?id=49033004"
+    },
+    "createdAt": "2026-07-24T09:08:17.000Z"
+  },
+  {
+    "id": "hackernews-49026933",
+    "source": "hackernews",
+    "title": "Fil-C: Garbage In, Memory Safety Out [video]",
+    "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+    "score": 121,
+    "metadata": {
+      "author": "Bootvis",
+      "commentsCount": 111,
+      "hnUrl": "https://news.ycombinator.com/item?id=49026933"
+    },
+    "createdAt": "2026-07-23T19:37:37.000Z"
+  },
+  {
+    "id": "hackernews-49024938",
+    "source": "hackernews",
+    "title": "Kimi K3 exploited the latest Redis server",
+    "url": "https://twitter.com/fried_rice/status/2080059356322918777",
+    "score": 179,
+    "metadata": {
+      "author": "Alifatisk",
+      "commentsCount": 49,
+      "hnUrl": "https://news.ycombinator.com/item?id=49024938"
+    },
+    "createdAt": "2026-07-23T17:10:02.000Z"
+  },
+  {
+    "id": "hackernews-49020545",
+    "source": "hackernews",
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "score": 137,
+    "metadata": {
+      "author": "eliotho",
+      "commentsCount": 73,
+      "hnUrl": "https://news.ycombinator.com/item?id=49020545"
+    },
+    "createdAt": "2026-07-23T12:31:21.000Z"
+  },
+  {
+    "id": "hackernews-49008618",
+    "source": "hackernews",
+    "title": "Re: Bye Bye Gravatar",
+    "url": "https://unattributed.cc/re-bye-bye-gravatar",
+    "score": 23,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=49008618"
+    },
+    "createdAt": "2026-07-22T15:43:21.000Z"
+  },
+  {
+    "id": "hackernews-49008512",
+    "source": "hackernews",
+    "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+    "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+    "score": 158,
+    "metadata": {
+      "author": "crescit_eundo",
+      "commentsCount": 34,
+      "hnUrl": "https://news.ycombinator.com/item?id=49008512"
+    },
+    "createdAt": "2026-07-22T15:37:25.000Z"
+  },
+  {
+    "id": "hackernews-49004464",
+    "source": "hackernews",
+    "title": "Marimo now runs in PyCharm",
+    "url": "https://marimo.io/blog/pycharm",
+    "score": 89,
+    "metadata": {
+      "author": "cantdutchthis",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=49004464"
+    },
+    "createdAt": "2026-07-22T10:24:40.000Z"
+  },
+  {
+    "id": "hackernews-48995409",
+    "source": "hackernews",
+    "title": "Firefox Containers Preview",
+    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+    "score": 272,
+    "metadata": {
+      "author": "twapi",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=48995409"
+    },
+    "createdAt": "2026-07-21T17:27:59.000Z"
+  },
+  {
+    "id": "hackernews-48992539",
+    "source": "hackernews",
+    "title": "A concrete explanation of how a cache works",
+    "url": "https://parksb.github.io/en/article/29.html",
+    "score": 15,
+    "metadata": {
+      "author": "parksb",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=48992539"
+    },
+    "createdAt": "2026-07-21T14:05:16.000Z"
+  },
+  {
+    "id": "hackernews-48985182",
+    "source": "hackernews",
+    "title": "Designing an Ethernet Switch ASIC",
+    "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+    "score": 151,
+    "metadata": {
+      "author": "random__duck",
+      "commentsCount": 38,
+      "hnUrl": "https://news.ycombinator.com/item?id=48985182"
+    },
+    "createdAt": "2026-07-20T21:35:33.000Z"
+  },
+  {
+    "id": "hackernews-48981665",
+    "source": "hackernews",
+    "title": "GC and Exceptions in Wasmtime",
+    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+    "score": 12,
+    "metadata": {
+      "author": "phickey",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=48981665"
+    },
+    "createdAt": "2026-07-20T17:10:50.000Z"
+  },
+  {
+    "id": "hackernews-48977849",
+    "source": "hackernews",
+    "title": "The footprints of every building in NYC",
+    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+    "score": 60,
+    "metadata": {
+      "author": "jonathanmkeegan",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=48977849"
+    },
+    "createdAt": "2026-07-20T12:25:49.000Z"
+  },
+  {
+    "id": "hackernews-48973835",
+    "source": "hackernews",
+    "title": "India's first privately-developed rocket reaches orbit on debut launch",
+    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "score": 553,
+    "metadata": {
+      "author": "sohkamyung",
+      "commentsCount": 155,
+      "hnUrl": "https://news.ycombinator.com/item?id=48973835"
+    },
+    "createdAt": "2026-07-20T02:43:54.000Z"
+  },
+  {
     "id": "github-actions-checkout",
     "source": "github",
     "title": "actions / checkout",
@@ -24,19 +674,6 @@
       "starsToday": 854
     },
     "createdAt": "2026-07-18T04:51:13.775Z"
-  },
-  {
-    "id": "github-diegosouzapw-OmniRoute",
-    "source": "github",
-    "title": "diegosouzapw / OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "score": 18431,
-    "metadata": {
-      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-      "language": "TypeScript",
-      "starsToday": 3605
-    },
-    "createdAt": "2026-07-18T04:51:13.774Z"
   },
   {
     "id": "github-ogulcancelik-herdr",
@@ -73,19 +710,6 @@
     "metadata": {
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "starsToday": 1801
-    },
-    "createdAt": "2026-07-18T04:51:13.773Z"
-  },
-  {
-    "id": "github-HKUDS-DeepTutor",
-    "source": "github",
-    "title": "HKUDS / DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "score": 27435,
-    "metadata": {
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
       "starsToday": 1801
     },
     "createdAt": "2026-07-18T04:51:13.773Z"
@@ -232,19 +856,6 @@
       "starsToday": 608
     },
     "createdAt": "2026-07-18T04:51:13.766Z"
-  },
-  {
-    "id": "github-Nutlope-hallmark",
-    "source": "github",
-    "title": "Nutlope / hallmark",
-    "url": "https://github.com/Nutlope/hallmark",
-    "score": 12186,
-    "metadata": {
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "starsToday": 8075
-    },
-    "createdAt": "2026-07-18T04:51:13.765Z"
   },
   {
     "id": "hackernews-48955159",
@@ -700,19 +1311,6 @@
       "starsToday": 1019
     },
     "createdAt": "2026-07-11T05:16:07.390Z"
-  },
-  {
-    "id": "github-ruvnet-RuView",
-    "source": "github",
-    "title": "ruvnet / RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "score": 79911,
-    "metadata": {
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "starsToday": 3657
-    },
-    "createdAt": "2026-07-11T05:16:07.389Z"
   },
   {
     "id": "github-huggingface-speech-to-speech",
@@ -1352,19 +1950,6 @@
     "createdAt": "2026-07-04T05:49:12.738Z"
   },
   {
-    "id": "github-Robbyant-lingbot-map",
-    "source": "github",
-    "title": "Robbyant / lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "score": 9610,
-    "metadata": {
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "starsToday": 2171
-    },
-    "createdAt": "2026-07-04T05:49:12.737Z"
-  },
-  {
     "id": "github-simplex-chat-simplex-chat",
     "source": "github",
     "title": "simplex-chat / simplex-chat",
@@ -1755,19 +2340,6 @@
     "createdAt": "2026-06-30T11:07:38.000Z"
   },
   {
-    "id": "github-mattpocock-skills",
-    "source": "github",
-    "title": "mattpocock / skills",
-    "url": "https://github.com/mattpocock/skills",
-    "score": 147652,
-    "metadata": {
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "starsToday": 11060
-    },
-    "createdAt": "2026-06-27T05:56:06.023Z"
-  },
-  {
     "id": "github-aws-agent-toolkit-for-aws",
     "source": "github",
     "title": "aws / agent-toolkit-for-aws",
@@ -1829,19 +2401,6 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "starsToday": 3819
-    },
-    "createdAt": "2026-06-27T05:56:06.022Z"
-  },
-  {
-    "id": "github-koala73-worldmonitor",
-    "source": "github",
-    "title": "koala73 / worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
-    "score": 60174,
-    "metadata": {
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "starsToday": 3170
     },
     "createdAt": "2026-06-27T05:56:06.022Z"
   },
@@ -3324,19 +3883,6 @@
       "description": "A complete computer science study plan to become a software engineer.",
       "language": "",
       "starsToday": 364
-    },
-    "createdAt": "2026-06-16T07:21:19.364Z"
-  },
-  {
-    "id": "github-rohitg00-ai-engineering-from-scratch",
-    "source": "github",
-    "title": "rohitg00 / ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "score": 33360,
-    "metadata": {
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "starsToday": 562
     },
     "createdAt": "2026-06-16T07:21:19.364Z"
   },
