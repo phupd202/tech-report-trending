@@ -1,392 +1,379 @@
 [
   {
-    "id": "hackernews-49038433",
+    "id": "hackernews-49130853",
     "source": "hackernews",
-    "title": "Claude Opus 5",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "score": 1411,
+    "title": "About 100 firefighters are convicted of arson, every year",
+    "url": "https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/",
+    "score": 22,
     "metadata": {
-      "author": "alvis",
-      "commentsCount": 771,
-      "hnUrl": "https://news.ycombinator.com/item?id=49038433"
+      "author": "gurjeet",
+      "commentsCount": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130853"
     },
-    "createdAt": "2026-07-24T16:57:41.000Z"
+    "createdAt": "2026-08-01T03:50:30.000Z"
   },
   {
-    "id": "hackernews-49008618",
+    "id": "hackernews-49124218",
     "source": "hackernews",
-    "title": "Re: Bye Bye Gravatar",
-    "url": "https://unattributed.cc/re-bye-bye-gravatar",
-    "score": 23,
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 1087,
     "metadata": {
-      "author": "surprisetalk",
+      "author": "Jrh0203",
+      "commentsCount": 256,
+      "hnUrl": "https://news.ycombinator.com/item?id=49124218"
+    },
+    "createdAt": "2026-07-31T15:17:28.000Z"
+  },
+  {
+    "id": "hackernews-49130604",
+    "source": "hackernews",
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 48,
+    "metadata": {
+      "author": "vinhnx",
       "commentsCount": 8,
-      "hnUrl": "https://news.ycombinator.com/item?id=49008618"
+      "hnUrl": "https://news.ycombinator.com/item?id=49130604"
     },
-    "createdAt": "2026-07-22T15:43:21.000Z"
+    "createdAt": "2026-08-01T02:45:09.000Z"
   },
   {
-    "id": "hackernews-49040296",
+    "id": "hackernews-49130726",
     "source": "hackernews",
-    "title": "Postgres LISTEN/NOTIFY actually scales",
-    "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "score": 250,
+    "title": "The development pipeline is a production system",
+    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "score": 42,
     "metadata": {
-      "author": "KraftyOne",
-      "commentsCount": 45,
-      "hnUrl": "https://news.ycombinator.com/item?id=49040296"
+      "author": "firefoxd",
+      "commentsCount": 16,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130726"
     },
-    "createdAt": "2026-07-24T19:05:53.000Z"
+    "createdAt": "2026-08-01T03:16:09.000Z"
   },
   {
-    "id": "hackernews-48981665",
+    "id": "hackernews-49129990",
     "source": "hackernews",
-    "title": "GC and Exceptions in Wasmtime",
-    "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-    "score": 12,
+    "title": "How to Exist",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "score": 99,
     "metadata": {
-      "author": "phickey",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=48981665"
+      "author": "walterbell",
+      "commentsCount": 47,
+      "hnUrl": "https://news.ycombinator.com/item?id=49129990"
     },
-    "createdAt": "2026-07-20T17:10:50.000Z"
+    "createdAt": "2026-08-01T00:25:00.000Z"
   },
   {
-    "id": "hackernews-49040741",
+    "id": "hackernews-49126604",
     "source": "hackernews",
-    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-    "url": "https://artificialanalysis.ai/models",
-    "score": 210,
+    "title": "qm – Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "score": 521,
     "metadata": {
-      "author": "aarondong",
-      "commentsCount": 127,
-      "hnUrl": "https://news.ycombinator.com/item?id=49040741"
+      "author": "tosh",
+      "commentsCount": 109,
+      "hnUrl": "https://news.ycombinator.com/item?id=49126604"
     },
-    "createdAt": "2026-07-24T19:45:10.000Z"
+    "createdAt": "2026-07-31T18:04:58.000Z"
   },
   {
-    "id": "hackernews-49044074",
+    "id": "hackernews-49096605",
     "source": "hackernews",
-    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-    "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+    "title": "Software for One",
+    "url": "https://www.ajwaxman.com/writing/software-for-one",
+    "score": 67,
+    "metadata": {
+      "author": "awaxman11",
+      "commentsCount": 40,
+      "hnUrl": "https://news.ycombinator.com/item?id=49096605"
+    },
+    "createdAt": "2026-07-29T12:29:20.000Z"
+  },
+  {
+    "id": "hackernews-49130756",
+    "source": "hackernews",
+    "title": "BMW Spider-Man in-car advertising",
+    "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
     "score": 130,
     "metadata": {
-      "author": "JumpCrisscross",
+      "author": "goplayoutside",
+      "commentsCount": 50,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130756"
+    },
+    "createdAt": "2026-08-01T03:25:12.000Z"
+  },
+  {
+    "id": "hackernews-49131034",
+    "source": "hackernews",
+    "title": "What Liberal Arts Education Is for (2024)",
+    "url": "https://innig.net/teaching/liberal-arts-manifesto",
+    "score": 7,
+    "metadata": {
+      "author": "mr_wiglaf",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=49131034"
+    },
+    "createdAt": "2026-08-01T04:28:13.000Z"
+  },
+  {
+    "id": "hackernews-49095744",
+    "source": "hackernews",
+    "title": "History remembers two Robert McNamaras",
+    "url": "https://indevelopmentmag.com/numbers-man/",
+    "score": 5,
+    "metadata": {
+      "author": "salonium_",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49095744"
+    },
+    "createdAt": "2026-07-29T10:52:20.000Z"
+  },
+  {
+    "id": "hackernews-49130295",
+    "source": "hackernews",
+    "title": "A Week in Matrix",
+    "url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "score": 25,
+    "metadata": {
+      "author": "Kesseki",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130295"
+    },
+    "createdAt": "2026-08-01T01:35:53.000Z"
+  },
+  {
+    "id": "hackernews-49121196",
+    "source": "hackernews",
+    "title": "Progressive Web Components",
+    "url": "https://arielsalminen.com/2026/progressive-web-components/",
+    "score": 125,
+    "metadata": {
+      "author": "hosteur",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=49121196"
+    },
+    "createdAt": "2026-07-31T10:04:40.000Z"
+  },
+  {
+    "id": "hackernews-49126765",
+    "source": "hackernews",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "score": 128,
+    "metadata": {
+      "author": "iamnothere",
       "commentsCount": 39,
-      "hnUrl": "https://news.ycombinator.com/item?id=49044074"
+      "hnUrl": "https://news.ycombinator.com/item?id=49126765"
     },
-    "createdAt": "2026-07-25T02:54:36.000Z"
+    "createdAt": "2026-07-31T18:17:52.000Z"
   },
   {
-    "id": "hackernews-48973835",
+    "id": "hackernews-49125034",
     "source": "hackernews",
-    "title": "India's first privately-developed rocket reaches orbit on debut launch",
-    "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-    "score": 553,
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "score": 167,
     "metadata": {
-      "author": "sohkamyung",
-      "commentsCount": 155,
-      "hnUrl": "https://news.ycombinator.com/item?id=48973835"
+      "author": "speckx",
+      "commentsCount": 92,
+      "hnUrl": "https://news.ycombinator.com/item?id=49125034"
     },
-    "createdAt": "2026-07-20T02:43:54.000Z"
+    "createdAt": "2026-07-31T16:15:31.000Z"
   },
   {
-    "id": "hackernews-49042751",
+    "id": "hackernews-49123386",
     "source": "hackernews",
-    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-    "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-    "score": 69,
+    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "url": "https://github.com/sqliteai/waste",
+    "score": 196,
     "metadata": {
-      "author": "hhs",
-      "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=49042751"
+      "author": "marcobambini",
+      "commentsCount": 81,
+      "hnUrl": "https://news.ycombinator.com/item?id=49123386"
     },
-    "createdAt": "2026-07-24T23:13:18.000Z"
+    "createdAt": "2026-07-31T14:12:38.000Z"
   },
   {
-    "id": "hackernews-49034292",
+    "id": "hackernews-49124858",
     "source": "hackernews",
-    "title": "My security camera shipped a GitHub admin token in its login page",
-    "url": "https://hhh.hn/hanwha-github-token/",
-    "score": 544,
+    "title": "Big Food vs. the People",
+    "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "score": 215,
     "metadata": {
-      "author": "hhh",
-      "commentsCount": 185,
-      "hnUrl": "https://news.ycombinator.com/item?id=49034292"
+      "author": "jruohonen",
+      "commentsCount": 139,
+      "hnUrl": "https://news.ycombinator.com/item?id=49124858"
     },
-    "createdAt": "2026-07-24T11:54:41.000Z"
+    "createdAt": "2026-07-31T16:04:32.000Z"
   },
   {
-    "id": "hackernews-49033004",
+    "id": "hackernews-49128826",
     "source": "hackernews",
-    "title": "If coding has been solved, why does software keep getting worse?",
-    "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "score": 649,
-    "metadata": {
-      "author": "pchm",
-      "commentsCount": 495,
-      "hnUrl": "https://news.ycombinator.com/item?id=49033004"
-    },
-    "createdAt": "2026-07-24T09:08:17.000Z"
-  },
-  {
-    "id": "hackernews-49020545",
-    "source": "hackernews",
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "url": "https://globaloilnetwork.staffinganalytics.io/",
-    "score": 137,
-    "metadata": {
-      "author": "eliotho",
-      "commentsCount": 73,
-      "hnUrl": "https://news.ycombinator.com/item?id=49020545"
-    },
-    "createdAt": "2026-07-23T12:31:21.000Z"
-  },
-  {
-    "id": "hackernews-48985182",
-    "source": "hackernews",
-    "title": "Designing an Ethernet Switch ASIC",
-    "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
-    "score": 151,
-    "metadata": {
-      "author": "random__duck",
-      "commentsCount": 38,
-      "hnUrl": "https://news.ycombinator.com/item?id=48985182"
-    },
-    "createdAt": "2026-07-20T21:35:33.000Z"
-  },
-  {
-    "id": "hackernews-49043724",
-    "source": "hackernews",
-    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-    "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-    "score": 23,
-    "metadata": {
-      "author": "agnishom",
-      "commentsCount": 7,
-      "hnUrl": "https://news.ycombinator.com/item?id=49043724"
-    },
-    "createdAt": "2026-07-25T01:44:12.000Z"
-  },
-  {
-    "id": "hackernews-49008512",
-    "source": "hackernews",
-    "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
-    "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
-    "score": 158,
-    "metadata": {
-      "author": "crescit_eundo",
-      "commentsCount": 34,
-      "hnUrl": "https://news.ycombinator.com/item?id=49008512"
-    },
-    "createdAt": "2026-07-22T15:37:25.000Z"
-  },
-  {
-    "id": "hackernews-49024938",
-    "source": "hackernews",
-    "title": "Kimi K3 exploited the latest Redis server",
-    "url": "https://twitter.com/fried_rice/status/2080059356322918777",
-    "score": 179,
-    "metadata": {
-      "author": "Alifatisk",
-      "commentsCount": 49,
-      "hnUrl": "https://news.ycombinator.com/item?id=49024938"
-    },
-    "createdAt": "2026-07-23T17:10:02.000Z"
-  },
-  {
-    "id": "hackernews-48992539",
-    "source": "hackernews",
-    "title": "A concrete explanation of how a cache works",
-    "url": "https://parksb.github.io/en/article/29.html",
-    "score": 15,
-    "metadata": {
-      "author": "parksb",
-      "commentsCount": 2,
-      "hnUrl": "https://news.ycombinator.com/item?id=48992539"
-    },
-    "createdAt": "2026-07-21T14:05:16.000Z"
-  },
-  {
-    "id": "hackernews-49035303",
-    "source": "hackernews",
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "score": 566,
-    "metadata": {
-      "author": "louiereederson",
-      "commentsCount": 254,
-      "hnUrl": "https://news.ycombinator.com/item?id=49035303"
-    },
-    "createdAt": "2026-07-24T13:32:30.000Z"
-  },
-  {
-    "id": "hackernews-48995409",
-    "source": "hackernews",
-    "title": "Firefox Containers Preview",
-    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-    "score": 272,
-    "metadata": {
-      "author": "twapi",
-      "commentsCount": 91,
-      "hnUrl": "https://news.ycombinator.com/item?id=48995409"
-    },
-    "createdAt": "2026-07-21T17:27:59.000Z"
-  },
-  {
-    "id": "hackernews-49034868",
-    "source": "hackernews",
-    "title": "Half-Life 2 running natively on HaikuOS",
-    "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-    "score": 288,
-    "metadata": {
-      "author": "m0do1",
-      "commentsCount": 53,
-      "hnUrl": "https://news.ycombinator.com/item?id=49034868"
-    },
-    "createdAt": "2026-07-24T12:53:59.000Z"
-  },
-  {
-    "id": "hackernews-49038298",
-    "source": "hackernews",
-    "title": "Don't Take the Black Pill [video]",
-    "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-    "score": 151,
-    "metadata": {
-      "author": "signa11",
-      "commentsCount": 127,
-      "hnUrl": "https://news.ycombinator.com/item?id=49038298"
-    },
-    "createdAt": "2026-07-24T16:48:57.000Z"
-  },
-  {
-    "id": "hackernews-49026933",
-    "source": "hackernews",
-    "title": "Fil-C: Garbage In, Memory Safety Out [video]",
-    "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-    "score": 121,
-    "metadata": {
-      "author": "Bootvis",
-      "commentsCount": 111,
-      "hnUrl": "https://news.ycombinator.com/item?id=49026933"
-    },
-    "createdAt": "2026-07-23T19:37:37.000Z"
-  },
-  {
-    "id": "hackernews-49033240",
-    "source": "hackernews",
-    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "score": 274,
-    "metadata": {
-      "author": "thisislife2",
-      "commentsCount": 343,
-      "hnUrl": "https://news.ycombinator.com/item?id=49033240"
-    },
-    "createdAt": "2026-07-24T09:52:58.000Z"
-  },
-  {
-    "id": "hackernews-49033110",
-    "source": "hackernews",
-    "title": "Future euro banknote design proposals",
-    "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-    "score": 150,
-    "metadata": {
-      "author": "robin_reala",
-      "commentsCount": 130,
-      "hnUrl": "https://news.ycombinator.com/item?id=49033110"
-    },
-    "createdAt": "2026-07-24T09:29:44.000Z"
-  },
-  {
-    "id": "hackernews-49004464",
-    "source": "hackernews",
-    "title": "Marimo now runs in PyCharm",
-    "url": "https://marimo.io/blog/pycharm",
+    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+    "url": "https://code.intellios.ai/cwbrowser/",
     "score": 89,
     "metadata": {
-      "author": "cantdutchthis",
+      "author": "coolwulf",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=49128826"
+    },
+    "createdAt": "2026-07-31T21:39:52.000Z"
+  },
+  {
+    "id": "hackernews-49084005",
+    "source": "hackernews",
+    "title": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+    "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+    "score": 33,
+    "metadata": {
+      "author": "rzk",
       "commentsCount": 20,
-      "hnUrl": "https://news.ycombinator.com/item?id=49004464"
+      "hnUrl": "https://news.ycombinator.com/item?id=49084005"
     },
-    "createdAt": "2026-07-22T10:24:40.000Z"
+    "createdAt": "2026-07-28T13:59:14.000Z"
   },
   {
-    "id": "hackernews-49034217",
+    "id": "hackernews-49128323",
     "source": "hackernews",
-    "title": "The case for MUDs in modern times (2018)",
-    "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-    "score": 91,
+    "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+    "url": "https://arxiv.org/abs/2607.28233",
+    "score": 45,
     "metadata": {
-      "author": "bw86",
-      "commentsCount": 73,
-      "hnUrl": "https://news.ycombinator.com/item?id=49034217"
+      "author": "Jimmc414",
+      "commentsCount": 21,
+      "hnUrl": "https://news.ycombinator.com/item?id=49128323"
     },
-    "createdAt": "2026-07-24T11:46:40.000Z"
+    "createdAt": "2026-07-31T20:44:29.000Z"
   },
   {
-    "id": "hackernews-49036433",
+    "id": "hackernews-49127306",
     "source": "hackernews",
-    "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-    "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-    "score": 423,
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 506,
     "metadata": {
-      "author": "rootkea",
-      "commentsCount": 305,
-      "hnUrl": "https://news.ycombinator.com/item?id=49036433"
+      "author": "bluehatbrit",
+      "commentsCount": 195,
+      "hnUrl": "https://news.ycombinator.com/item?id=49127306"
     },
-    "createdAt": "2026-07-24T14:41:59.000Z"
+    "createdAt": "2026-07-31T19:03:45.000Z"
   },
   {
-    "id": "hackernews-49038045",
+    "id": "hackernews-49119270",
     "source": "hackernews",
-    "title": "Unitree As2-W",
-    "url": "https://www.unitree.com/As2-W/",
-    "score": 112,
+    "title": "Let's make the worst Htmx",
+    "url": "https://zserge.com/posts/worst-htmx-ever/",
+    "score": 86,
     "metadata": {
-      "author": "MehrdadKhnzd",
+      "author": "RebelPotato",
+      "commentsCount": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=49119270"
+    },
+    "createdAt": "2026-07-31T05:16:45.000Z"
+  },
+  {
+    "id": "hackernews-49124042",
+    "source": "hackernews",
+    "title": "The most official water costs $120k a gallon",
+    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "score": 166,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 137,
+      "hnUrl": "https://news.ycombinator.com/item?id=49124042"
+    },
+    "createdAt": "2026-07-31T15:00:15.000Z"
+  },
+  {
+    "id": "hackernews-49077646",
+    "source": "hackernews",
+    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+    "score": 6,
+    "metadata": {
+      "author": "matt_d",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49077646"
+    },
+    "createdAt": "2026-07-28T00:26:45.000Z"
+  },
+  {
+    "id": "hackernews-49117089",
+    "source": "hackernews",
+    "title": "The Absurdity of Albert Camus",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "score": 79,
+    "metadata": {
+      "author": "apollinaire",
       "commentsCount": 47,
-      "hnUrl": "https://news.ycombinator.com/item?id=49038045"
+      "hnUrl": "https://news.ycombinator.com/item?id=49117089"
     },
-    "createdAt": "2026-07-24T16:32:52.000Z"
+    "createdAt": "2026-07-30T23:21:17.000Z"
   },
   {
-    "id": "hackernews-49033099",
+    "id": "hackernews-49127031",
     "source": "hackernews",
-    "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
-    "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
-    "score": 244,
+    "title": "Golang proposal: container/: generic collection types",
+    "url": "https://github.com/golang/go/issues/80590",
+    "score": 142,
     "metadata": {
-      "author": "kristoff_it",
-      "commentsCount": 167,
-      "hnUrl": "https://news.ycombinator.com/item?id=49033099"
+      "author": "jabits",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=49127031"
     },
-    "createdAt": "2026-07-24T09:26:40.000Z"
+    "createdAt": "2026-07-31T18:39:47.000Z"
   },
   {
-    "id": "hackernews-48977849",
+    "id": "hackernews-49083599",
     "source": "hackernews",
-    "title": "The footprints of every building in NYC",
-    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-    "score": 60,
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "url": "https://weeraman.com/because-we-can/",
+    "score": 217,
     "metadata": {
-      "author": "jonathanmkeegan",
-      "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=48977849"
+      "author": "aweeraman",
+      "commentsCount": 95,
+      "hnUrl": "https://news.ycombinator.com/item?id=49083599"
     },
-    "createdAt": "2026-07-20T12:25:49.000Z"
+    "createdAt": "2026-07-28T13:31:25.000Z"
   },
   {
-    "id": "hackernews-49038060",
+    "id": "hackernews-49096319",
     "source": "hackernews",
-    "title": "Be skeptical of OpenAI's rogue hacker agent story",
-    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-    "score": 467,
+    "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+    "score": 36,
     "metadata": {
-      "author": "rwmj",
-      "commentsCount": 272,
-      "hnUrl": "https://news.ycombinator.com/item?id=49038060"
+      "author": "sparsesignal",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=49096319"
     },
-    "createdAt": "2026-07-24T16:33:31.000Z"
+    "createdAt": "2026-07-29T11:59:10.000Z"
+  },
+  {
+    "id": "hackernews-49124358",
+    "source": "hackernews",
+    "title": "Is AI reasoning right for the wrong reasons?",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "score": 140,
+    "metadata": {
+      "author": "retupmoc01",
+      "commentsCount": 166,
+      "hnUrl": "https://news.ycombinator.com/item?id=49124358"
+    },
+    "createdAt": "2026-07-31T15:29:39.000Z"
+  },
+  {
+    "id": "hackernews-49123468",
+    "source": "hackernews",
+    "title": "Authorize, don't authenticate",
+    "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+    "score": 69,
+    "metadata": {
+      "author": "marcua",
+      "commentsCount": 24,
+      "hnUrl": "https://news.ycombinator.com/item?id=49123468"
+    },
+    "createdAt": "2026-07-31T14:17:43.000Z"
   }
 ]

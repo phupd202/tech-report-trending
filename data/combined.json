@@ -1,5 +1,616 @@
 [
   {
+    "id": "github-earendil-works-pi",
+    "source": "github",
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "score": 81595,
+    "metadata": {
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "starsToday": 4571
+    },
+    "createdAt": "2026-08-01T05:32:16.852Z"
+  },
+  {
+    "id": "github-microsoft-VibeVoice",
+    "source": "github",
+    "title": "microsoft / VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "score": 51723,
+    "metadata": {
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "starsToday": 1222
+    },
+    "createdAt": "2026-08-01T05:32:16.852Z"
+  },
+  {
+    "id": "github-diegosouzapw-OmniRoute",
+    "source": "github",
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "score": 36291,
+    "metadata": {
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "starsToday": 7701
+    },
+    "createdAt": "2026-08-01T05:32:16.851Z"
+  },
+  {
+    "id": "github-moeru-ai-airi",
+    "source": "github",
+    "title": "moeru-ai / airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "score": 46255,
+    "metadata": {
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "starsToday": 3125
+    },
+    "createdAt": "2026-08-01T05:32:16.851Z"
+  },
+  {
+    "id": "github-CoreBunch-Instatic",
+    "source": "github",
+    "title": "CoreBunch / Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "score": 7011,
+    "metadata": {
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "starsToday": 2866
+    },
+    "createdAt": "2026-08-01T05:32:16.851Z"
+  },
+  {
+    "id": "github-earthtojake-text-to-cad",
+    "source": "github",
+    "title": "earthtojake / text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "score": 12277,
+    "metadata": {
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "language": "JavaScript",
+      "starsToday": 1901
+    },
+    "createdAt": "2026-08-01T05:32:16.851Z"
+  },
+  {
+    "id": "github-koala73-worldmonitor",
+    "source": "github",
+    "title": "koala73 / worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "score": 77519,
+    "metadata": {
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "starsToday": 4657
+    },
+    "createdAt": "2026-08-01T05:32:16.850Z"
+  },
+  {
+    "id": "github-shiyu-coder-Kronos",
+    "source": "github",
+    "title": "shiyu-coder / Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "score": 35285,
+    "metadata": {
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "starsToday": 1939
+    },
+    "createdAt": "2026-08-01T05:32:16.850Z"
+  },
+  {
+    "id": "github-opengeos-GeoLibre",
+    "source": "github",
+    "title": "opengeos / GeoLibre",
+    "url": "https://github.com/opengeos/GeoLibre",
+    "score": 4739,
+    "metadata": {
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "starsToday": 2765
+    },
+    "createdAt": "2026-08-01T05:32:16.850Z"
+  },
+  {
+    "id": "github-mattpocock-skills",
+    "source": "github",
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "score": 198045,
+    "metadata": {
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsToday": 11622
+    },
+    "createdAt": "2026-08-01T05:32:16.849Z"
+  },
+  {
+    "id": "github-1jehuang-jcode",
+    "source": "github",
+    "title": "1jehuang / jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "score": 14695,
+    "metadata": {
+      "description": "The most RAM efficient harness",
+      "language": "Rust",
+      "starsToday": 3351
+    },
+    "createdAt": "2026-08-01T05:32:16.849Z"
+  },
+  {
+    "id": "github-pingdotgg-t3code",
+    "source": "github",
+    "title": "pingdotgg / t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "score": 16118,
+    "metadata": {
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 1488
+    },
+    "createdAt": "2026-08-01T05:32:16.849Z"
+  },
+  {
+    "id": "github-virgiliojr94-book-to-skill",
+    "source": "github",
+    "title": "virgiliojr94 / book-to-skill",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "score": 14366,
+    "metadata": {
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "starsToday": 4603
+    },
+    "createdAt": "2026-08-01T05:32:16.848Z"
+  },
+  {
+    "id": "github-ayghri-i-have-adhd",
+    "source": "github",
+    "title": "ayghri / i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 14847,
+    "metadata": {
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "starsToday": 5133
+    },
+    "createdAt": "2026-08-01T05:32:16.847Z"
+  },
+  {
+    "id": "github-pascalorg-editor",
+    "source": "github",
+    "title": "pascalorg / editor",
+    "url": "https://github.com/pascalorg/editor",
+    "score": 20470,
+    "metadata": {
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "starsToday": 2863
+    },
+    "createdAt": "2026-08-01T05:32:16.847Z"
+  },
+  {
+    "id": "github-alibaba-open-code-review",
+    "source": "github",
+    "title": "alibaba / open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "score": 17083,
+    "metadata": {
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "starsToday": 4746
+    },
+    "createdAt": "2026-08-01T05:32:16.846Z"
+  },
+  {
+    "id": "github-block-buzz",
+    "source": "github",
+    "title": "block / buzz",
+    "url": "https://github.com/block/buzz",
+    "score": 19689,
+    "metadata": {
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "starsToday": 10558
+    },
+    "createdAt": "2026-08-01T05:32:16.845Z"
+  },
+  {
+    "id": "github-citrolabs-ego-lite",
+    "source": "github",
+    "title": "citrolabs / ego-lite",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "score": 7105,
+    "metadata": {
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "starsToday": 4741
+    },
+    "createdAt": "2026-08-01T05:32:16.845Z"
+  },
+  {
+    "id": "hackernews-49131034",
+    "source": "hackernews",
+    "title": "What Liberal Arts Education Is for (2024)",
+    "url": "https://innig.net/teaching/liberal-arts-manifesto",
+    "score": 7,
+    "metadata": {
+      "author": "mr_wiglaf",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=49131034"
+    },
+    "createdAt": "2026-08-01T04:28:13.000Z"
+  },
+  {
+    "id": "hackernews-49130853",
+    "source": "hackernews",
+    "title": "About 100 firefighters are convicted of arson, every year",
+    "url": "https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/",
+    "score": 22,
+    "metadata": {
+      "author": "gurjeet",
+      "commentsCount": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130853"
+    },
+    "createdAt": "2026-08-01T03:50:30.000Z"
+  },
+  {
+    "id": "hackernews-49130756",
+    "source": "hackernews",
+    "title": "BMW Spider-Man in-car advertising",
+    "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+    "score": 130,
+    "metadata": {
+      "author": "goplayoutside",
+      "commentsCount": 50,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130756"
+    },
+    "createdAt": "2026-08-01T03:25:12.000Z"
+  },
+  {
+    "id": "hackernews-49130726",
+    "source": "hackernews",
+    "title": "The development pipeline is a production system",
+    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "score": 42,
+    "metadata": {
+      "author": "firefoxd",
+      "commentsCount": 16,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130726"
+    },
+    "createdAt": "2026-08-01T03:16:09.000Z"
+  },
+  {
+    "id": "hackernews-49130604",
+    "source": "hackernews",
+    "title": "Flint: A Visualization Language for the AI Era",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 48,
+    "metadata": {
+      "author": "vinhnx",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130604"
+    },
+    "createdAt": "2026-08-01T02:45:09.000Z"
+  },
+  {
+    "id": "hackernews-49130295",
+    "source": "hackernews",
+    "title": "A Week in Matrix",
+    "url": "https://piegames.de/dumps/a-week-in-matrix/",
+    "score": 25,
+    "metadata": {
+      "author": "Kesseki",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=49130295"
+    },
+    "createdAt": "2026-08-01T01:35:53.000Z"
+  },
+  {
+    "id": "hackernews-49129990",
+    "source": "hackernews",
+    "title": "How to Exist",
+    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "score": 99,
+    "metadata": {
+      "author": "walterbell",
+      "commentsCount": 47,
+      "hnUrl": "https://news.ycombinator.com/item?id=49129990"
+    },
+    "createdAt": "2026-08-01T00:25:00.000Z"
+  },
+  {
+    "id": "hackernews-49128826",
+    "source": "hackernews",
+    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+    "url": "https://code.intellios.ai/cwbrowser/",
+    "score": 89,
+    "metadata": {
+      "author": "coolwulf",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=49128826"
+    },
+    "createdAt": "2026-07-31T21:39:52.000Z"
+  },
+  {
+    "id": "hackernews-49128323",
+    "source": "hackernews",
+    "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+    "url": "https://arxiv.org/abs/2607.28233",
+    "score": 45,
+    "metadata": {
+      "author": "Jimmc414",
+      "commentsCount": 21,
+      "hnUrl": "https://news.ycombinator.com/item?id=49128323"
+    },
+    "createdAt": "2026-07-31T20:44:29.000Z"
+  },
+  {
+    "id": "hackernews-49127306",
+    "source": "hackernews",
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 506,
+    "metadata": {
+      "author": "bluehatbrit",
+      "commentsCount": 195,
+      "hnUrl": "https://news.ycombinator.com/item?id=49127306"
+    },
+    "createdAt": "2026-07-31T19:03:45.000Z"
+  },
+  {
+    "id": "hackernews-49127031",
+    "source": "hackernews",
+    "title": "Golang proposal: container/: generic collection types",
+    "url": "https://github.com/golang/go/issues/80590",
+    "score": 142,
+    "metadata": {
+      "author": "jabits",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=49127031"
+    },
+    "createdAt": "2026-07-31T18:39:47.000Z"
+  },
+  {
+    "id": "hackernews-49126765",
+    "source": "hackernews",
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "score": 128,
+    "metadata": {
+      "author": "iamnothere",
+      "commentsCount": 39,
+      "hnUrl": "https://news.ycombinator.com/item?id=49126765"
+    },
+    "createdAt": "2026-07-31T18:17:52.000Z"
+  },
+  {
+    "id": "hackernews-49126604",
+    "source": "hackernews",
+    "title": "qm – Multiplayer agent harness for work",
+    "url": "https://github.com/yc-software/qm",
+    "score": 521,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 109,
+      "hnUrl": "https://news.ycombinator.com/item?id=49126604"
+    },
+    "createdAt": "2026-07-31T18:04:58.000Z"
+  },
+  {
+    "id": "hackernews-49125034",
+    "source": "hackernews",
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "score": 167,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 92,
+      "hnUrl": "https://news.ycombinator.com/item?id=49125034"
+    },
+    "createdAt": "2026-07-31T16:15:31.000Z"
+  },
+  {
+    "id": "hackernews-49124858",
+    "source": "hackernews",
+    "title": "Big Food vs. the People",
+    "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "score": 215,
+    "metadata": {
+      "author": "jruohonen",
+      "commentsCount": 139,
+      "hnUrl": "https://news.ycombinator.com/item?id=49124858"
+    },
+    "createdAt": "2026-07-31T16:04:32.000Z"
+  },
+  {
+    "id": "hackernews-49124358",
+    "source": "hackernews",
+    "title": "Is AI reasoning right for the wrong reasons?",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "score": 140,
+    "metadata": {
+      "author": "retupmoc01",
+      "commentsCount": 166,
+      "hnUrl": "https://news.ycombinator.com/item?id=49124358"
+    },
+    "createdAt": "2026-07-31T15:29:39.000Z"
+  },
+  {
+    "id": "hackernews-49124218",
+    "source": "hackernews",
+    "title": "Elevators",
+    "url": "https://john.fun/elevators",
+    "score": 1087,
+    "metadata": {
+      "author": "Jrh0203",
+      "commentsCount": 256,
+      "hnUrl": "https://news.ycombinator.com/item?id=49124218"
+    },
+    "createdAt": "2026-07-31T15:17:28.000Z"
+  },
+  {
+    "id": "hackernews-49124042",
+    "source": "hackernews",
+    "title": "The most official water costs $120k a gallon",
+    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "score": 166,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 137,
+      "hnUrl": "https://news.ycombinator.com/item?id=49124042"
+    },
+    "createdAt": "2026-07-31T15:00:15.000Z"
+  },
+  {
+    "id": "hackernews-49123468",
+    "source": "hackernews",
+    "title": "Authorize, don't authenticate",
+    "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
+    "score": 69,
+    "metadata": {
+      "author": "marcua",
+      "commentsCount": 24,
+      "hnUrl": "https://news.ycombinator.com/item?id=49123468"
+    },
+    "createdAt": "2026-07-31T14:17:43.000Z"
+  },
+  {
+    "id": "hackernews-49123386",
+    "source": "hackernews",
+    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "url": "https://github.com/sqliteai/waste",
+    "score": 196,
+    "metadata": {
+      "author": "marcobambini",
+      "commentsCount": 81,
+      "hnUrl": "https://news.ycombinator.com/item?id=49123386"
+    },
+    "createdAt": "2026-07-31T14:12:38.000Z"
+  },
+  {
+    "id": "hackernews-49121196",
+    "source": "hackernews",
+    "title": "Progressive Web Components",
+    "url": "https://arielsalminen.com/2026/progressive-web-components/",
+    "score": 125,
+    "metadata": {
+      "author": "hosteur",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=49121196"
+    },
+    "createdAt": "2026-07-31T10:04:40.000Z"
+  },
+  {
+    "id": "hackernews-49119270",
+    "source": "hackernews",
+    "title": "Let's make the worst Htmx",
+    "url": "https://zserge.com/posts/worst-htmx-ever/",
+    "score": 86,
+    "metadata": {
+      "author": "RebelPotato",
+      "commentsCount": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=49119270"
+    },
+    "createdAt": "2026-07-31T05:16:45.000Z"
+  },
+  {
+    "id": "hackernews-49117089",
+    "source": "hackernews",
+    "title": "The Absurdity of Albert Camus",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+    "score": 79,
+    "metadata": {
+      "author": "apollinaire",
+      "commentsCount": 47,
+      "hnUrl": "https://news.ycombinator.com/item?id=49117089"
+    },
+    "createdAt": "2026-07-30T23:21:17.000Z"
+  },
+  {
+    "id": "hackernews-49096605",
+    "source": "hackernews",
+    "title": "Software for One",
+    "url": "https://www.ajwaxman.com/writing/software-for-one",
+    "score": 67,
+    "metadata": {
+      "author": "awaxman11",
+      "commentsCount": 40,
+      "hnUrl": "https://news.ycombinator.com/item?id=49096605"
+    },
+    "createdAt": "2026-07-29T12:29:20.000Z"
+  },
+  {
+    "id": "hackernews-49096319",
+    "source": "hackernews",
+    "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+    "score": 36,
+    "metadata": {
+      "author": "sparsesignal",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=49096319"
+    },
+    "createdAt": "2026-07-29T11:59:10.000Z"
+  },
+  {
+    "id": "hackernews-49095744",
+    "source": "hackernews",
+    "title": "History remembers two Robert McNamaras",
+    "url": "https://indevelopmentmag.com/numbers-man/",
+    "score": 5,
+    "metadata": {
+      "author": "salonium_",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49095744"
+    },
+    "createdAt": "2026-07-29T10:52:20.000Z"
+  },
+  {
+    "id": "hackernews-49084005",
+    "source": "hackernews",
+    "title": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
+    "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+    "score": 33,
+    "metadata": {
+      "author": "rzk",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=49084005"
+    },
+    "createdAt": "2026-07-28T13:59:14.000Z"
+  },
+  {
+    "id": "hackernews-49083599",
+    "source": "hackernews",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "url": "https://weeraman.com/because-we-can/",
+    "score": 217,
+    "metadata": {
+      "author": "aweeraman",
+      "commentsCount": 95,
+      "hnUrl": "https://news.ycombinator.com/item?id=49083599"
+    },
+    "createdAt": "2026-07-28T13:31:25.000Z"
+  },
+  {
+    "id": "hackernews-49077646",
+    "source": "hackernews",
+    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+    "score": 6,
+    "metadata": {
+      "author": "matt_d",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49077646"
+    },
+    "createdAt": "2026-07-28T00:26:45.000Z"
+  },
+  {
     "id": "github-ruvnet-RuView",
     "source": "github",
     "title": "ruvnet / RuView",
@@ -61,19 +672,6 @@
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
       "starsToday": 3640
-    },
-    "createdAt": "2026-07-25T05:17:35.328Z"
-  },
-  {
-    "id": "github-mattpocock-skills",
-    "source": "github",
-    "title": "mattpocock / skills",
-    "url": "https://github.com/mattpocock/skills",
-    "score": 187080,
-    "metadata": {
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "starsToday": 10969
     },
     "createdAt": "2026-07-25T05:17:35.328Z"
   },
@@ -156,45 +754,6 @@
     "createdAt": "2026-07-25T05:17:35.327Z"
   },
   {
-    "id": "github-earendil-works-pi",
-    "source": "github",
-    "title": "earendil-works / pi",
-    "url": "https://github.com/earendil-works/pi",
-    "score": 77154,
-    "metadata": {
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "starsToday": 4880
-    },
-    "createdAt": "2026-07-25T05:17:35.327Z"
-  },
-  {
-    "id": "github-diegosouzapw-OmniRoute",
-    "source": "github",
-    "title": "diegosouzapw / OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "score": 29085,
-    "metadata": {
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "starsToday": 9965
-    },
-    "createdAt": "2026-07-25T05:17:35.326Z"
-  },
-  {
-    "id": "github-1jehuang-jcode",
-    "source": "github",
-    "title": "1jehuang / jcode",
-    "url": "https://github.com/1jehuang/jcode",
-    "score": 11263,
-    "metadata": {
-      "description": "The most intelligent agent harness for code",
-      "language": "Rust",
-      "starsToday": 2773
-    },
-    "createdAt": "2026-07-25T05:17:35.326Z"
-  },
-  {
     "id": "github-agegr-pi-web",
     "source": "github",
     "title": "agegr / pi-web",
@@ -232,19 +791,6 @@
       "starsToday": 1589
     },
     "createdAt": "2026-07-25T05:17:35.325Z"
-  },
-  {
-    "id": "github-koala73-worldmonitor",
-    "source": "github",
-    "title": "koala73 / worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
-    "score": 73478,
-    "metadata": {
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "starsToday": 10936
-    },
-    "createdAt": "2026-07-25T05:17:35.324Z"
   },
   {
     "id": "github-bojieli-ai-agent-book",
@@ -3794,19 +4340,6 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48553161"
     },
     "createdAt": "2026-06-16T10:34:10.000Z"
-  },
-  {
-    "id": "github-shiyu-coder-Kronos",
-    "source": "github",
-    "title": "shiyu-coder / Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "score": 30400,
-    "metadata": {
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "starsToday": 396
-    },
-    "createdAt": "2026-06-16T07:21:19.367Z"
   },
   {
     "id": "github-Raphire-Win11Debloat",

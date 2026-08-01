@@ -1,262 +1,236 @@
 [
   {
-    "id": "github-bojieli-ai-agent-book",
+    "id": "github-block-buzz",
     "source": "github",
-    "title": "bojieli / ai-agent-book",
-    "url": "https://github.com/bojieli/ai-agent-book",
-    "score": 19303,
+    "title": "block / buzz",
+    "url": "https://github.com/block/buzz",
+    "score": 19689,
     "metadata": {
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "starsToday": 10558
+    },
+    "createdAt": "2026-08-01T05:32:16.845Z"
+  },
+  {
+    "id": "github-citrolabs-ego-lite",
+    "source": "github",
+    "title": "citrolabs / ego-lite",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "score": 7105,
+    "metadata": {
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "language": "JavaScript",
+      "starsToday": 4741
+    },
+    "createdAt": "2026-08-01T05:32:16.845Z"
+  },
+  {
+    "id": "github-alibaba-open-code-review",
+    "source": "github",
+    "title": "alibaba / open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "score": 17083,
+    "metadata": {
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "starsToday": 4746
+    },
+    "createdAt": "2026-08-01T05:32:16.846Z"
+  },
+  {
+    "id": "github-ayghri-i-have-adhd",
+    "source": "github",
+    "title": "ayghri / i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 14847,
+    "metadata": {
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "starsToday": 17401
+      "starsToday": 5133
     },
-    "createdAt": "2026-07-25T05:17:35.323Z"
+    "createdAt": "2026-08-01T05:32:16.847Z"
   },
   {
-    "id": "github-koala73-worldmonitor",
+    "id": "github-pascalorg-editor",
     "source": "github",
-    "title": "koala73 / worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
-    "score": 73478,
+    "title": "pascalorg / editor",
+    "url": "https://github.com/pascalorg/editor",
+    "score": 20470,
     "metadata": {
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "starsToday": 10936
+      "starsToday": 2863
     },
-    "createdAt": "2026-07-25T05:17:35.324Z"
+    "createdAt": "2026-08-01T05:32:16.847Z"
   },
   {
-    "id": "github-tirth8205-code-review-graph",
+    "id": "github-virgiliojr94-book-to-skill",
     "source": "github",
-    "title": "tirth8205 / code-review-graph",
-    "url": "https://github.com/tirth8205/code-review-graph",
-    "score": 26261,
+    "title": "virgiliojr94 / book-to-skill",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "score": 14366,
     "metadata": {
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "starsToday": 6565
+      "starsToday": 4603
     },
-    "createdAt": "2026-07-25T05:17:35.325Z"
-  },
-  {
-    "id": "github-MoonshotAI-kimi-code",
-    "source": "github",
-    "title": "MoonshotAI / kimi-code",
-    "url": "https://github.com/MoonshotAI/kimi-code",
-    "score": 4968,
-    "metadata": {
-      "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
-      "language": "TypeScript",
-      "starsToday": 1589
-    },
-    "createdAt": "2026-07-25T05:17:35.325Z"
+    "createdAt": "2026-08-01T05:32:16.848Z"
   },
   {
     "id": "github-1jehuang-jcode",
     "source": "github",
     "title": "1jehuang / jcode",
     "url": "https://github.com/1jehuang/jcode",
-    "score": 11263,
+    "score": 14695,
     "metadata": {
-      "description": "The most intelligent agent harness for code",
+      "description": "The most RAM efficient harness",
       "language": "Rust",
-      "starsToday": 2773
+      "starsToday": 3351
     },
-    "createdAt": "2026-07-25T05:17:35.326Z"
-  },
-  {
-    "id": "github-diegosouzapw-OmniRoute",
-    "source": "github",
-    "title": "diegosouzapw / OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "score": 29085,
-    "metadata": {
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "starsToday": 9965
-    },
-    "createdAt": "2026-07-25T05:17:35.326Z"
-  },
-  {
-    "id": "github-agegr-pi-web",
-    "source": "github",
-    "title": "agegr / pi-web",
-    "url": "https://github.com/agegr/pi-web",
-    "score": 2643,
-    "metadata": {
-      "description": "Web UI for the pi coding agent",
-      "language": "TypeScript",
-      "starsToday": 1316
-    },
-    "createdAt": "2026-07-25T05:17:35.326Z"
-  },
-  {
-    "id": "github-HKUDS-DeepTutor",
-    "source": "github",
-    "title": "HKUDS / DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "score": 29589,
-    "metadata": {
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "language": "Python",
-      "starsToday": 2380
-    },
-    "createdAt": "2026-07-25T05:17:35.327Z"
-  },
-  {
-    "id": "github-MoonshotAI-kimi-cli",
-    "source": "github",
-    "title": "MoonshotAI / kimi-cli",
-    "url": "https://github.com/MoonshotAI/kimi-cli",
-    "score": 10798,
-    "metadata": {
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
-      "starsToday": 1570
-    },
-    "createdAt": "2026-07-25T05:17:35.327Z"
-  },
-  {
-    "id": "github-earendil-works-pi",
-    "source": "github",
-    "title": "earendil-works / pi",
-    "url": "https://github.com/earendil-works/pi",
-    "score": 77154,
-    "metadata": {
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "starsToday": 4880
-    },
-    "createdAt": "2026-07-25T05:17:35.327Z"
-  },
-  {
-    "id": "github-rohitg00-ai-engineering-from-scratch",
-    "source": "github",
-    "title": "rohitg00 / ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "score": 43229,
-    "metadata": {
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "starsToday": 4399
-    },
-    "createdAt": "2026-07-25T05:17:35.327Z"
-  },
-  {
-    "id": "github-ibelick-ui-skills",
-    "source": "github",
-    "title": "ibelick / ui-skills",
-    "url": "https://github.com/ibelick/ui-skills",
-    "score": 6335,
-    "metadata": {
-      "description": "Skills for Design Engineers",
-      "language": "TypeScript",
-      "starsToday": 1691
-    },
-    "createdAt": "2026-07-25T05:17:35.328Z"
-  },
-  {
-    "id": "github-PrismML-Eng-Bonsai-demo",
-    "source": "github",
-    "title": "PrismML-Eng / Bonsai-demo",
-    "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-    "score": 2034,
-    "metadata": {
-      "description": "Bonsai Demo",
-      "language": "Shell",
-      "starsToday": 364
-    },
-    "createdAt": "2026-07-25T05:17:35.328Z"
-  },
-  {
-    "id": "github-Robbyant-lingbot-map",
-    "source": "github",
-    "title": "Robbyant / lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "score": 15309,
-    "metadata": {
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "starsToday": 3640
-    },
-    "createdAt": "2026-07-25T05:17:35.328Z"
-  },
-  {
-    "id": "github-apache-ossie",
-    "source": "github",
-    "title": "apache / ossie",
-    "url": "https://github.com/apache/ossie",
-    "score": 1618,
-    "metadata": {
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "language": "Python",
-      "starsToday": 471
-    },
-    "createdAt": "2026-07-25T05:17:35.328Z"
-  },
-  {
-    "id": "github-Nutlope-hallmark",
-    "source": "github",
-    "title": "Nutlope / hallmark",
-    "url": "https://github.com/Nutlope/hallmark",
-    "score": 17181,
-    "metadata": {
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "starsToday": 4978
-    },
-    "createdAt": "2026-07-25T05:17:35.328Z"
+    "createdAt": "2026-08-01T05:32:16.849Z"
   },
   {
     "id": "github-mattpocock-skills",
     "source": "github",
     "title": "mattpocock / skills",
     "url": "https://github.com/mattpocock/skills",
-    "score": 187080,
+    "score": 198045,
     "metadata": {
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "starsToday": 10969
+      "starsToday": 11622
     },
-    "createdAt": "2026-07-25T05:17:35.328Z"
+    "createdAt": "2026-08-01T05:32:16.849Z"
   },
   {
-    "id": "github-kvcache-ai-ktransformers",
+    "id": "github-pingdotgg-t3code",
     "source": "github",
-    "title": "kvcache-ai / ktransformers",
-    "url": "https://github.com/kvcache-ai/ktransformers",
-    "score": 19008,
+    "title": "pingdotgg / t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "score": 16118,
     "metadata": {
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 1488
+    },
+    "createdAt": "2026-08-01T05:32:16.849Z"
+  },
+  {
+    "id": "github-koala73-worldmonitor",
+    "source": "github",
+    "title": "koala73 / worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "score": 77519,
+    "metadata": {
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "starsToday": 4657
+    },
+    "createdAt": "2026-08-01T05:32:16.850Z"
+  },
+  {
+    "id": "github-opengeos-GeoLibre",
+    "source": "github",
+    "title": "opengeos / GeoLibre",
+    "url": "https://github.com/opengeos/GeoLibre",
+    "score": 4739,
+    "metadata": {
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "starsToday": 2765
+    },
+    "createdAt": "2026-08-01T05:32:16.850Z"
+  },
+  {
+    "id": "github-shiyu-coder-Kronos",
+    "source": "github",
+    "title": "shiyu-coder / Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "score": 35285,
+    "metadata": {
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "starsToday": 1538
+      "starsToday": 1939
     },
-    "createdAt": "2026-07-25T05:17:35.329Z"
+    "createdAt": "2026-08-01T05:32:16.850Z"
   },
   {
-    "id": "github-ruvnet-RuView",
+    "id": "github-moeru-ai-airi",
     "source": "github",
-    "title": "ruvnet / RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "score": 86030,
+    "title": "moeru-ai / airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "score": 46255,
     "metadata": {
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "starsToday": 4821
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "starsToday": 3125
     },
-    "createdAt": "2026-07-25T05:17:35.329Z"
+    "createdAt": "2026-08-01T05:32:16.851Z"
   },
   {
-    "id": "github-schollz-croc",
+    "id": "github-diegosouzapw-OmniRoute",
     "source": "github",
-    "title": "schollz / croc",
-    "url": "https://github.com/schollz/croc",
-    "score": 38342,
+    "title": "diegosouzapw / OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "score": 36291,
     "metadata": {
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
-      "language": "Go",
-      "starsToday": 2647
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "starsToday": 7701
     },
-    "createdAt": "2026-07-25T05:17:35.329Z"
+    "createdAt": "2026-08-01T05:32:16.851Z"
+  },
+  {
+    "id": "github-CoreBunch-Instatic",
+    "source": "github",
+    "title": "CoreBunch / Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "score": 7011,
+    "metadata": {
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "language": "TypeScript",
+      "starsToday": 2866
+    },
+    "createdAt": "2026-08-01T05:32:16.851Z"
+  },
+  {
+    "id": "github-earthtojake-text-to-cad",
+    "source": "github",
+    "title": "earthtojake / text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "score": 12277,
+    "metadata": {
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "language": "JavaScript",
+      "starsToday": 1901
+    },
+    "createdAt": "2026-08-01T05:32:16.851Z"
+  },
+  {
+    "id": "github-earendil-works-pi",
+    "source": "github",
+    "title": "earendil-works / pi",
+    "url": "https://github.com/earendil-works/pi",
+    "score": 81595,
+    "metadata": {
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "starsToday": 4571
+    },
+    "createdAt": "2026-08-01T05:32:16.852Z"
+  },
+  {
+    "id": "github-microsoft-VibeVoice",
+    "source": "github",
+    "title": "microsoft / VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "score": 51723,
+    "metadata": {
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "starsToday": 1222
+    },
+    "createdAt": "2026-08-01T05:32:16.852Z"
   }
 ]
