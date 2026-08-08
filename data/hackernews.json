@@ -1,379 +1,392 @@
 [
   {
-    "id": "hackernews-49130853",
+    "id": "hackernews-49217993",
     "source": "hackernews",
-    "title": "About 100 firefighters are convicted of arson, every year",
-    "url": "https://www.firerescue1.com/arson-investigation/articles/expert-firefighter-arson-a-long-standing-issue-xHXLFAdYVcQPiuPU/",
-    "score": 22,
+    "title": "The Nixpkgs core team has disbanded",
+    "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+    "score": 145,
     "metadata": {
-      "author": "gurjeet",
-      "commentsCount": 22,
-      "hnUrl": "https://news.ycombinator.com/item?id=49130853"
+      "author": "Meleagris",
+      "commentsCount": 61,
+      "hnUrl": "https://news.ycombinator.com/item?id=49217993"
     },
-    "createdAt": "2026-08-01T03:50:30.000Z"
+    "createdAt": "2026-08-08T01:12:45.000Z"
   },
   {
-    "id": "hackernews-49124218",
+    "id": "hackernews-49218179",
     "source": "hackernews",
-    "title": "Elevators",
-    "url": "https://john.fun/elevators",
-    "score": 1087,
+    "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+    "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+    "score": 63,
     "metadata": {
-      "author": "Jrh0203",
-      "commentsCount": 256,
-      "hnUrl": "https://news.ycombinator.com/item?id=49124218"
+      "author": "wglb",
+      "commentsCount": 9,
+      "hnUrl": "https://news.ycombinator.com/item?id=49218179"
     },
-    "createdAt": "2026-07-31T15:17:28.000Z"
+    "createdAt": "2026-08-08T01:49:11.000Z"
   },
   {
-    "id": "hackernews-49130604",
+    "id": "hackernews-49214008",
     "source": "hackernews",
-    "title": "Flint: A Visualization Language for the AI Era",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "score": 48,
-    "metadata": {
-      "author": "vinhnx",
-      "commentsCount": 8,
-      "hnUrl": "https://news.ycombinator.com/item?id=49130604"
-    },
-    "createdAt": "2026-08-01T02:45:09.000Z"
-  },
-  {
-    "id": "hackernews-49130726",
-    "source": "hackernews",
-    "title": "The development pipeline is a production system",
-    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "score": 42,
-    "metadata": {
-      "author": "firefoxd",
-      "commentsCount": 16,
-      "hnUrl": "https://news.ycombinator.com/item?id=49130726"
-    },
-    "createdAt": "2026-08-01T03:16:09.000Z"
-  },
-  {
-    "id": "hackernews-49129990",
-    "source": "hackernews",
-    "title": "How to Exist",
-    "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "score": 99,
-    "metadata": {
-      "author": "walterbell",
-      "commentsCount": 47,
-      "hnUrl": "https://news.ycombinator.com/item?id=49129990"
-    },
-    "createdAt": "2026-08-01T00:25:00.000Z"
-  },
-  {
-    "id": "hackernews-49126604",
-    "source": "hackernews",
-    "title": "qm – Multiplayer agent harness for work",
-    "url": "https://github.com/yc-software/qm",
-    "score": 521,
+    "title": "DeepSeek V4 Flash 0731",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "score": 501,
     "metadata": {
       "author": "tosh",
-      "commentsCount": 109,
-      "hnUrl": "https://news.ycombinator.com/item?id=49126604"
+      "commentsCount": 304,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214008"
     },
-    "createdAt": "2026-07-31T18:04:58.000Z"
+    "createdAt": "2026-08-07T17:56:20.000Z"
   },
   {
-    "id": "hackernews-49096605",
+    "id": "hackernews-49216946",
     "source": "hackernews",
-    "title": "Software for One",
-    "url": "https://www.ajwaxman.com/writing/software-for-one",
-    "score": 67,
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "score": 133,
     "metadata": {
-      "author": "awaxman11",
-      "commentsCount": 40,
-      "hnUrl": "https://news.ycombinator.com/item?id=49096605"
+      "author": "moelf",
+      "commentsCount": 49,
+      "hnUrl": "https://news.ycombinator.com/item?id=49216946"
     },
-    "createdAt": "2026-07-29T12:29:20.000Z"
+    "createdAt": "2026-08-07T22:24:27.000Z"
   },
   {
-    "id": "hackernews-49130756",
+    "id": "hackernews-49214098",
     "source": "hackernews",
-    "title": "BMW Spider-Man in-car advertising",
-    "url": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
-    "score": 130,
+    "title": "Assembly Hall of Shame",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "score": 273,
     "metadata": {
-      "author": "goplayoutside",
-      "commentsCount": 50,
-      "hnUrl": "https://news.ycombinator.com/item?id=49130756"
+      "author": "piotrgrabowski",
+      "commentsCount": 65,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214098"
     },
-    "createdAt": "2026-08-01T03:25:12.000Z"
+    "createdAt": "2026-08-07T18:01:30.000Z"
   },
   {
-    "id": "hackernews-49131034",
+    "id": "hackernews-49214770",
     "source": "hackernews",
-    "title": "What Liberal Arts Education Is for (2024)",
-    "url": "https://innig.net/teaching/liberal-arts-manifesto",
-    "score": 7,
+    "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+    "url": "https://ancientlibrary.net/",
+    "score": 165,
     "metadata": {
-      "author": "mr_wiglaf",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=49131034"
+      "author": "aagha",
+      "commentsCount": 55,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214770"
     },
-    "createdAt": "2026-08-01T04:28:13.000Z"
+    "createdAt": "2026-08-07T18:51:14.000Z"
   },
   {
-    "id": "hackernews-49095744",
+    "id": "hackernews-49209539",
     "source": "hackernews",
-    "title": "History remembers two Robert McNamaras",
-    "url": "https://indevelopmentmag.com/numbers-man/",
-    "score": 5,
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "score": 477,
     "metadata": {
-      "author": "salonium_",
+      "author": "RickJWagner",
+      "commentsCount": 571,
+      "hnUrl": "https://news.ycombinator.com/item?id=49209539"
+    },
+    "createdAt": "2026-08-07T12:42:27.000Z"
+  },
+  {
+    "id": "hackernews-49135261",
+    "source": "hackernews",
+    "title": "SupererDuperer",
+    "url": "https://www.shirtpocket.com/blog/supererduperer",
+    "score": 31,
+    "metadata": {
+      "author": "zdw",
       "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=49095744"
+      "hnUrl": "https://news.ycombinator.com/item?id=49135261"
     },
-    "createdAt": "2026-07-29T10:52:20.000Z"
+    "createdAt": "2026-08-01T15:26:29.000Z"
   },
   {
-    "id": "hackernews-49130295",
+    "id": "hackernews-49214468",
     "source": "hackernews",
-    "title": "A Week in Matrix",
-    "url": "https://piegames.de/dumps/a-week-in-matrix/",
-    "score": 25,
+    "title": "Managing AI Coding Costs at Scale",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "score": 179,
     "metadata": {
-      "author": "Kesseki",
-      "commentsCount": 10,
-      "hnUrl": "https://news.ycombinator.com/item?id=49130295"
+      "author": "moonikakiss",
+      "commentsCount": 179,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214468"
     },
-    "createdAt": "2026-08-01T01:35:53.000Z"
+    "createdAt": "2026-08-07T18:25:17.000Z"
   },
   {
-    "id": "hackernews-49121196",
+    "id": "hackernews-49213029",
     "source": "hackernews",
-    "title": "Progressive Web Components",
-    "url": "https://arielsalminen.com/2026/progressive-web-components/",
-    "score": 125,
-    "metadata": {
-      "author": "hosteur",
-      "commentsCount": 17,
-      "hnUrl": "https://news.ycombinator.com/item?id=49121196"
-    },
-    "createdAt": "2026-07-31T10:04:40.000Z"
-  },
-  {
-    "id": "hackernews-49126765",
-    "source": "hackernews",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-    "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "score": 128,
-    "metadata": {
-      "author": "iamnothere",
-      "commentsCount": 39,
-      "hnUrl": "https://news.ycombinator.com/item?id=49126765"
-    },
-    "createdAt": "2026-07-31T18:17:52.000Z"
-  },
-  {
-    "id": "hackernews-49125034",
-    "source": "hackernews",
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-    "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "score": 167,
-    "metadata": {
-      "author": "speckx",
-      "commentsCount": 92,
-      "hnUrl": "https://news.ycombinator.com/item?id=49125034"
-    },
-    "createdAt": "2026-07-31T16:15:31.000Z"
-  },
-  {
-    "id": "hackernews-49123386",
-    "source": "hackernews",
-    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-    "url": "https://github.com/sqliteai/waste",
-    "score": 196,
-    "metadata": {
-      "author": "marcobambini",
-      "commentsCount": 81,
-      "hnUrl": "https://news.ycombinator.com/item?id=49123386"
-    },
-    "createdAt": "2026-07-31T14:12:38.000Z"
-  },
-  {
-    "id": "hackernews-49124858",
-    "source": "hackernews",
-    "title": "Big Food vs. the People",
-    "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-    "score": 215,
-    "metadata": {
-      "author": "jruohonen",
-      "commentsCount": 139,
-      "hnUrl": "https://news.ycombinator.com/item?id=49124858"
-    },
-    "createdAt": "2026-07-31T16:04:32.000Z"
-  },
-  {
-    "id": "hackernews-49128826",
-    "source": "hackernews",
-    "title": "Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-    "url": "https://code.intellios.ai/cwbrowser/",
-    "score": 89,
-    "metadata": {
-      "author": "coolwulf",
-      "commentsCount": 28,
-      "hnUrl": "https://news.ycombinator.com/item?id=49128826"
-    },
-    "createdAt": "2026-07-31T21:39:52.000Z"
-  },
-  {
-    "id": "hackernews-49084005",
-    "source": "hackernews",
-    "title": "How far can you push the range of Wi-Fi connectivity in an ideal environment?",
-    "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
-    "score": 33,
-    "metadata": {
-      "author": "rzk",
-      "commentsCount": 20,
-      "hnUrl": "https://news.ycombinator.com/item?id=49084005"
-    },
-    "createdAt": "2026-07-28T13:59:14.000Z"
-  },
-  {
-    "id": "hackernews-49128323",
-    "source": "hackernews",
-    "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-    "url": "https://arxiv.org/abs/2607.28233",
-    "score": 45,
-    "metadata": {
-      "author": "Jimmc414",
-      "commentsCount": 21,
-      "hnUrl": "https://news.ycombinator.com/item?id=49128323"
-    },
-    "createdAt": "2026-07-31T20:44:29.000Z"
-  },
-  {
-    "id": "hackernews-49127306",
-    "source": "hackernews",
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "score": 506,
-    "metadata": {
-      "author": "bluehatbrit",
-      "commentsCount": 195,
-      "hnUrl": "https://news.ycombinator.com/item?id=49127306"
-    },
-    "createdAt": "2026-07-31T19:03:45.000Z"
-  },
-  {
-    "id": "hackernews-49119270",
-    "source": "hackernews",
-    "title": "Let's make the worst Htmx",
-    "url": "https://zserge.com/posts/worst-htmx-ever/",
-    "score": 86,
-    "metadata": {
-      "author": "RebelPotato",
-      "commentsCount": 26,
-      "hnUrl": "https://news.ycombinator.com/item?id=49119270"
-    },
-    "createdAt": "2026-07-31T05:16:45.000Z"
-  },
-  {
-    "id": "hackernews-49124042",
-    "source": "hackernews",
-    "title": "The most official water costs $120k a gallon",
-    "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
     "score": 166,
     "metadata": {
-      "author": "surprisetalk",
-      "commentsCount": 137,
-      "hnUrl": "https://news.ycombinator.com/item?id=49124042"
+      "author": "artninja1988",
+      "commentsCount": 168,
+      "hnUrl": "https://news.ycombinator.com/item?id=49213029"
     },
-    "createdAt": "2026-07-31T15:00:15.000Z"
+    "createdAt": "2026-08-07T16:39:36.000Z"
   },
   {
-    "id": "hackernews-49077646",
+    "id": "hackernews-49211921",
     "source": "hackernews",
-    "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-    "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-    "score": 6,
+    "title": "An all-sky map of half a million supermassive black holes",
+    "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+    "score": 149,
     "metadata": {
-      "author": "matt_d",
+      "author": "MarcoDewey",
+      "commentsCount": 37,
+      "hnUrl": "https://news.ycombinator.com/item?id=49211921"
+    },
+    "createdAt": "2026-08-07T15:24:53.000Z"
+  },
+  {
+    "id": "hackernews-49213754",
+    "source": "hackernews",
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 409,
+    "metadata": {
+      "author": "delduca",
+      "commentsCount": 277,
+      "hnUrl": "https://news.ycombinator.com/item?id=49213754"
+    },
+    "createdAt": "2026-08-07T17:36:30.000Z"
+  },
+  {
+    "id": "hackernews-49207236",
+    "source": "hackernews",
+    "title": "2027 memory capacity is reportedly sold out",
+    "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+    "score": 275,
+    "metadata": {
+      "author": "inigyou",
+      "commentsCount": 258,
+      "hnUrl": "https://news.ycombinator.com/item?id=49207236"
+    },
+    "createdAt": "2026-08-07T07:58:24.000Z"
+  },
+  {
+    "id": "hackernews-49216362",
+    "source": "hackernews",
+    "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+    "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+    "score": 146,
+    "metadata": {
+      "author": "Bender",
+      "commentsCount": 99,
+      "hnUrl": "https://news.ycombinator.com/item?id=49216362"
+    },
+    "createdAt": "2026-08-07T21:19:57.000Z"
+  },
+  {
+    "id": "hackernews-49157770",
+    "source": "hackernews",
+    "title": "Guarded Methods in OCaml (2025)",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "score": 57,
+    "metadata": {
+      "author": "birdculture",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=49157770"
+    },
+    "createdAt": "2026-08-03T16:15:44.000Z"
+  },
+  {
+    "id": "hackernews-49208535",
+    "source": "hackernews",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "score": 259,
+    "metadata": {
+      "author": "poly2it",
+      "commentsCount": 124,
+      "hnUrl": "https://news.ycombinator.com/item?id=49208535"
+    },
+    "createdAt": "2026-08-07T11:00:35.000Z"
+  },
+  {
+    "id": "hackernews-49214775",
+    "source": "hackernews",
+    "title": "Psychological Warfare in Reverse Engineering (2015)",
+    "url": "https://github.com/xoreaxeaxeax/repsych",
+    "score": 56,
+    "metadata": {
+      "author": "theanonymousone",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214775"
+    },
+    "createdAt": "2026-08-07T18:51:45.000Z"
+  },
+  {
+    "id": "hackernews-49135457",
+    "source": "hackernews",
+    "title": "Carl's Required Reading",
+    "url": "https://carlkolon.com/reading/",
+    "score": 114,
+    "metadata": {
+      "author": "cckolon",
+      "commentsCount": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=49135457"
+    },
+    "createdAt": "2026-08-01T15:51:15.000Z"
+  },
+  {
+    "id": "hackernews-49189457",
+    "source": "hackernews",
+    "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+    "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+    "score": 8,
+    "metadata": {
+      "author": "aanet",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=49189457"
+    },
+    "createdAt": "2026-08-05T21:44:42.000Z"
+  },
+  {
+    "id": "hackernews-49208393",
+    "source": "hackernews",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "score": 172,
+    "metadata": {
+      "author": "m3h",
+      "commentsCount": 44,
+      "hnUrl": "https://news.ycombinator.com/item?id=49208393"
+    },
+    "createdAt": "2026-08-07T10:42:07.000Z"
+  },
+  {
+    "id": "hackernews-49209572",
+    "source": "hackernews",
+    "title": "Radical Study Suggests Life on Earth Arose Twice",
+    "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+    "score": 110,
+    "metadata": {
+      "author": "jnord",
+      "commentsCount": 89,
+      "hnUrl": "https://news.ycombinator.com/item?id=49209572"
+    },
+    "createdAt": "2026-08-07T12:45:08.000Z"
+  },
+  {
+    "id": "hackernews-49146540",
+    "source": "hackernews",
+    "title": "Captain Bible Reverse Engineering",
+    "url": "https://github.com/peterkelly/captain-bible-re",
+    "score": 21,
+    "metadata": {
+      "author": "peterkelly",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49146540"
+    },
+    "createdAt": "2026-08-02T17:38:34.000Z"
+  },
+  {
+    "id": "hackernews-49208458",
+    "source": "hackernews",
+    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+    "url": "https://textlog.cc/about",
+    "score": 148,
+    "metadata": {
+      "author": "stagas",
+      "commentsCount": 62,
+      "hnUrl": "https://news.ycombinator.com/item?id=49208458"
+    },
+    "createdAt": "2026-08-07T10:52:21.000Z"
+  },
+  {
+    "id": "hackernews-49204352",
+    "source": "hackernews",
+    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "score": 738,
+    "metadata": {
+      "author": "boplicity",
+      "commentsCount": 396,
+      "hnUrl": "https://news.ycombinator.com/item?id=49204352"
+    },
+    "createdAt": "2026-08-07T00:06:28.000Z"
+  },
+  {
+    "id": "hackernews-49209385",
+    "source": "hackernews",
+    "title": "Show HN: Wyzer Programming Language",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "score": 180,
+    "metadata": {
+      "author": "v0id_isgood",
+      "commentsCount": 100,
+      "hnUrl": "https://news.ycombinator.com/item?id=49209385"
+    },
+    "createdAt": "2026-08-07T12:28:55.000Z"
+  },
+  {
+    "id": "hackernews-49211660",
+    "source": "hackernews",
+    "title": "Möbius-Strip Crosswords",
+    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "score": 57,
+    "metadata": {
+      "author": "ibobev",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=49211660"
+    },
+    "createdAt": "2026-08-07T15:10:34.000Z"
+  },
+  {
+    "id": "hackernews-49141521",
+    "source": "hackernews",
+    "title": "Why are all the amounts values negative?",
+    "url": "https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/",
+    "score": 35,
+    "metadata": {
+      "author": "4pkjai",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=49141521"
+    },
+    "createdAt": "2026-08-02T05:53:50.000Z"
+  },
+  {
+    "id": "hackernews-49217761",
+    "source": "hackernews",
+    "title": "Show HN: Modern C++ Build Tools for Module Feature",
+    "url": "https://github.com/mcpp-community/mcpp",
+    "score": 4,
+    "metadata": {
+      "author": "sunrisepeak",
       "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=49077646"
+      "hnUrl": "https://news.ycombinator.com/item?id=49217761"
     },
-    "createdAt": "2026-07-28T00:26:45.000Z"
+    "createdAt": "2026-08-08T00:30:52.000Z"
   },
   {
-    "id": "hackernews-49117089",
+    "id": "hackernews-49211386",
     "source": "hackernews",
-    "title": "The Absurdity of Albert Camus",
-    "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-    "score": 79,
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "score": 391,
     "metadata": {
-      "author": "apollinaire",
-      "commentsCount": 47,
-      "hnUrl": "https://news.ycombinator.com/item?id=49117089"
+      "author": "petercooper",
+      "commentsCount": 364,
+      "hnUrl": "https://news.ycombinator.com/item?id=49211386"
     },
-    "createdAt": "2026-07-30T23:21:17.000Z"
+    "createdAt": "2026-08-07T14:51:57.000Z"
   },
   {
-    "id": "hackernews-49127031",
+    "id": "hackernews-49163202",
     "source": "hackernews",
-    "title": "Golang proposal: container/: generic collection types",
-    "url": "https://github.com/golang/go/issues/80590",
-    "score": 142,
+    "title": "Curlese, Five Years Later",
+    "url": "https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later",
+    "score": 14,
     "metadata": {
-      "author": "jabits",
-      "commentsCount": 91,
-      "hnUrl": "https://news.ycombinator.com/item?id=49127031"
+      "author": "rovr138",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49163202"
     },
-    "createdAt": "2026-07-31T18:39:47.000Z"
-  },
-  {
-    "id": "hackernews-49083599",
-    "source": "hackernews",
-    "title": "Twenty-five years ago it was cryptography, today it's model weights",
-    "url": "https://weeraman.com/because-we-can/",
-    "score": 217,
-    "metadata": {
-      "author": "aweeraman",
-      "commentsCount": 95,
-      "hnUrl": "https://news.ycombinator.com/item?id=49083599"
-    },
-    "createdAt": "2026-07-28T13:31:25.000Z"
-  },
-  {
-    "id": "hackernews-49096319",
-    "source": "hackernews",
-    "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-    "score": 36,
-    "metadata": {
-      "author": "sparsesignal",
-      "commentsCount": 11,
-      "hnUrl": "https://news.ycombinator.com/item?id=49096319"
-    },
-    "createdAt": "2026-07-29T11:59:10.000Z"
-  },
-  {
-    "id": "hackernews-49124358",
-    "source": "hackernews",
-    "title": "Is AI reasoning right for the wrong reasons?",
-    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "score": 140,
-    "metadata": {
-      "author": "retupmoc01",
-      "commentsCount": 166,
-      "hnUrl": "https://news.ycombinator.com/item?id=49124358"
-    },
-    "createdAt": "2026-07-31T15:29:39.000Z"
-  },
-  {
-    "id": "hackernews-49123468",
-    "source": "hackernews",
-    "title": "Authorize, don't authenticate",
-    "url": "https://blog.marcua.net/2026/07/31/authorize-dont-authenticate.html",
-    "score": 69,
-    "metadata": {
-      "author": "marcua",
-      "commentsCount": 24,
-      "hnUrl": "https://news.ycombinator.com/item?id=49123468"
-    },
-    "createdAt": "2026-07-31T14:17:43.000Z"
+    "createdAt": "2026-08-04T00:53:12.000Z"
   }
 ]

@@ -1,5 +1,603 @@
 [
   {
+    "id": "github-tailwindlabs-tailwindcss",
+    "source": "github",
+    "title": "tailwindlabs / tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "score": 97100,
+    "metadata": {
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "starsToday": 997
+    },
+    "createdAt": "2026-08-08T03:35:12.999Z"
+  },
+  {
+    "id": "github-ayghri-i-have-adhd",
+    "source": "github",
+    "title": "ayghri / i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 18191,
+    "metadata": {
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "starsToday": 3497
+    },
+    "createdAt": "2026-08-08T03:35:12.998Z"
+  },
+  {
+    "id": "github-embabel-embabel-agent",
+    "source": "github",
+    "title": "embabel / embabel-agent",
+    "url": "https://github.com/embabel/embabel-agent",
+    "score": 4014,
+    "metadata": {
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "language": "Kotlin",
+      "starsToday": 176
+    },
+    "createdAt": "2026-08-08T03:35:12.998Z"
+  },
+  {
+    "id": "github-antirez-ds4",
+    "source": "github",
+    "title": "antirez / ds4",
+    "url": "https://github.com/antirez/ds4",
+    "score": 20898,
+    "metadata": {
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "language": "C",
+      "starsToday": 1341
+    },
+    "createdAt": "2026-08-08T03:35:12.997Z"
+  },
+  {
+    "id": "github-DataExpert-io-data-engineer-handbook",
+    "source": "github",
+    "title": "DataExpert-io / data-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+    "score": 43385,
+    "metadata": {
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+      "language": "Jupyter Notebook",
+      "starsToday": 742
+    },
+    "createdAt": "2026-08-08T03:35:12.997Z"
+  },
+  {
+    "id": "github-unclebob-swarm-forge",
+    "source": "github",
+    "title": "unclebob / swarm-forge",
+    "url": "https://github.com/unclebob/swarm-forge",
+    "score": 1859,
+    "metadata": {
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "starsToday": 273
+    },
+    "createdAt": "2026-08-08T03:35:12.997Z"
+  },
+  {
+    "id": "github-paperswithbacktest-awesome-systematic-trading",
+    "source": "github",
+    "title": "paperswithbacktest / awesome-systematic-trading",
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "score": 12964,
+    "metadata": {
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "starsToday": 1433
+    },
+    "createdAt": "2026-08-08T03:35:12.996Z"
+  },
+  {
+    "id": "github-different-ai-openwork",
+    "source": "github",
+    "title": "different-ai / openwork",
+    "url": "https://github.com/different-ai/openwork",
+    "score": 21469,
+    "metadata": {
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "starsToday": 2367
+    },
+    "createdAt": "2026-08-08T03:35:12.996Z"
+  },
+  {
+    "id": "github-block-buzz",
+    "source": "github",
+    "title": "block / buzz",
+    "url": "https://github.com/block/buzz",
+    "score": 25015,
+    "metadata": {
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "starsToday": 5746
+    },
+    "createdAt": "2026-08-08T03:35:12.995Z"
+  },
+  {
+    "id": "github-virgiliojr94-book-to-skill",
+    "source": "github",
+    "title": "virgiliojr94 / book-to-skill",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "score": 18385,
+    "metadata": {
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "starsToday": 3957
+    },
+    "createdAt": "2026-08-08T03:35:12.994Z"
+  },
+  {
+    "id": "github-esengine-DeepSeek-Reasonix",
+    "source": "github",
+    "title": "esengine / DeepSeek-Reasonix",
+    "url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "score": 32928,
+    "metadata": {
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "starsToday": 4739
+    },
+    "createdAt": "2026-08-08T03:35:12.994Z"
+  },
+  {
+    "id": "github-lyogavin-airllm",
+    "source": "github",
+    "title": "lyogavin / airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "score": 29932,
+    "metadata": {
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "starsToday": 5521
+    },
+    "createdAt": "2026-08-08T03:35:12.993Z"
+  },
+  {
+    "id": "github-usekaneo-kaneo",
+    "source": "github",
+    "title": "usekaneo / kaneo",
+    "url": "https://github.com/usekaneo/kaneo",
+    "score": 7633,
+    "metadata": {
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "starsToday": 2925
+    },
+    "createdAt": "2026-08-08T03:35:12.992Z"
+  },
+  {
+    "id": "github-TencentCloud-TencentDB-Agent-Memory",
+    "source": "github",
+    "title": "TencentCloud / TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "score": 17575,
+    "metadata": {
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "starsToday": 7501
+    },
+    "createdAt": "2026-08-08T03:35:12.991Z"
+  },
+  {
+    "id": "github-microsoft-AI-For-Beginners",
+    "source": "github",
+    "title": "microsoft / AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "score": 63239,
+    "metadata": {
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "starsToday": 8224
+    },
+    "createdAt": "2026-08-08T03:35:12.990Z"
+  },
+  {
+    "id": "github-zhaoxuya520-reverse-skill",
+    "source": "github",
+    "title": "zhaoxuya520 / reverse-skill",
+    "url": "https://github.com/zhaoxuya520/reverse-skill",
+    "score": 20606,
+    "metadata": {
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "starsToday": 10400
+    },
+    "createdAt": "2026-08-08T03:35:12.989Z"
+  },
+  {
+    "id": "hackernews-49218179",
+    "source": "hackernews",
+    "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+    "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+    "score": 63,
+    "metadata": {
+      "author": "wglb",
+      "commentsCount": 9,
+      "hnUrl": "https://news.ycombinator.com/item?id=49218179"
+    },
+    "createdAt": "2026-08-08T01:49:11.000Z"
+  },
+  {
+    "id": "hackernews-49217993",
+    "source": "hackernews",
+    "title": "The Nixpkgs core team has disbanded",
+    "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+    "score": 145,
+    "metadata": {
+      "author": "Meleagris",
+      "commentsCount": 61,
+      "hnUrl": "https://news.ycombinator.com/item?id=49217993"
+    },
+    "createdAt": "2026-08-08T01:12:45.000Z"
+  },
+  {
+    "id": "hackernews-49217761",
+    "source": "hackernews",
+    "title": "Show HN: Modern C++ Build Tools for Module Feature",
+    "url": "https://github.com/mcpp-community/mcpp",
+    "score": 4,
+    "metadata": {
+      "author": "sunrisepeak",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49217761"
+    },
+    "createdAt": "2026-08-08T00:30:52.000Z"
+  },
+  {
+    "id": "hackernews-49216946",
+    "source": "hackernews",
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "score": 133,
+    "metadata": {
+      "author": "moelf",
+      "commentsCount": 49,
+      "hnUrl": "https://news.ycombinator.com/item?id=49216946"
+    },
+    "createdAt": "2026-08-07T22:24:27.000Z"
+  },
+  {
+    "id": "hackernews-49216362",
+    "source": "hackernews",
+    "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+    "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+    "score": 146,
+    "metadata": {
+      "author": "Bender",
+      "commentsCount": 99,
+      "hnUrl": "https://news.ycombinator.com/item?id=49216362"
+    },
+    "createdAt": "2026-08-07T21:19:57.000Z"
+  },
+  {
+    "id": "hackernews-49214775",
+    "source": "hackernews",
+    "title": "Psychological Warfare in Reverse Engineering (2015)",
+    "url": "https://github.com/xoreaxeaxeax/repsych",
+    "score": 56,
+    "metadata": {
+      "author": "theanonymousone",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214775"
+    },
+    "createdAt": "2026-08-07T18:51:45.000Z"
+  },
+  {
+    "id": "hackernews-49214770",
+    "source": "hackernews",
+    "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+    "url": "https://ancientlibrary.net/",
+    "score": 165,
+    "metadata": {
+      "author": "aagha",
+      "commentsCount": 55,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214770"
+    },
+    "createdAt": "2026-08-07T18:51:14.000Z"
+  },
+  {
+    "id": "hackernews-49214468",
+    "source": "hackernews",
+    "title": "Managing AI Coding Costs at Scale",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "score": 179,
+    "metadata": {
+      "author": "moonikakiss",
+      "commentsCount": 179,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214468"
+    },
+    "createdAt": "2026-08-07T18:25:17.000Z"
+  },
+  {
+    "id": "hackernews-49214098",
+    "source": "hackernews",
+    "title": "Assembly Hall of Shame",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "score": 273,
+    "metadata": {
+      "author": "piotrgrabowski",
+      "commentsCount": 65,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214098"
+    },
+    "createdAt": "2026-08-07T18:01:30.000Z"
+  },
+  {
+    "id": "hackernews-49214008",
+    "source": "hackernews",
+    "title": "DeepSeek V4 Flash 0731",
+    "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "score": 501,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 304,
+      "hnUrl": "https://news.ycombinator.com/item?id=49214008"
+    },
+    "createdAt": "2026-08-07T17:56:20.000Z"
+  },
+  {
+    "id": "hackernews-49213754",
+    "source": "hackernews",
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 409,
+    "metadata": {
+      "author": "delduca",
+      "commentsCount": 277,
+      "hnUrl": "https://news.ycombinator.com/item?id=49213754"
+    },
+    "createdAt": "2026-08-07T17:36:30.000Z"
+  },
+  {
+    "id": "hackernews-49213029",
+    "source": "hackernews",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+    "score": 166,
+    "metadata": {
+      "author": "artninja1988",
+      "commentsCount": 168,
+      "hnUrl": "https://news.ycombinator.com/item?id=49213029"
+    },
+    "createdAt": "2026-08-07T16:39:36.000Z"
+  },
+  {
+    "id": "hackernews-49211921",
+    "source": "hackernews",
+    "title": "An all-sky map of half a million supermassive black holes",
+    "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+    "score": 149,
+    "metadata": {
+      "author": "MarcoDewey",
+      "commentsCount": 37,
+      "hnUrl": "https://news.ycombinator.com/item?id=49211921"
+    },
+    "createdAt": "2026-08-07T15:24:53.000Z"
+  },
+  {
+    "id": "hackernews-49211660",
+    "source": "hackernews",
+    "title": "Möbius-Strip Crosswords",
+    "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "score": 57,
+    "metadata": {
+      "author": "ibobev",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=49211660"
+    },
+    "createdAt": "2026-08-07T15:10:34.000Z"
+  },
+  {
+    "id": "hackernews-49211386",
+    "source": "hackernews",
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "score": 391,
+    "metadata": {
+      "author": "petercooper",
+      "commentsCount": 364,
+      "hnUrl": "https://news.ycombinator.com/item?id=49211386"
+    },
+    "createdAt": "2026-08-07T14:51:57.000Z"
+  },
+  {
+    "id": "hackernews-49209572",
+    "source": "hackernews",
+    "title": "Radical Study Suggests Life on Earth Arose Twice",
+    "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+    "score": 110,
+    "metadata": {
+      "author": "jnord",
+      "commentsCount": 89,
+      "hnUrl": "https://news.ycombinator.com/item?id=49209572"
+    },
+    "createdAt": "2026-08-07T12:45:08.000Z"
+  },
+  {
+    "id": "hackernews-49209539",
+    "source": "hackernews",
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "score": 477,
+    "metadata": {
+      "author": "RickJWagner",
+      "commentsCount": 571,
+      "hnUrl": "https://news.ycombinator.com/item?id=49209539"
+    },
+    "createdAt": "2026-08-07T12:42:27.000Z"
+  },
+  {
+    "id": "hackernews-49209385",
+    "source": "hackernews",
+    "title": "Show HN: Wyzer Programming Language",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "score": 180,
+    "metadata": {
+      "author": "v0id_isgood",
+      "commentsCount": 100,
+      "hnUrl": "https://news.ycombinator.com/item?id=49209385"
+    },
+    "createdAt": "2026-08-07T12:28:55.000Z"
+  },
+  {
+    "id": "hackernews-49208535",
+    "source": "hackernews",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "score": 259,
+    "metadata": {
+      "author": "poly2it",
+      "commentsCount": 124,
+      "hnUrl": "https://news.ycombinator.com/item?id=49208535"
+    },
+    "createdAt": "2026-08-07T11:00:35.000Z"
+  },
+  {
+    "id": "hackernews-49208458",
+    "source": "hackernews",
+    "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+    "url": "https://textlog.cc/about",
+    "score": 148,
+    "metadata": {
+      "author": "stagas",
+      "commentsCount": 62,
+      "hnUrl": "https://news.ycombinator.com/item?id=49208458"
+    },
+    "createdAt": "2026-08-07T10:52:21.000Z"
+  },
+  {
+    "id": "hackernews-49208393",
+    "source": "hackernews",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "score": 172,
+    "metadata": {
+      "author": "m3h",
+      "commentsCount": 44,
+      "hnUrl": "https://news.ycombinator.com/item?id=49208393"
+    },
+    "createdAt": "2026-08-07T10:42:07.000Z"
+  },
+  {
+    "id": "hackernews-49207236",
+    "source": "hackernews",
+    "title": "2027 memory capacity is reportedly sold out",
+    "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+    "score": 275,
+    "metadata": {
+      "author": "inigyou",
+      "commentsCount": 258,
+      "hnUrl": "https://news.ycombinator.com/item?id=49207236"
+    },
+    "createdAt": "2026-08-07T07:58:24.000Z"
+  },
+  {
+    "id": "hackernews-49204352",
+    "source": "hackernews",
+    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+    "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+    "score": 738,
+    "metadata": {
+      "author": "boplicity",
+      "commentsCount": 396,
+      "hnUrl": "https://news.ycombinator.com/item?id=49204352"
+    },
+    "createdAt": "2026-08-07T00:06:28.000Z"
+  },
+  {
+    "id": "hackernews-49189457",
+    "source": "hackernews",
+    "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+    "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+    "score": 8,
+    "metadata": {
+      "author": "aanet",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=49189457"
+    },
+    "createdAt": "2026-08-05T21:44:42.000Z"
+  },
+  {
+    "id": "hackernews-49163202",
+    "source": "hackernews",
+    "title": "Curlese, Five Years Later",
+    "url": "https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later",
+    "score": 14,
+    "metadata": {
+      "author": "rovr138",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49163202"
+    },
+    "createdAt": "2026-08-04T00:53:12.000Z"
+  },
+  {
+    "id": "hackernews-49157770",
+    "source": "hackernews",
+    "title": "Guarded Methods in OCaml (2025)",
+    "url": "https://xvw.lol/en/articles/oop-refl.html",
+    "score": 57,
+    "metadata": {
+      "author": "birdculture",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=49157770"
+    },
+    "createdAt": "2026-08-03T16:15:44.000Z"
+  },
+  {
+    "id": "hackernews-49146540",
+    "source": "hackernews",
+    "title": "Captain Bible Reverse Engineering",
+    "url": "https://github.com/peterkelly/captain-bible-re",
+    "score": 21,
+    "metadata": {
+      "author": "peterkelly",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49146540"
+    },
+    "createdAt": "2026-08-02T17:38:34.000Z"
+  },
+  {
+    "id": "hackernews-49141521",
+    "source": "hackernews",
+    "title": "Why are all the amounts values negative?",
+    "url": "https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/",
+    "score": 35,
+    "metadata": {
+      "author": "4pkjai",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=49141521"
+    },
+    "createdAt": "2026-08-02T05:53:50.000Z"
+  },
+  {
+    "id": "hackernews-49135457",
+    "source": "hackernews",
+    "title": "Carl's Required Reading",
+    "url": "https://carlkolon.com/reading/",
+    "score": 114,
+    "metadata": {
+      "author": "cckolon",
+      "commentsCount": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=49135457"
+    },
+    "createdAt": "2026-08-01T15:51:15.000Z"
+  },
+  {
+    "id": "hackernews-49135261",
+    "source": "hackernews",
+    "title": "SupererDuperer",
+    "url": "https://www.shirtpocket.com/blog/supererduperer",
+    "score": 31,
+    "metadata": {
+      "author": "zdw",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49135261"
+    },
+    "createdAt": "2026-08-01T15:26:29.000Z"
+  },
+  {
     "id": "github-earendil-works-pi",
     "source": "github",
     "title": "earendil-works / pi",
@@ -156,32 +754,6 @@
     "createdAt": "2026-08-01T05:32:16.849Z"
   },
   {
-    "id": "github-virgiliojr94-book-to-skill",
-    "source": "github",
-    "title": "virgiliojr94 / book-to-skill",
-    "url": "https://github.com/virgiliojr94/book-to-skill",
-    "score": 14366,
-    "metadata": {
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "starsToday": 4603
-    },
-    "createdAt": "2026-08-01T05:32:16.848Z"
-  },
-  {
-    "id": "github-ayghri-i-have-adhd",
-    "source": "github",
-    "title": "ayghri / i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "score": 14847,
-    "metadata": {
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "starsToday": 5133
-    },
-    "createdAt": "2026-08-01T05:32:16.847Z"
-  },
-  {
     "id": "github-pascalorg-editor",
     "source": "github",
     "title": "pascalorg / editor",
@@ -206,19 +778,6 @@
       "starsToday": 4746
     },
     "createdAt": "2026-08-01T05:32:16.846Z"
-  },
-  {
-    "id": "github-block-buzz",
-    "source": "github",
-    "title": "block / buzz",
-    "url": "https://github.com/block/buzz",
-    "score": 19689,
-    "metadata": {
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "starsToday": 10558
-    },
-    "createdAt": "2026-08-01T05:32:16.845Z"
   },
   {
     "id": "github-citrolabs-ego-lite",
