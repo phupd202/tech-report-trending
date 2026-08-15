@@ -1,210 +1,210 @@
 [
   {
-    "id": "github-zhaoxuya520-reverse-skill",
+    "id": "github-PrimeIntellect-ai-prime-agent",
     "source": "github",
-    "title": "zhaoxuya520 / reverse-skill",
-    "url": "https://github.com/zhaoxuya520/reverse-skill",
-    "score": 20606,
+    "title": "PrimeIntellect-ai / prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "score": 15957,
     "metadata": {
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "starsToday": 10400
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "starsToday": 10739
     },
-    "createdAt": "2026-08-08T03:35:12.989Z"
+    "createdAt": "2026-08-15T02:53:32.940Z"
   },
   {
-    "id": "github-microsoft-AI-For-Beginners",
+    "id": "github-semantica-agi-semantica",
     "source": "github",
-    "title": "microsoft / AI-For-Beginners",
-    "url": "https://github.com/microsoft/AI-For-Beginners",
-    "score": 63239,
+    "title": "semantica-agi / semantica",
+    "url": "https://github.com/semantica-agi/semantica",
+    "score": 7555,
     "metadata": {
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "starsToday": 8224
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "starsToday": 5135
     },
-    "createdAt": "2026-08-08T03:35:12.990Z"
+    "createdAt": "2026-08-15T02:53:32.941Z"
+  },
+  {
+    "id": "github-google-skills",
+    "source": "github",
+    "title": "google / skills",
+    "url": "https://github.com/google/skills",
+    "score": 18207,
+    "metadata": {
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "starsToday": 2186
+    },
+    "createdAt": "2026-08-15T02:53:32.942Z"
+  },
+  {
+    "id": "github-denoland-celld",
+    "source": "github",
+    "title": "denoland / celld",
+    "url": "https://github.com/denoland/celld",
+    "score": 3564,
+    "metadata": {
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "starsToday": 1549
+    },
+    "createdAt": "2026-08-15T02:53:32.942Z"
+  },
+  {
+    "id": "github-vitali87-code-graph-rag",
+    "source": "github",
+    "title": "vitali87 / code-graph-rag",
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "score": 4297,
+    "metadata": {
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "starsToday": 1718
+    },
+    "createdAt": "2026-08-15T02:53:32.943Z"
+  },
+  {
+    "id": "github-megadose-holehe",
+    "source": "github",
+    "title": "megadose / holehe",
+    "url": "https://github.com/megadose/holehe",
+    "score": 12873,
+    "metadata": {
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "starsToday": 671
+    },
+    "createdAt": "2026-08-15T02:53:32.943Z"
+  },
+  {
+    "id": "github-NVIDIA-NeMo-Switchyard",
+    "source": "github",
+    "title": "NVIDIA-NeMo / Switchyard",
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "score": 1476,
+    "metadata": {
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Rust",
+      "starsToday": 1195
+    },
+    "createdAt": "2026-08-15T02:53:32.943Z"
+  },
+  {
+    "id": "github-cloudflare-computer",
+    "source": "github",
+    "title": "cloudflare / computer",
+    "url": "https://github.com/cloudflare/computer",
+    "score": 8142,
+    "metadata": {
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "starsToday": 2856
+    },
+    "createdAt": "2026-08-15T02:53:32.944Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 87303,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "starsToday": 3845
+    },
+    "createdAt": "2026-08-15T02:53:32.944Z"
   },
   {
     "id": "github-TencentCloud-TencentDB-Agent-Memory",
     "source": "github",
     "title": "TencentCloud / TencentDB-Agent-Memory",
     "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "score": 17575,
+    "score": 21722,
     "metadata": {
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
-      "starsToday": 7501
+      "starsToday": 4423
     },
-    "createdAt": "2026-08-08T03:35:12.991Z"
+    "createdAt": "2026-08-15T02:53:32.945Z"
   },
   {
-    "id": "github-usekaneo-kaneo",
+    "id": "github-cactus-compute-needle",
     "source": "github",
-    "title": "usekaneo / kaneo",
-    "url": "https://github.com/usekaneo/kaneo",
-    "score": 7633,
+    "title": "cactus-compute / needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "score": 5647,
     "metadata": {
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "language": "TypeScript",
-      "starsToday": 2925
-    },
-    "createdAt": "2026-08-08T03:35:12.992Z"
-  },
-  {
-    "id": "github-lyogavin-airllm",
-    "source": "github",
-    "title": "lyogavin / airllm",
-    "url": "https://github.com/lyogavin/airllm",
-    "score": 29932,
-    "metadata": {
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "starsToday": 5521
-    },
-    "createdAt": "2026-08-08T03:35:12.993Z"
-  },
-  {
-    "id": "github-esengine-DeepSeek-Reasonix",
-    "source": "github",
-    "title": "esengine / DeepSeek-Reasonix",
-    "url": "https://github.com/esengine/DeepSeek-Reasonix",
-    "score": 32928,
-    "metadata": {
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "starsToday": 4739
-    },
-    "createdAt": "2026-08-08T03:35:12.994Z"
-  },
-  {
-    "id": "github-virgiliojr94-book-to-skill",
-    "source": "github",
-    "title": "virgiliojr94 / book-to-skill",
-    "url": "https://github.com/virgiliojr94/book-to-skill",
-    "score": 18385,
-    "metadata": {
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "starsToday": 3957
+      "starsToday": 1929
     },
-    "createdAt": "2026-08-08T03:35:12.994Z"
+    "createdAt": "2026-08-15T02:53:32.945Z"
   },
   {
-    "id": "github-block-buzz",
+    "id": "github-huangruiteng-loopx",
     "source": "github",
-    "title": "block / buzz",
-    "url": "https://github.com/block/buzz",
-    "score": 25015,
+    "title": "huangruiteng / loopx",
+    "url": "https://github.com/huangruiteng/loopx",
+    "score": 4720,
     "metadata": {
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "starsToday": 5746
-    },
-    "createdAt": "2026-08-08T03:35:12.995Z"
-  },
-  {
-    "id": "github-paperswithbacktest-awesome-systematic-trading",
-    "source": "github",
-    "title": "paperswithbacktest / awesome-systematic-trading",
-    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-    "score": 12964,
-    "metadata": {
-      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
-      "starsToday": 1433
+      "starsToday": 1455
     },
-    "createdAt": "2026-08-08T03:35:12.996Z"
+    "createdAt": "2026-08-15T02:53:32.945Z"
   },
   {
-    "id": "github-different-ai-openwork",
+    "id": "github-3b1b-manim",
     "source": "github",
-    "title": "different-ai / openwork",
-    "url": "https://github.com/different-ai/openwork",
-    "score": 21469,
+    "title": "3b1b / manim",
+    "url": "https://github.com/3b1b/manim",
+    "score": 91134,
     "metadata": {
-      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "language": "TypeScript",
-      "starsToday": 2367
-    },
-    "createdAt": "2026-08-08T03:35:12.996Z"
-  },
-  {
-    "id": "github-antirez-ds4",
-    "source": "github",
-    "title": "antirez / ds4",
-    "url": "https://github.com/antirez/ds4",
-    "score": 20898,
-    "metadata": {
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "language": "C",
-      "starsToday": 1341
-    },
-    "createdAt": "2026-08-08T03:35:12.997Z"
-  },
-  {
-    "id": "github-DataExpert-io-data-engineer-handbook",
-    "source": "github",
-    "title": "DataExpert-io / data-engineer-handbook",
-    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-    "score": 43385,
-    "metadata": {
-      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
-      "language": "Jupyter Notebook",
-      "starsToday": 742
-    },
-    "createdAt": "2026-08-08T03:35:12.997Z"
-  },
-  {
-    "id": "github-unclebob-swarm-forge",
-    "source": "github",
-    "title": "unclebob / swarm-forge",
-    "url": "https://github.com/unclebob/swarm-forge",
-    "score": 1859,
-    "metadata": {
-      "description": "A simple tool for coordinating several AI agents.",
-      "language": "Clojure",
-      "starsToday": 273
-    },
-    "createdAt": "2026-08-08T03:35:12.997Z"
-  },
-  {
-    "id": "github-embabel-embabel-agent",
-    "source": "github",
-    "title": "embabel / embabel-agent",
-    "url": "https://github.com/embabel/embabel-agent",
-    "score": 4014,
-    "metadata": {
-      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-      "language": "Kotlin",
-      "starsToday": 176
-    },
-    "createdAt": "2026-08-08T03:35:12.998Z"
-  },
-  {
-    "id": "github-ayghri-i-have-adhd",
-    "source": "github",
-    "title": "ayghri / i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "score": 18191,
-    "metadata": {
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description": "Animation engine for explanatory math videos",
       "language": "Python",
-      "starsToday": 3497
+      "starsToday": 1919
     },
-    "createdAt": "2026-08-08T03:35:12.998Z"
+    "createdAt": "2026-08-15T02:53:32.945Z"
   },
   {
-    "id": "github-tailwindlabs-tailwindcss",
+    "id": "github-LadybirdBrowser-ladybird",
     "source": "github",
-    "title": "tailwindlabs / tailwindcss",
-    "url": "https://github.com/tailwindlabs/tailwindcss",
-    "score": 97100,
+    "title": "LadybirdBrowser / ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "score": 65633,
     "metadata": {
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "TypeScript",
-      "starsToday": 997
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "starsToday": 819
     },
-    "createdAt": "2026-08-08T03:35:12.999Z"
+    "createdAt": "2026-08-15T02:53:32.945Z"
+  },
+  {
+    "id": "github-TapXWorld-ChinaTextbook",
+    "source": "github",
+    "title": "TapXWorld / ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "score": 79628,
+    "metadata": {
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "starsToday": 1998
+    },
+    "createdAt": "2026-08-15T02:53:32.945Z"
+  },
+  {
+    "id": "github-pingdotgg-t3code",
+    "source": "github",
+    "title": "pingdotgg / t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "score": 18760,
+    "metadata": {
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 1603
+    },
+    "createdAt": "2026-08-15T02:53:32.946Z"
   }
 ]

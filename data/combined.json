@@ -1,5 +1,577 @@
 [
   {
+    "id": "github-pingdotgg-t3code",
+    "source": "github",
+    "title": "pingdotgg / t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "score": 18760,
+    "metadata": {
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 1603
+    },
+    "createdAt": "2026-08-15T02:53:32.946Z"
+  },
+  {
+    "id": "github-TencentCloud-TencentDB-Agent-Memory",
+    "source": "github",
+    "title": "TencentCloud / TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "score": 21722,
+    "metadata": {
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "starsToday": 4423
+    },
+    "createdAt": "2026-08-15T02:53:32.945Z"
+  },
+  {
+    "id": "github-TapXWorld-ChinaTextbook",
+    "source": "github",
+    "title": "TapXWorld / ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "score": 79628,
+    "metadata": {
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "starsToday": 1998
+    },
+    "createdAt": "2026-08-15T02:53:32.945Z"
+  },
+  {
+    "id": "github-cactus-compute-needle",
+    "source": "github",
+    "title": "cactus-compute / needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "score": 5647,
+    "metadata": {
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "starsToday": 1929
+    },
+    "createdAt": "2026-08-15T02:53:32.945Z"
+  },
+  {
+    "id": "github-huangruiteng-loopx",
+    "source": "github",
+    "title": "huangruiteng / loopx",
+    "url": "https://github.com/huangruiteng/loopx",
+    "score": 4720,
+    "metadata": {
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "starsToday": 1455
+    },
+    "createdAt": "2026-08-15T02:53:32.945Z"
+  },
+  {
+    "id": "github-3b1b-manim",
+    "source": "github",
+    "title": "3b1b / manim",
+    "url": "https://github.com/3b1b/manim",
+    "score": 91134,
+    "metadata": {
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "starsToday": 1919
+    },
+    "createdAt": "2026-08-15T02:53:32.945Z"
+  },
+  {
+    "id": "github-LadybirdBrowser-ladybird",
+    "source": "github",
+    "title": "LadybirdBrowser / ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "score": 65633,
+    "metadata": {
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "starsToday": 819
+    },
+    "createdAt": "2026-08-15T02:53:32.945Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 87303,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "starsToday": 3845
+    },
+    "createdAt": "2026-08-15T02:53:32.944Z"
+  },
+  {
+    "id": "github-cloudflare-computer",
+    "source": "github",
+    "title": "cloudflare / computer",
+    "url": "https://github.com/cloudflare/computer",
+    "score": 8142,
+    "metadata": {
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "starsToday": 2856
+    },
+    "createdAt": "2026-08-15T02:53:32.944Z"
+  },
+  {
+    "id": "github-vitali87-code-graph-rag",
+    "source": "github",
+    "title": "vitali87 / code-graph-rag",
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "score": 4297,
+    "metadata": {
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "starsToday": 1718
+    },
+    "createdAt": "2026-08-15T02:53:32.943Z"
+  },
+  {
+    "id": "github-megadose-holehe",
+    "source": "github",
+    "title": "megadose / holehe",
+    "url": "https://github.com/megadose/holehe",
+    "score": 12873,
+    "metadata": {
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "starsToday": 671
+    },
+    "createdAt": "2026-08-15T02:53:32.943Z"
+  },
+  {
+    "id": "github-NVIDIA-NeMo-Switchyard",
+    "source": "github",
+    "title": "NVIDIA-NeMo / Switchyard",
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "score": 1476,
+    "metadata": {
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Rust",
+      "starsToday": 1195
+    },
+    "createdAt": "2026-08-15T02:53:32.943Z"
+  },
+  {
+    "id": "github-google-skills",
+    "source": "github",
+    "title": "google / skills",
+    "url": "https://github.com/google/skills",
+    "score": 18207,
+    "metadata": {
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "starsToday": 2186
+    },
+    "createdAt": "2026-08-15T02:53:32.942Z"
+  },
+  {
+    "id": "github-denoland-celld",
+    "source": "github",
+    "title": "denoland / celld",
+    "url": "https://github.com/denoland/celld",
+    "score": 3564,
+    "metadata": {
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "starsToday": 1549
+    },
+    "createdAt": "2026-08-15T02:53:32.942Z"
+  },
+  {
+    "id": "github-semantica-agi-semantica",
+    "source": "github",
+    "title": "semantica-agi / semantica",
+    "url": "https://github.com/semantica-agi/semantica",
+    "score": 7555,
+    "metadata": {
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "starsToday": 5135
+    },
+    "createdAt": "2026-08-15T02:53:32.941Z"
+  },
+  {
+    "id": "github-PrimeIntellect-ai-prime-agent",
+    "source": "github",
+    "title": "PrimeIntellect-ai / prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "score": 15957,
+    "metadata": {
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "starsToday": 10739
+    },
+    "createdAt": "2026-08-15T02:53:32.940Z"
+  },
+  {
+    "id": "hackernews-49306577",
+    "source": "hackernews",
+    "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+    "score": 73,
+    "metadata": {
+      "author": "Bender",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=49306577"
+    },
+    "createdAt": "2026-08-15T01:14:05.000Z"
+  },
+  {
+    "id": "hackernews-49306443",
+    "source": "hackernews",
+    "title": "The Ploopy A+ Trackball Is Here",
+    "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "score": 32,
+    "metadata": {
+      "author": "big_toast",
+      "commentsCount": 20,
+      "hnUrl": "https://news.ycombinator.com/item?id=49306443"
+    },
+    "createdAt": "2026-08-15T00:55:31.000Z"
+  },
+  {
+    "id": "hackernews-49306432",
+    "source": "hackernews",
+    "title": "NSA and IETF, Part 9",
+    "url": "https://blog.cr.yp.to/20260814-update.html",
+    "score": 15,
+    "metadata": {
+      "author": "libroot",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49306432"
+    },
+    "createdAt": "2026-08-15T00:54:01.000Z"
+  },
+  {
+    "id": "hackernews-49306196",
+    "source": "hackernews",
+    "title": "Simplifying and Refactoring Introductory Calculus",
+    "url": "https://arxiv.org/abs/1811.03459",
+    "score": 35,
+    "metadata": {
+      "author": "E-Reverance",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=49306196"
+    },
+    "createdAt": "2026-08-15T00:15:23.000Z"
+  },
+  {
+    "id": "hackernews-49305708",
+    "source": "hackernews",
+    "title": "The case for overhauling American science",
+    "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+    "score": 50,
+    "metadata": {
+      "author": "andsoitis",
+      "commentsCount": 42,
+      "hnUrl": "https://news.ycombinator.com/item?id=49305708"
+    },
+    "createdAt": "2026-08-14T23:11:34.000Z"
+  },
+  {
+    "id": "hackernews-49305558",
+    "source": "hackernews",
+    "title": "Stop sending me huge PRs; a rant",
+    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+    "score": 90,
+    "metadata": {
+      "author": "trezm",
+      "commentsCount": 51,
+      "hnUrl": "https://news.ycombinator.com/item?id=49305558"
+    },
+    "createdAt": "2026-08-14T22:48:15.000Z"
+  },
+  {
+    "id": "hackernews-49305492",
+    "source": "hackernews",
+    "title": "RISC-V: They should have known better",
+    "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+    "score": 136,
+    "metadata": {
+      "author": "kaycebasques",
+      "commentsCount": 111,
+      "hnUrl": "https://news.ycombinator.com/item?id=49305492"
+    },
+    "createdAt": "2026-08-14T22:38:34.000Z"
+  },
+  {
+    "id": "hackernews-49305250",
+    "source": "hackernews",
+    "title": "eigendrum",
+    "url": "https://eigendrum.com/#p=circle",
+    "score": 41,
+    "metadata": {
+      "author": "bookofjoe",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=49305250"
+    },
+    "createdAt": "2026-08-14T22:15:12.000Z"
+  },
+  {
+    "id": "hackernews-49304447",
+    "source": "hackernews",
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "score": 228,
+    "metadata": {
+      "author": "vslira",
+      "commentsCount": 126,
+      "hnUrl": "https://news.ycombinator.com/item?id=49304447"
+    },
+    "createdAt": "2026-08-14T20:52:44.000Z"
+  },
+  {
+    "id": "hackernews-49303652",
+    "source": "hackernews",
+    "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+    "url": "https://arxiv.org/abs/2608.11158",
+    "score": 38,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=49303652"
+    },
+    "createdAt": "2026-08-14T19:41:42.000Z"
+  },
+  {
+    "id": "hackernews-49303202",
+    "source": "hackernews",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin",
+    "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "score": 482,
+    "metadata": {
+      "author": "DemiGuru",
+      "commentsCount": 176,
+      "hnUrl": "https://news.ycombinator.com/item?id=49303202"
+    },
+    "createdAt": "2026-08-14T19:03:20.000Z"
+  },
+  {
+    "id": "hackernews-49303046",
+    "source": "hackernews",
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "url": "https://github.com/lajosdeme/mole",
+    "score": 53,
+    "metadata": {
+      "author": "lajosdeme",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=49303046"
+    },
+    "createdAt": "2026-08-14T18:52:48.000Z"
+  },
+  {
+    "id": "hackernews-49301215",
+    "source": "hackernews",
+    "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+    "url": "https://luacad.ad-si.com",
+    "score": 80,
+    "metadata": {
+      "author": "adius",
+      "commentsCount": 14,
+      "hnUrl": "https://news.ycombinator.com/item?id=49301215"
+    },
+    "createdAt": "2026-08-14T16:43:22.000Z"
+  },
+  {
+    "id": "hackernews-49300800",
+    "source": "hackernews",
+    "title": "Maximizing the value of your Claude Code sessions",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "score": 139,
+    "metadata": {
+      "author": "twapi",
+      "commentsCount": 95,
+      "hnUrl": "https://news.ycombinator.com/item?id=49300800"
+    },
+    "createdAt": "2026-08-14T16:15:21.000Z"
+  },
+  {
+    "id": "hackernews-49300759",
+    "source": "hackernews",
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "score": 232,
+    "metadata": {
+      "author": "rustdesk",
+      "commentsCount": 97,
+      "hnUrl": "https://news.ycombinator.com/item?id=49300759"
+    },
+    "createdAt": "2026-08-14T16:12:52.000Z"
+  },
+  {
+    "id": "hackernews-49300568",
+    "source": "hackernews",
+    "title": "AI by Hand",
+    "url": "https://www.byhand.ai/",
+    "score": 215,
+    "metadata": {
+      "author": "sans_souse",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=49300568"
+    },
+    "createdAt": "2026-08-14T15:58:59.000Z"
+  },
+  {
+    "id": "hackernews-49300314",
+    "source": "hackernews",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 297,
+    "metadata": {
+      "author": "u1hcw9nx",
+      "commentsCount": 176,
+      "hnUrl": "https://news.ycombinator.com/item?id=49300314"
+    },
+    "createdAt": "2026-08-14T15:43:10.000Z"
+  },
+  {
+    "id": "hackernews-49299746",
+    "source": "hackernews",
+    "title": "Introducing Toast 1",
+    "url": "https://www.mixedbread.com/blog/toast-1",
+    "score": 183,
+    "metadata": {
+      "author": "mplappert",
+      "commentsCount": 59,
+      "hnUrl": "https://news.ycombinator.com/item?id=49299746"
+    },
+    "createdAt": "2026-08-14T15:07:57.000Z"
+  },
+  {
+    "id": "hackernews-49299675",
+    "source": "hackernews",
+    "title": "Seven books I keep close because I love them",
+    "url": "https://blog.plover.com/2026/08/02/",
+    "score": 306,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 134,
+      "hnUrl": "https://news.ycombinator.com/item?id=49299675"
+    },
+    "createdAt": "2026-08-14T15:03:26.000Z"
+  },
+  {
+    "id": "hackernews-49299605",
+    "source": "hackernews",
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "score": 937,
+    "metadata": {
+      "author": "erdaltoprak",
+      "commentsCount": 612,
+      "hnUrl": "https://news.ycombinator.com/item?id=49299605"
+    },
+    "createdAt": "2026-08-14T15:00:00.000Z"
+  },
+  {
+    "id": "hackernews-49299081",
+    "source": "hackernews",
+    "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+    "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+    "score": 151,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 61,
+      "hnUrl": "https://news.ycombinator.com/item?id=49299081"
+    },
+    "createdAt": "2026-08-14T14:21:18.000Z"
+  },
+  {
+    "id": "hackernews-49296740",
+    "source": "hackernews",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "score": 802,
+    "metadata": {
+      "author": "numeri",
+      "commentsCount": 736,
+      "hnUrl": "https://news.ycombinator.com/item?id=49296740"
+    },
+    "createdAt": "2026-08-14T10:12:48.000Z"
+  },
+  {
+    "id": "hackernews-49294997",
+    "source": "hackernews",
+    "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+    "url": "https://z.ai/blog/glm-5.3",
+    "score": 1039,
+    "metadata": {
+      "author": "pella",
+      "commentsCount": 516,
+      "hnUrl": "https://news.ycombinator.com/item?id=49294997"
+    },
+    "createdAt": "2026-08-14T05:19:59.000Z"
+  },
+  {
+    "id": "hackernews-49272784",
+    "source": "hackernews",
+    "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
+    "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
+    "score": 32,
+    "metadata": {
+      "author": "bbayles",
+      "commentsCount": 9,
+      "hnUrl": "https://news.ycombinator.com/item?id=49272784"
+    },
+    "createdAt": "2026-08-12T14:19:05.000Z"
+  },
+  {
+    "id": "hackernews-49269809",
+    "source": "hackernews",
+    "title": "Turbo Pascal on CP/M, MSX-DOS and MS-DOS",
+    "url": "http://pascal.hansotten.com/delphi/turbo-pascal-on-cpm-msx-dos-and-ms-dos/",
+    "score": 76,
+    "metadata": {
+      "author": "rbanffy",
+      "commentsCount": 24,
+      "hnUrl": "https://news.ycombinator.com/item?id=49269809"
+    },
+    "createdAt": "2026-08-12T09:34:38.000Z"
+  },
+  {
+    "id": "hackernews-49263186",
+    "source": "hackernews",
+    "title": "Hi-Fi Tape Recorder Changed Radio Forever",
+    "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
+    "score": 15,
+    "metadata": {
+      "author": "Jimmc414",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49263186"
+    },
+    "createdAt": "2026-08-11T19:23:33.000Z"
+  },
+  {
+    "id": "hackernews-49249523",
+    "source": "hackernews",
+    "title": "Don't classify, hallucinate",
+    "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+    "score": 221,
+    "metadata": {
+      "author": "softwaredoug",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=49249523"
+    },
+    "createdAt": "2026-08-10T20:50:36.000Z"
+  },
+  {
+    "id": "hackernews-49232870",
+    "source": "hackernews",
+    "title": "Show HN: Ember – Redshift safe color palettes",
+    "url": "https://github.com/carpdiem/ember",
+    "score": 67,
+    "metadata": {
+      "author": "carpdiem",
+      "commentsCount": 14,
+      "hnUrl": "https://news.ycombinator.com/item?id=49232870"
+    },
+    "createdAt": "2026-08-09T16:26:37.000Z"
+  },
+  {
     "id": "github-tailwindlabs-tailwindcss",
     "source": "github",
     "title": "tailwindlabs / tailwindcss",
@@ -169,19 +741,6 @@
     "createdAt": "2026-08-08T03:35:12.992Z"
   },
   {
-    "id": "github-TencentCloud-TencentDB-Agent-Memory",
-    "source": "github",
-    "title": "TencentCloud / TencentDB-Agent-Memory",
-    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "score": 17575,
-    "metadata": {
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "starsToday": 7501
-    },
-    "createdAt": "2026-08-08T03:35:12.991Z"
-  },
-  {
     "id": "github-microsoft-AI-For-Beginners",
     "source": "github",
     "title": "microsoft / AI-For-Beginners",
@@ -271,6 +830,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=49216362"
     },
     "createdAt": "2026-08-07T21:19:57.000Z"
+  },
+  {
+    "id": "hackernews-49215682",
+    "source": "hackernews",
+    "title": "Super Mario Derivations",
+    "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+    "score": 64,
+    "metadata": {
+      "author": "domenkozar",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=49215682"
+    },
+    "createdAt": "2026-08-07T20:16:10.000Z"
   },
   {
     "id": "hackernews-49214775",
@@ -401,6 +973,19 @@
       "hnUrl": "https://news.ycombinator.com/item?id=49211386"
     },
     "createdAt": "2026-08-07T14:51:57.000Z"
+  },
+  {
+    "id": "hackernews-49211375",
+    "source": "hackernews",
+    "title": "Ultraviolet Bird Photography",
+    "url": "https://uvbirds.com/",
+    "score": 114,
+    "metadata": {
+      "author": "EndXA",
+      "commentsCount": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=49211375"
+    },
+    "createdAt": "2026-08-07T14:51:09.000Z"
   },
   {
     "id": "hackernews-49209572",
@@ -737,19 +1322,6 @@
       "description": "The most RAM efficient harness",
       "language": "Rust",
       "starsToday": 3351
-    },
-    "createdAt": "2026-08-01T05:32:16.849Z"
-  },
-  {
-    "id": "github-pingdotgg-t3code",
-    "source": "github",
-    "title": "pingdotgg / t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "score": 16118,
-    "metadata": {
-      "description": "",
-      "language": "TypeScript",
-      "starsToday": 1488
     },
     "createdAt": "2026-08-01T05:32:16.849Z"
   },
@@ -2338,19 +2910,6 @@
       "hnUrl": "https://news.ycombinator.com/item?id=48874347"
     },
     "createdAt": "2026-07-11T18:20:49.000Z"
-  },
-  {
-    "id": "github-addyosmani-agent-skills",
-    "source": "github",
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "score": 76940,
-    "metadata": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "starsToday": 7944
-    },
-    "createdAt": "2026-07-11T05:16:07.393Z"
   },
   {
     "id": "github-alirezarezvani-claude-skills",
@@ -6487,19 +7046,6 @@
     "createdAt": "2026-06-12T11:59:40.000Z"
   },
   {
-    "id": "github-TapXWorld-ChinaTextbook",
-    "source": "github",
-    "title": "TapXWorld / ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "score": 73967,
-    "metadata": {
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "starsToday": 88
-    },
-    "createdAt": "2026-06-12T02:49:04.240Z"
-  },
-  {
     "id": "github-hexo-ai-sia",
     "source": "github",
     "title": "hexo-ai / sia",
@@ -7029,19 +7575,6 @@
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
       "language": "Python",
       "starsToday": 247
-    },
-    "createdAt": "2026-06-11T03:13:24.704Z"
-  },
-  {
-    "id": "github-google-skills",
-    "source": "github",
-    "title": "google / skills",
-    "url": "https://github.com/google/skills",
-    "score": 13350,
-    "metadata": {
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "starsToday": 211
     },
     "createdAt": "2026-06-11T03:13:24.704Z"
   },
