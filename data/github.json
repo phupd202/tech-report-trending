@@ -1,210 +1,210 @@
 [
   {
-    "id": "github-PrimeIntellect-ai-prime-agent",
+    "id": "github-cordiverse-cordis",
     "source": "github",
-    "title": "PrimeIntellect-ai / prime-agent",
-    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "score": 15957,
+    "title": "cordiverse / cordis",
+    "url": "https://github.com/cordiverse/cordis",
+    "score": 6972,
     "metadata": {
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description": "Meta-Framework of Spatiotemporal Composability",
       "language": "TypeScript",
-      "starsToday": 10739
+      "starsToday": 3614
     },
-    "createdAt": "2026-08-15T02:53:32.940Z"
+    "createdAt": "2026-08-22T02:55:51.088Z"
+  },
+  {
+    "id": "github-cathrynlavery-diagram-design",
+    "source": "github",
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "score": 25050,
+    "metadata": {
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "starsToday": 8457
+    },
+    "createdAt": "2026-08-22T02:55:51.089Z"
+  },
+  {
+    "id": "github-cursor-plugins",
+    "source": "github",
+    "title": "cursor / plugins",
+    "url": "https://github.com/cursor/plugins",
+    "score": 4426,
+    "metadata": {
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "starsToday": 1582
+    },
+    "createdAt": "2026-08-22T02:55:51.090Z"
+  },
+  {
+    "id": "github-volcengine-OpenViking",
+    "source": "github",
+    "title": "volcengine / OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "score": 31697,
+    "metadata": {
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "starsToday": 3033
+    },
+    "createdAt": "2026-08-22T02:55:51.090Z"
+  },
+  {
+    "id": "github-basecamp-omarchy",
+    "source": "github",
+    "title": "basecamp / omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "score": 27584,
+    "metadata": {
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "starsToday": 2565
+    },
+    "createdAt": "2026-08-22T02:55:51.091Z"
+  },
+  {
+    "id": "github-modular-modular",
+    "source": "github",
+    "title": "modular / modular",
+    "url": "https://github.com/modular/modular",
+    "score": 28700,
+    "metadata": {
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "starsToday": 1643
+    },
+    "createdAt": "2026-08-22T02:55:51.091Z"
+  },
+  {
+    "id": "github-harry0703-MoneyPrinterTurbo",
+    "source": "github",
+    "title": "harry0703 / MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "score": 114004,
+    "metadata": {
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "starsToday": 10470
+    },
+    "createdAt": "2026-08-22T02:55:51.092Z"
+  },
+  {
+    "id": "github-public-apis-public-apis",
+    "source": "github",
+    "title": "public-apis / public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "score": 468060,
+    "metadata": {
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "starsToday": 10990
+    },
+    "createdAt": "2026-08-22T02:55:51.092Z"
   },
   {
     "id": "github-semantica-agi-semantica",
     "source": "github",
     "title": "semantica-agi / semantica",
     "url": "https://github.com/semantica-agi/semantica",
-    "score": 7555,
+    "score": 10102,
     "metadata": {
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "starsToday": 5135
+      "starsToday": 2755
     },
-    "createdAt": "2026-08-15T02:53:32.941Z"
+    "createdAt": "2026-08-22T02:55:51.092Z"
   },
   {
-    "id": "github-google-skills",
+    "id": "github-AprilNEA-OpenLogi",
     "source": "github",
-    "title": "google / skills",
-    "url": "https://github.com/google/skills",
-    "score": 18207,
+    "title": "AprilNEA / OpenLogi",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "score": 13021,
     "metadata": {
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "starsToday": 2186
-    },
-    "createdAt": "2026-08-15T02:53:32.942Z"
-  },
-  {
-    "id": "github-denoland-celld",
-    "source": "github",
-    "title": "denoland / celld",
-    "url": "https://github.com/denoland/celld",
-    "score": 3564,
-    "metadata": {
-      "description": "self-hosted, distributed Durable Objects",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "starsToday": 1549
+      "starsToday": 4054
     },
-    "createdAt": "2026-08-15T02:53:32.942Z"
-  },
-  {
-    "id": "github-vitali87-code-graph-rag",
-    "source": "github",
-    "title": "vitali87 / code-graph-rag",
-    "url": "https://github.com/vitali87/code-graph-rag",
-    "score": 4297,
-    "metadata": {
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "language": "Python",
-      "starsToday": 1718
-    },
-    "createdAt": "2026-08-15T02:53:32.943Z"
-  },
-  {
-    "id": "github-megadose-holehe",
-    "source": "github",
-    "title": "megadose / holehe",
-    "url": "https://github.com/megadose/holehe",
-    "score": 12873,
-    "metadata": {
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "starsToday": 671
-    },
-    "createdAt": "2026-08-15T02:53:32.943Z"
-  },
-  {
-    "id": "github-NVIDIA-NeMo-Switchyard",
-    "source": "github",
-    "title": "NVIDIA-NeMo / Switchyard",
-    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-    "score": 1476,
-    "metadata": {
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "language": "Rust",
-      "starsToday": 1195
-    },
-    "createdAt": "2026-08-15T02:53:32.943Z"
-  },
-  {
-    "id": "github-cloudflare-computer",
-    "source": "github",
-    "title": "cloudflare / computer",
-    "url": "https://github.com/cloudflare/computer",
-    "score": 8142,
-    "metadata": {
-      "description": "Give your agent a computer 👾",
-      "language": "TypeScript",
-      "starsToday": 2856
-    },
-    "createdAt": "2026-08-15T02:53:32.944Z"
-  },
-  {
-    "id": "github-addyosmani-agent-skills",
-    "source": "github",
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "score": 87303,
-    "metadata": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "starsToday": 3845
-    },
-    "createdAt": "2026-08-15T02:53:32.944Z"
-  },
-  {
-    "id": "github-TencentCloud-TencentDB-Agent-Memory",
-    "source": "github",
-    "title": "TencentCloud / TencentDB-Agent-Memory",
-    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "score": 21722,
-    "metadata": {
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "starsToday": 4423
-    },
-    "createdAt": "2026-08-15T02:53:32.945Z"
+    "createdAt": "2026-08-22T02:55:51.093Z"
   },
   {
     "id": "github-cactus-compute-needle",
     "source": "github",
     "title": "cactus-compute / needle",
     "url": "https://github.com/cactus-compute/needle",
-    "score": 5647,
+    "score": 8354,
     "metadata": {
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "starsToday": 1929
+      "starsToday": 2985
     },
-    "createdAt": "2026-08-15T02:53:32.945Z"
+    "createdAt": "2026-08-22T02:55:51.093Z"
   },
   {
-    "id": "github-huangruiteng-loopx",
+    "id": "github-NVIDIA-NeMo-Switchyard",
     "source": "github",
-    "title": "huangruiteng / loopx",
-    "url": "https://github.com/huangruiteng/loopx",
-    "score": 4720,
+    "title": "NVIDIA-NeMo / Switchyard",
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "score": 2072,
     "metadata": {
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Rust",
+      "starsToday": 642
+    },
+    "createdAt": "2026-08-22T02:55:51.093Z"
+  },
+  {
+    "id": "github-akitaonrails-ai-memory",
+    "source": "github",
+    "title": "akitaonrails / ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "score": 3955,
+    "metadata": {
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "starsToday": 2404
+    },
+    "createdAt": "2026-08-22T02:55:51.094Z"
+  },
+  {
+    "id": "github-AlexsJones-llmfit",
+    "source": "github",
+    "title": "AlexsJones / llmfit",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "score": 33455,
+    "metadata": {
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "starsToday": 1991
+    },
+    "createdAt": "2026-08-22T02:55:51.094Z"
+  },
+  {
+    "id": "github-unslothai-unsloth",
+    "source": "github",
+    "title": "unslothai / unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "score": 74287,
+    "metadata": {
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "language": "Python",
-      "starsToday": 1455
+      "starsToday": 2987
     },
-    "createdAt": "2026-08-15T02:53:32.945Z"
+    "createdAt": "2026-08-22T02:55:51.094Z"
   },
   {
-    "id": "github-3b1b-manim",
+    "id": "github-jundot-omlx",
     "source": "github",
-    "title": "3b1b / manim",
-    "url": "https://github.com/3b1b/manim",
-    "score": 91134,
+    "title": "jundot / omlx",
+    "url": "https://github.com/jundot/omlx",
+    "score": 20227,
     "metadata": {
-      "description": "Animation engine for explanatory math videos",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "starsToday": 1919
+      "starsToday": 1536
     },
-    "createdAt": "2026-08-15T02:53:32.945Z"
-  },
-  {
-    "id": "github-LadybirdBrowser-ladybird",
-    "source": "github",
-    "title": "LadybirdBrowser / ladybird",
-    "url": "https://github.com/LadybirdBrowser/ladybird",
-    "score": 65633,
-    "metadata": {
-      "description": "Truly independent web browser",
-      "language": "C++",
-      "starsToday": 819
-    },
-    "createdAt": "2026-08-15T02:53:32.945Z"
-  },
-  {
-    "id": "github-TapXWorld-ChinaTextbook",
-    "source": "github",
-    "title": "TapXWorld / ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "score": 79628,
-    "metadata": {
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "starsToday": 1998
-    },
-    "createdAt": "2026-08-15T02:53:32.945Z"
-  },
-  {
-    "id": "github-pingdotgg-t3code",
-    "source": "github",
-    "title": "pingdotgg / t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "score": 18760,
-    "metadata": {
-      "description": "",
-      "language": "TypeScript",
-      "starsToday": 1603
-    },
-    "createdAt": "2026-08-15T02:53:32.946Z"
+    "createdAt": "2026-08-22T02:55:51.094Z"
   }
 ]
