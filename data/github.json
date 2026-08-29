@@ -1,210 +1,249 @@
 [
   {
-    "id": "github-cordiverse-cordis",
+    "id": "github-anthropics-claude-plugins-community",
     "source": "github",
-    "title": "cordiverse / cordis",
-    "url": "https://github.com/cordiverse/cordis",
-    "score": 6972,
+    "title": "anthropics / claude-plugins-community",
+    "url": "https://github.com/anthropics/claude-plugins-community",
+    "score": 2644,
     "metadata": {
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "language": "TypeScript",
-      "starsToday": 3614
-    },
-    "createdAt": "2026-08-22T02:55:51.088Z"
-  },
-  {
-    "id": "github-cathrynlavery-diagram-design",
-    "source": "github",
-    "title": "cathrynlavery / diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "score": 25050,
-    "metadata": {
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "starsToday": 8457
-    },
-    "createdAt": "2026-08-22T02:55:51.089Z"
-  },
-  {
-    "id": "github-cursor-plugins",
-    "source": "github",
-    "title": "cursor / plugins",
-    "url": "https://github.com/cursor/plugins",
-    "score": 4426,
-    "metadata": {
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "starsToday": 1582
-    },
-    "createdAt": "2026-08-22T02:55:51.090Z"
-  },
-  {
-    "id": "github-volcengine-OpenViking",
-    "source": "github",
-    "title": "volcengine / OpenViking",
-    "url": "https://github.com/volcengine/OpenViking",
-    "score": 31697,
-    "metadata": {
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
-      "starsToday": 3033
+      "starsToday": 2207
     },
-    "createdAt": "2026-08-22T02:55:51.090Z"
+    "createdAt": "2026-08-29T08:45:01.024Z"
+  },
+  {
+    "id": "github-freestylefly-awesome-gpt-image-2",
+    "source": "github",
+    "title": "freestylefly / awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "score": 24538,
+    "metadata": {
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "starsToday": 12877
+    },
+    "createdAt": "2026-08-29T08:45:01.025Z"
   },
   {
     "id": "github-basecamp-omarchy",
     "source": "github",
     "title": "basecamp / omarchy",
     "url": "https://github.com/basecamp/omarchy",
-    "score": 27584,
+    "score": 33938,
     "metadata": {
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "starsToday": 2565
+      "starsToday": 5942
     },
-    "createdAt": "2026-08-22T02:55:51.091Z"
+    "createdAt": "2026-08-29T08:45:01.025Z"
   },
   {
-    "id": "github-modular-modular",
+    "id": "github-openai-codex",
     "source": "github",
-    "title": "modular / modular",
-    "url": "https://github.com/modular/modular",
-    "score": 28700,
+    "title": "openai / codex",
+    "url": "https://github.com/openai/codex",
+    "score": 119662,
     "metadata": {
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "starsToday": 1643
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "starsToday": 9109
     },
-    "createdAt": "2026-08-22T02:55:51.091Z"
+    "createdAt": "2026-08-29T08:45:01.026Z"
   },
   {
-    "id": "github-harry0703-MoneyPrinterTurbo",
+    "id": "github-tt-a1i-archify",
     "source": "github",
-    "title": "harry0703 / MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "score": 114004,
+    "title": "tt-a1i / archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "score": 28753,
     "metadata": {
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "starsToday": 10470
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "starsToday": 11099
     },
-    "createdAt": "2026-08-22T02:55:51.092Z"
-  },
-  {
-    "id": "github-public-apis-public-apis",
-    "source": "github",
-    "title": "public-apis / public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "score": 468060,
-    "metadata": {
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "starsToday": 10990
-    },
-    "createdAt": "2026-08-22T02:55:51.092Z"
-  },
-  {
-    "id": "github-semantica-agi-semantica",
-    "source": "github",
-    "title": "semantica-agi / semantica",
-    "url": "https://github.com/semantica-agi/semantica",
-    "score": 10102,
-    "metadata": {
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "language": "Python",
-      "starsToday": 2755
-    },
-    "createdAt": "2026-08-22T02:55:51.092Z"
+    "createdAt": "2026-08-29T08:45:01.026Z"
   },
   {
     "id": "github-AprilNEA-OpenLogi",
     "source": "github",
     "title": "AprilNEA / OpenLogi",
     "url": "https://github.com/AprilNEA/OpenLogi",
-    "score": 13021,
+    "score": 17484,
     "metadata": {
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "starsToday": 4054
+      "starsToday": 4825
     },
-    "createdAt": "2026-08-22T02:55:51.093Z"
+    "createdAt": "2026-08-29T08:45:01.027Z"
   },
   {
-    "id": "github-cactus-compute-needle",
+    "id": "github-apache-maka",
     "source": "github",
-    "title": "cactus-compute / needle",
-    "url": "https://github.com/cactus-compute/needle",
-    "score": 8354,
+    "title": "apache / maka",
+    "url": "https://github.com/apache/maka",
+    "score": 3936,
     "metadata": {
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "starsToday": 1918
+    },
+    "createdAt": "2026-08-29T08:45:01.028Z"
+  },
+  {
+    "id": "github-tashfeenahmed-freellmapi",
+    "source": "github",
+    "title": "tashfeenahmed / freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "score": 21786,
+    "metadata": {
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "starsToday": 2162
+    },
+    "createdAt": "2026-08-29T08:45:01.028Z"
+  },
+  {
+    "id": "github-modular-modular",
+    "source": "github",
+    "title": "modular / modular",
+    "url": "https://github.com/modular/modular",
+    "score": 29316,
+    "metadata": {
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "starsToday": 875
+    },
+    "createdAt": "2026-08-29T08:45:01.029Z"
+  },
+  {
+    "id": "github-cursor-plugins",
+    "source": "github",
+    "title": "cursor / plugins",
+    "url": "https://github.com/cursor/plugins",
+    "score": 6038,
+    "metadata": {
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "starsToday": 1594
+    },
+    "createdAt": "2026-08-29T08:45:01.029Z"
+  },
+  {
+    "id": "github-MadsLorentzen-ai-job-search",
+    "source": "github",
+    "title": "MadsLorentzen / ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "score": 37860,
+    "metadata": {
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "starsToday": 2985
+      "starsToday": 4828
     },
-    "createdAt": "2026-08-22T02:55:51.093Z"
+    "createdAt": "2026-08-29T08:45:01.029Z"
   },
   {
-    "id": "github-NVIDIA-NeMo-Switchyard",
+    "id": "github-tinyhumansai-openhuman",
     "source": "github",
-    "title": "NVIDIA-NeMo / Switchyard",
-    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-    "score": 2072,
+    "title": "tinyhumansai / openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "score": 38771,
     "metadata": {
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
-      "starsToday": 642
+      "starsToday": 2353
     },
-    "createdAt": "2026-08-22T02:55:51.093Z"
+    "createdAt": "2026-08-29T08:45:01.030Z"
   },
   {
-    "id": "github-akitaonrails-ai-memory",
+    "id": "github-anthropics-claude-plugins-official",
     "source": "github",
-    "title": "akitaonrails / ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "score": 3955,
+    "title": "anthropics / claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "score": 35142,
     "metadata": {
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "starsToday": 2404
-    },
-    "createdAt": "2026-08-22T02:55:51.094Z"
-  },
-  {
-    "id": "github-AlexsJones-llmfit",
-    "source": "github",
-    "title": "AlexsJones / llmfit",
-    "url": "https://github.com/AlexsJones/llmfit",
-    "score": 33455,
-    "metadata": {
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "starsToday": 1991
-    },
-    "createdAt": "2026-08-22T02:55:51.094Z"
-  },
-  {
-    "id": "github-unslothai-unsloth",
-    "source": "github",
-    "title": "unslothai / unsloth",
-    "url": "https://github.com/unslothai/unsloth",
-    "score": 74287,
-    "metadata": {
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "starsToday": 2987
+      "starsToday": 1281
     },
-    "createdAt": "2026-08-22T02:55:51.094Z"
+    "createdAt": "2026-08-29T08:45:01.030Z"
   },
   {
-    "id": "github-jundot-omlx",
+    "id": "github-VoltAgent-awesome-agent-skills",
     "source": "github",
-    "title": "jundot / omlx",
-    "url": "https://github.com/jundot/omlx",
-    "score": 20227,
+    "title": "VoltAgent / awesome-agent-skills",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "score": 33129,
     "metadata": {
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "language": "Python",
-      "starsToday": 1536
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "",
+      "starsToday": 2372
     },
-    "createdAt": "2026-08-22T02:55:51.094Z"
+    "createdAt": "2026-08-29T08:45:01.031Z"
+  },
+  {
+    "id": "github-PostHog-posthog",
+    "source": "github",
+    "title": "PostHog / posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "score": 39447,
+    "metadata": {
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "starsToday": 1270
+    },
+    "createdAt": "2026-08-29T08:45:01.031Z"
+  },
+  {
+    "id": "github-rohitg00-ai-engineering-from-scratch",
+    "source": "github",
+    "title": "rohitg00 / ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "score": 50740,
+    "metadata": {
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "starsToday": 3263
+    },
+    "createdAt": "2026-08-29T08:45:01.031Z"
+  },
+  {
+    "id": "github-Alishahryar1-free-claude-code",
+    "source": "github",
+    "title": "Alishahryar1 / free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "score": 51257,
+    "metadata": {
+      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "starsToday": 4769
+    },
+    "createdAt": "2026-08-29T08:45:01.031Z"
+  },
+  {
+    "id": "github-chaitanyagiri-munder-difflin",
+    "source": "github",
+    "title": "chaitanyagiri / munder-difflin",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "score": 5247,
+    "metadata": {
+      "description": "local multi-agent harness",
+      "language": "JavaScript",
+      "starsToday": 1853
+    },
+    "createdAt": "2026-08-29T08:45:01.032Z"
+  },
+  {
+    "id": "github-bookorbit-bookorbit",
+    "source": "github",
+    "title": "bookorbit / bookorbit",
+    "url": "https://github.com/bookorbit/bookorbit",
+    "score": 3559,
+    "metadata": {
+      "description": "BookOrbit: Your Reading Space",
+      "language": "TypeScript",
+      "starsToday": 806
+    },
+    "createdAt": "2026-08-29T08:45:01.032Z"
   }
 ]

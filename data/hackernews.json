@@ -1,379 +1,392 @@
 [
   {
-    "id": "hackernews-49389430",
+    "id": "hackernews-49487341",
     "source": "hackernews",
-    "title": "Felony Bench",
-    "url": "https://www.felonybench.com/",
-    "score": 557,
-    "metadata": {
-      "author": "colinprince",
-      "commentsCount": 230,
-      "hnUrl": "https://news.ycombinator.com/item?id=49389430"
-    },
-    "createdAt": "2026-08-21T15:17:04.000Z"
-  },
-  {
-    "id": "hackernews-49395628",
-    "source": "hackernews",
-    "title": "There's no reason for software to be slow anymore",
-    "url": "https://danluu.com/perf-opt/",
-    "score": 81,
-    "metadata": {
-      "author": "Jach",
-      "commentsCount": 83,
-      "hnUrl": "https://news.ycombinator.com/item?id=49395628"
-    },
-    "createdAt": "2026-08-22T01:06:17.000Z"
-  },
-  {
-    "id": "hackernews-49390427",
-    "source": "hackernews",
-    "title": "Kobo can run apps now",
-    "url": "https://bandarlabs.github.io/Cobalt/",
-    "score": 451,
-    "metadata": {
-      "author": "thepoet",
-      "commentsCount": 153,
-      "hnUrl": "https://news.ycombinator.com/item?id=49390427"
-    },
-    "createdAt": "2026-08-21T16:25:25.000Z"
-  },
-  {
-    "id": "hackernews-49393052",
-    "source": "hackernews",
-    "title": "Rust Glancer: Rust LSP using 100x less RAM",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "score": 49,
-    "metadata": {
-      "author": "matklad",
-      "commentsCount": 19,
-      "hnUrl": "https://news.ycombinator.com/item?id=49393052"
-    },
-    "createdAt": "2026-08-21T19:51:54.000Z"
-  },
-  {
-    "id": "hackernews-49395605",
-    "source": "hackernews",
-    "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-    "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-    "score": 23,
-    "metadata": {
-      "author": "Cider9986",
-      "commentsCount": 7,
-      "hnUrl": "https://news.ycombinator.com/item?id=49395605"
-    },
-    "createdAt": "2026-08-22T01:02:09.000Z"
-  },
-  {
-    "id": "hackernews-49394496",
-    "source": "hackernews",
-    "title": "Three important steps in my maturation process",
-    "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-    "score": 74,
-    "metadata": {
-      "author": "tdullien",
-      "commentsCount": 17,
-      "hnUrl": "https://news.ycombinator.com/item?id=49394496"
-    },
-    "createdAt": "2026-08-21T22:29:00.000Z"
-  },
-  {
-    "id": "hackernews-49392200",
-    "source": "hackernews",
-    "title": "Scientists release biggest 2D map of the universe",
-    "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-    "score": 157,
-    "metadata": {
-      "author": "NKosmatos",
-      "commentsCount": 50,
-      "hnUrl": "https://news.ycombinator.com/item?id=49392200"
-    },
-    "createdAt": "2026-08-21T18:36:34.000Z"
-  },
-  {
-    "id": "hackernews-49394827",
-    "source": "hackernews",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "url": "https://ozbrain.com",
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
     "score": 48,
     "metadata": {
-      "author": "dariusmonsef",
-      "commentsCount": 20,
-      "hnUrl": "https://news.ycombinator.com/item?id=49394827"
+      "author": "ingve",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=49487341"
     },
-    "createdAt": "2026-08-21T23:09:06.000Z"
+    "createdAt": "2026-08-29T06:06:51.000Z"
   },
   {
-    "id": "hackernews-49388154",
+    "id": "hackernews-49456819",
     "source": "hackernews",
-    "title": "Kagi added a setting for removing paywalled links from search results",
-    "url": "https://kagi.com/changelog#11296",
-    "score": 1028,
+    "title": "Europe's last regular standard-gauge steam passenger service",
+    "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+    "score": 21,
     "metadata": {
-      "author": "speckx",
-      "commentsCount": 346,
-      "hnUrl": "https://news.ycombinator.com/item?id=49388154"
+      "author": "GungulSurm",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=49456819"
     },
-    "createdAt": "2026-08-21T13:56:37.000Z"
+    "createdAt": "2026-08-26T22:32:00.000Z"
   },
   {
-    "id": "hackernews-49386895",
+    "id": "hackernews-49479837",
     "source": "hackernews",
-    "title": "Felony charges for citizen deleting phone data at US Border",
-    "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-    "score": 603,
+    "title": "GUIs should be fully keyboard-driven",
+    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "score": 776,
     "metadata": {
-      "author": "floathub",
-      "commentsCount": 771,
-      "hnUrl": "https://news.ycombinator.com/item?id=49386895"
+      "author": "ckardaris",
+      "commentsCount": 393,
+      "hnUrl": "https://news.ycombinator.com/item?id=49479837"
     },
-    "createdAt": "2026-08-21T12:10:13.000Z"
+    "createdAt": "2026-08-28T15:17:09.000Z"
   },
   {
-    "id": "hackernews-49387570",
+    "id": "hackernews-49485267",
     "source": "hackernews",
-    "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-    "url": "https://lina.sh/blog/hijacking-e164-arpa",
-    "score": 464,
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "score": 243,
     "metadata": {
-      "author": "gavide",
-      "commentsCount": 52,
-      "hnUrl": "https://news.ycombinator.com/item?id=49387570"
+      "author": "hentrep",
+      "commentsCount": 70,
+      "hnUrl": "https://news.ycombinator.com/item?id=49485267"
     },
-    "createdAt": "2026-08-21T13:11:28.000Z"
+    "createdAt": "2026-08-28T23:02:21.000Z"
   },
   {
-    "id": "hackernews-49391553",
+    "id": "hackernews-49486334",
     "source": "hackernews",
-    "title": "OTel isn't going well (and I made a spreadsheet about it)",
-    "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-    "score": 39,
+    "title": "TurboKV: Insanely fast Rust key-value store",
+    "url": "https://github.com/kingroryg/turbokv",
+    "score": 89,
     "metadata": {
-      "author": "hn_acker",
-      "commentsCount": 11,
-      "hnUrl": "https://news.ycombinator.com/item?id=49391553"
+      "author": "rgbimbochamp",
+      "commentsCount": 32,
+      "hnUrl": "https://news.ycombinator.com/item?id=49486334"
     },
-    "createdAt": "2026-08-21T17:45:41.000Z"
+    "createdAt": "2026-08-29T02:23:37.000Z"
   },
   {
-    "id": "hackernews-49327408",
+    "id": "hackernews-49478178",
     "source": "hackernews",
-    "title": "People of ACM – Russ Cox",
-    "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+    "title": "Htmx 4.0",
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "score": 640,
+    "metadata": {
+      "author": "rmsaksida",
+      "commentsCount": 160,
+      "hnUrl": "https://news.ycombinator.com/item?id=49478178"
+    },
+    "createdAt": "2026-08-28T13:28:56.000Z"
+  },
+  {
+    "id": "hackernews-49477854",
+    "source": "hackernews",
+    "title": "U.S. sanctions against the A/I Collective",
+    "url": "https://www.inventati.org/",
+    "score": 576,
+    "metadata": {
+      "author": "exiguus",
+      "commentsCount": 564,
+      "hnUrl": "https://news.ycombinator.com/item?id=49477854"
+    },
+    "createdAt": "2026-08-28T12:58:53.000Z"
+  },
+  {
+    "id": "hackernews-49487506",
+    "source": "hackernews",
+    "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+    "url": "https://github.com/paveluv/e",
+    "score": 13,
+    "metadata": {
+      "author": "p4bl0",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=49487506"
+    },
+    "createdAt": "2026-08-29T06:35:28.000Z"
+  },
+  {
+    "id": "hackernews-49485416",
+    "source": "hackernews",
+    "title": "I accidentally turned LLM memory into program analysis",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "score": 130,
+    "metadata": {
+      "author": "matt_d",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=49485416"
+    },
+    "createdAt": "2026-08-28T23:27:45.000Z"
+  },
+  {
+    "id": "hackernews-49485532",
+    "source": "hackernews",
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
     "score": 97,
     "metadata": {
-      "author": "signa11",
-      "commentsCount": 11,
-      "hnUrl": "https://news.ycombinator.com/item?id=49327408"
+      "author": "dev_l1x_be",
+      "commentsCount": 38,
+      "hnUrl": "https://news.ycombinator.com/item?id=49485532"
     },
-    "createdAt": "2026-08-17T07:12:15.000Z"
+    "createdAt": "2026-08-28T23:46:10.000Z"
   },
   {
-    "id": "hackernews-49357530",
+    "id": "hackernews-49480466",
     "source": "hackernews",
-    "title": "AI boosted homework scores, then exam scores dropped: study",
-    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "score": 247,
+    "title": "Just the rumour of a bug is enough to find an exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "score": 306,
     "metadata": {
-      "author": "dash2",
-      "commentsCount": 295,
-      "hnUrl": "https://news.ycombinator.com/item?id=49357530"
+      "author": "avsm",
+      "commentsCount": 109,
+      "hnUrl": "https://news.ycombinator.com/item?id=49480466"
     },
-    "createdAt": "2026-08-19T06:13:31.000Z"
+    "createdAt": "2026-08-28T15:58:46.000Z"
   },
   {
-    "id": "hackernews-49395171",
+    "id": "hackernews-49477564",
     "source": "hackernews",
-    "title": "HN: The Good Parts (2016)",
-    "url": "https://danluu.com/hn-comments/",
-    "score": 23,
+    "title": "Inception-style curved map for turn-by-turn directions",
+    "url": "https://www.orbify.eu/demo/",
+    "score": 495,
     "metadata": {
-      "author": "adletbalzhanov",
-      "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=49395171"
+      "author": "smoser",
+      "commentsCount": 167,
+      "hnUrl": "https://news.ycombinator.com/item?id=49477564"
     },
-    "createdAt": "2026-08-21T23:53:03.000Z"
+    "createdAt": "2026-08-28T12:29:05.000Z"
   },
   {
-    "id": "hackernews-49376197",
+    "id": "hackernews-49486081",
     "source": "hackernews",
-    "title": "Autolith: A programming agent with a live runtime",
-    "url": "https://www.lambda-symbolics.com/autolith",
-    "score": 30,
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "score": 84,
     "metadata": {
-      "author": "vismit2000",
-      "commentsCount": 8,
-      "hnUrl": "https://news.ycombinator.com/item?id=49376197"
+      "author": "thclpr",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=49486081"
     },
-    "createdAt": "2026-08-20T15:40:57.000Z"
+    "createdAt": "2026-08-29T01:24:13.000Z"
   },
   {
-    "id": "hackernews-49326852",
+    "id": "hackernews-49486172",
     "source": "hackernews",
-    "title": "Show HN: Rex, a parallel functional language for scientific workflows",
-    "url": "https://github.com/peterkelly/rex",
-    "score": 14,
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "score": 491,
     "metadata": {
-      "author": "peterkelly",
-      "commentsCount": 2,
-      "hnUrl": "https://news.ycombinator.com/item?id=49326852"
+      "author": "meetpateltech",
+      "commentsCount": 246,
+      "hnUrl": "https://news.ycombinator.com/item?id=49486172"
     },
-    "createdAt": "2026-08-17T05:28:07.000Z"
+    "createdAt": "2026-08-29T01:47:53.000Z"
   },
   {
-    "id": "hackernews-49376769",
+    "id": "hackernews-49487786",
     "source": "hackernews",
-    "title": "Everyone says assembly is untyped—everyone is wrong",
-    "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
-    "score": 49,
+    "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+    "url": "https://www.inventati.org/who/manifesto",
+    "score": 31,
     "metadata": {
-      "author": "adamrezich",
+      "author": "wise_blood",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=49487786"
+    },
+    "createdAt": "2026-08-29T07:38:31.000Z"
+  },
+  {
+    "id": "hackernews-49485452",
+    "source": "hackernews",
+    "title": "9th Circuit sides with states in Kalshi gambling fight",
+    "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+    "score": 124,
+    "metadata": {
+      "author": "hungryhobbit",
+      "commentsCount": 99,
+      "hnUrl": "https://news.ycombinator.com/item?id=49485452"
+    },
+    "createdAt": "2026-08-28T23:32:22.000Z"
+  },
+  {
+    "id": "hackernews-49486176",
+    "source": "hackernews",
+    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+    "url": "https://www.kumander.org/",
+    "score": 47,
+    "metadata": {
+      "author": "linuxkernal",
+      "commentsCount": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=49486176"
+    },
+    "createdAt": "2026-08-29T01:48:15.000Z"
+  },
+  {
+    "id": "hackernews-49417298",
+    "source": "hackernews",
+    "title": "Monzo Stand-In",
+    "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+    "score": 69,
+    "metadata": {
+      "author": "coffeefuel",
       "commentsCount": 15,
-      "hnUrl": "https://news.ycombinator.com/item?id=49376769"
+      "hnUrl": "https://news.ycombinator.com/item?id=49417298"
     },
-    "createdAt": "2026-08-20T16:22:58.000Z"
+    "createdAt": "2026-08-24T09:30:09.000Z"
   },
   {
-    "id": "hackernews-49389952",
+    "id": "hackernews-49419409",
     "source": "hackernews",
-    "title": "How we made a text-to-speech model respond in sub-50 ms",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "score": 111,
+    "title": "Experiments with Plotter Art",
+    "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+    "score": 47,
     "metadata": {
-      "author": "toebee",
-      "commentsCount": 28,
-      "hnUrl": "https://news.ycombinator.com/item?id=49389952"
+      "author": "surprisetalk",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49419409"
     },
-    "createdAt": "2026-08-21T15:51:10.000Z"
+    "createdAt": "2026-08-24T13:21:56.000Z"
   },
   {
-    "id": "hackernews-49380303",
+    "id": "hackernews-49422397",
     "source": "hackernews",
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "score": 53,
+    "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+    "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+    "score": 11,
+    "metadata": {
+      "author": "samizdis",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=49422397"
+    },
+    "createdAt": "2026-08-24T16:41:26.000Z"
+  },
+  {
+    "id": "hackernews-49428343",
+    "source": "hackernews",
+    "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
+    "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
+    "score": 15,
     "metadata": {
       "author": "gmays",
-      "commentsCount": 18,
-      "hnUrl": "https://news.ycombinator.com/item?id=49380303"
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=49428343"
     },
-    "createdAt": "2026-08-20T21:08:36.000Z"
+    "createdAt": "2026-08-25T02:17:19.000Z"
   },
   {
-    "id": "hackernews-49388752",
+    "id": "hackernews-49422743",
     "source": "hackernews",
-    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "score": 211,
+    "title": "Curvature Beziers: Improving on a timeless recipe",
+    "url": "https://acko.net/blog/curvature-beziers/",
+    "score": 114,
     "metadata": {
-      "author": "aakil",
-      "commentsCount": 150,
-      "hnUrl": "https://news.ycombinator.com/item?id=49388752"
+      "author": "leephillips",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=49422743"
     },
-    "createdAt": "2026-08-21T14:31:52.000Z"
+    "createdAt": "2026-08-24T17:03:12.000Z"
   },
   {
-    "id": "hackernews-49387525",
+    "id": "hackernews-49472216",
     "source": "hackernews",
-    "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-    "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-    "score": 210,
+    "title": "The Twelve-Factor App (2025)",
+    "url": "https://12factor.net/",
+    "score": 266,
+    "metadata": {
+      "author": "jxmorris12",
+      "commentsCount": 148,
+      "hnUrl": "https://news.ycombinator.com/item?id=49472216"
+    },
+    "createdAt": "2026-08-27T22:41:11.000Z"
+  },
+  {
+    "id": "hackernews-49479878",
+    "source": "hackernews",
+    "title": "GLM-5.3 is now open-weight",
+    "url": "https://huggingface.co/zai-org/GLM-5.3",
+    "score": 684,
+    "metadata": {
+      "author": "jeudesprits",
+      "commentsCount": 228,
+      "hnUrl": "https://news.ycombinator.com/item?id=49479878"
+    },
+    "createdAt": "2026-08-28T15:20:13.000Z"
+  },
+  {
+    "id": "hackernews-49479924",
+    "source": "hackernews",
+    "title": "EasyEffects can improve laptop speaker sound quality",
+    "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+    "score": 144,
+    "metadata": {
+      "author": "birdculture",
+      "commentsCount": 53,
+      "hnUrl": "https://news.ycombinator.com/item?id=49479924"
+    },
+    "createdAt": "2026-08-28T15:23:10.000Z"
+  },
+  {
+    "id": "hackernews-49479072",
+    "source": "hackernews",
+    "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+    "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+    "score": 129,
     "metadata": {
       "author": "speckx",
-      "commentsCount": 154,
-      "hnUrl": "https://news.ycombinator.com/item?id=49387525"
+      "commentsCount": 87,
+      "hnUrl": "https://news.ycombinator.com/item?id=49479072"
     },
-    "createdAt": "2026-08-21T13:07:26.000Z"
+    "createdAt": "2026-08-28T14:30:33.000Z"
   },
   {
-    "id": "hackernews-49374853",
+    "id": "hackernews-49443783",
     "source": "hackernews",
-    "title": "A look under our trunk: what's in our compute",
-    "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+    "title": "Visual Analysis of Binary Files",
+    "url": "https://binvis.io/#/",
+    "score": 81,
+    "metadata": {
+      "author": "vismit2000",
+      "commentsCount": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=49443783"
+    },
+    "createdAt": "2026-08-26T03:11:13.000Z"
+  },
+  {
+    "id": "hackernews-49481455",
+    "source": "hackernews",
+    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+    "url": "https://arxiv.org/abs/2608.23691",
     "score": 101,
     "metadata": {
-      "author": "ra7",
-      "commentsCount": 56,
-      "hnUrl": "https://news.ycombinator.com/item?id=49374853"
+      "author": "stephenchung",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=49481455"
     },
-    "createdAt": "2026-08-20T14:13:45.000Z"
+    "createdAt": "2026-08-28T17:01:12.000Z"
   },
   {
-    "id": "hackernews-49389441",
+    "id": "hackernews-49418813",
     "source": "hackernews",
-    "title": "I ran Photoshop on a £0.60 computer chip",
-    "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-    "score": 120,
+    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+    "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+    "score": 35,
     "metadata": {
-      "author": "colinprince",
-      "commentsCount": 33,
-      "hnUrl": "https://news.ycombinator.com/item?id=49389441"
+      "author": "rbanffy",
+      "commentsCount": 14,
+      "hnUrl": "https://news.ycombinator.com/item?id=49418813"
     },
-    "createdAt": "2026-08-21T15:17:47.000Z"
+    "createdAt": "2026-08-24T12:30:57.000Z"
   },
   {
-    "id": "hackernews-49395663",
+    "id": "hackernews-49477212",
     "source": "hackernews",
-    "title": "US Debt-to-GDP Ratio",
-    "url": "https://www.us-debt-clock.com/debt-to-gdp",
-    "score": 10,
+    "title": "Migrating to HTTPX2",
+    "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+    "score": 195,
     "metadata": {
-      "author": "NordStreamYacht",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=49395663"
+      "author": "tosh",
+      "commentsCount": 86,
+      "hnUrl": "https://news.ycombinator.com/item?id=49477212"
     },
-    "createdAt": "2026-08-22T01:18:08.000Z"
-  },
-  {
-    "id": "hackernews-49392465",
-    "source": "hackernews",
-    "title": "Tumble Forth – from assembly to OS with C compiler (2023)",
-    "url": "https://tumbleforth.hardcoded.net/",
-    "score": 62,
-    "metadata": {
-      "author": "vicek22",
-      "commentsCount": 8,
-      "hnUrl": "https://news.ycombinator.com/item?id=49392465"
-    },
-    "createdAt": "2026-08-21T18:59:52.000Z"
-  },
-  {
-    "id": "hackernews-49379026",
-    "source": "hackernews",
-    "title": "GitHub, autoscaling, and the component substitution fallacy",
-    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "score": 34,
-    "metadata": {
-      "author": "jonemi",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=49379026"
-    },
-    "createdAt": "2026-08-20T19:28:18.000Z"
-  },
-  {
-    "id": "hackernews-49386699",
-    "source": "hackernews",
-    "title": "I'm becoming AI-blind",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "score": 283,
-    "metadata": {
-      "author": "rcymerys",
-      "commentsCount": 301,
-      "hnUrl": "https://news.ycombinator.com/item?id=49386699"
-    },
-    "createdAt": "2026-08-21T11:48:05.000Z"
-  },
-  {
-    "id": "hackernews-49346444",
-    "source": "hackernews",
-    "title": "The coolest anti-surveillance tools at Defcon [video]",
-    "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-    "score": 165,
-    "metadata": {
-      "author": "neom",
-      "commentsCount": 12,
-      "hnUrl": "https://news.ycombinator.com/item?id=49346444"
-    },
-    "createdAt": "2026-08-18T14:49:19.000Z"
+    "createdAt": "2026-08-28T11:51:20.000Z"
   }
 ]

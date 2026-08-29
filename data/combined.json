@@ -1,5 +1,642 @@
 [
   {
+    "id": "github-chaitanyagiri-munder-difflin",
+    "source": "github",
+    "title": "chaitanyagiri / munder-difflin",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "score": 5247,
+    "metadata": {
+      "description": "local multi-agent harness",
+      "language": "JavaScript",
+      "starsToday": 1853
+    },
+    "createdAt": "2026-08-29T08:45:01.032Z"
+  },
+  {
+    "id": "github-bookorbit-bookorbit",
+    "source": "github",
+    "title": "bookorbit / bookorbit",
+    "url": "https://github.com/bookorbit/bookorbit",
+    "score": 3559,
+    "metadata": {
+      "description": "BookOrbit: Your Reading Space",
+      "language": "TypeScript",
+      "starsToday": 806
+    },
+    "createdAt": "2026-08-29T08:45:01.032Z"
+  },
+  {
+    "id": "github-rohitg00-ai-engineering-from-scratch",
+    "source": "github",
+    "title": "rohitg00 / ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "score": 50740,
+    "metadata": {
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "starsToday": 3263
+    },
+    "createdAt": "2026-08-29T08:45:01.031Z"
+  },
+  {
+    "id": "github-VoltAgent-awesome-agent-skills",
+    "source": "github",
+    "title": "VoltAgent / awesome-agent-skills",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "score": 33129,
+    "metadata": {
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "",
+      "starsToday": 2372
+    },
+    "createdAt": "2026-08-29T08:45:01.031Z"
+  },
+  {
+    "id": "github-PostHog-posthog",
+    "source": "github",
+    "title": "PostHog / posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "score": 39447,
+    "metadata": {
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "language": "Python",
+      "starsToday": 1270
+    },
+    "createdAt": "2026-08-29T08:45:01.031Z"
+  },
+  {
+    "id": "github-Alishahryar1-free-claude-code",
+    "source": "github",
+    "title": "Alishahryar1 / free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "score": 51257,
+    "metadata": {
+      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "starsToday": 4769
+    },
+    "createdAt": "2026-08-29T08:45:01.031Z"
+  },
+  {
+    "id": "github-tinyhumansai-openhuman",
+    "source": "github",
+    "title": "tinyhumansai / openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "score": 38771,
+    "metadata": {
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "language": "Rust",
+      "starsToday": 2353
+    },
+    "createdAt": "2026-08-29T08:45:01.030Z"
+  },
+  {
+    "id": "github-anthropics-claude-plugins-official",
+    "source": "github",
+    "title": "anthropics / claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "score": 35142,
+    "metadata": {
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "starsToday": 1281
+    },
+    "createdAt": "2026-08-29T08:45:01.030Z"
+  },
+  {
+    "id": "github-modular-modular",
+    "source": "github",
+    "title": "modular / modular",
+    "url": "https://github.com/modular/modular",
+    "score": 29316,
+    "metadata": {
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "starsToday": 875
+    },
+    "createdAt": "2026-08-29T08:45:01.029Z"
+  },
+  {
+    "id": "github-cursor-plugins",
+    "source": "github",
+    "title": "cursor / plugins",
+    "url": "https://github.com/cursor/plugins",
+    "score": 6038,
+    "metadata": {
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "starsToday": 1594
+    },
+    "createdAt": "2026-08-29T08:45:01.029Z"
+  },
+  {
+    "id": "github-MadsLorentzen-ai-job-search",
+    "source": "github",
+    "title": "MadsLorentzen / ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "score": 37860,
+    "metadata": {
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "language": "Python",
+      "starsToday": 4828
+    },
+    "createdAt": "2026-08-29T08:45:01.029Z"
+  },
+  {
+    "id": "github-apache-maka",
+    "source": "github",
+    "title": "apache / maka",
+    "url": "https://github.com/apache/maka",
+    "score": 3936,
+    "metadata": {
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "language": "TypeScript",
+      "starsToday": 1918
+    },
+    "createdAt": "2026-08-29T08:45:01.028Z"
+  },
+  {
+    "id": "github-tashfeenahmed-freellmapi",
+    "source": "github",
+    "title": "tashfeenahmed / freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "score": 21786,
+    "metadata": {
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "starsToday": 2162
+    },
+    "createdAt": "2026-08-29T08:45:01.028Z"
+  },
+  {
+    "id": "github-AprilNEA-OpenLogi",
+    "source": "github",
+    "title": "AprilNEA / OpenLogi",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "score": 17484,
+    "metadata": {
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "starsToday": 4825
+    },
+    "createdAt": "2026-08-29T08:45:01.027Z"
+  },
+  {
+    "id": "github-tt-a1i-archify",
+    "source": "github",
+    "title": "tt-a1i / archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "score": 28753,
+    "metadata": {
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "starsToday": 11099
+    },
+    "createdAt": "2026-08-29T08:45:01.026Z"
+  },
+  {
+    "id": "github-openai-codex",
+    "source": "github",
+    "title": "openai / codex",
+    "url": "https://github.com/openai/codex",
+    "score": 119662,
+    "metadata": {
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "starsToday": 9109
+    },
+    "createdAt": "2026-08-29T08:45:01.026Z"
+  },
+  {
+    "id": "github-basecamp-omarchy",
+    "source": "github",
+    "title": "basecamp / omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "score": 33938,
+    "metadata": {
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "starsToday": 5942
+    },
+    "createdAt": "2026-08-29T08:45:01.025Z"
+  },
+  {
+    "id": "github-freestylefly-awesome-gpt-image-2",
+    "source": "github",
+    "title": "freestylefly / awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "score": 24538,
+    "metadata": {
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "starsToday": 12877
+    },
+    "createdAt": "2026-08-29T08:45:01.025Z"
+  },
+  {
+    "id": "github-anthropics-claude-plugins-community",
+    "source": "github",
+    "title": "anthropics / claude-plugins-community",
+    "url": "https://github.com/anthropics/claude-plugins-community",
+    "score": 2644,
+    "metadata": {
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "starsToday": 2207
+    },
+    "createdAt": "2026-08-29T08:45:01.024Z"
+  },
+  {
+    "id": "hackernews-49487786",
+    "source": "hackernews",
+    "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+    "url": "https://www.inventati.org/who/manifesto",
+    "score": 31,
+    "metadata": {
+      "author": "wise_blood",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=49487786"
+    },
+    "createdAt": "2026-08-29T07:38:31.000Z"
+  },
+  {
+    "id": "hackernews-49487506",
+    "source": "hackernews",
+    "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+    "url": "https://github.com/paveluv/e",
+    "score": 13,
+    "metadata": {
+      "author": "p4bl0",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=49487506"
+    },
+    "createdAt": "2026-08-29T06:35:28.000Z"
+  },
+  {
+    "id": "hackernews-49487341",
+    "source": "hackernews",
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "score": 48,
+    "metadata": {
+      "author": "ingve",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=49487341"
+    },
+    "createdAt": "2026-08-29T06:06:51.000Z"
+  },
+  {
+    "id": "hackernews-49486334",
+    "source": "hackernews",
+    "title": "TurboKV: Insanely fast Rust key-value store",
+    "url": "https://github.com/kingroryg/turbokv",
+    "score": 89,
+    "metadata": {
+      "author": "rgbimbochamp",
+      "commentsCount": 32,
+      "hnUrl": "https://news.ycombinator.com/item?id=49486334"
+    },
+    "createdAt": "2026-08-29T02:23:37.000Z"
+  },
+  {
+    "id": "hackernews-49486176",
+    "source": "hackernews",
+    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+    "url": "https://www.kumander.org/",
+    "score": 47,
+    "metadata": {
+      "author": "linuxkernal",
+      "commentsCount": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=49486176"
+    },
+    "createdAt": "2026-08-29T01:48:15.000Z"
+  },
+  {
+    "id": "hackernews-49486172",
+    "source": "hackernews",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "score": 491,
+    "metadata": {
+      "author": "meetpateltech",
+      "commentsCount": 246,
+      "hnUrl": "https://news.ycombinator.com/item?id=49486172"
+    },
+    "createdAt": "2026-08-29T01:47:53.000Z"
+  },
+  {
+    "id": "hackernews-49486081",
+    "source": "hackernews",
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "score": 84,
+    "metadata": {
+      "author": "thclpr",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=49486081"
+    },
+    "createdAt": "2026-08-29T01:24:13.000Z"
+  },
+  {
+    "id": "hackernews-49485532",
+    "source": "hackernews",
+    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+    "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+    "score": 97,
+    "metadata": {
+      "author": "dev_l1x_be",
+      "commentsCount": 38,
+      "hnUrl": "https://news.ycombinator.com/item?id=49485532"
+    },
+    "createdAt": "2026-08-28T23:46:10.000Z"
+  },
+  {
+    "id": "hackernews-49485452",
+    "source": "hackernews",
+    "title": "9th Circuit sides with states in Kalshi gambling fight",
+    "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+    "score": 124,
+    "metadata": {
+      "author": "hungryhobbit",
+      "commentsCount": 99,
+      "hnUrl": "https://news.ycombinator.com/item?id=49485452"
+    },
+    "createdAt": "2026-08-28T23:32:22.000Z"
+  },
+  {
+    "id": "hackernews-49485416",
+    "source": "hackernews",
+    "title": "I accidentally turned LLM memory into program analysis",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "score": 130,
+    "metadata": {
+      "author": "matt_d",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=49485416"
+    },
+    "createdAt": "2026-08-28T23:27:45.000Z"
+  },
+  {
+    "id": "hackernews-49485267",
+    "source": "hackernews",
+    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "score": 243,
+    "metadata": {
+      "author": "hentrep",
+      "commentsCount": 70,
+      "hnUrl": "https://news.ycombinator.com/item?id=49485267"
+    },
+    "createdAt": "2026-08-28T23:02:21.000Z"
+  },
+  {
+    "id": "hackernews-49481455",
+    "source": "hackernews",
+    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+    "url": "https://arxiv.org/abs/2608.23691",
+    "score": 101,
+    "metadata": {
+      "author": "stephenchung",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=49481455"
+    },
+    "createdAt": "2026-08-28T17:01:12.000Z"
+  },
+  {
+    "id": "hackernews-49480466",
+    "source": "hackernews",
+    "title": "Just the rumour of a bug is enough to find an exploit these days",
+    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+    "score": 306,
+    "metadata": {
+      "author": "avsm",
+      "commentsCount": 109,
+      "hnUrl": "https://news.ycombinator.com/item?id=49480466"
+    },
+    "createdAt": "2026-08-28T15:58:46.000Z"
+  },
+  {
+    "id": "hackernews-49479924",
+    "source": "hackernews",
+    "title": "EasyEffects can improve laptop speaker sound quality",
+    "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+    "score": 144,
+    "metadata": {
+      "author": "birdculture",
+      "commentsCount": 53,
+      "hnUrl": "https://news.ycombinator.com/item?id=49479924"
+    },
+    "createdAt": "2026-08-28T15:23:10.000Z"
+  },
+  {
+    "id": "hackernews-49479878",
+    "source": "hackernews",
+    "title": "GLM-5.3 is now open-weight",
+    "url": "https://huggingface.co/zai-org/GLM-5.3",
+    "score": 684,
+    "metadata": {
+      "author": "jeudesprits",
+      "commentsCount": 228,
+      "hnUrl": "https://news.ycombinator.com/item?id=49479878"
+    },
+    "createdAt": "2026-08-28T15:20:13.000Z"
+  },
+  {
+    "id": "hackernews-49479837",
+    "source": "hackernews",
+    "title": "GUIs should be fully keyboard-driven",
+    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+    "score": 776,
+    "metadata": {
+      "author": "ckardaris",
+      "commentsCount": 393,
+      "hnUrl": "https://news.ycombinator.com/item?id=49479837"
+    },
+    "createdAt": "2026-08-28T15:17:09.000Z"
+  },
+  {
+    "id": "hackernews-49479072",
+    "source": "hackernews",
+    "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+    "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+    "score": 129,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 87,
+      "hnUrl": "https://news.ycombinator.com/item?id=49479072"
+    },
+    "createdAt": "2026-08-28T14:30:33.000Z"
+  },
+  {
+    "id": "hackernews-49478178",
+    "source": "hackernews",
+    "title": "Htmx 4.0",
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "score": 640,
+    "metadata": {
+      "author": "rmsaksida",
+      "commentsCount": 160,
+      "hnUrl": "https://news.ycombinator.com/item?id=49478178"
+    },
+    "createdAt": "2026-08-28T13:28:56.000Z"
+  },
+  {
+    "id": "hackernews-49477854",
+    "source": "hackernews",
+    "title": "U.S. sanctions against the A/I Collective",
+    "url": "https://www.inventati.org/",
+    "score": 576,
+    "metadata": {
+      "author": "exiguus",
+      "commentsCount": 564,
+      "hnUrl": "https://news.ycombinator.com/item?id=49477854"
+    },
+    "createdAt": "2026-08-28T12:58:53.000Z"
+  },
+  {
+    "id": "hackernews-49477564",
+    "source": "hackernews",
+    "title": "Inception-style curved map for turn-by-turn directions",
+    "url": "https://www.orbify.eu/demo/",
+    "score": 495,
+    "metadata": {
+      "author": "smoser",
+      "commentsCount": 167,
+      "hnUrl": "https://news.ycombinator.com/item?id=49477564"
+    },
+    "createdAt": "2026-08-28T12:29:05.000Z"
+  },
+  {
+    "id": "hackernews-49477212",
+    "source": "hackernews",
+    "title": "Migrating to HTTPX2",
+    "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+    "score": 195,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 86,
+      "hnUrl": "https://news.ycombinator.com/item?id=49477212"
+    },
+    "createdAt": "2026-08-28T11:51:20.000Z"
+  },
+  {
+    "id": "hackernews-49472216",
+    "source": "hackernews",
+    "title": "The Twelve-Factor App (2025)",
+    "url": "https://12factor.net/",
+    "score": 266,
+    "metadata": {
+      "author": "jxmorris12",
+      "commentsCount": 148,
+      "hnUrl": "https://news.ycombinator.com/item?id=49472216"
+    },
+    "createdAt": "2026-08-27T22:41:11.000Z"
+  },
+  {
+    "id": "hackernews-49456819",
+    "source": "hackernews",
+    "title": "Europe's last regular standard-gauge steam passenger service",
+    "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+    "score": 21,
+    "metadata": {
+      "author": "GungulSurm",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=49456819"
+    },
+    "createdAt": "2026-08-26T22:32:00.000Z"
+  },
+  {
+    "id": "hackernews-49443783",
+    "source": "hackernews",
+    "title": "Visual Analysis of Binary Files",
+    "url": "https://binvis.io/#/",
+    "score": 81,
+    "metadata": {
+      "author": "vismit2000",
+      "commentsCount": 22,
+      "hnUrl": "https://news.ycombinator.com/item?id=49443783"
+    },
+    "createdAt": "2026-08-26T03:11:13.000Z"
+  },
+  {
+    "id": "hackernews-49428343",
+    "source": "hackernews",
+    "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
+    "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
+    "score": 15,
+    "metadata": {
+      "author": "gmays",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=49428343"
+    },
+    "createdAt": "2026-08-25T02:17:19.000Z"
+  },
+  {
+    "id": "hackernews-49422743",
+    "source": "hackernews",
+    "title": "Curvature Beziers: Improving on a timeless recipe",
+    "url": "https://acko.net/blog/curvature-beziers/",
+    "score": 114,
+    "metadata": {
+      "author": "leephillips",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=49422743"
+    },
+    "createdAt": "2026-08-24T17:03:12.000Z"
+  },
+  {
+    "id": "hackernews-49422397",
+    "source": "hackernews",
+    "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+    "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+    "score": 11,
+    "metadata": {
+      "author": "samizdis",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=49422397"
+    },
+    "createdAt": "2026-08-24T16:41:26.000Z"
+  },
+  {
+    "id": "hackernews-49419409",
+    "source": "hackernews",
+    "title": "Experiments with Plotter Art",
+    "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+    "score": 47,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49419409"
+    },
+    "createdAt": "2026-08-24T13:21:56.000Z"
+  },
+  {
+    "id": "hackernews-49418813",
+    "source": "hackernews",
+    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+    "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+    "score": 35,
+    "metadata": {
+      "author": "rbanffy",
+      "commentsCount": 14,
+      "hnUrl": "https://news.ycombinator.com/item?id=49418813"
+    },
+    "createdAt": "2026-08-24T12:30:57.000Z"
+  },
+  {
+    "id": "hackernews-49417298",
+    "source": "hackernews",
+    "title": "Monzo Stand-In",
+    "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+    "score": 69,
+    "metadata": {
+      "author": "coffeefuel",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=49417298"
+    },
+    "createdAt": "2026-08-24T09:30:09.000Z"
+  },
+  {
     "id": "github-akitaonrails-ai-memory",
     "source": "github",
     "title": "akitaonrails / ai-memory",
@@ -78,19 +715,6 @@
     "createdAt": "2026-08-22T02:55:51.093Z"
   },
   {
-    "id": "github-AprilNEA-OpenLogi",
-    "source": "github",
-    "title": "AprilNEA / OpenLogi",
-    "url": "https://github.com/AprilNEA/OpenLogi",
-    "score": 13021,
-    "metadata": {
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "starsToday": 4054
-    },
-    "createdAt": "2026-08-22T02:55:51.093Z"
-  },
-  {
     "id": "github-semantica-agi-semantica",
     "source": "github",
     "title": "semantica-agi / semantica",
@@ -128,45 +752,6 @@
       "starsToday": 10990
     },
     "createdAt": "2026-08-22T02:55:51.092Z"
-  },
-  {
-    "id": "github-basecamp-omarchy",
-    "source": "github",
-    "title": "basecamp / omarchy",
-    "url": "https://github.com/basecamp/omarchy",
-    "score": 27584,
-    "metadata": {
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "starsToday": 2565
-    },
-    "createdAt": "2026-08-22T02:55:51.091Z"
-  },
-  {
-    "id": "github-modular-modular",
-    "source": "github",
-    "title": "modular / modular",
-    "url": "https://github.com/modular/modular",
-    "score": 28700,
-    "metadata": {
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "starsToday": 1643
-    },
-    "createdAt": "2026-08-22T02:55:51.091Z"
-  },
-  {
-    "id": "github-cursor-plugins",
-    "source": "github",
-    "title": "cursor / plugins",
-    "url": "https://github.com/cursor/plugins",
-    "score": 4426,
-    "metadata": {
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "starsToday": 1582
-    },
-    "createdAt": "2026-08-22T02:55:51.090Z"
   },
   {
     "id": "github-volcengine-OpenViking",
@@ -2405,19 +2990,6 @@
     "createdAt": "2026-07-25T05:17:35.327Z"
   },
   {
-    "id": "github-rohitg00-ai-engineering-from-scratch",
-    "source": "github",
-    "title": "rohitg00 / ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "score": 43229,
-    "metadata": {
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "starsToday": 4399
-    },
-    "createdAt": "2026-07-25T05:17:35.327Z"
-  },
-  {
     "id": "github-MoonshotAI-kimi-cli",
     "source": "github",
     "title": "MoonshotAI / kimi-cli",
@@ -3508,19 +4080,6 @@
       "starsToday": 914
     },
     "createdAt": "2026-07-11T05:16:07.391Z"
-  },
-  {
-    "id": "github-tt-a1i-archify",
-    "source": "github",
-    "title": "tt-a1i / archify",
-    "url": "https://github.com/tt-a1i/archify",
-    "score": 3486,
-    "metadata": {
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "language": "JavaScript",
-      "starsToday": 1019
-    },
-    "createdAt": "2026-07-11T05:16:07.390Z"
   },
   {
     "id": "github-huggingface-speech-to-speech",
