@@ -1,249 +1,262 @@
 [
   {
-    "id": "github-anthropics-claude-plugins-community",
-    "source": "github",
-    "title": "anthropics / claude-plugins-community",
-    "url": "https://github.com/anthropics/claude-plugins-community",
-    "score": 2644,
-    "metadata": {
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "language": "Python",
-      "starsToday": 2207
-    },
-    "createdAt": "2026-08-29T08:45:01.024Z"
-  },
-  {
-    "id": "github-freestylefly-awesome-gpt-image-2",
-    "source": "github",
-    "title": "freestylefly / awesome-gpt-image-2",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "score": 24538,
-    "metadata": {
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "language": "JavaScript",
-      "starsToday": 12877
-    },
-    "createdAt": "2026-08-29T08:45:01.025Z"
-  },
-  {
-    "id": "github-basecamp-omarchy",
-    "source": "github",
-    "title": "basecamp / omarchy",
-    "url": "https://github.com/basecamp/omarchy",
-    "score": 33938,
-    "metadata": {
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "starsToday": 5942
-    },
-    "createdAt": "2026-08-29T08:45:01.025Z"
-  },
-  {
-    "id": "github-openai-codex",
-    "source": "github",
-    "title": "openai / codex",
-    "url": "https://github.com/openai/codex",
-    "score": 119662,
-    "metadata": {
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "starsToday": 9109
-    },
-    "createdAt": "2026-08-29T08:45:01.026Z"
-  },
-  {
     "id": "github-tt-a1i-archify",
     "source": "github",
     "title": "tt-a1i / archify",
     "url": "https://github.com/tt-a1i/archify",
-    "score": 28753,
+    "score": 48461,
     "metadata": {
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "starsToday": 11099
+      "starsToday": 21896
     },
-    "createdAt": "2026-08-29T08:45:01.026Z"
+    "createdAt": "2026-09-05T06:46:50.368Z"
   },
   {
-    "id": "github-AprilNEA-OpenLogi",
+    "id": "github-THU-MAIC-OpenMAIC",
     "source": "github",
-    "title": "AprilNEA / OpenLogi",
-    "url": "https://github.com/AprilNEA/OpenLogi",
-    "score": 17484,
+    "title": "THU-MAIC / OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "score": 31611,
     "metadata": {
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "starsToday": 4825
-    },
-    "createdAt": "2026-08-29T08:45:01.027Z"
-  },
-  {
-    "id": "github-apache-maka",
-    "source": "github",
-    "title": "apache / maka",
-    "url": "https://github.com/apache/maka",
-    "score": 3936,
-    "metadata": {
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "starsToday": 1918
+      "starsToday": 10274
     },
-    "createdAt": "2026-08-29T08:45:01.028Z"
+    "createdAt": "2026-09-05T06:46:50.369Z"
   },
   {
-    "id": "github-tashfeenahmed-freellmapi",
+    "id": "github-bilawalsidhu-gods-eye-view",
     "source": "github",
-    "title": "tashfeenahmed / freellmapi",
-    "url": "https://github.com/tashfeenahmed/freellmapi",
-    "score": 21786,
+    "title": "bilawalsidhu / gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "score": 17642,
     "metadata": {
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "starsToday": 7314
+    },
+    "createdAt": "2026-09-05T06:46:50.369Z"
+  },
+  {
+    "id": "github-Gitlawb-openclaude",
+    "source": "github",
+    "title": "Gitlawb / openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "score": 32619,
+    "metadata": {
+      "description": "runs anywhere. uses anything",
       "language": "TypeScript",
-      "starsToday": 2162
+      "starsToday": 1679
     },
-    "createdAt": "2026-08-29T08:45:01.028Z"
+    "createdAt": "2026-09-05T06:46:50.370Z"
   },
   {
-    "id": "github-modular-modular",
+    "id": "github-google-research-timesfm",
     "source": "github",
-    "title": "modular / modular",
-    "url": "https://github.com/modular/modular",
-    "score": 29316,
+    "title": "google-research / timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "score": 31132,
     "metadata": {
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "starsToday": 875
-    },
-    "createdAt": "2026-08-29T08:45:01.029Z"
-  },
-  {
-    "id": "github-cursor-plugins",
-    "source": "github",
-    "title": "cursor / plugins",
-    "url": "https://github.com/cursor/plugins",
-    "score": 6038,
-    "metadata": {
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "starsToday": 1594
-    },
-    "createdAt": "2026-08-29T08:45:01.029Z"
-  },
-  {
-    "id": "github-MadsLorentzen-ai-job-search",
-    "source": "github",
-    "title": "MadsLorentzen / ai-job-search",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "score": 37860,
-    "metadata": {
-      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "starsToday": 4828
+      "starsToday": 2653
     },
-    "createdAt": "2026-08-29T08:45:01.029Z"
+    "createdAt": "2026-09-05T06:46:50.370Z"
   },
   {
-    "id": "github-tinyhumansai-openhuman",
+    "id": "github-jingyaogong-minimind",
     "source": "github",
-    "title": "tinyhumansai / openhuman",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "score": 38771,
+    "title": "jingyaogong / minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "score": 58604,
     "metadata": {
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "language": "Rust",
-      "starsToday": 2353
-    },
-    "createdAt": "2026-08-29T08:45:01.030Z"
-  },
-  {
-    "id": "github-anthropics-claude-plugins-official",
-    "source": "github",
-    "title": "anthropics / claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "score": 35142,
-    "metadata": {
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
-      "starsToday": 1281
+      "starsToday": 3390
     },
-    "createdAt": "2026-08-29T08:45:01.030Z"
+    "createdAt": "2026-09-05T06:46:50.370Z"
   },
   {
-    "id": "github-VoltAgent-awesome-agent-skills",
+    "id": "github-K-Dense-AI-scientific-agent-skills",
     "source": "github",
-    "title": "VoltAgent / awesome-agent-skills",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills",
-    "score": 33129,
+    "title": "K-Dense-AI / scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "score": 42710,
     "metadata": {
-      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "starsToday": 6898
+    },
+    "createdAt": "2026-09-05T06:46:50.371Z"
+  },
+  {
+    "id": "github-Lakr233-vphone-cli",
+    "source": "github",
+    "title": "Lakr233 / vphone-cli",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "score": 10579,
+    "metadata": {
+      "description": "",
+      "language": "Swift",
+      "starsToday": 1982
+    },
+    "createdAt": "2026-09-05T06:46:50.371Z"
+  },
+  {
+    "id": "github-fmtlib-fmt",
+    "source": "github",
+    "title": "fmtlib / fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "score": 25501,
+    "metadata": {
+      "description": "A modern formatting library",
+      "language": "C++",
+      "starsToday": 1671
+    },
+    "createdAt": "2026-09-05T06:46:50.372Z"
+  },
+  {
+    "id": "github-every-app-open-seo",
+    "source": "github",
+    "title": "every-app / open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "score": 17088,
+    "metadata": {
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "starsToday": 2950
+    },
+    "createdAt": "2026-09-05T06:46:50.372Z"
+  },
+  {
+    "id": "github-p-e-w-heretic",
+    "source": "github",
+    "title": "p-e-w / heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "score": 30492,
+    "metadata": {
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "starsToday": 2065
+    },
+    "createdAt": "2026-09-05T06:46:50.372Z"
+  },
+  {
+    "id": "github-colinhacks-zod",
+    "source": "github",
+    "title": "colinhacks / zod",
+    "url": "https://github.com/colinhacks/zod",
+    "score": 43839,
+    "metadata": {
+      "description": "TypeScript-first schema validation with static type inference",
+      "language": "TypeScript",
+      "starsToday": 297
+    },
+    "createdAt": "2026-09-05T06:46:50.373Z"
+  },
+  {
+    "id": "github-handsomestWei-patent-disclosure-skill",
+    "source": "github",
+    "title": "handsomestWei / patent-disclosure-skill",
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "score": 7402,
+    "metadata": {
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "starsToday": 1975
+    },
+    "createdAt": "2026-09-05T06:46:50.373Z"
+  },
+  {
+    "id": "github-debpalash-VoiceStudio",
+    "source": "github",
+    "title": "debpalash / VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "score": 18300,
+    "metadata": {
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "starsToday": 5150
+    },
+    "createdAt": "2026-09-05T06:46:50.374Z"
+  },
+  {
+    "id": "github-punkpeye-awesome-mcp-servers",
+    "source": "github",
+    "title": "punkpeye / awesome-mcp-servers",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "score": 94194,
+    "metadata": {
+      "description": "A collection of MCP servers.",
       "language": "",
+      "starsToday": 1198
+    },
+    "createdAt": "2026-09-05T06:46:50.374Z"
+  },
+  {
+    "id": "github-abi-screenshot-to-code",
+    "source": "github",
+    "title": "abi / screenshot-to-code",
+    "url": "https://github.com/abi/screenshot-to-code",
+    "score": 77735,
+    "metadata": {
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
       "starsToday": 2372
     },
-    "createdAt": "2026-08-29T08:45:01.031Z"
+    "createdAt": "2026-09-05T06:46:50.374Z"
   },
   {
-    "id": "github-PostHog-posthog",
+    "id": "github-ChromeDevTools-chrome-devtools-mcp",
     "source": "github",
-    "title": "PostHog / posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "score": 39447,
+    "title": "ChromeDevTools / chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "score": 50955,
     "metadata": {
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "starsToday": 1270
-    },
-    "createdAt": "2026-08-29T08:45:01.031Z"
-  },
-  {
-    "id": "github-rohitg00-ai-engineering-from-scratch",
-    "source": "github",
-    "title": "rohitg00 / ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "score": 50740,
-    "metadata": {
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "starsToday": 3263
-    },
-    "createdAt": "2026-08-29T08:45:01.031Z"
-  },
-  {
-    "id": "github-Alishahryar1-free-claude-code",
-    "source": "github",
-    "title": "Alishahryar1 / free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "score": 51257,
-    "metadata": {
-      "description": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "language": "Python",
-      "starsToday": 4769
-    },
-    "createdAt": "2026-08-29T08:45:01.031Z"
-  },
-  {
-    "id": "github-chaitanyagiri-munder-difflin",
-    "source": "github",
-    "title": "chaitanyagiri / munder-difflin",
-    "url": "https://github.com/chaitanyagiri/munder-difflin",
-    "score": 5247,
-    "metadata": {
-      "description": "local multi-agent harness",
-      "language": "JavaScript",
-      "starsToday": 1853
-    },
-    "createdAt": "2026-08-29T08:45:01.032Z"
-  },
-  {
-    "id": "github-bookorbit-bookorbit",
-    "source": "github",
-    "title": "bookorbit / bookorbit",
-    "url": "https://github.com/bookorbit/bookorbit",
-    "score": 3559,
-    "metadata": {
-      "description": "BookOrbit: Your Reading Space",
+      "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "starsToday": 806
+      "starsToday": 1067
     },
-    "createdAt": "2026-08-29T08:45:01.032Z"
+    "createdAt": "2026-09-05T06:46:50.374Z"
+  },
+  {
+    "id": "github-majd-ipatool",
+    "source": "github",
+    "title": "majd / ipatool",
+    "url": "https://github.com/majd/ipatool",
+    "score": 10887,
+    "metadata": {
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "starsToday": 903
+    },
+    "createdAt": "2026-09-05T06:46:50.375Z"
+  },
+  {
+    "id": "github-MakazhanAlpamys-Soup",
+    "source": "github",
+    "title": "MakazhanAlpamys / Soup",
+    "url": "https://github.com/MakazhanAlpamys/Soup",
+    "score": 5322,
+    "metadata": {
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "starsToday": 1808
+    },
+    "createdAt": "2026-09-05T06:46:50.375Z"
+  },
+  {
+    "id": "github-OpenWhispr-openwhispr",
+    "source": "github",
+    "title": "OpenWhispr / openwhispr",
+    "url": "https://github.com/OpenWhispr/openwhispr",
+    "score": 6836,
+    "metadata": {
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "language": "JavaScript",
+      "starsToday": 794
+    },
+    "createdAt": "2026-09-05T06:46:50.375Z"
   }
 ]

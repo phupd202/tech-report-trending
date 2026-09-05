@@ -1,5 +1,655 @@
 [
   {
+    "id": "github-majd-ipatool",
+    "source": "github",
+    "title": "majd / ipatool",
+    "url": "https://github.com/majd/ipatool",
+    "score": 10887,
+    "metadata": {
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "starsToday": 903
+    },
+    "createdAt": "2026-09-05T06:46:50.375Z"
+  },
+  {
+    "id": "github-MakazhanAlpamys-Soup",
+    "source": "github",
+    "title": "MakazhanAlpamys / Soup",
+    "url": "https://github.com/MakazhanAlpamys/Soup",
+    "score": 5322,
+    "metadata": {
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "starsToday": 1808
+    },
+    "createdAt": "2026-09-05T06:46:50.375Z"
+  },
+  {
+    "id": "github-OpenWhispr-openwhispr",
+    "source": "github",
+    "title": "OpenWhispr / openwhispr",
+    "url": "https://github.com/OpenWhispr/openwhispr",
+    "score": 6836,
+    "metadata": {
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "language": "JavaScript",
+      "starsToday": 794
+    },
+    "createdAt": "2026-09-05T06:46:50.375Z"
+  },
+  {
+    "id": "github-debpalash-VoiceStudio",
+    "source": "github",
+    "title": "debpalash / VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "score": 18300,
+    "metadata": {
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "starsToday": 5150
+    },
+    "createdAt": "2026-09-05T06:46:50.374Z"
+  },
+  {
+    "id": "github-punkpeye-awesome-mcp-servers",
+    "source": "github",
+    "title": "punkpeye / awesome-mcp-servers",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "score": 94194,
+    "metadata": {
+      "description": "A collection of MCP servers.",
+      "language": "",
+      "starsToday": 1198
+    },
+    "createdAt": "2026-09-05T06:46:50.374Z"
+  },
+  {
+    "id": "github-abi-screenshot-to-code",
+    "source": "github",
+    "title": "abi / screenshot-to-code",
+    "url": "https://github.com/abi/screenshot-to-code",
+    "score": 77735,
+    "metadata": {
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
+      "starsToday": 2372
+    },
+    "createdAt": "2026-09-05T06:46:50.374Z"
+  },
+  {
+    "id": "github-ChromeDevTools-chrome-devtools-mcp",
+    "source": "github",
+    "title": "ChromeDevTools / chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "score": 50955,
+    "metadata": {
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "starsToday": 1067
+    },
+    "createdAt": "2026-09-05T06:46:50.374Z"
+  },
+  {
+    "id": "github-colinhacks-zod",
+    "source": "github",
+    "title": "colinhacks / zod",
+    "url": "https://github.com/colinhacks/zod",
+    "score": 43839,
+    "metadata": {
+      "description": "TypeScript-first schema validation with static type inference",
+      "language": "TypeScript",
+      "starsToday": 297
+    },
+    "createdAt": "2026-09-05T06:46:50.373Z"
+  },
+  {
+    "id": "github-handsomestWei-patent-disclosure-skill",
+    "source": "github",
+    "title": "handsomestWei / patent-disclosure-skill",
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "score": 7402,
+    "metadata": {
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "starsToday": 1975
+    },
+    "createdAt": "2026-09-05T06:46:50.373Z"
+  },
+  {
+    "id": "github-fmtlib-fmt",
+    "source": "github",
+    "title": "fmtlib / fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "score": 25501,
+    "metadata": {
+      "description": "A modern formatting library",
+      "language": "C++",
+      "starsToday": 1671
+    },
+    "createdAt": "2026-09-05T06:46:50.372Z"
+  },
+  {
+    "id": "github-every-app-open-seo",
+    "source": "github",
+    "title": "every-app / open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "score": 17088,
+    "metadata": {
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "starsToday": 2950
+    },
+    "createdAt": "2026-09-05T06:46:50.372Z"
+  },
+  {
+    "id": "github-p-e-w-heretic",
+    "source": "github",
+    "title": "p-e-w / heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "score": 30492,
+    "metadata": {
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "starsToday": 2065
+    },
+    "createdAt": "2026-09-05T06:46:50.372Z"
+  },
+  {
+    "id": "github-K-Dense-AI-scientific-agent-skills",
+    "source": "github",
+    "title": "K-Dense-AI / scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "score": 42710,
+    "metadata": {
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "starsToday": 6898
+    },
+    "createdAt": "2026-09-05T06:46:50.371Z"
+  },
+  {
+    "id": "github-Lakr233-vphone-cli",
+    "source": "github",
+    "title": "Lakr233 / vphone-cli",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "score": 10579,
+    "metadata": {
+      "description": "",
+      "language": "Swift",
+      "starsToday": 1982
+    },
+    "createdAt": "2026-09-05T06:46:50.371Z"
+  },
+  {
+    "id": "github-Gitlawb-openclaude",
+    "source": "github",
+    "title": "Gitlawb / openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "score": 32619,
+    "metadata": {
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "starsToday": 1679
+    },
+    "createdAt": "2026-09-05T06:46:50.370Z"
+  },
+  {
+    "id": "github-google-research-timesfm",
+    "source": "github",
+    "title": "google-research / timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "score": 31132,
+    "metadata": {
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "starsToday": 2653
+    },
+    "createdAt": "2026-09-05T06:46:50.370Z"
+  },
+  {
+    "id": "github-jingyaogong-minimind",
+    "source": "github",
+    "title": "jingyaogong / minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "score": 58604,
+    "metadata": {
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "starsToday": 3390
+    },
+    "createdAt": "2026-09-05T06:46:50.370Z"
+  },
+  {
+    "id": "github-THU-MAIC-OpenMAIC",
+    "source": "github",
+    "title": "THU-MAIC / OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "score": 31611,
+    "metadata": {
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "starsToday": 10274
+    },
+    "createdAt": "2026-09-05T06:46:50.369Z"
+  },
+  {
+    "id": "github-bilawalsidhu-gods-eye-view",
+    "source": "github",
+    "title": "bilawalsidhu / gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "score": 17642,
+    "metadata": {
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "starsToday": 7314
+    },
+    "createdAt": "2026-09-05T06:46:50.369Z"
+  },
+  {
+    "id": "github-tt-a1i-archify",
+    "source": "github",
+    "title": "tt-a1i / archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "score": 48461,
+    "metadata": {
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "starsToday": 21896
+    },
+    "createdAt": "2026-09-05T06:46:50.368Z"
+  },
+  {
+    "id": "hackernews-49573455",
+    "source": "hackernews",
+    "title": "Why are European countries moving their gold out of North America?",
+    "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+    "score": 69,
+    "metadata": {
+      "author": "ranit",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=49573455"
+    },
+    "createdAt": "2026-09-05T05:52:09.000Z"
+  },
+  {
+    "id": "hackernews-49572875",
+    "source": "hackernews",
+    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+    "score": 15,
+    "metadata": {
+      "author": "cebert",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=49572875"
+    },
+    "createdAt": "2026-09-05T03:38:56.000Z"
+  },
+  {
+    "id": "hackernews-49571634",
+    "source": "hackernews",
+    "title": "Nitter has more working instances than before the takedowns",
+    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "score": 117,
+    "metadata": {
+      "author": "Cider9986",
+      "commentsCount": 36,
+      "hnUrl": "https://news.ycombinator.com/item?id=49571634"
+    },
+    "createdAt": "2026-09-05T00:04:16.000Z"
+  },
+  {
+    "id": "hackernews-49571632",
+    "source": "hackernews",
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "score": 102,
+    "metadata": {
+      "author": "nojs",
+      "commentsCount": 37,
+      "hnUrl": "https://news.ycombinator.com/item?id=49571632"
+    },
+    "createdAt": "2026-09-05T00:04:14.000Z"
+  },
+  {
+    "id": "hackernews-49571465",
+    "source": "hackernews",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "score": 88,
+    "metadata": {
+      "author": "cebert",
+      "commentsCount": 45,
+      "hnUrl": "https://news.ycombinator.com/item?id=49571465"
+    },
+    "createdAt": "2026-09-04T23:38:50.000Z"
+  },
+  {
+    "id": "hackernews-49571263",
+    "source": "hackernews",
+    "title": "Connecting every app to every other app",
+    "url": "https://blog.val.town/connectors",
+    "score": 32,
+    "metadata": {
+      "author": "Chidiebere229",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49571263"
+    },
+    "createdAt": "2026-09-04T23:09:59.000Z"
+  },
+  {
+    "id": "hackernews-49571047",
+    "source": "hackernews",
+    "title": "Can guitar frets perform multiplication?",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "score": 60,
+    "metadata": {
+      "author": "wibbily",
+      "commentsCount": 16,
+      "hnUrl": "https://news.ycombinator.com/item?id=49571047"
+    },
+    "createdAt": "2026-09-04T22:40:30.000Z"
+  },
+  {
+    "id": "hackernews-49570772",
+    "source": "hackernews",
+    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+    "score": 352,
+    "metadata": {
+      "author": "karakoram",
+      "commentsCount": 261,
+      "hnUrl": "https://news.ycombinator.com/item?id=49570772"
+    },
+    "createdAt": "2026-09-04T22:03:16.000Z"
+  },
+  {
+    "id": "hackernews-49570669",
+    "source": "hackernews",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "score": 417,
+    "metadata": {
+      "author": "negura",
+      "commentsCount": 236,
+      "hnUrl": "https://news.ycombinator.com/item?id=49570669"
+    },
+    "createdAt": "2026-09-04T21:52:01.000Z"
+  },
+  {
+    "id": "hackernews-49570597",
+    "source": "hackernews",
+    "title": "Icons as a Service",
+    "url": "https://nravic.com/blog/images/",
+    "score": 37,
+    "metadata": {
+      "author": "nravic",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49570597"
+    },
+    "createdAt": "2026-09-04T21:44:59.000Z"
+  },
+  {
+    "id": "hackernews-49570545",
+    "source": "hackernews",
+    "title": "GPT-6 Astra on OpenRouter",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "score": 187,
+    "metadata": {
+      "author": "Topfi",
+      "commentsCount": 102,
+      "hnUrl": "https://news.ycombinator.com/item?id=49570545"
+    },
+    "createdAt": "2026-09-04T21:39:19.000Z"
+  },
+  {
+    "id": "hackernews-49569896",
+    "source": "hackernews",
+    "title": "Statichost.eu – European static site hosting",
+    "url": "https://www.statichost.eu/",
+    "score": 231,
+    "metadata": {
+      "author": "p4bl0",
+      "commentsCount": 73,
+      "hnUrl": "https://news.ycombinator.com/item?id=49569896"
+    },
+    "createdAt": "2026-09-04T20:34:49.000Z"
+  },
+  {
+    "id": "hackernews-49569663",
+    "source": "hackernews",
+    "title": "An open DNS recursive service for free security and high privacy",
+    "url": "https://quad9.net/",
+    "score": 80,
+    "metadata": {
+      "author": "mooreds",
+      "commentsCount": 24,
+      "hnUrl": "https://news.ycombinator.com/item?id=49569663"
+    },
+    "createdAt": "2026-09-04T20:13:08.000Z"
+  },
+  {
+    "id": "hackernews-49569366",
+    "source": "hackernews",
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "score": 231,
+    "metadata": {
+      "author": "iopapa",
+      "commentsCount": 140,
+      "hnUrl": "https://news.ycombinator.com/item?id=49569366"
+    },
+    "createdAt": "2026-09-04T19:48:29.000Z"
+  },
+  {
+    "id": "hackernews-49568828",
+    "source": "hackernews",
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "score": 87,
+    "metadata": {
+      "author": "rietta",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=49568828"
+    },
+    "createdAt": "2026-09-04T19:06:39.000Z"
+  },
+  {
+    "id": "hackernews-49568697",
+    "source": "hackernews",
+    "title": "Fermat's Last Theorem in Lean 4",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "score": 92,
+    "metadata": {
+      "author": "aaraujo002",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=49568697"
+    },
+    "createdAt": "2026-09-04T18:57:32.000Z"
+  },
+  {
+    "id": "hackernews-49568579",
+    "source": "hackernews",
+    "title": "Shutting down our public encrypted DNS",
+    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "score": 315,
+    "metadata": {
+      "author": "mywacaday",
+      "commentsCount": 139,
+      "hnUrl": "https://news.ycombinator.com/item?id=49568579"
+    },
+    "createdAt": "2026-09-04T18:50:28.000Z"
+  },
+  {
+    "id": "hackernews-49568506",
+    "source": "hackernews",
+    "title": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "score": 575,
+    "metadata": {
+      "author": "jlebar",
+      "commentsCount": 357,
+      "hnUrl": "https://news.ycombinator.com/item?id=49568506"
+    },
+    "createdAt": "2026-09-04T18:42:56.000Z"
+  },
+  {
+    "id": "hackernews-49567873",
+    "source": "hackernews",
+    "title": "The Rust React Compiler is now native in Vite",
+    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "score": 134,
+    "metadata": {
+      "author": "acusti",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=49567873"
+    },
+    "createdAt": "2026-09-04T17:49:09.000Z"
+  },
+  {
+    "id": "hackernews-49567437",
+    "source": "hackernews",
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "url": "https://opentrailpaper.com",
+    "score": 269,
+    "metadata": {
+      "author": "stingrae",
+      "commentsCount": 96,
+      "hnUrl": "https://news.ycombinator.com/item?id=49567437"
+    },
+    "createdAt": "2026-09-04T17:18:08.000Z"
+  },
+  {
+    "id": "hackernews-49563851",
+    "source": "hackernews",
+    "title": "IBM Bob",
+    "url": "https://bob.ibm.com/",
+    "score": 252,
+    "metadata": {
+      "author": "artpar",
+      "commentsCount": 282,
+      "hnUrl": "https://news.ycombinator.com/item?id=49563851"
+    },
+    "createdAt": "2026-09-04T12:50:29.000Z"
+  },
+  {
+    "id": "hackernews-49563355",
+    "source": "hackernews",
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "score": 1619,
+    "metadata": {
+      "author": "moultano",
+      "commentsCount": 1275,
+      "hnUrl": "https://news.ycombinator.com/item?id=49563355"
+    },
+    "createdAt": "2026-09-04T11:54:53.000Z"
+  },
+  {
+    "id": "hackernews-49562219",
+    "source": "hackernews",
+    "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "score": 114,
+    "metadata": {
+      "author": "gioscarab",
+      "commentsCount": 30,
+      "hnUrl": "https://news.ycombinator.com/item?id=49562219"
+    },
+    "createdAt": "2026-09-04T09:03:00.000Z"
+  },
+  {
+    "id": "hackernews-49546284",
+    "source": "hackernews",
+    "title": "RSA-260 Factorized",
+    "url": "https://twitter.com/penlume/status/2095372672356212876",
+    "score": 103,
+    "metadata": {
+      "author": "samyok",
+      "commentsCount": 45,
+      "hnUrl": "https://news.ycombinator.com/item?id=49546284"
+    },
+    "createdAt": "2026-09-03T05:35:31.000Z"
+  },
+  {
+    "id": "hackernews-49537340",
+    "source": "hackernews",
+    "title": "The Highest Point in the Netherlands",
+    "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
+    "score": 18,
+    "metadata": {
+      "author": "haasted",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=49537340"
+    },
+    "createdAt": "2026-09-02T14:58:44.000Z"
+  },
+  {
+    "id": "hackernews-49533840",
+    "source": "hackernews",
+    "title": "Ask HN: Resources to get good at soldering?",
+    "url": "https://news.ycombinator.com/item?id=49533840",
+    "score": 105,
+    "metadata": {
+      "author": "tosmatos",
+      "commentsCount": 64,
+      "hnUrl": "https://news.ycombinator.com/item?id=49533840"
+    },
+    "createdAt": "2026-09-02T09:24:11.000Z"
+  },
+  {
+    "id": "hackernews-49529179",
+    "source": "hackernews",
+    "title": "I Want a Wife (1971) [pdf]",
+    "url": "https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf",
+    "score": 9,
+    "metadata": {
+      "author": "NaOH",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49529179"
+    },
+    "createdAt": "2026-09-01T22:34:32.000Z"
+  },
+  {
+    "id": "hackernews-49529161",
+    "source": "hackernews",
+    "title": "Decompiler Explorer",
+    "url": "https://dogbolt.org",
+    "score": 68,
+    "metadata": {
+      "author": "tripdout",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49529161"
+    },
+    "createdAt": "2026-09-01T22:33:15.000Z"
+  },
+  {
+    "id": "hackernews-49522194",
+    "source": "hackernews",
+    "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064",
+    "score": 15,
+    "metadata": {
+      "author": "bryanrasmussen",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=49522194"
+    },
+    "createdAt": "2026-09-01T14:05:19.000Z"
+  },
+  {
+    "id": "hackernews-49519850",
+    "source": "hackernews",
+    "title": "Git Submodules as a Package Manager",
+    "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+    "score": 40,
+    "metadata": {
+      "author": "ErenayDev",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=49519850"
+    },
+    "createdAt": "2026-09-01T09:36:10.000Z"
+  },
+  {
     "id": "github-chaitanyagiri-munder-difflin",
     "source": "github",
     "title": "chaitanyagiri / munder-difflin",
@@ -180,19 +830,6 @@
       "starsToday": 4825
     },
     "createdAt": "2026-08-29T08:45:01.027Z"
-  },
-  {
-    "id": "github-tt-a1i-archify",
-    "source": "github",
-    "title": "tt-a1i / archify",
-    "url": "https://github.com/tt-a1i/archify",
-    "score": 28753,
-    "metadata": {
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "starsToday": 11099
-    },
-    "createdAt": "2026-08-29T08:45:01.026Z"
   },
   {
     "id": "github-openai-codex",
