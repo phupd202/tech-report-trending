@@ -1,392 +1,392 @@
 [
   {
-    "id": "hackernews-49570669",
+    "id": "hackernews-49668386",
     "source": "hackernews",
-    "title": "Actively exploited sandbox RCE in all Chromium versions",
-    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-    "score": 417,
+    "title": "google.com/goto: Google's anti-scraping update",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "score": 310,
     "metadata": {
-      "author": "negura",
-      "commentsCount": 236,
-      "hnUrl": "https://news.ycombinator.com/item?id=49570669"
+      "author": "1e1a",
+      "commentsCount": 161,
+      "hnUrl": "https://news.ycombinator.com/item?id=49668386"
     },
-    "createdAt": "2026-09-04T21:52:01.000Z"
+    "createdAt": "2026-09-12T03:14:20.000Z"
   },
   {
-    "id": "hackernews-49573455",
+    "id": "hackernews-49668706",
     "source": "hackernews",
-    "title": "Why are European countries moving their gold out of North America?",
-    "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
-    "score": 69,
+    "title": "Navier-Stokes Announcement",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "score": 83,
     "metadata": {
-      "author": "ranit",
-      "commentsCount": 54,
-      "hnUrl": "https://news.ycombinator.com/item?id=49573455"
+      "author": "rvz",
+      "commentsCount": 35,
+      "hnUrl": "https://news.ycombinator.com/item?id=49668706"
     },
-    "createdAt": "2026-09-05T05:52:09.000Z"
+    "createdAt": "2026-09-12T04:09:43.000Z"
   },
   {
-    "id": "hackernews-49563355",
+    "id": "hackernews-49662371",
     "source": "hackernews",
-    "title": "Discovery of a new OpenAI agent message board",
-    "url": "https://collusion.wiki/",
-    "score": 1619,
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "score": 831,
     "metadata": {
-      "author": "moultano",
-      "commentsCount": 1275,
-      "hnUrl": "https://news.ycombinator.com/item?id=49563355"
+      "author": "meredydd",
+      "commentsCount": 819,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662371"
     },
-    "createdAt": "2026-09-04T11:54:53.000Z"
+    "createdAt": "2026-09-11T17:45:12.000Z"
   },
   {
-    "id": "hackernews-49568506",
+    "id": "hackernews-49668777",
     "source": "hackernews",
-    "title": "Formalizing Fermat's Last Theorem",
-    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "score": 575,
+    "title": "Usenet rewind archive search engine",
+    "url": "https://www.usenet-rewind.com/",
+    "score": 39,
     "metadata": {
-      "author": "jlebar",
-      "commentsCount": 357,
-      "hnUrl": "https://news.ycombinator.com/item?id=49568506"
+      "author": "cstadler1869",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=49668777"
     },
-    "createdAt": "2026-09-04T18:42:56.000Z"
+    "createdAt": "2026-09-12T04:19:52.000Z"
   },
   {
-    "id": "hackernews-49569896",
+    "id": "hackernews-49662990",
     "source": "hackernews",
-    "title": "Statichost.eu – European static site hosting",
-    "url": "https://www.statichost.eu/",
-    "score": 231,
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "score": 450,
     "metadata": {
-      "author": "p4bl0",
-      "commentsCount": 73,
-      "hnUrl": "https://news.ycombinator.com/item?id=49569896"
+      "author": "nickabe",
+      "commentsCount": 235,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662990"
     },
-    "createdAt": "2026-09-04T20:34:49.000Z"
+    "createdAt": "2026-09-11T18:24:55.000Z"
   },
   {
-    "id": "hackernews-49571634",
+    "id": "hackernews-49624456",
     "source": "hackernews",
-    "title": "Nitter has more working instances than before the takedowns",
-    "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-    "score": 117,
+    "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+    "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+    "score": 46,
     "metadata": {
-      "author": "Cider9986",
-      "commentsCount": 36,
-      "hnUrl": "https://news.ycombinator.com/item?id=49571634"
+      "author": "bookofjoe",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49624456"
     },
-    "createdAt": "2026-09-05T00:04:16.000Z"
+    "createdAt": "2026-09-09T11:01:10.000Z"
   },
   {
-    "id": "hackernews-49570545",
+    "id": "hackernews-49626718",
     "source": "hackernews",
-    "title": "GPT-6 Astra on OpenRouter",
-    "url": "https://openrouter.ai/openai/gpt-6-astra",
-    "score": 187,
+    "title": "A Design Space Exploration of Async/Await",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "score": 237,
     "metadata": {
-      "author": "Topfi",
-      "commentsCount": 102,
-      "hnUrl": "https://news.ycombinator.com/item?id=49570545"
+      "author": "wcrichton",
+      "commentsCount": 51,
+      "hnUrl": "https://news.ycombinator.com/item?id=49626718"
     },
-    "createdAt": "2026-09-04T21:39:19.000Z"
+    "createdAt": "2026-09-09T13:59:50.000Z"
   },
   {
-    "id": "hackernews-49569366",
+    "id": "hackernews-49643011",
     "source": "hackernews",
-    "title": "Can AI design circuit boards yet?",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "score": 231,
-    "metadata": {
-      "author": "iopapa",
-      "commentsCount": 140,
-      "hnUrl": "https://news.ycombinator.com/item?id=49569366"
-    },
-    "createdAt": "2026-09-04T19:48:29.000Z"
-  },
-  {
-    "id": "hackernews-49519850",
-    "source": "hackernews",
-    "title": "Git Submodules as a Package Manager",
-    "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-    "score": 40,
-    "metadata": {
-      "author": "ErenayDev",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=49519850"
-    },
-    "createdAt": "2026-09-01T09:36:10.000Z"
-  },
-  {
-    "id": "hackernews-49529179",
-    "source": "hackernews",
-    "title": "I Want a Wife (1971) [pdf]",
-    "url": "https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf",
-    "score": 9,
-    "metadata": {
-      "author": "NaOH",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=49529179"
-    },
-    "createdAt": "2026-09-01T22:34:32.000Z"
-  },
-  {
-    "id": "hackernews-49572875",
-    "source": "hackernews",
-    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-    "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-    "score": 15,
-    "metadata": {
-      "author": "cebert",
-      "commentsCount": 3,
-      "hnUrl": "https://news.ycombinator.com/item?id=49572875"
-    },
-    "createdAt": "2026-09-05T03:38:56.000Z"
-  },
-  {
-    "id": "hackernews-49571632",
-    "source": "hackernews",
-    "title": "Artificial Analysis Intelligence Index v4.2",
-    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-    "score": 102,
-    "metadata": {
-      "author": "nojs",
-      "commentsCount": 37,
-      "hnUrl": "https://news.ycombinator.com/item?id=49571632"
-    },
-    "createdAt": "2026-09-05T00:04:14.000Z"
-  },
-  {
-    "id": "hackernews-49568579",
-    "source": "hackernews",
-    "title": "Shutting down our public encrypted DNS",
-    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-    "score": 315,
-    "metadata": {
-      "author": "mywacaday",
-      "commentsCount": 139,
-      "hnUrl": "https://news.ycombinator.com/item?id=49568579"
-    },
-    "createdAt": "2026-09-04T18:50:28.000Z"
-  },
-  {
-    "id": "hackernews-49571465",
-    "source": "hackernews",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "score": 88,
-    "metadata": {
-      "author": "cebert",
-      "commentsCount": 45,
-      "hnUrl": "https://news.ycombinator.com/item?id=49571465"
-    },
-    "createdAt": "2026-09-04T23:38:50.000Z"
-  },
-  {
-    "id": "hackernews-49571047",
-    "source": "hackernews",
-    "title": "Can guitar frets perform multiplication?",
-    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-    "score": 60,
-    "metadata": {
-      "author": "wibbily",
-      "commentsCount": 16,
-      "hnUrl": "https://news.ycombinator.com/item?id=49571047"
-    },
-    "createdAt": "2026-09-04T22:40:30.000Z"
-  },
-  {
-    "id": "hackernews-49567437",
-    "source": "hackernews",
-    "title": "Show HN: Open-Source eInk Bike Computer",
-    "url": "https://opentrailpaper.com",
-    "score": 269,
-    "metadata": {
-      "author": "stingrae",
-      "commentsCount": 96,
-      "hnUrl": "https://news.ycombinator.com/item?id=49567437"
-    },
-    "createdAt": "2026-09-04T17:18:08.000Z"
-  },
-  {
-    "id": "hackernews-49546284",
-    "source": "hackernews",
-    "title": "RSA-260 Factorized",
-    "url": "https://twitter.com/penlume/status/2095372672356212876",
-    "score": 103,
-    "metadata": {
-      "author": "samyok",
-      "commentsCount": 45,
-      "hnUrl": "https://news.ycombinator.com/item?id=49546284"
-    },
-    "createdAt": "2026-09-03T05:35:31.000Z"
-  },
-  {
-    "id": "hackernews-49533840",
-    "source": "hackernews",
-    "title": "Ask HN: Resources to get good at soldering?",
-    "url": "https://news.ycombinator.com/item?id=49533840",
-    "score": 105,
-    "metadata": {
-      "author": "tosmatos",
-      "commentsCount": 64,
-      "hnUrl": "https://news.ycombinator.com/item?id=49533840"
-    },
-    "createdAt": "2026-09-02T09:24:11.000Z"
-  },
-  {
-    "id": "hackernews-49537340",
-    "source": "hackernews",
-    "title": "The Highest Point in the Netherlands",
-    "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
-    "score": 18,
-    "metadata": {
-      "author": "haasted",
-      "commentsCount": 15,
-      "hnUrl": "https://news.ycombinator.com/item?id=49537340"
-    },
-    "createdAt": "2026-09-02T14:58:44.000Z"
-  },
-  {
-    "id": "hackernews-49568697",
-    "source": "hackernews",
-    "title": "Fermat's Last Theorem in Lean 4",
-    "url": "https://github.com/anthropics/fermats-last-theorem",
-    "score": 92,
-    "metadata": {
-      "author": "aaraujo002",
-      "commentsCount": 18,
-      "hnUrl": "https://news.ycombinator.com/item?id=49568697"
-    },
-    "createdAt": "2026-09-04T18:57:32.000Z"
-  },
-  {
-    "id": "hackernews-49563851",
-    "source": "hackernews",
-    "title": "IBM Bob",
-    "url": "https://bob.ibm.com/",
-    "score": 252,
-    "metadata": {
-      "author": "artpar",
-      "commentsCount": 282,
-      "hnUrl": "https://news.ycombinator.com/item?id=49563851"
-    },
-    "createdAt": "2026-09-04T12:50:29.000Z"
-  },
-  {
-    "id": "hackernews-49567873",
-    "source": "hackernews",
-    "title": "The Rust React Compiler is now native in Vite",
-    "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-    "score": 134,
-    "metadata": {
-      "author": "acusti",
-      "commentsCount": 28,
-      "hnUrl": "https://news.ycombinator.com/item?id=49567873"
-    },
-    "createdAt": "2026-09-04T17:49:09.000Z"
-  },
-  {
-    "id": "hackernews-49522194",
-    "source": "hackernews",
-    "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064",
-    "score": 15,
-    "metadata": {
-      "author": "bryanrasmussen",
-      "commentsCount": 10,
-      "hnUrl": "https://news.ycombinator.com/item?id=49522194"
-    },
-    "createdAt": "2026-09-01T14:05:19.000Z"
-  },
-  {
-    "id": "hackernews-49569663",
-    "source": "hackernews",
-    "title": "An open DNS recursive service for free security and high privacy",
-    "url": "https://quad9.net/",
-    "score": 80,
+    "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+    "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+    "score": 20,
     "metadata": {
       "author": "mooreds",
-      "commentsCount": 24,
-      "hnUrl": "https://news.ycombinator.com/item?id=49569663"
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=49643011"
     },
-    "createdAt": "2026-09-04T20:13:08.000Z"
+    "createdAt": "2026-09-10T12:59:26.000Z"
   },
   {
-    "id": "hackernews-49529161",
+    "id": "hackernews-49649789",
     "source": "hackernews",
-    "title": "Decompiler Explorer",
-    "url": "https://dogbolt.org",
-    "score": 68,
+    "title": "Show HN: Bodily Oddities",
+    "url": "https://vester.si/bodily-oddities/",
+    "score": 209,
     "metadata": {
-      "author": "tripdout",
-      "commentsCount": 2,
-      "hnUrl": "https://news.ycombinator.com/item?id=49529161"
+      "author": "vesterde",
+      "commentsCount": 149,
+      "hnUrl": "https://news.ycombinator.com/item?id=49649789"
     },
-    "createdAt": "2026-09-01T22:33:15.000Z"
+    "createdAt": "2026-09-10T20:33:11.000Z"
   },
   {
-    "id": "hackernews-49568828",
+    "id": "hackernews-49666735",
     "source": "hackernews",
-    "title": "Government Rails Site Hit Hours After CVE Patch",
-    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-    "score": 87,
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "score": 596,
     "metadata": {
-      "author": "rietta",
-      "commentsCount": 25,
-      "hnUrl": "https://news.ycombinator.com/item?id=49568828"
+      "author": "chao-",
+      "commentsCount": 340,
+      "hnUrl": "https://news.ycombinator.com/item?id=49666735"
     },
-    "createdAt": "2026-09-04T19:06:39.000Z"
+    "createdAt": "2026-09-11T23:17:42.000Z"
   },
   {
-    "id": "hackernews-49570772",
+    "id": "hackernews-49622406",
     "source": "hackernews",
-    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
-    "score": 352,
+    "title": "Logo Programming",
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "score": 263,
     "metadata": {
-      "author": "karakoram",
-      "commentsCount": 261,
-      "hnUrl": "https://news.ycombinator.com/item?id=49570772"
+      "author": "azhenley",
+      "commentsCount": 106,
+      "hnUrl": "https://news.ycombinator.com/item?id=49622406"
     },
-    "createdAt": "2026-09-04T22:03:16.000Z"
+    "createdAt": "2026-09-09T07:07:26.000Z"
   },
   {
-    "id": "hackernews-49562219",
+    "id": "hackernews-49669276",
     "source": "hackernews",
-    "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-    "score": 114,
+    "title": "WeWorm: Zero-Click WeChat Worm",
+    "url": "https://calif.io/research/weworm",
+    "score": 5,
     "metadata": {
-      "author": "gioscarab",
-      "commentsCount": 30,
-      "hnUrl": "https://news.ycombinator.com/item?id=49562219"
+      "author": "BlackEarth",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49669276"
     },
-    "createdAt": "2026-09-04T09:03:00.000Z"
+    "createdAt": "2026-09-12T05:49:10.000Z"
   },
   {
-    "id": "hackernews-49571263",
+    "id": "hackernews-49662020",
     "source": "hackernews",
-    "title": "Connecting every app to every other app",
-    "url": "https://blog.val.town/connectors",
-    "score": 32,
+    "title": "Mind-altering drugs played key role in rise of Andean civilization",
+    "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+    "score": 141,
     "metadata": {
-      "author": "Chidiebere229",
-      "commentsCount": 2,
-      "hnUrl": "https://news.ycombinator.com/item?id=49571263"
+      "author": "geneticdrifts",
+      "commentsCount": 97,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662020"
     },
-    "createdAt": "2026-09-04T23:09:59.000Z"
+    "createdAt": "2026-09-11T17:25:23.000Z"
   },
   {
-    "id": "hackernews-49570597",
+    "id": "hackernews-49666146",
     "source": "hackernews",
-    "title": "Icons as a Service",
-    "url": "https://nravic.com/blog/images/",
-    "score": 37,
+    "title": "Project Blinkenlights",
+    "url": "https://blinkenlights.de/en/",
+    "score": 76,
     "metadata": {
-      "author": "nravic",
-      "commentsCount": 2,
-      "hnUrl": "https://news.ycombinator.com/item?id=49570597"
+      "author": "doener",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=49666146"
     },
-    "createdAt": "2026-09-04T21:44:59.000Z"
+    "createdAt": "2026-09-11T22:15:00.000Z"
+  },
+  {
+    "id": "hackernews-49662767",
+    "source": "hackernews",
+    "title": "Litelm: LiteLLM Without the Bloat",
+    "url": "https://github.com/kennethwolters/litelm",
+    "score": 123,
+    "metadata": {
+      "author": "kennethwolters",
+      "commentsCount": 39,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662767"
+    },
+    "createdAt": "2026-09-11T18:10:20.000Z"
+  },
+  {
+    "id": "hackernews-49663373",
+    "source": "hackernews",
+    "title": "GrapheneOS' rewritten Messages app is released",
+    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+    "score": 252,
+    "metadata": {
+      "author": "microtonal",
+      "commentsCount": 172,
+      "hnUrl": "https://news.ycombinator.com/item?id=49663373"
+    },
+    "createdAt": "2026-09-11T18:50:36.000Z"
+  },
+  {
+    "id": "hackernews-49665864",
+    "source": "hackernews",
+    "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "url": "https://github.com/mirza-rizvi/ResolveHQ",
+    "score": 55,
+    "metadata": {
+      "author": "mirza_rizvi",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=49665864"
+    },
+    "createdAt": "2026-09-11T21:48:00.000Z"
+  },
+  {
+    "id": "hackernews-49601138",
+    "source": "hackernews",
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "score": 203,
+    "metadata": {
+      "author": "adastral",
+      "commentsCount": 75,
+      "hnUrl": "https://news.ycombinator.com/item?id=49601138"
+    },
+    "createdAt": "2026-09-07T18:05:04.000Z"
+  },
+  {
+    "id": "hackernews-49662214",
+    "source": "hackernews",
+    "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+    "url": "https://snap.berkeley.edu/",
+    "score": 138,
+    "metadata": {
+      "author": "dr_kiszonka",
+      "commentsCount": 76,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662214"
+    },
+    "createdAt": "2026-09-11T17:36:11.000Z"
+  },
+  {
+    "id": "hackernews-49624717",
+    "source": "hackernews",
+    "title": "AlphaGenome maps 9B DNA variants",
+    "url": "https://spectrum.ieee.org/alphagenome-atlas",
+    "score": 81,
+    "metadata": {
+      "author": "ltononro",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=49624717"
+    },
+    "createdAt": "2026-09-09T11:30:51.000Z"
+  },
+  {
+    "id": "hackernews-49660149",
+    "source": "hackernews",
+    "title": "Rune is now open source",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "score": 170,
+    "metadata": {
+      "author": "ernestrc",
+      "commentsCount": 57,
+      "hnUrl": "https://news.ycombinator.com/item?id=49660149"
+    },
+    "createdAt": "2026-09-11T15:31:47.000Z"
+  },
+  {
+    "id": "hackernews-49662672",
+    "source": "hackernews",
+    "title": "The EPA is planning to scrap public review rules for data center pollution",
+    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+    "score": 440,
+    "metadata": {
+      "author": "doener",
+      "commentsCount": 303,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662672"
+    },
+    "createdAt": "2026-09-11T18:05:21.000Z"
+  },
+  {
+    "id": "hackernews-49634928",
+    "source": "hackernews",
+    "title": "Testing Race Conditions",
+    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+    "score": 39,
+    "metadata": {
+      "author": "alpaylan",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49634928"
+    },
+    "createdAt": "2026-09-09T21:51:02.000Z"
+  },
+  {
+    "id": "hackernews-49656225",
+    "source": "hackernews",
+    "title": "Claude is only available to people over 18 years",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "score": 624,
+    "metadata": {
+      "author": "Muhammad523",
+      "commentsCount": 622,
+      "hnUrl": "https://news.ycombinator.com/item?id=49656225"
+    },
+    "createdAt": "2026-09-11T10:48:00.000Z"
+  },
+  {
+    "id": "hackernews-49652105",
+    "source": "hackernews",
+    "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "score": 336,
+    "metadata": {
+      "author": "lukaspetersson",
+      "commentsCount": 302,
+      "hnUrl": "https://news.ycombinator.com/item?id=49652105"
+    },
+    "createdAt": "2026-09-11T00:42:41.000Z"
+  },
+  {
+    "id": "hackernews-49667375",
+    "source": "hackernews",
+    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+    "score": 98,
+    "metadata": {
+      "author": "upofadown",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=49667375"
+    },
+    "createdAt": "2026-09-12T00:40:32.000Z"
+  },
+  {
+    "id": "hackernews-49635043",
+    "source": "hackernews",
+    "title": "How we rebuilt complex permissions without migrating to Zanzibar",
+    "url": "https://infisical.com/blog/folder-based-rbac",
+    "score": 44,
+    "metadata": {
+      "author": "FinnLobsien",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=49635043"
+    },
+    "createdAt": "2026-09-09T21:59:10.000Z"
+  },
+  {
+    "id": "hackernews-49665711",
+    "source": "hackernews",
+    "title": "AI researchers debate how close we are to recursive self-improvement",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "score": 96,
+    "metadata": {
+      "author": "artninja1988",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=49665711"
+    },
+    "createdAt": "2026-09-11T21:35:29.000Z"
+  },
+  {
+    "id": "hackernews-49668198",
+    "source": "hackernews",
+    "title": "Pandas Should Go Extinct",
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "score": 137,
+    "metadata": {
+      "author": "__eddie__",
+      "commentsCount": 74,
+      "hnUrl": "https://news.ycombinator.com/item?id=49668198"
+    },
+    "createdAt": "2026-09-12T02:42:08.000Z"
+  },
+  {
+    "id": "hackernews-49656471",
+    "source": "hackernews",
+    "title": "RTK reports token savings, but our cost benchmarks disagree",
+    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+    "score": 152,
+    "metadata": {
+      "author": "michalwarda",
+      "commentsCount": 78,
+      "hnUrl": "https://news.ycombinator.com/item?id=49656471"
+    },
+    "createdAt": "2026-09-11T11:15:13.000Z"
   }
 ]

@@ -1,5 +1,694 @@
 [
   {
+    "id": "github-every-app-open-seo",
+    "source": "github",
+    "title": "every-app / open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "score": 18469,
+    "metadata": {
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "starsToday": 1507
+    },
+    "createdAt": "2026-09-12T06:59:10.259Z"
+  },
+  {
+    "id": "github-jakubkrehel-skills",
+    "source": "github",
+    "title": "jakubkrehel / skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "score": 6340,
+    "metadata": {
+      "description": "A collection of agent skills that help you build a great interface.",
+      "language": "Markdown",
+      "starsToday": 691
+    },
+    "createdAt": "2026-09-12T06:59:10.259Z"
+  },
+  {
+    "id": "github-THU-MAIC-OpenMAIC",
+    "source": "github",
+    "title": "THU-MAIC / OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "score": 35977,
+    "metadata": {
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "starsToday": 4509
+    },
+    "createdAt": "2026-09-12T06:59:10.258Z"
+  },
+  {
+    "id": "github-ruvnet-ruflo",
+    "source": "github",
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "score": 72171,
+    "metadata": {
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "starsToday": 1726
+    },
+    "createdAt": "2026-09-12T06:59:10.258Z"
+  },
+  {
+    "id": "github-Tencent-WeKnora",
+    "source": "github",
+    "title": "Tencent / WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "score": 22451,
+    "metadata": {
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "starsToday": 964
+    },
+    "createdAt": "2026-09-12T06:59:10.258Z"
+  },
+  {
+    "id": "github-ChromeDevTools-chrome-devtools-mcp",
+    "source": "github",
+    "title": "ChromeDevTools / chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "score": 51704,
+    "metadata": {
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "starsToday": 804
+    },
+    "createdAt": "2026-09-12T06:59:10.257Z"
+  },
+  {
+    "id": "github-microsoft-markitdown",
+    "source": "github",
+    "title": "microsoft / markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "score": 182765,
+    "metadata": {
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "starsToday": 4650
+    },
+    "createdAt": "2026-09-12T06:59:10.257Z"
+  },
+  {
+    "id": "github-NousResearch-hermes-agent",
+    "source": "github",
+    "title": "NousResearch / hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "score": 244687,
+    "metadata": {
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "starsToday": 3481
+    },
+    "createdAt": "2026-09-12T06:59:10.257Z"
+  },
+  {
+    "id": "github-fmtlib-fmt",
+    "source": "github",
+    "title": "fmtlib / fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "score": 25749,
+    "metadata": {
+      "description": "A modern formatting library",
+      "language": "C++",
+      "starsToday": 338
+    },
+    "createdAt": "2026-09-12T06:59:10.256Z"
+  },
+  {
+    "id": "github-bilawalsidhu-gods-eye-view",
+    "source": "github",
+    "title": "bilawalsidhu / gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "score": 27552,
+    "metadata": {
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "starsToday": 8916
+    },
+    "createdAt": "2026-09-12T06:59:10.256Z"
+  },
+  {
+    "id": "github-coreyhaines31-marketingskills",
+    "source": "github",
+    "title": "coreyhaines31 / marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "score": 49676,
+    "metadata": {
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "starsToday": 2765
+    },
+    "createdAt": "2026-09-12T06:59:10.256Z"
+  },
+  {
+    "id": "github-cathrynlavery-diagram-design",
+    "source": "github",
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "score": 38589,
+    "metadata": {
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "starsToday": 7776
+    },
+    "createdAt": "2026-09-12T06:59:10.255Z"
+  },
+  {
+    "id": "github-heygen-com-hyperframes",
+    "source": "github",
+    "title": "heygen-com / hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "score": 49069,
+    "metadata": {
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "starsToday": 5100
+    },
+    "createdAt": "2026-09-12T06:59:10.255Z"
+  },
+  {
+    "id": "github-blader-humanizer",
+    "source": "github",
+    "title": "blader / humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "score": 47039,
+    "metadata": {
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "starsToday": 4649
+    },
+    "createdAt": "2026-09-12T06:59:10.254Z"
+  },
+  {
+    "id": "github-openai-skills",
+    "source": "github",
+    "title": "openai / skills",
+    "url": "https://github.com/openai/skills",
+    "score": 26952,
+    "metadata": {
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "starsToday": 1532
+    },
+    "createdAt": "2026-09-12T06:59:10.254Z"
+  },
+  {
+    "id": "github-mattpocock-skills",
+    "source": "github",
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "score": 259978,
+    "metadata": {
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsToday": 10571
+    },
+    "createdAt": "2026-09-12T06:59:10.253Z"
+  },
+  {
+    "id": "github-mksglu-context-mode",
+    "source": "github",
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "score": 22245,
+    "metadata": {
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "starsToday": 1810
+    },
+    "createdAt": "2026-09-12T06:59:10.253Z"
+  },
+  {
+    "id": "github-tt-a1i-archify",
+    "source": "github",
+    "title": "tt-a1i / archify",
+    "url": "https://github.com/tt-a1i/archify",
+    "score": 58826,
+    "metadata": {
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "starsToday": 11006
+    },
+    "createdAt": "2026-09-12T06:59:10.252Z"
+  },
+  {
+    "id": "github-openai-plugins",
+    "source": "github",
+    "title": "openai / plugins",
+    "url": "https://github.com/openai/plugins",
+    "score": 6474,
+    "metadata": {
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "starsToday": 1063
+    },
+    "createdAt": "2026-09-12T06:59:10.252Z"
+  },
+  {
+    "id": "github-humanlayer-skills",
+    "source": "github",
+    "title": "humanlayer / skills",
+    "url": "https://github.com/humanlayer/skills",
+    "score": 3816,
+    "metadata": {
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 1637
+    },
+    "createdAt": "2026-09-12T06:59:10.251Z"
+  },
+  {
+    "id": "github-affaan-m-ECC",
+    "source": "github",
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "score": 256656,
+    "metadata": {
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsToday": 8714
+    },
+    "createdAt": "2026-09-12T06:59:10.250Z"
+  },
+  {
+    "id": "github-DietrichGebert-ponytail",
+    "source": "github",
+    "title": "DietrichGebert / ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "score": 136022,
+    "metadata": {
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "starsToday": 11054
+    },
+    "createdAt": "2026-09-12T06:59:10.250Z"
+  },
+  {
+    "id": "github-ayghri-i-have-adhd",
+    "source": "github",
+    "title": "ayghri / i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 42436,
+    "metadata": {
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "starsToday": 13164
+    },
+    "createdAt": "2026-09-12T06:59:10.249Z"
+  },
+  {
+    "id": "hackernews-49669276",
+    "source": "hackernews",
+    "title": "WeWorm: Zero-Click WeChat Worm",
+    "url": "https://calif.io/research/weworm",
+    "score": 5,
+    "metadata": {
+      "author": "BlackEarth",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49669276"
+    },
+    "createdAt": "2026-09-12T05:49:10.000Z"
+  },
+  {
+    "id": "hackernews-49668777",
+    "source": "hackernews",
+    "title": "Usenet rewind archive search engine",
+    "url": "https://www.usenet-rewind.com/",
+    "score": 39,
+    "metadata": {
+      "author": "cstadler1869",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=49668777"
+    },
+    "createdAt": "2026-09-12T04:19:52.000Z"
+  },
+  {
+    "id": "hackernews-49668706",
+    "source": "hackernews",
+    "title": "Navier-Stokes Announcement",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "score": 83,
+    "metadata": {
+      "author": "rvz",
+      "commentsCount": 35,
+      "hnUrl": "https://news.ycombinator.com/item?id=49668706"
+    },
+    "createdAt": "2026-09-12T04:09:43.000Z"
+  },
+  {
+    "id": "hackernews-49668386",
+    "source": "hackernews",
+    "title": "google.com/goto: Google's anti-scraping update",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "score": 310,
+    "metadata": {
+      "author": "1e1a",
+      "commentsCount": 161,
+      "hnUrl": "https://news.ycombinator.com/item?id=49668386"
+    },
+    "createdAt": "2026-09-12T03:14:20.000Z"
+  },
+  {
+    "id": "hackernews-49668198",
+    "source": "hackernews",
+    "title": "Pandas Should Go Extinct",
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "score": 137,
+    "metadata": {
+      "author": "__eddie__",
+      "commentsCount": 74,
+      "hnUrl": "https://news.ycombinator.com/item?id=49668198"
+    },
+    "createdAt": "2026-09-12T02:42:08.000Z"
+  },
+  {
+    "id": "hackernews-49667375",
+    "source": "hackernews",
+    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+    "score": 98,
+    "metadata": {
+      "author": "upofadown",
+      "commentsCount": 54,
+      "hnUrl": "https://news.ycombinator.com/item?id=49667375"
+    },
+    "createdAt": "2026-09-12T00:40:32.000Z"
+  },
+  {
+    "id": "hackernews-49666735",
+    "source": "hackernews",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "score": 596,
+    "metadata": {
+      "author": "chao-",
+      "commentsCount": 340,
+      "hnUrl": "https://news.ycombinator.com/item?id=49666735"
+    },
+    "createdAt": "2026-09-11T23:17:42.000Z"
+  },
+  {
+    "id": "hackernews-49666146",
+    "source": "hackernews",
+    "title": "Project Blinkenlights",
+    "url": "https://blinkenlights.de/en/",
+    "score": 76,
+    "metadata": {
+      "author": "doener",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=49666146"
+    },
+    "createdAt": "2026-09-11T22:15:00.000Z"
+  },
+  {
+    "id": "hackernews-49665864",
+    "source": "hackernews",
+    "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+    "url": "https://github.com/mirza-rizvi/ResolveHQ",
+    "score": 55,
+    "metadata": {
+      "author": "mirza_rizvi",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=49665864"
+    },
+    "createdAt": "2026-09-11T21:48:00.000Z"
+  },
+  {
+    "id": "hackernews-49665711",
+    "source": "hackernews",
+    "title": "AI researchers debate how close we are to recursive self-improvement",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "score": 96,
+    "metadata": {
+      "author": "artninja1988",
+      "commentsCount": 91,
+      "hnUrl": "https://news.ycombinator.com/item?id=49665711"
+    },
+    "createdAt": "2026-09-11T21:35:29.000Z"
+  },
+  {
+    "id": "hackernews-49663373",
+    "source": "hackernews",
+    "title": "GrapheneOS' rewritten Messages app is released",
+    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+    "score": 252,
+    "metadata": {
+      "author": "microtonal",
+      "commentsCount": 172,
+      "hnUrl": "https://news.ycombinator.com/item?id=49663373"
+    },
+    "createdAt": "2026-09-11T18:50:36.000Z"
+  },
+  {
+    "id": "hackernews-49662990",
+    "source": "hackernews",
+    "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+    "score": 450,
+    "metadata": {
+      "author": "nickabe",
+      "commentsCount": 235,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662990"
+    },
+    "createdAt": "2026-09-11T18:24:55.000Z"
+  },
+  {
+    "id": "hackernews-49662767",
+    "source": "hackernews",
+    "title": "Litelm: LiteLLM Without the Bloat",
+    "url": "https://github.com/kennethwolters/litelm",
+    "score": 123,
+    "metadata": {
+      "author": "kennethwolters",
+      "commentsCount": 39,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662767"
+    },
+    "createdAt": "2026-09-11T18:10:20.000Z"
+  },
+  {
+    "id": "hackernews-49662672",
+    "source": "hackernews",
+    "title": "The EPA is planning to scrap public review rules for data center pollution",
+    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+    "score": 440,
+    "metadata": {
+      "author": "doener",
+      "commentsCount": 303,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662672"
+    },
+    "createdAt": "2026-09-11T18:05:21.000Z"
+  },
+  {
+    "id": "hackernews-49662371",
+    "source": "hackernews",
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "score": 831,
+    "metadata": {
+      "author": "meredydd",
+      "commentsCount": 819,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662371"
+    },
+    "createdAt": "2026-09-11T17:45:12.000Z"
+  },
+  {
+    "id": "hackernews-49662214",
+    "source": "hackernews",
+    "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+    "url": "https://snap.berkeley.edu/",
+    "score": 138,
+    "metadata": {
+      "author": "dr_kiszonka",
+      "commentsCount": 76,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662214"
+    },
+    "createdAt": "2026-09-11T17:36:11.000Z"
+  },
+  {
+    "id": "hackernews-49662020",
+    "source": "hackernews",
+    "title": "Mind-altering drugs played key role in rise of Andean civilization",
+    "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+    "score": 141,
+    "metadata": {
+      "author": "geneticdrifts",
+      "commentsCount": 97,
+      "hnUrl": "https://news.ycombinator.com/item?id=49662020"
+    },
+    "createdAt": "2026-09-11T17:25:23.000Z"
+  },
+  {
+    "id": "hackernews-49660149",
+    "source": "hackernews",
+    "title": "Rune is now open source",
+    "url": "https://rune.build/blog/rune-is-now-open-source",
+    "score": 170,
+    "metadata": {
+      "author": "ernestrc",
+      "commentsCount": 57,
+      "hnUrl": "https://news.ycombinator.com/item?id=49660149"
+    },
+    "createdAt": "2026-09-11T15:31:47.000Z"
+  },
+  {
+    "id": "hackernews-49656471",
+    "source": "hackernews",
+    "title": "RTK reports token savings, but our cost benchmarks disagree",
+    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+    "score": 152,
+    "metadata": {
+      "author": "michalwarda",
+      "commentsCount": 78,
+      "hnUrl": "https://news.ycombinator.com/item?id=49656471"
+    },
+    "createdAt": "2026-09-11T11:15:13.000Z"
+  },
+  {
+    "id": "hackernews-49656225",
+    "source": "hackernews",
+    "title": "Claude is only available to people over 18 years",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "score": 624,
+    "metadata": {
+      "author": "Muhammad523",
+      "commentsCount": 622,
+      "hnUrl": "https://news.ycombinator.com/item?id=49656225"
+    },
+    "createdAt": "2026-09-11T10:48:00.000Z"
+  },
+  {
+    "id": "hackernews-49652105",
+    "source": "hackernews",
+    "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "score": 336,
+    "metadata": {
+      "author": "lukaspetersson",
+      "commentsCount": 302,
+      "hnUrl": "https://news.ycombinator.com/item?id=49652105"
+    },
+    "createdAt": "2026-09-11T00:42:41.000Z"
+  },
+  {
+    "id": "hackernews-49649789",
+    "source": "hackernews",
+    "title": "Show HN: Bodily Oddities",
+    "url": "https://vester.si/bodily-oddities/",
+    "score": 209,
+    "metadata": {
+      "author": "vesterde",
+      "commentsCount": 149,
+      "hnUrl": "https://news.ycombinator.com/item?id=49649789"
+    },
+    "createdAt": "2026-09-10T20:33:11.000Z"
+  },
+  {
+    "id": "hackernews-49643011",
+    "source": "hackernews",
+    "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
+    "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
+    "score": 20,
+    "metadata": {
+      "author": "mooreds",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=49643011"
+    },
+    "createdAt": "2026-09-10T12:59:26.000Z"
+  },
+  {
+    "id": "hackernews-49635043",
+    "source": "hackernews",
+    "title": "How we rebuilt complex permissions without migrating to Zanzibar",
+    "url": "https://infisical.com/blog/folder-based-rbac",
+    "score": 44,
+    "metadata": {
+      "author": "FinnLobsien",
+      "commentsCount": 11,
+      "hnUrl": "https://news.ycombinator.com/item?id=49635043"
+    },
+    "createdAt": "2026-09-09T21:59:10.000Z"
+  },
+  {
+    "id": "hackernews-49634928",
+    "source": "hackernews",
+    "title": "Testing Race Conditions",
+    "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+    "score": 39,
+    "metadata": {
+      "author": "alpaylan",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=49634928"
+    },
+    "createdAt": "2026-09-09T21:51:02.000Z"
+  },
+  {
+    "id": "hackernews-49626718",
+    "source": "hackernews",
+    "title": "A Design Space Exploration of Async/Await",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "score": 237,
+    "metadata": {
+      "author": "wcrichton",
+      "commentsCount": 51,
+      "hnUrl": "https://news.ycombinator.com/item?id=49626718"
+    },
+    "createdAt": "2026-09-09T13:59:50.000Z"
+  },
+  {
+    "id": "hackernews-49624717",
+    "source": "hackernews",
+    "title": "AlphaGenome maps 9B DNA variants",
+    "url": "https://spectrum.ieee.org/alphagenome-atlas",
+    "score": 81,
+    "metadata": {
+      "author": "ltononro",
+      "commentsCount": 7,
+      "hnUrl": "https://news.ycombinator.com/item?id=49624717"
+    },
+    "createdAt": "2026-09-09T11:30:51.000Z"
+  },
+  {
+    "id": "hackernews-49624456",
+    "source": "hackernews",
+    "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+    "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+    "score": 46,
+    "metadata": {
+      "author": "bookofjoe",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49624456"
+    },
+    "createdAt": "2026-09-09T11:01:10.000Z"
+  },
+  {
+    "id": "hackernews-49622406",
+    "source": "hackernews",
+    "title": "Logo Programming",
+    "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+    "score": 263,
+    "metadata": {
+      "author": "azhenley",
+      "commentsCount": 106,
+      "hnUrl": "https://news.ycombinator.com/item?id=49622406"
+    },
+    "createdAt": "2026-09-09T07:07:26.000Z"
+  },
+  {
+    "id": "hackernews-49601138",
+    "source": "hackernews",
+    "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+    "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+    "score": 203,
+    "metadata": {
+      "author": "adastral",
+      "commentsCount": 75,
+      "hnUrl": "https://news.ycombinator.com/item?id=49601138"
+    },
+    "createdAt": "2026-09-07T18:05:04.000Z"
+  },
+  {
     "id": "github-majd-ipatool",
     "source": "github",
     "title": "majd / ipatool",
@@ -78,19 +767,6 @@
     "createdAt": "2026-09-05T06:46:50.374Z"
   },
   {
-    "id": "github-ChromeDevTools-chrome-devtools-mcp",
-    "source": "github",
-    "title": "ChromeDevTools / chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "score": 50955,
-    "metadata": {
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "starsToday": 1067
-    },
-    "createdAt": "2026-09-05T06:46:50.374Z"
-  },
-  {
     "id": "github-colinhacks-zod",
     "source": "github",
     "title": "colinhacks / zod",
@@ -115,32 +791,6 @@
       "starsToday": 1975
     },
     "createdAt": "2026-09-05T06:46:50.373Z"
-  },
-  {
-    "id": "github-fmtlib-fmt",
-    "source": "github",
-    "title": "fmtlib / fmt",
-    "url": "https://github.com/fmtlib/fmt",
-    "score": 25501,
-    "metadata": {
-      "description": "A modern formatting library",
-      "language": "C++",
-      "starsToday": 1671
-    },
-    "createdAt": "2026-09-05T06:46:50.372Z"
-  },
-  {
-    "id": "github-every-app-open-seo",
-    "source": "github",
-    "title": "every-app / open-seo",
-    "url": "https://github.com/every-app/open-seo",
-    "score": 17088,
-    "metadata": {
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "starsToday": 2950
-    },
-    "createdAt": "2026-09-05T06:46:50.372Z"
   },
   {
     "id": "github-p-e-w-heretic",
@@ -219,45 +869,6 @@
       "starsToday": 3390
     },
     "createdAt": "2026-09-05T06:46:50.370Z"
-  },
-  {
-    "id": "github-THU-MAIC-OpenMAIC",
-    "source": "github",
-    "title": "THU-MAIC / OpenMAIC",
-    "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "score": 31611,
-    "metadata": {
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "language": "TypeScript",
-      "starsToday": 10274
-    },
-    "createdAt": "2026-09-05T06:46:50.369Z"
-  },
-  {
-    "id": "github-bilawalsidhu-gods-eye-view",
-    "source": "github",
-    "title": "bilawalsidhu / gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "score": 17642,
-    "metadata": {
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "starsToday": 7314
-    },
-    "createdAt": "2026-09-05T06:46:50.369Z"
-  },
-  {
-    "id": "github-tt-a1i-archify",
-    "source": "github",
-    "title": "tt-a1i / archify",
-    "url": "https://github.com/tt-a1i/archify",
-    "score": 48461,
-    "metadata": {
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "starsToday": 21896
-    },
-    "createdAt": "2026-09-05T06:46:50.368Z"
   },
   {
     "id": "hackernews-49573455",
@@ -1404,19 +2015,6 @@
     "createdAt": "2026-08-22T02:55:51.090Z"
   },
   {
-    "id": "github-cathrynlavery-diagram-design",
-    "source": "github",
-    "title": "cathrynlavery / diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "score": 25050,
-    "metadata": {
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "starsToday": 8457
-    },
-    "createdAt": "2026-08-22T02:55:51.089Z"
-  },
-  {
     "id": "github-cordiverse-cordis",
     "source": "github",
     "title": "cordiverse / cordis",
@@ -2353,19 +2951,6 @@
     "createdAt": "2026-08-08T03:35:12.999Z"
   },
   {
-    "id": "github-ayghri-i-have-adhd",
-    "source": "github",
-    "title": "ayghri / i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "score": 18191,
-    "metadata": {
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "starsToday": 3497
-    },
-    "createdAt": "2026-08-08T03:35:12.998Z"
-  },
-  {
     "id": "github-embabel-embabel-agent",
     "source": "github",
     "title": "embabel / embabel-agent",
@@ -3066,19 +3651,6 @@
       "starsToday": 2765
     },
     "createdAt": "2026-08-01T05:32:16.850Z"
-  },
-  {
-    "id": "github-mattpocock-skills",
-    "source": "github",
-    "title": "mattpocock / skills",
-    "url": "https://github.com/mattpocock/skills",
-    "score": 198045,
-    "metadata": {
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "starsToday": 11622
-    },
-    "createdAt": "2026-08-01T05:32:16.849Z"
   },
   {
     "id": "github-1jehuang-jcode",

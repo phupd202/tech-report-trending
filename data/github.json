@@ -1,262 +1,301 @@
 [
   {
+    "id": "github-ayghri-i-have-adhd",
+    "source": "github",
+    "title": "ayghri / i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 42436,
+    "metadata": {
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "starsToday": 13164
+    },
+    "createdAt": "2026-09-12T06:59:10.249Z"
+  },
+  {
+    "id": "github-affaan-m-ECC",
+    "source": "github",
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "score": 256656,
+    "metadata": {
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsToday": 8714
+    },
+    "createdAt": "2026-09-12T06:59:10.250Z"
+  },
+  {
+    "id": "github-DietrichGebert-ponytail",
+    "source": "github",
+    "title": "DietrichGebert / ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "score": 136022,
+    "metadata": {
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "starsToday": 11054
+    },
+    "createdAt": "2026-09-12T06:59:10.250Z"
+  },
+  {
+    "id": "github-humanlayer-skills",
+    "source": "github",
+    "title": "humanlayer / skills",
+    "url": "https://github.com/humanlayer/skills",
+    "score": 3816,
+    "metadata": {
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 1637
+    },
+    "createdAt": "2026-09-12T06:59:10.251Z"
+  },
+  {
+    "id": "github-openai-plugins",
+    "source": "github",
+    "title": "openai / plugins",
+    "url": "https://github.com/openai/plugins",
+    "score": 6474,
+    "metadata": {
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "starsToday": 1063
+    },
+    "createdAt": "2026-09-12T06:59:10.252Z"
+  },
+  {
     "id": "github-tt-a1i-archify",
     "source": "github",
     "title": "tt-a1i / archify",
     "url": "https://github.com/tt-a1i/archify",
-    "score": 48461,
+    "score": 58826,
     "metadata": {
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "starsToday": 21896
+      "starsToday": 11006
     },
-    "createdAt": "2026-09-05T06:46:50.368Z"
+    "createdAt": "2026-09-12T06:59:10.252Z"
   },
   {
-    "id": "github-THU-MAIC-OpenMAIC",
+    "id": "github-mksglu-context-mode",
     "source": "github",
-    "title": "THU-MAIC / OpenMAIC",
-    "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "score": 31611,
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "score": 22245,
     "metadata": {
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "starsToday": 10274
+      "starsToday": 1810
     },
-    "createdAt": "2026-09-05T06:46:50.369Z"
+    "createdAt": "2026-09-12T06:59:10.253Z"
   },
   {
-    "id": "github-bilawalsidhu-gods-eye-view",
+    "id": "github-mattpocock-skills",
     "source": "github",
-    "title": "bilawalsidhu / gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "score": 17642,
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "score": 259978,
     "metadata": {
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "starsToday": 7314
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsToday": 10571
     },
-    "createdAt": "2026-09-05T06:46:50.369Z"
+    "createdAt": "2026-09-12T06:59:10.253Z"
   },
   {
-    "id": "github-Gitlawb-openclaude",
+    "id": "github-blader-humanizer",
     "source": "github",
-    "title": "Gitlawb / openclaude",
-    "url": "https://github.com/Gitlawb/openclaude",
-    "score": 32619,
+    "title": "blader / humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "score": 47039,
     "metadata": {
-      "description": "runs anywhere. uses anything",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "starsToday": 4649
+    },
+    "createdAt": "2026-09-12T06:59:10.254Z"
+  },
+  {
+    "id": "github-openai-skills",
+    "source": "github",
+    "title": "openai / skills",
+    "url": "https://github.com/openai/skills",
+    "score": 26952,
+    "metadata": {
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "starsToday": 1532
+    },
+    "createdAt": "2026-09-12T06:59:10.254Z"
+  },
+  {
+    "id": "github-heygen-com-hyperframes",
+    "source": "github",
+    "title": "heygen-com / hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "score": 49069,
+    "metadata": {
+      "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "starsToday": 1679
+      "starsToday": 5100
     },
-    "createdAt": "2026-09-05T06:46:50.370Z"
+    "createdAt": "2026-09-12T06:59:10.255Z"
   },
   {
-    "id": "github-google-research-timesfm",
+    "id": "github-cathrynlavery-diagram-design",
     "source": "github",
-    "title": "google-research / timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "score": 31132,
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "score": 38589,
     "metadata": {
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "starsToday": 2653
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "starsToday": 7776
     },
-    "createdAt": "2026-09-05T06:46:50.370Z"
-  },
-  {
-    "id": "github-jingyaogong-minimind",
-    "source": "github",
-    "title": "jingyaogong / minimind",
-    "url": "https://github.com/jingyaogong/minimind",
-    "score": 58604,
-    "metadata": {
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "starsToday": 3390
-    },
-    "createdAt": "2026-09-05T06:46:50.370Z"
-  },
-  {
-    "id": "github-K-Dense-AI-scientific-agent-skills",
-    "source": "github",
-    "title": "K-Dense-AI / scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "score": 42710,
-    "metadata": {
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "starsToday": 6898
-    },
-    "createdAt": "2026-09-05T06:46:50.371Z"
-  },
-  {
-    "id": "github-Lakr233-vphone-cli",
-    "source": "github",
-    "title": "Lakr233 / vphone-cli",
-    "url": "https://github.com/Lakr233/vphone-cli",
-    "score": 10579,
-    "metadata": {
-      "description": "",
-      "language": "Swift",
-      "starsToday": 1982
-    },
-    "createdAt": "2026-09-05T06:46:50.371Z"
+    "createdAt": "2026-09-12T06:59:10.255Z"
   },
   {
     "id": "github-fmtlib-fmt",
     "source": "github",
     "title": "fmtlib / fmt",
     "url": "https://github.com/fmtlib/fmt",
-    "score": 25501,
+    "score": 25749,
     "metadata": {
       "description": "A modern formatting library",
       "language": "C++",
-      "starsToday": 1671
+      "starsToday": 338
     },
-    "createdAt": "2026-09-05T06:46:50.372Z"
+    "createdAt": "2026-09-12T06:59:10.256Z"
   },
   {
-    "id": "github-every-app-open-seo",
+    "id": "github-bilawalsidhu-gods-eye-view",
     "source": "github",
-    "title": "every-app / open-seo",
-    "url": "https://github.com/every-app/open-seo",
-    "score": 17088,
+    "title": "bilawalsidhu / gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "score": 27552,
     "metadata": {
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "starsToday": 2950
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "starsToday": 8916
     },
-    "createdAt": "2026-09-05T06:46:50.372Z"
+    "createdAt": "2026-09-12T06:59:10.256Z"
   },
   {
-    "id": "github-p-e-w-heretic",
+    "id": "github-coreyhaines31-marketingskills",
     "source": "github",
-    "title": "p-e-w / heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "score": 30492,
+    "title": "coreyhaines31 / marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "score": 49676,
     "metadata": {
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "starsToday": 2065
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "starsToday": 2765
     },
-    "createdAt": "2026-09-05T06:46:50.372Z"
-  },
-  {
-    "id": "github-colinhacks-zod",
-    "source": "github",
-    "title": "colinhacks / zod",
-    "url": "https://github.com/colinhacks/zod",
-    "score": 43839,
-    "metadata": {
-      "description": "TypeScript-first schema validation with static type inference",
-      "language": "TypeScript",
-      "starsToday": 297
-    },
-    "createdAt": "2026-09-05T06:46:50.373Z"
-  },
-  {
-    "id": "github-handsomestWei-patent-disclosure-skill",
-    "source": "github",
-    "title": "handsomestWei / patent-disclosure-skill",
-    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-    "score": 7402,
-    "metadata": {
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "language": "Python",
-      "starsToday": 1975
-    },
-    "createdAt": "2026-09-05T06:46:50.373Z"
-  },
-  {
-    "id": "github-debpalash-VoiceStudio",
-    "source": "github",
-    "title": "debpalash / VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "score": 18300,
-    "metadata": {
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "starsToday": 5150
-    },
-    "createdAt": "2026-09-05T06:46:50.374Z"
-  },
-  {
-    "id": "github-punkpeye-awesome-mcp-servers",
-    "source": "github",
-    "title": "punkpeye / awesome-mcp-servers",
-    "url": "https://github.com/punkpeye/awesome-mcp-servers",
-    "score": 94194,
-    "metadata": {
-      "description": "A collection of MCP servers.",
-      "language": "",
-      "starsToday": 1198
-    },
-    "createdAt": "2026-09-05T06:46:50.374Z"
-  },
-  {
-    "id": "github-abi-screenshot-to-code",
-    "source": "github",
-    "title": "abi / screenshot-to-code",
-    "url": "https://github.com/abi/screenshot-to-code",
-    "score": 77735,
-    "metadata": {
-      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "language": "Python",
-      "starsToday": 2372
-    },
-    "createdAt": "2026-09-05T06:46:50.374Z"
+    "createdAt": "2026-09-12T06:59:10.256Z"
   },
   {
     "id": "github-ChromeDevTools-chrome-devtools-mcp",
     "source": "github",
     "title": "ChromeDevTools / chrome-devtools-mcp",
     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "score": 50955,
+    "score": 51704,
     "metadata": {
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "starsToday": 1067
+      "starsToday": 804
     },
-    "createdAt": "2026-09-05T06:46:50.374Z"
+    "createdAt": "2026-09-12T06:59:10.257Z"
   },
   {
-    "id": "github-majd-ipatool",
+    "id": "github-microsoft-markitdown",
     "source": "github",
-    "title": "majd / ipatool",
-    "url": "https://github.com/majd/ipatool",
-    "score": 10887,
+    "title": "microsoft / markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "score": 182765,
     "metadata": {
-      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "language": "Go",
-      "starsToday": 903
-    },
-    "createdAt": "2026-09-05T06:46:50.375Z"
-  },
-  {
-    "id": "github-MakazhanAlpamys-Soup",
-    "source": "github",
-    "title": "MakazhanAlpamys / Soup",
-    "url": "https://github.com/MakazhanAlpamys/Soup",
-    "score": 5322,
-    "metadata": {
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "starsToday": 1808
+      "starsToday": 4650
     },
-    "createdAt": "2026-09-05T06:46:50.375Z"
+    "createdAt": "2026-09-12T06:59:10.257Z"
   },
   {
-    "id": "github-OpenWhispr-openwhispr",
+    "id": "github-NousResearch-hermes-agent",
     "source": "github",
-    "title": "OpenWhispr / openwhispr",
-    "url": "https://github.com/OpenWhispr/openwhispr",
-    "score": 6836,
+    "title": "NousResearch / hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "score": 244687,
     "metadata": {
-      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
-      "language": "JavaScript",
-      "starsToday": 794
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "starsToday": 3481
     },
-    "createdAt": "2026-09-05T06:46:50.375Z"
+    "createdAt": "2026-09-12T06:59:10.257Z"
+  },
+  {
+    "id": "github-ruvnet-ruflo",
+    "source": "github",
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "score": 72171,
+    "metadata": {
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "starsToday": 1726
+    },
+    "createdAt": "2026-09-12T06:59:10.258Z"
+  },
+  {
+    "id": "github-THU-MAIC-OpenMAIC",
+    "source": "github",
+    "title": "THU-MAIC / OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "score": 35977,
+    "metadata": {
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "starsToday": 4509
+    },
+    "createdAt": "2026-09-12T06:59:10.258Z"
+  },
+  {
+    "id": "github-Tencent-WeKnora",
+    "source": "github",
+    "title": "Tencent / WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "score": 22451,
+    "metadata": {
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "starsToday": 964
+    },
+    "createdAt": "2026-09-12T06:59:10.258Z"
+  },
+  {
+    "id": "github-jakubkrehel-skills",
+    "source": "github",
+    "title": "jakubkrehel / skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "score": 6340,
+    "metadata": {
+      "description": "A collection of agent skills that help you build a great interface.",
+      "language": "Markdown",
+      "starsToday": 691
+    },
+    "createdAt": "2026-09-12T06:59:10.259Z"
+  },
+  {
+    "id": "github-every-app-open-seo",
+    "source": "github",
+    "title": "every-app / open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "score": 18469,
+    "metadata": {
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "starsToday": 1507
+    },
+    "createdAt": "2026-09-12T06:59:10.259Z"
   }
 ]
