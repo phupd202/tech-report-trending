@@ -1,5 +1,668 @@
 [
   {
+    "id": "github-petergyang-no-ai-slop",
+    "source": "github",
+    "title": "petergyang / no-ai-slop",
+    "url": "https://github.com/petergyang/no-ai-slop",
+    "score": 10605,
+    "metadata": {
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "starsToday": 2189
+    },
+    "createdAt": "2026-09-19T07:08:38.554Z"
+  },
+  {
+    "id": "github-danny-avila-LibreChat",
+    "source": "github",
+    "title": "danny-avila / LibreChat",
+    "url": "https://github.com/danny-avila/LibreChat",
+    "score": 44348,
+    "metadata": {
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "starsToday": 1528
+    },
+    "createdAt": "2026-09-19T07:08:38.554Z"
+  },
+  {
+    "id": "github-microsoft-markitdown",
+    "source": "github",
+    "title": "microsoft / markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "score": 185478,
+    "metadata": {
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "starsToday": 2841
+    },
+    "createdAt": "2026-09-19T07:08:38.553Z"
+  },
+  {
+    "id": "github-heygen-com-hyperframes",
+    "source": "github",
+    "title": "heygen-com / hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "score": 51475,
+    "metadata": {
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "starsToday": 2401
+    },
+    "createdAt": "2026-09-19T07:08:38.553Z"
+  },
+  {
+    "id": "github-stablyai-orca",
+    "source": "github",
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "score": 72135,
+    "metadata": {
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "starsToday": 5272
+    },
+    "createdAt": "2026-09-19T07:08:38.553Z"
+  },
+  {
+    "id": "github-Panniantong-Agent-Reach",
+    "source": "github",
+    "title": "Panniantong / Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "score": 83208,
+    "metadata": {
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "starsToday": 3766
+    },
+    "createdAt": "2026-09-19T07:08:38.553Z"
+  },
+  {
+    "id": "github-obra-superpowers",
+    "source": "github",
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "score": 288605,
+    "metadata": {
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "starsToday": 3573
+    },
+    "createdAt": "2026-09-19T07:08:38.553Z"
+  },
+  {
+    "id": "github-home-assistant-core",
+    "source": "github",
+    "title": "home-assistant / core",
+    "url": "https://github.com/home-assistant/core",
+    "score": 90753,
+    "metadata": {
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "starsToday": 357
+    },
+    "createdAt": "2026-09-19T07:08:38.553Z"
+  },
+  {
+    "id": "github-blader-humanizer",
+    "source": "github",
+    "title": "blader / humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "score": 50012,
+    "metadata": {
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "starsToday": 3118
+    },
+    "createdAt": "2026-09-19T07:08:38.552Z"
+  },
+  {
+    "id": "github-openai-plugins",
+    "source": "github",
+    "title": "openai / plugins",
+    "url": "https://github.com/openai/plugins",
+    "score": 6988,
+    "metadata": {
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "starsToday": 542
+    },
+    "createdAt": "2026-09-19T07:08:38.552Z"
+  },
+  {
+    "id": "github-addyosmani-agent-skills",
+    "source": "github",
+    "title": "addyosmani / agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "score": 96546,
+    "metadata": {
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "starsToday": 3051
+    },
+    "createdAt": "2026-09-19T07:08:38.552Z"
+  },
+  {
+    "id": "github-max-sixty-worktrunk",
+    "source": "github",
+    "title": "max-sixty / worktrunk",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "score": 8048,
+    "metadata": {
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "starsToday": 1104
+    },
+    "createdAt": "2026-09-19T07:08:38.552Z"
+  },
+  {
+    "id": "github-anthropics-knowledge-work-plugins",
+    "source": "github",
+    "title": "anthropics / knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "score": 24943,
+    "metadata": {
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "starsToday": 776
+    },
+    "createdAt": "2026-09-19T07:08:38.552Z"
+  },
+  {
+    "id": "github-kunchenguid-firstmate",
+    "source": "github",
+    "title": "kunchenguid / firstmate",
+    "url": "https://github.com/kunchenguid/firstmate",
+    "score": 6590,
+    "metadata": {
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "starsToday": 990
+    },
+    "createdAt": "2026-09-19T07:08:38.552Z"
+  },
+  {
+    "id": "github-Tencent-WeKnora",
+    "source": "github",
+    "title": "Tencent / WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "score": 27116,
+    "metadata": {
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "starsToday": 4703
+    },
+    "createdAt": "2026-09-19T07:08:38.551Z"
+  },
+  {
+    "id": "github-mksglu-context-mode",
+    "source": "github",
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "score": 23579,
+    "metadata": {
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "starsToday": 1398
+    },
+    "createdAt": "2026-09-19T07:08:38.551Z"
+  },
+  {
+    "id": "github-anthropics-claude-code",
+    "source": "github",
+    "title": "anthropics / claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "score": 146423,
+    "metadata": {
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "starsToday": 1620
+    },
+    "createdAt": "2026-09-19T07:08:38.551Z"
+  },
+  {
+    "id": "github-bilawalsidhu-gods-eye-view",
+    "source": "github",
+    "title": "bilawalsidhu / gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "score": 38022,
+    "metadata": {
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "starsToday": 11683
+    },
+    "createdAt": "2026-09-19T07:08:38.550Z"
+  },
+  {
+    "id": "github-affaan-m-ECC",
+    "source": "github",
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "score": 262277,
+    "metadata": {
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsToday": 5877
+    },
+    "createdAt": "2026-09-19T07:08:38.550Z"
+  },
+  {
+    "id": "github-ayghri-i-have-adhd",
+    "source": "github",
+    "title": "ayghri / i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "score": 48275,
+    "metadata": {
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "starsToday": 7869
+    },
+    "createdAt": "2026-09-19T07:08:38.550Z"
+  },
+  {
+    "id": "github-alibaba-open-code-review",
+    "source": "github",
+    "title": "alibaba / open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "score": 36947,
+    "metadata": {
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "starsToday": 14144
+    },
+    "createdAt": "2026-09-19T07:08:38.549Z"
+  },
+  {
+    "id": "hackernews-49763928",
+    "source": "hackernews",
+    "title": "If math is more than proof, we need to better celebrate the rest of it",
+    "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "score": 18,
+    "metadata": {
+      "author": "num42",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=49763928"
+    },
+    "createdAt": "2026-09-19T06:28:02.000Z"
+  },
+  {
+    "id": "hackernews-49763697",
+    "source": "hackernews",
+    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "score": 88,
+    "metadata": {
+      "author": "emigre",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=49763697"
+    },
+    "createdAt": "2026-09-19T05:48:50.000Z"
+  },
+  {
+    "id": "hackernews-49763379",
+    "source": "hackernews",
+    "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+    "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+    "score": 11,
+    "metadata": {
+      "author": "noobplus",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=49763379"
+    },
+    "createdAt": "2026-09-19T04:44:35.000Z"
+  },
+  {
+    "id": "hackernews-49763296",
+    "source": "hackernews",
+    "title": "San Francisco Onion Futures Company",
+    "url": "https://onionfutures.com/",
+    "score": 143,
+    "metadata": {
+      "author": "z-mach9",
+      "commentsCount": 51,
+      "hnUrl": "https://news.ycombinator.com/item?id=49763296"
+    },
+    "createdAt": "2026-09-19T04:23:30.000Z"
+  },
+  {
+    "id": "hackernews-49762744",
+    "source": "hackernews",
+    "title": "SDCC – Small Device C Compiler",
+    "url": "https://sdcc.sourceforge.net/",
+    "score": 57,
+    "metadata": {
+      "author": "lioeters",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=49762744"
+    },
+    "createdAt": "2026-09-19T02:32:36.000Z"
+  },
+  {
+    "id": "hackernews-49762687",
+    "source": "hackernews",
+    "title": "Science Is Open Software",
+    "url": "https://jepedersen.dk/blog/202505_research/",
+    "score": 62,
+    "metadata": {
+      "author": "jegp",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=49762687"
+    },
+    "createdAt": "2026-09-19T02:21:35.000Z"
+  },
+  {
+    "id": "hackernews-49761840",
+    "source": "hackernews",
+    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+    "score": 110,
+    "metadata": {
+      "author": "yogthos",
+      "commentsCount": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=49761840"
+    },
+    "createdAt": "2026-09-18T23:54:42.000Z"
+  },
+  {
+    "id": "hackernews-49761432",
+    "source": "hackernews",
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "score": 106,
+    "metadata": {
+      "author": "maxall4",
+      "commentsCount": 76,
+      "hnUrl": "https://news.ycombinator.com/item?id=49761432"
+    },
+    "createdAt": "2026-09-18T23:04:17.000Z"
+  },
+  {
+    "id": "hackernews-49760187",
+    "source": "hackernews",
+    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "url": "https://code.claude.com/docs/en/changelog",
+    "score": 628,
+    "metadata": {
+      "author": "datadrivenangel",
+      "commentsCount": 221,
+      "hnUrl": "https://news.ycombinator.com/item?id=49760187"
+    },
+    "createdAt": "2026-09-18T21:00:32.000Z"
+  },
+  {
+    "id": "hackernews-49758736",
+    "source": "hackernews",
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "score": 763,
+    "metadata": {
+      "author": "theanonymousone",
+      "commentsCount": 367,
+      "hnUrl": "https://news.ycombinator.com/item?id=49758736"
+    },
+    "createdAt": "2026-09-18T19:03:09.000Z"
+  },
+  {
+    "id": "hackernews-49758615",
+    "source": "hackernews",
+    "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+    "url": "https://arxiv.org/abs/2510.03215",
+    "score": 82,
+    "metadata": {
+      "author": "rochansinha",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=49758615"
+    },
+    "createdAt": "2026-09-18T18:55:35.000Z"
+  },
+  {
+    "id": "hackernews-49758580",
+    "source": "hackernews",
+    "title": "Saving another 100TB of RAM",
+    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "score": 330,
+    "metadata": {
+      "author": "f311a",
+      "commentsCount": 64,
+      "hnUrl": "https://news.ycombinator.com/item?id=49758580"
+    },
+    "createdAt": "2026-09-18T18:51:46.000Z"
+  },
+  {
+    "id": "hackernews-49758419",
+    "source": "hackernews",
+    "title": "Xcode 27.1 Beta Release Notes",
+    "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "score": 135,
+    "metadata": {
+      "author": "CameronBanga",
+      "commentsCount": 95,
+      "hnUrl": "https://news.ycombinator.com/item?id=49758419"
+    },
+    "createdAt": "2026-09-18T18:39:31.000Z"
+  },
+  {
+    "id": "hackernews-49757050",
+    "source": "hackernews",
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "score": 185,
+    "metadata": {
+      "author": "synack",
+      "commentsCount": 66,
+      "hnUrl": "https://news.ycombinator.com/item?id=49757050"
+    },
+    "createdAt": "2026-09-18T16:54:18.000Z"
+  },
+  {
+    "id": "hackernews-49754785",
+    "source": "hackernews",
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "score": 678,
+    "metadata": {
+      "author": "jcbhmr",
+      "commentsCount": 273,
+      "hnUrl": "https://news.ycombinator.com/item?id=49754785"
+    },
+    "createdAt": "2026-09-18T14:18:41.000Z"
+  },
+  {
+    "id": "hackernews-49752041",
+    "source": "hackernews",
+    "title": "OpenJev",
+    "url": "https://openjev.com/",
+    "score": 606,
+    "metadata": {
+      "author": "ilreb",
+      "commentsCount": 257,
+      "hnUrl": "https://news.ycombinator.com/item?id=49752041"
+    },
+    "createdAt": "2026-09-18T09:42:22.000Z"
+  },
+  {
+    "id": "hackernews-49750694",
+    "source": "hackernews",
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "score": 289,
+    "metadata": {
+      "author": "csmantle",
+      "commentsCount": 97,
+      "hnUrl": "https://news.ycombinator.com/item?id=49750694"
+    },
+    "createdAt": "2026-09-18T06:11:17.000Z"
+  },
+  {
+    "id": "hackernews-49749724",
+    "source": "hackernews",
+    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "score": 137,
+    "metadata": {
+      "author": "succinct_ideas",
+      "commentsCount": 49,
+      "hnUrl": "https://news.ycombinator.com/item?id=49749724"
+    },
+    "createdAt": "2026-09-18T02:56:48.000Z"
+  },
+  {
+    "id": "hackernews-49749369",
+    "source": "hackernews",
+    "title": "Minimal Phone 2",
+    "url": "https://minimalcompany.com/",
+    "score": 246,
+    "metadata": {
+      "author": "nashashmi",
+      "commentsCount": 210,
+      "hnUrl": "https://news.ycombinator.com/item?id=49749369"
+    },
+    "createdAt": "2026-09-18T02:00:25.000Z"
+  },
+  {
+    "id": "hackernews-49748553",
+    "source": "hackernews",
+    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+    "url": "https://cactuscompute.com/needle",
+    "score": 194,
+    "metadata": {
+      "author": "HenryNdubuaku",
+      "commentsCount": 85,
+      "hnUrl": "https://news.ycombinator.com/item?id=49748553"
+    },
+    "createdAt": "2026-09-18T00:11:44.000Z"
+  },
+  {
+    "id": "hackernews-49747070",
+    "source": "hackernews",
+    "title": "How to Write with an LLM",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "score": 468,
+    "metadata": {
+      "author": "joeriddles",
+      "commentsCount": 314,
+      "hnUrl": "https://news.ycombinator.com/item?id=49747070"
+    },
+    "createdAt": "2026-09-17T21:48:38.000Z"
+  },
+  {
+    "id": "hackernews-49746626",
+    "source": "hackernews",
+    "title": "How SpaceX streamlined the Raptor engine",
+    "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+    "score": 199,
+    "metadata": {
+      "author": "JumpCrisscross",
+      "commentsCount": 72,
+      "hnUrl": "https://news.ycombinator.com/item?id=49746626"
+    },
+    "createdAt": "2026-09-17T21:14:19.000Z"
+  },
+  {
+    "id": "hackernews-49744704",
+    "source": "hackernews",
+    "title": "The first new cat species discovered in 100 years",
+    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "score": 254,
+    "metadata": {
+      "author": "ohjeez",
+      "commentsCount": 90,
+      "hnUrl": "https://news.ycombinator.com/item?id=49744704"
+    },
+    "createdAt": "2026-09-17T18:31:56.000Z"
+  },
+  {
+    "id": "hackernews-49744036",
+    "source": "hackernews",
+    "title": "The Farnese letter",
+    "url": "https://simonklee.dk/farnese-letter",
+    "score": 40,
+    "metadata": {
+      "author": "grigolin",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=49744036"
+    },
+    "createdAt": "2026-09-17T17:39:01.000Z"
+  },
+  {
+    "id": "hackernews-49735541",
+    "source": "hackernews",
+    "title": "Ctenophores: Wonders of Biology",
+    "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+    "score": 8,
+    "metadata": {
+      "author": "randomImmigrant",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=49735541"
+    },
+    "createdAt": "2026-09-17T01:58:25.000Z"
+  },
+  {
+    "id": "hackernews-49734131",
+    "source": "hackernews",
+    "title": "Why building a Rust LSP is hard",
+    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "score": 46,
+    "metadata": {
+      "author": "agluszak",
+      "commentsCount": 24,
+      "hnUrl": "https://news.ycombinator.com/item?id=49734131"
+    },
+    "createdAt": "2026-09-16T22:51:16.000Z"
+  },
+  {
+    "id": "hackernews-49733647",
+    "source": "hackernews",
+    "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+    "url": "https://github.com/awlevin/typesafe-computer-use",
+    "score": 57,
+    "metadata": {
+      "author": "rahimnathwani",
+      "commentsCount": 19,
+      "hnUrl": "https://news.ycombinator.com/item?id=49733647"
+    },
+    "createdAt": "2026-09-16T22:01:49.000Z"
+  },
+  {
+    "id": "hackernews-49731413",
+    "source": "hackernews",
+    "title": "Cyclomatic Complexity in C#",
+    "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "score": 53,
+    "metadata": {
+      "author": "gone35",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=49731413"
+    },
+    "createdAt": "2026-09-16T19:01:09.000Z"
+  },
+  {
+    "id": "hackernews-49730069",
+    "source": "hackernews",
+    "title": "You can run Git on object storage if you re-make packfiles",
+    "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+    "score": 20,
+    "metadata": {
+      "author": "evacchi",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=49730069"
+    },
+    "createdAt": "2026-09-16T17:16:11.000Z"
+  },
+  {
+    "id": "hackernews-49726773",
+    "source": "hackernews",
+    "title": "Goroutine Leak Profiles",
+    "url": "https://go.dev/blog/goroutine-leak-profiles",
+    "score": 24,
+    "metadata": {
+      "author": "torutofu",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49726773"
+    },
+    "createdAt": "2026-09-16T13:30:30.000Z"
+  },
+  {
     "id": "github-every-app-open-seo",
     "source": "github",
     "title": "every-app / open-seo",
@@ -52,19 +715,6 @@
     "createdAt": "2026-09-12T06:59:10.258Z"
   },
   {
-    "id": "github-Tencent-WeKnora",
-    "source": "github",
-    "title": "Tencent / WeKnora",
-    "url": "https://github.com/Tencent/WeKnora",
-    "score": 22451,
-    "metadata": {
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "starsToday": 964
-    },
-    "createdAt": "2026-09-12T06:59:10.258Z"
-  },
-  {
     "id": "github-ChromeDevTools-chrome-devtools-mcp",
     "source": "github",
     "title": "ChromeDevTools / chrome-devtools-mcp",
@@ -74,19 +724,6 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "starsToday": 804
-    },
-    "createdAt": "2026-09-12T06:59:10.257Z"
-  },
-  {
-    "id": "github-microsoft-markitdown",
-    "source": "github",
-    "title": "microsoft / markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "score": 182765,
-    "metadata": {
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "starsToday": 4650
     },
     "createdAt": "2026-09-12T06:59:10.257Z"
   },
@@ -117,19 +754,6 @@
     "createdAt": "2026-09-12T06:59:10.256Z"
   },
   {
-    "id": "github-bilawalsidhu-gods-eye-view",
-    "source": "github",
-    "title": "bilawalsidhu / gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "score": 27552,
-    "metadata": {
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "starsToday": 8916
-    },
-    "createdAt": "2026-09-12T06:59:10.256Z"
-  },
-  {
     "id": "github-coreyhaines31-marketingskills",
     "source": "github",
     "title": "coreyhaines31 / marketingskills",
@@ -154,32 +778,6 @@
       "starsToday": 7776
     },
     "createdAt": "2026-09-12T06:59:10.255Z"
-  },
-  {
-    "id": "github-heygen-com-hyperframes",
-    "source": "github",
-    "title": "heygen-com / hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "score": 49069,
-    "metadata": {
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "starsToday": 5100
-    },
-    "createdAt": "2026-09-12T06:59:10.255Z"
-  },
-  {
-    "id": "github-blader-humanizer",
-    "source": "github",
-    "title": "blader / humanizer",
-    "url": "https://github.com/blader/humanizer",
-    "score": 47039,
-    "metadata": {
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "starsToday": 4649
-    },
-    "createdAt": "2026-09-12T06:59:10.254Z"
   },
   {
     "id": "github-openai-skills",
@@ -208,19 +806,6 @@
     "createdAt": "2026-09-12T06:59:10.253Z"
   },
   {
-    "id": "github-mksglu-context-mode",
-    "source": "github",
-    "title": "mksglu / context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "score": 22245,
-    "metadata": {
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "starsToday": 1810
-    },
-    "createdAt": "2026-09-12T06:59:10.253Z"
-  },
-  {
     "id": "github-tt-a1i-archify",
     "source": "github",
     "title": "tt-a1i / archify",
@@ -230,19 +815,6 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "starsToday": 11006
-    },
-    "createdAt": "2026-09-12T06:59:10.252Z"
-  },
-  {
-    "id": "github-openai-plugins",
-    "source": "github",
-    "title": "openai / plugins",
-    "url": "https://github.com/openai/plugins",
-    "score": 6474,
-    "metadata": {
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "starsToday": 1063
     },
     "createdAt": "2026-09-12T06:59:10.252Z"
   },
@@ -260,19 +832,6 @@
     "createdAt": "2026-09-12T06:59:10.251Z"
   },
   {
-    "id": "github-affaan-m-ECC",
-    "source": "github",
-    "title": "affaan-m / ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "score": 256656,
-    "metadata": {
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "starsToday": 8714
-    },
-    "createdAt": "2026-09-12T06:59:10.250Z"
-  },
-  {
     "id": "github-DietrichGebert-ponytail",
     "source": "github",
     "title": "DietrichGebert / ponytail",
@@ -284,19 +843,6 @@
       "starsToday": 11054
     },
     "createdAt": "2026-09-12T06:59:10.250Z"
-  },
-  {
-    "id": "github-ayghri-i-have-adhd",
-    "source": "github",
-    "title": "ayghri / i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "score": 42436,
-    "metadata": {
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "starsToday": 13164
-    },
-    "createdAt": "2026-09-12T06:59:10.249Z"
   },
   {
     "id": "hackernews-49669276",
@@ -2483,19 +3029,6 @@
     "createdAt": "2026-08-15T02:53:32.945Z"
   },
   {
-    "id": "github-addyosmani-agent-skills",
-    "source": "github",
-    "title": "addyosmani / agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "score": 87303,
-    "metadata": {
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "starsToday": 3845
-    },
-    "createdAt": "2026-08-15T02:53:32.944Z"
-  },
-  {
     "id": "github-cloudflare-computer",
     "source": "github",
     "title": "cloudflare / computer",
@@ -3679,19 +4212,6 @@
     "createdAt": "2026-08-01T05:32:16.847Z"
   },
   {
-    "id": "github-alibaba-open-code-review",
-    "source": "github",
-    "title": "alibaba / open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "score": 17083,
-    "metadata": {
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "starsToday": 4746
-    },
-    "createdAt": "2026-08-01T05:32:16.846Z"
-  },
-  {
     "id": "github-citrolabs-ego-lite",
     "source": "github",
     "title": "citrolabs / ego-lite",
@@ -4782,19 +5302,6 @@
       "starsToday": 1212
     },
     "createdAt": "2026-07-18T04:51:13.771Z"
-  },
-  {
-    "id": "github-stablyai-orca",
-    "source": "github",
-    "title": "stablyai / orca",
-    "url": "https://github.com/stablyai/orca",
-    "score": 21256,
-    "metadata": {
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-      "language": "TypeScript",
-      "starsToday": 5409
-    },
-    "createdAt": "2026-07-18T04:51:13.770Z"
   },
   {
     "id": "github-wonderwhy-er-DesktopCommanderMCP",
@@ -6355,19 +6862,6 @@
       "starsToday": 981
     },
     "createdAt": "2026-06-27T05:56:06.023Z"
-  },
-  {
-    "id": "github-Panniantong-Agent-Reach",
-    "source": "github",
-    "title": "Panniantong / Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "score": 42613,
-    "metadata": {
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "starsToday": 7199
-    },
-    "createdAt": "2026-06-27T05:56:06.022Z"
   },
   {
     "id": "github-jamiepine-voicebox",
@@ -8604,19 +9098,6 @@
       "starsToday": 370
     },
     "createdAt": "2026-06-14T06:29:01.120Z"
-  },
-  {
-    "id": "github-obra-superpowers",
-    "source": "github",
-    "title": "obra / superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "score": 227164,
-    "metadata": {
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "starsToday": 924
-    },
-    "createdAt": "2026-06-14T06:29:01.118Z"
   },
   {
     "id": "hackernews-48524434",
