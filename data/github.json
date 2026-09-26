@@ -1,275 +1,275 @@
 [
   {
-    "id": "github-alibaba-open-code-review",
+    "id": "github-cloudflare-security-audit-skill",
     "source": "github",
-    "title": "alibaba / open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "score": 36947,
+    "title": "cloudflare / security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "score": 21733,
     "metadata": {
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "starsToday": 14144
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "starsToday": 9547
     },
-    "createdAt": "2026-09-19T07:08:38.549Z"
+    "createdAt": "2026-09-26T07:14:49.755Z"
   },
   {
-    "id": "github-ayghri-i-have-adhd",
+    "id": "github-anthropics-financial-services",
     "source": "github",
-    "title": "ayghri / i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "score": 48275,
+    "title": "anthropics / financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "score": 37589,
     "metadata": {
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description": "",
       "language": "Python",
-      "starsToday": 7869
+      "starsToday": 2623
     },
-    "createdAt": "2026-09-19T07:08:38.550Z"
-  },
-  {
-    "id": "github-bilawalsidhu-gods-eye-view",
-    "source": "github",
-    "title": "bilawalsidhu / gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "score": 38022,
-    "metadata": {
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "starsToday": 11683
-    },
-    "createdAt": "2026-09-19T07:08:38.550Z"
-  },
-  {
-    "id": "github-affaan-m-ECC",
-    "source": "github",
-    "title": "affaan-m / ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "score": 262277,
-    "metadata": {
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "starsToday": 5877
-    },
-    "createdAt": "2026-09-19T07:08:38.550Z"
-  },
-  {
-    "id": "github-Tencent-WeKnora",
-    "source": "github",
-    "title": "Tencent / WeKnora",
-    "url": "https://github.com/Tencent/WeKnora",
-    "score": 27116,
-    "metadata": {
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "starsToday": 4703
-    },
-    "createdAt": "2026-09-19T07:08:38.551Z"
+    "createdAt": "2026-09-26T07:14:49.755Z"
   },
   {
     "id": "github-anthropics-claude-code",
     "source": "github",
     "title": "anthropics / claude-code",
     "url": "https://github.com/anthropics/claude-code",
-    "score": 146423,
+    "score": 148135,
     "metadata": {
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "starsToday": 1620
+      "starsToday": 2102
     },
-    "createdAt": "2026-09-19T07:08:38.551Z"
+    "createdAt": "2026-09-26T07:14:49.756Z"
   },
   {
-    "id": "github-mksglu-context-mode",
+    "id": "github-alibaba-open-code-review",
     "source": "github",
-    "title": "mksglu / context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "score": 23579,
+    "title": "alibaba / open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "score": 41427,
     "metadata": {
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "starsToday": 1398
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "starsToday": 5030
     },
-    "createdAt": "2026-09-19T07:08:38.551Z"
+    "createdAt": "2026-09-26T07:14:49.757Z"
+  },
+  {
+    "id": "github-affaan-m-ECC",
+    "source": "github",
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "score": 267616,
+    "metadata": {
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsToday": 6037
+    },
+    "createdAt": "2026-09-26T07:14:49.757Z"
+  },
+  {
+    "id": "github-Tencent-WeKnora",
+    "source": "github",
+    "title": "Tencent / WeKnora",
+    "url": "https://github.com/Tencent/WeKnora",
+    "score": 30163,
+    "metadata": {
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "starsToday": 3189
+    },
+    "createdAt": "2026-09-26T07:14:49.758Z"
   },
   {
     "id": "github-addyosmani-agent-skills",
     "source": "github",
     "title": "addyosmani / agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
-    "score": 96546,
+    "score": 99143,
     "metadata": {
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "starsToday": 3051
+      "starsToday": 2911
     },
-    "createdAt": "2026-09-19T07:08:38.552Z"
-  },
-  {
-    "id": "github-max-sixty-worktrunk",
-    "source": "github",
-    "title": "max-sixty / worktrunk",
-    "url": "https://github.com/max-sixty/worktrunk",
-    "score": 8048,
-    "metadata": {
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "starsToday": 1104
-    },
-    "createdAt": "2026-09-19T07:08:38.552Z"
-  },
-  {
-    "id": "github-anthropics-knowledge-work-plugins",
-    "source": "github",
-    "title": "anthropics / knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "score": 24943,
-    "metadata": {
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "starsToday": 776
-    },
-    "createdAt": "2026-09-19T07:08:38.552Z"
-  },
-  {
-    "id": "github-openai-plugins",
-    "source": "github",
-    "title": "openai / plugins",
-    "url": "https://github.com/openai/plugins",
-    "score": 6988,
-    "metadata": {
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "starsToday": 542
-    },
-    "createdAt": "2026-09-19T07:08:38.552Z"
-  },
-  {
-    "id": "github-blader-humanizer",
-    "source": "github",
-    "title": "blader / humanizer",
-    "url": "https://github.com/blader/humanizer",
-    "score": 50012,
-    "metadata": {
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "starsToday": 3118
-    },
-    "createdAt": "2026-09-19T07:08:38.552Z"
-  },
-  {
-    "id": "github-kunchenguid-firstmate",
-    "source": "github",
-    "title": "kunchenguid / firstmate",
-    "url": "https://github.com/kunchenguid/firstmate",
-    "score": 6590,
-    "metadata": {
-      "description": "Talk to one agent. Ship with a crew.",
-      "language": "Shell",
-      "starsToday": 990
-    },
-    "createdAt": "2026-09-19T07:08:38.552Z"
-  },
-  {
-    "id": "github-microsoft-markitdown",
-    "source": "github",
-    "title": "microsoft / markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "score": 185478,
-    "metadata": {
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "starsToday": 2841
-    },
-    "createdAt": "2026-09-19T07:08:38.553Z"
-  },
-  {
-    "id": "github-home-assistant-core",
-    "source": "github",
-    "title": "home-assistant / core",
-    "url": "https://github.com/home-assistant/core",
-    "score": 90753,
-    "metadata": {
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "starsToday": 357
-    },
-    "createdAt": "2026-09-19T07:08:38.553Z"
+    "createdAt": "2026-09-26T07:14:49.759Z"
   },
   {
     "id": "github-stablyai-orca",
     "source": "github",
     "title": "stablyai / orca",
     "url": "https://github.com/stablyai/orca",
-    "score": 72135,
+    "score": 78506,
     "metadata": {
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "starsToday": 5272
+      "starsToday": 6537
     },
-    "createdAt": "2026-09-19T07:08:38.553Z"
+    "createdAt": "2026-09-26T07:14:49.759Z"
   },
   {
-    "id": "github-heygen-com-hyperframes",
+    "id": "github-vectorize-io-hindsight",
     "source": "github",
-    "title": "heygen-com / hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "score": 51475,
+    "title": "vectorize-io / hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "score": 30243,
     "metadata": {
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "starsToday": 2401
-    },
-    "createdAt": "2026-09-19T07:08:38.553Z"
-  },
-  {
-    "id": "github-Panniantong-Agent-Reach",
-    "source": "github",
-    "title": "Panniantong / Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "score": 83208,
-    "metadata": {
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
-      "starsToday": 3766
+      "starsToday": 4869
     },
-    "createdAt": "2026-09-19T07:08:38.553Z"
+    "createdAt": "2026-09-26T07:14:49.759Z"
   },
   {
-    "id": "github-obra-superpowers",
+    "id": "github-anthropics-knowledge-work-plugins",
     "source": "github",
-    "title": "obra / superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "score": 288605,
+    "title": "anthropics / knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "score": 25641,
     "metadata": {
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "starsToday": 3573
-    },
-    "createdAt": "2026-09-19T07:08:38.553Z"
-  },
-  {
-    "id": "github-petergyang-no-ai-slop",
-    "source": "github",
-    "title": "petergyang / no-ai-slop",
-    "url": "https://github.com/petergyang/no-ai-slop",
-    "score": 10605,
-    "metadata": {
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "starsToday": 2189
+      "starsToday": 889
     },
-    "createdAt": "2026-09-19T07:08:38.554Z"
+    "createdAt": "2026-09-26T07:14:49.760Z"
   },
   {
-    "id": "github-danny-avila-LibreChat",
+    "id": "github-davila7-claude-code-templates",
     "source": "github",
-    "title": "danny-avila / LibreChat",
-    "url": "https://github.com/danny-avila/LibreChat",
-    "score": 44348,
+    "title": "davila7 / claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "score": 31856,
     "metadata": {
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "starsToday": 1528
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "starsToday": 1041
     },
-    "createdAt": "2026-09-19T07:08:38.554Z"
+    "createdAt": "2026-09-26T07:14:49.760Z"
+  },
+  {
+    "id": "github-paperclipai-paperclip",
+    "source": "github",
+    "title": "paperclipai / paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "score": 85475,
+    "metadata": {
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "starsToday": 2616
+    },
+    "createdAt": "2026-09-26T07:14:49.760Z"
+  },
+  {
+    "id": "github-pytorch-pytorch",
+    "source": "github",
+    "title": "pytorch / pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "score": 103337,
+    "metadata": {
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "starsToday": 255
+    },
+    "createdAt": "2026-09-26T07:14:49.761Z"
+  },
+  {
+    "id": "github-TencentCloud-Octop",
+    "source": "github",
+    "title": "TencentCloud / Octop",
+    "url": "https://github.com/TencentCloud/Octop",
+    "score": 4986,
+    "metadata": {
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "starsToday": 1149
+    },
+    "createdAt": "2026-09-26T07:14:49.761Z"
+  },
+  {
+    "id": "github-cloudflare-quiche",
+    "source": "github",
+    "title": "cloudflare / quiche",
+    "url": "https://github.com/cloudflare/quiche",
+    "score": 12615,
+    "metadata": {
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "starsToday": 769
+    },
+    "createdAt": "2026-09-26T07:14:49.761Z"
+  },
+  {
+    "id": "github-Fission-AI-OpenSpec",
+    "source": "github",
+    "title": "Fission-AI / OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "score": 70398,
+    "metadata": {
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "starsToday": 1282
+    },
+    "createdAt": "2026-09-26T07:14:49.762Z"
+  },
+  {
+    "id": "github-HKUDS-CLI-Anything",
+    "source": "github",
+    "title": "HKUDS / CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "score": 50566,
+    "metadata": {
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "starsToday": 972
+    },
+    "createdAt": "2026-09-26T07:14:49.762Z"
+  },
+  {
+    "id": "github-superdesigndev-treg",
+    "source": "github",
+    "title": "superdesigndev / treg",
+    "url": "https://github.com/superdesigndev/treg",
+    "score": 3419,
+    "metadata": {
+      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "language": "Python",
+      "starsToday": 1687
+    },
+    "createdAt": "2026-09-26T07:14:49.762Z"
+  },
+  {
+    "id": "github-cline-cline",
+    "source": "github",
+    "title": "cline / cline",
+    "url": "https://github.com/cline/cline",
+    "score": 69345,
+    "metadata": {
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "starsToday": 676
+    },
+    "createdAt": "2026-09-26T07:14:49.763Z"
+  },
+  {
+    "id": "github-odoo-odoo",
+    "source": "github",
+    "title": "odoo / odoo",
+    "url": "https://github.com/odoo/odoo",
+    "score": 54667,
+    "metadata": {
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "starsToday": 183
+    },
+    "createdAt": "2026-09-26T07:14:49.763Z"
+  },
+  {
+    "id": "github-bojieli-ai-agent-book",
+    "source": "github",
+    "title": "bojieli / ai-agent-book",
+    "url": "https://github.com/bojieli/ai-agent-book",
+    "score": 51052,
+    "metadata": {
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "starsToday": 2485
+    },
+    "createdAt": "2026-09-26T07:14:49.764Z"
   }
 ]

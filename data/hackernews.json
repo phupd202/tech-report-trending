@@ -1,392 +1,392 @@
 [
   {
-    "id": "hackernews-49763697",
+    "id": "hackernews-49849985",
     "source": "hackernews",
-    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-    "score": 88,
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "url": "https://swarmtraces.org/",
+    "score": 407,
     "metadata": {
-      "author": "emigre",
-      "commentsCount": 15,
-      "hnUrl": "https://news.ycombinator.com/item?id=49763697"
+      "author": "specked-citrus",
+      "commentsCount": 247,
+      "hnUrl": "https://news.ycombinator.com/item?id=49849985"
     },
-    "createdAt": "2026-09-19T05:48:50.000Z"
+    "createdAt": "2026-09-25T21:09:27.000Z"
   },
   {
-    "id": "hackernews-49763296",
+    "id": "hackernews-49853175",
     "source": "hackernews",
-    "title": "San Francisco Onion Futures Company",
-    "url": "https://onionfutures.com/",
-    "score": 143,
-    "metadata": {
-      "author": "z-mach9",
-      "commentsCount": 51,
-      "hnUrl": "https://news.ycombinator.com/item?id=49763296"
-    },
-    "createdAt": "2026-09-19T04:23:30.000Z"
-  },
-  {
-    "id": "hackernews-49763928",
-    "source": "hackernews",
-    "title": "If math is more than proof, we need to better celebrate the rest of it",
-    "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-    "score": 18,
-    "metadata": {
-      "author": "num42",
-      "commentsCount": 5,
-      "hnUrl": "https://news.ycombinator.com/item?id=49763928"
-    },
-    "createdAt": "2026-09-19T06:28:02.000Z"
-  },
-  {
-    "id": "hackernews-49758736",
-    "source": "hackernews",
-    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-    "score": 763,
-    "metadata": {
-      "author": "theanonymousone",
-      "commentsCount": 367,
-      "hnUrl": "https://news.ycombinator.com/item?id=49758736"
-    },
-    "createdAt": "2026-09-18T19:03:09.000Z"
-  },
-  {
-    "id": "hackernews-49733647",
-    "source": "hackernews",
-    "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-    "url": "https://github.com/awlevin/typesafe-computer-use",
-    "score": 57,
-    "metadata": {
-      "author": "rahimnathwani",
-      "commentsCount": 19,
-      "hnUrl": "https://news.ycombinator.com/item?id=49733647"
-    },
-    "createdAt": "2026-09-16T22:01:49.000Z"
-  },
-  {
-    "id": "hackernews-49762744",
-    "source": "hackernews",
-    "title": "SDCC – Small Device C Compiler",
-    "url": "https://sdcc.sourceforge.net/",
-    "score": 57,
-    "metadata": {
-      "author": "lioeters",
-      "commentsCount": 15,
-      "hnUrl": "https://news.ycombinator.com/item?id=49762744"
-    },
-    "createdAt": "2026-09-19T02:32:36.000Z"
-  },
-  {
-    "id": "hackernews-49762687",
-    "source": "hackernews",
-    "title": "Science Is Open Software",
-    "url": "https://jepedersen.dk/blog/202505_research/",
-    "score": 62,
-    "metadata": {
-      "author": "jegp",
-      "commentsCount": 25,
-      "hnUrl": "https://news.ycombinator.com/item?id=49762687"
-    },
-    "createdAt": "2026-09-19T02:21:35.000Z"
-  },
-  {
-    "id": "hackernews-49754785",
-    "source": "hackernews",
-    "title": "Cloudflare Quick Tunnels",
-    "url": "https://try.cloudflare.com/",
-    "score": 678,
-    "metadata": {
-      "author": "jcbhmr",
-      "commentsCount": 273,
-      "hnUrl": "https://news.ycombinator.com/item?id=49754785"
-    },
-    "createdAt": "2026-09-18T14:18:41.000Z"
-  },
-  {
-    "id": "hackernews-49758580",
-    "source": "hackernews",
-    "title": "Saving another 100TB of RAM",
-    "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-    "score": 330,
-    "metadata": {
-      "author": "f311a",
-      "commentsCount": 64,
-      "hnUrl": "https://news.ycombinator.com/item?id=49758580"
-    },
-    "createdAt": "2026-09-18T18:51:46.000Z"
-  },
-  {
-    "id": "hackernews-49734131",
-    "source": "hackernews",
-    "title": "Why building a Rust LSP is hard",
-    "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-    "score": 46,
-    "metadata": {
-      "author": "agluszak",
-      "commentsCount": 24,
-      "hnUrl": "https://news.ycombinator.com/item?id=49734131"
-    },
-    "createdAt": "2026-09-16T22:51:16.000Z"
-  },
-  {
-    "id": "hackernews-49747070",
-    "source": "hackernews",
-    "title": "How to Write with an LLM",
-    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "score": 468,
-    "metadata": {
-      "author": "joeriddles",
-      "commentsCount": 314,
-      "hnUrl": "https://news.ycombinator.com/item?id=49747070"
-    },
-    "createdAt": "2026-09-17T21:48:38.000Z"
-  },
-  {
-    "id": "hackernews-49763379",
-    "source": "hackernews",
-    "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-    "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-    "score": 11,
-    "metadata": {
-      "author": "noobplus",
-      "commentsCount": 1,
-      "hnUrl": "https://news.ycombinator.com/item?id=49763379"
-    },
-    "createdAt": "2026-09-19T04:44:35.000Z"
-  },
-  {
-    "id": "hackernews-49761432",
-    "source": "hackernews",
-    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-    "url": "https://spectrum.ieee.org/llms-for-chip-design",
-    "score": 106,
-    "metadata": {
-      "author": "maxall4",
-      "commentsCount": 76,
-      "hnUrl": "https://news.ycombinator.com/item?id=49761432"
-    },
-    "createdAt": "2026-09-18T23:04:17.000Z"
-  },
-  {
-    "id": "hackernews-49726773",
-    "source": "hackernews",
-    "title": "Goroutine Leak Profiles",
-    "url": "https://go.dev/blog/goroutine-leak-profiles",
-    "score": 24,
-    "metadata": {
-      "author": "torutofu",
-      "commentsCount": 2,
-      "hnUrl": "https://news.ycombinator.com/item?id=49726773"
-    },
-    "createdAt": "2026-09-16T13:30:30.000Z"
-  },
-  {
-    "id": "hackernews-49735541",
-    "source": "hackernews",
-    "title": "Ctenophores: Wonders of Biology",
-    "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-    "score": 8,
-    "metadata": {
-      "author": "randomImmigrant",
-      "commentsCount": 4,
-      "hnUrl": "https://news.ycombinator.com/item?id=49735541"
-    },
-    "createdAt": "2026-09-17T01:58:25.000Z"
-  },
-  {
-    "id": "hackernews-49744704",
-    "source": "hackernews",
-    "title": "The first new cat species discovered in 100 years",
-    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-    "score": 254,
-    "metadata": {
-      "author": "ohjeez",
-      "commentsCount": 90,
-      "hnUrl": "https://news.ycombinator.com/item?id=49744704"
-    },
-    "createdAt": "2026-09-17T18:31:56.000Z"
-  },
-  {
-    "id": "hackernews-49730069",
-    "source": "hackernews",
-    "title": "You can run Git on object storage if you re-make packfiles",
-    "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-    "score": 20,
-    "metadata": {
-      "author": "evacchi",
-      "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=49730069"
-    },
-    "createdAt": "2026-09-16T17:16:11.000Z"
-  },
-  {
-    "id": "hackernews-49748553",
-    "source": "hackernews",
-    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-    "url": "https://cactuscompute.com/needle",
-    "score": 194,
-    "metadata": {
-      "author": "HenryNdubuaku",
-      "commentsCount": 85,
-      "hnUrl": "https://news.ycombinator.com/item?id=49748553"
-    },
-    "createdAt": "2026-09-18T00:11:44.000Z"
-  },
-  {
-    "id": "hackernews-49752041",
-    "source": "hackernews",
-    "title": "OpenJev",
-    "url": "https://openjev.com/",
-    "score": 606,
-    "metadata": {
-      "author": "ilreb",
-      "commentsCount": 257,
-      "hnUrl": "https://news.ycombinator.com/item?id=49752041"
-    },
-    "createdAt": "2026-09-18T09:42:22.000Z"
-  },
-  {
-    "id": "hackernews-49757050",
-    "source": "hackernews",
-    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-    "score": 185,
-    "metadata": {
-      "author": "synack",
-      "commentsCount": 66,
-      "hnUrl": "https://news.ycombinator.com/item?id=49757050"
-    },
-    "createdAt": "2026-09-18T16:54:18.000Z"
-  },
-  {
-    "id": "hackernews-49758615",
-    "source": "hackernews",
-    "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-    "url": "https://arxiv.org/abs/2510.03215",
-    "score": 82,
-    "metadata": {
-      "author": "rochansinha",
-      "commentsCount": 12,
-      "hnUrl": "https://news.ycombinator.com/item?id=49758615"
-    },
-    "createdAt": "2026-09-18T18:55:35.000Z"
-  },
-  {
-    "id": "hackernews-49744036",
-    "source": "hackernews",
-    "title": "The Farnese letter",
-    "url": "https://simonklee.dk/farnese-letter",
+    "title": "A single function Jev-like wrapper for LLMs, including vision models",
+    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
     "score": 40,
     "metadata": {
-      "author": "grigolin",
+      "author": "allanrbo",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49853175"
+    },
+    "createdAt": "2026-09-26T04:20:58.000Z"
+  },
+  {
+    "id": "hackernews-49840054",
+    "source": "hackernews",
+    "title": "Plan mode is dead",
+    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+    "score": 257,
+    "metadata": {
+      "author": "jmvldz",
+      "commentsCount": 228,
+      "hnUrl": "https://news.ycombinator.com/item?id=49840054"
+    },
+    "createdAt": "2026-09-25T03:59:11.000Z"
+  },
+  {
+    "id": "hackernews-49848269",
+    "source": "hackernews",
+    "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+    "url": "https://ollaya.dev/",
+    "score": 409,
+    "metadata": {
+      "author": "Ardakilic",
+      "commentsCount": 112,
+      "hnUrl": "https://news.ycombinator.com/item?id=49848269"
+    },
+    "createdAt": "2026-09-25T18:33:50.000Z"
+  },
+  {
+    "id": "hackernews-49845172",
+    "source": "hackernews",
+    "title": "Show HN: Jev Plays Pokémon Red",
+    "url": "https://jev-pokemon.vercel.app/",
+    "score": 186,
+    "metadata": {
+      "author": "pancomplex",
+      "commentsCount": 79,
+      "hnUrl": "https://news.ycombinator.com/item?id=49845172"
+    },
+    "createdAt": "2026-09-25T14:28:07.000Z"
+  },
+  {
+    "id": "hackernews-49850305",
+    "source": "hackernews",
+    "title": "What even is an OS now?",
+    "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+    "score": 164,
+    "metadata": {
+      "author": "fratellobigio",
+      "commentsCount": 257,
+      "hnUrl": "https://news.ycombinator.com/item?id=49850305"
+    },
+    "createdAt": "2026-09-25T21:36:56.000Z"
+  },
+  {
+    "id": "hackernews-49838040",
+    "source": "hackernews",
+    "title": "The Murky History of Soviet-Born Tetris",
+    "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+    "score": 29,
+    "metadata": {
+      "author": "EA-3167",
       "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=49744036"
+      "hnUrl": "https://news.ycombinator.com/item?id=49838040"
     },
-    "createdAt": "2026-09-17T17:39:01.000Z"
+    "createdAt": "2026-09-24T23:11:45.000Z"
   },
   {
-    "id": "hackernews-49758419",
+    "id": "hackernews-49835096",
     "source": "hackernews",
-    "title": "Xcode 27.1 Beta Release Notes",
-    "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-    "score": 135,
+    "title": "Postgres SELECT DISTINCT Does Not Scale",
+    "url": "https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale",
+    "score": 58,
     "metadata": {
-      "author": "CameronBanga",
-      "commentsCount": 95,
-      "hnUrl": "https://news.ycombinator.com/item?id=49758419"
+      "author": "KraftyOne",
+      "commentsCount": 19,
+      "hnUrl": "https://news.ycombinator.com/item?id=49835096"
     },
-    "createdAt": "2026-09-18T18:39:31.000Z"
+    "createdAt": "2026-09-24T18:43:52.000Z"
   },
   {
-    "id": "hackernews-49749369",
+    "id": "hackernews-49852302",
     "source": "hackernews",
-    "title": "Minimal Phone 2",
-    "url": "https://minimalcompany.com/",
-    "score": 246,
+    "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+    "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+    "score": 182,
     "metadata": {
-      "author": "nashashmi",
-      "commentsCount": 210,
-      "hnUrl": "https://news.ycombinator.com/item?id=49749369"
+      "author": "pseudolus",
+      "commentsCount": 34,
+      "hnUrl": "https://news.ycombinator.com/item?id=49852302"
     },
-    "createdAt": "2026-09-18T02:00:25.000Z"
+    "createdAt": "2026-09-26T01:36:50.000Z"
   },
   {
-    "id": "hackernews-49731413",
+    "id": "hackernews-49836579",
     "source": "hackernews",
-    "title": "Cyclomatic Complexity in C#",
-    "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "title": "How I changed teaching after AI managed to do all my homework assignments",
+    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "score": 41,
+    "metadata": {
+      "author": "azhenley",
+      "commentsCount": 9,
+      "hnUrl": "https://news.ycombinator.com/item?id=49836579"
+    },
+    "createdAt": "2026-09-24T20:51:50.000Z"
+  },
+  {
+    "id": "hackernews-49823490",
+    "source": "hackernews",
+    "title": "A new world airport and its baggage",
+    "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+    "score": 8,
+    "metadata": {
+      "author": "firloop",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=49823490"
+    },
+    "createdAt": "2026-09-23T22:30:46.000Z"
+  },
+  {
+    "id": "hackernews-49845998",
+    "source": "hackernews",
+    "title": "Gravity seems holographic. What does that mean for reality?",
+    "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+    "score": 173,
+    "metadata": {
+      "author": "ibobev",
+      "commentsCount": 158,
+      "hnUrl": "https://news.ycombinator.com/item?id=49845998"
+    },
+    "createdAt": "2026-09-25T15:31:02.000Z"
+  },
+  {
+    "id": "hackernews-49844497",
+    "source": "hackernews",
+    "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+    "url": "https://hackeratlas.com/",
+    "score": 46,
+    "metadata": {
+      "author": "andrearitossa",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=49844497"
+    },
+    "createdAt": "2026-09-25T13:37:54.000Z"
+  },
+  {
+    "id": "hackernews-49852065",
+    "source": "hackernews",
+    "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+    "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+    "score": 153,
+    "metadata": {
+      "author": "HotGarbage",
+      "commentsCount": 58,
+      "hnUrl": "https://news.ycombinator.com/item?id=49852065"
+    },
+    "createdAt": "2026-09-26T00:59:02.000Z"
+  },
+  {
+    "id": "hackernews-49849832",
+    "source": "hackernews",
+    "title": "Excel now supports multiple values in a single cell",
+    "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+    "score": 160,
+    "metadata": {
+      "author": "luispa",
+      "commentsCount": 113,
+      "hnUrl": "https://news.ycombinator.com/item?id=49849832"
+    },
+    "createdAt": "2026-09-25T20:55:00.000Z"
+  },
+  {
+    "id": "hackernews-49850781",
+    "source": "hackernews",
+    "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+    "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+    "score": 39,
+    "metadata": {
+      "author": "marc__1",
+      "commentsCount": 6,
+      "hnUrl": "https://news.ycombinator.com/item?id=49850781"
+    },
+    "createdAt": "2026-09-25T22:28:02.000Z"
+  },
+  {
+    "id": "hackernews-49829472",
+    "source": "hackernews",
+    "title": "Fourier Analysis: Drawing Llamas with Circles",
+    "url": "https://adekau.github.io/posts/2020/llamas.html",
+    "score": 27,
+    "metadata": {
+      "author": "cebert",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49829472"
+    },
+    "createdAt": "2026-09-24T12:03:35.000Z"
+  },
+  {
+    "id": "hackernews-49852717",
+    "source": "hackernews",
+    "title": "We're gonna need a lot more mathematicians",
+    "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+    "score": 87,
+    "metadata": {
+      "author": "srcreigh",
+      "commentsCount": 85,
+      "hnUrl": "https://news.ycombinator.com/item?id=49852717"
+    },
+    "createdAt": "2026-09-26T02:46:54.000Z"
+  },
+  {
+    "id": "hackernews-49830434",
+    "source": "hackernews",
+    "title": "Two and a half years without a gallbladder",
+    "url": "https://tracydurnell.com/2026/09/16/two-and-a-half-years-without-a-gallbladder/",
+    "score": 25,
+    "metadata": {
+      "author": "surprisetalk",
+      "commentsCount": 19,
+      "hnUrl": "https://news.ycombinator.com/item?id=49830434"
+    },
+    "createdAt": "2026-09-24T13:40:03.000Z"
+  },
+  {
+    "id": "hackernews-49852462",
+    "source": "hackernews",
+    "title": "HomelabFest will be in St. Louis in September 2027",
+    "url": "https://www.homelabfest.org",
+    "score": 18,
+    "metadata": {
+      "author": "geerlingguy",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=49852462"
+    },
+    "createdAt": "2026-09-26T02:03:24.000Z"
+  },
+  {
+    "id": "hackernews-49844736",
+    "source": "hackernews",
+    "title": "First Principles Thinking",
+    "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+    "score": 252,
+    "metadata": {
+      "author": "sunils34",
+      "commentsCount": 107,
+      "hnUrl": "https://news.ycombinator.com/item?id=49844736"
+    },
+    "createdAt": "2026-09-25T13:55:37.000Z"
+  },
+  {
+    "id": "hackernews-49842409",
+    "source": "hackernews",
+    "title": "I wrote a ray tracer in Brainfuck",
+    "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+    "score": 62,
+    "metadata": {
+      "author": "epestr",
+      "commentsCount": 15,
+      "hnUrl": "https://news.ycombinator.com/item?id=49842409"
+    },
+    "createdAt": "2026-09-25T10:08:41.000Z"
+  },
+  {
+    "id": "hackernews-49845977",
+    "source": "hackernews",
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "score": 435,
+    "metadata": {
+      "author": "cramer4next",
+      "commentsCount": 747,
+      "hnUrl": "https://news.ycombinator.com/item?id=49845977"
+    },
+    "createdAt": "2026-09-25T15:29:25.000Z"
+  },
+  {
+    "id": "hackernews-49838247",
+    "source": "hackernews",
+    "title": "Remembering Johannes Doerfert",
+    "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+    "score": 78,
+    "metadata": {
+      "author": "sdko",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49838247"
+    },
+    "createdAt": "2026-09-24T23:36:50.000Z"
+  },
+  {
+    "id": "hackernews-49844896",
+    "source": "hackernews",
+    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "score": 115,
+    "metadata": {
+      "author": "sbulaev",
+      "commentsCount": 104,
+      "hnUrl": "https://news.ycombinator.com/item?id=49844896"
+    },
+    "createdAt": "2026-09-25T14:07:08.000Z"
+  },
+  {
+    "id": "hackernews-49777121",
+    "source": "hackernews",
+    "title": "How video games inspire great UX (2019)",
+    "url": "https://jenson.org/games/",
+    "score": 122,
+    "metadata": {
+      "author": "andsoitis",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=49777121"
+    },
+    "createdAt": "2026-09-20T16:00:13.000Z"
+  },
+  {
+    "id": "hackernews-49849141",
+    "source": "hackernews",
+    "title": "How we learned to stop worrying and love campus surveillance",
+    "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+    "score": 186,
+    "metadata": {
+      "author": "cdrnsf",
+      "commentsCount": 108,
+      "hnUrl": "https://news.ycombinator.com/item?id=49849141"
+    },
+    "createdAt": "2026-09-25T19:56:57.000Z"
+  },
+  {
+    "id": "hackernews-49844642",
+    "source": "hackernews",
+    "title": "What happens when you analyze your favorite college football team like the CIA?",
+    "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
     "score": 53,
     "metadata": {
-      "author": "gone35",
-      "commentsCount": 18,
-      "hnUrl": "https://news.ycombinator.com/item?id=49731413"
+      "author": "adam",
+      "commentsCount": 30,
+      "hnUrl": "https://news.ycombinator.com/item?id=49844642"
     },
-    "createdAt": "2026-09-16T19:01:09.000Z"
+    "createdAt": "2026-09-25T13:47:21.000Z"
   },
   {
-    "id": "hackernews-49750694",
+    "id": "hackernews-49788014",
     "source": "hackernews",
-    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-    "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-    "score": 289,
+    "title": "Show HN: Make math automatic with Mathy",
+    "url": "https://gmays.com/making-math-automatic-with-mathy/",
+    "score": 90,
     "metadata": {
-      "author": "csmantle",
-      "commentsCount": 97,
-      "hnUrl": "https://news.ycombinator.com/item?id=49750694"
+      "author": "gmays",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=49788014"
     },
-    "createdAt": "2026-09-18T06:11:17.000Z"
+    "createdAt": "2026-09-21T14:49:05.000Z"
   },
   {
-    "id": "hackernews-49749724",
+    "id": "hackernews-49843269",
     "source": "hackernews",
-    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-    "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-    "score": 137,
+    "title": "Platform-independent SIMD in Go",
+    "url": "https://go.dev/blog/simd-experiment",
+    "score": 381,
     "metadata": {
-      "author": "succinct_ideas",
-      "commentsCount": 49,
-      "hnUrl": "https://news.ycombinator.com/item?id=49749724"
+      "author": "yurivish",
+      "commentsCount": 138,
+      "hnUrl": "https://news.ycombinator.com/item?id=49843269"
     },
-    "createdAt": "2026-09-18T02:56:48.000Z"
-  },
-  {
-    "id": "hackernews-49760187",
-    "source": "hackernews",
-    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "url": "https://code.claude.com/docs/en/changelog",
-    "score": 628,
-    "metadata": {
-      "author": "datadrivenangel",
-      "commentsCount": 221,
-      "hnUrl": "https://news.ycombinator.com/item?id=49760187"
-    },
-    "createdAt": "2026-09-18T21:00:32.000Z"
-  },
-  {
-    "id": "hackernews-49761840",
-    "source": "hackernews",
-    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-    "score": 110,
-    "metadata": {
-      "author": "yogthos",
-      "commentsCount": 13,
-      "hnUrl": "https://news.ycombinator.com/item?id=49761840"
-    },
-    "createdAt": "2026-09-18T23:54:42.000Z"
-  },
-  {
-    "id": "hackernews-49746626",
-    "source": "hackernews",
-    "title": "How SpaceX streamlined the Raptor engine",
-    "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-    "score": 199,
-    "metadata": {
-      "author": "JumpCrisscross",
-      "commentsCount": 72,
-      "hnUrl": "https://news.ycombinator.com/item?id=49746626"
-    },
-    "createdAt": "2026-09-17T21:14:19.000Z"
+    "createdAt": "2026-09-25T11:47:06.000Z"
   }
 ]
