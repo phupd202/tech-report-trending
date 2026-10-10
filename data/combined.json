@@ -1,5 +1,538 @@
 [
   {
+    "id": "github-Panniantong-Agent-Reach",
+    "source": "github",
+    "title": "Panniantong / Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "score": 95173,
+    "metadata": {
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "starsToday": 7084
+    },
+    "createdAt": "2026-10-10T08:13:30.533Z"
+  },
+  {
+    "id": "github-DuarteSantos8-openGym",
+    "source": "github",
+    "title": "DuarteSantos8 / openGym",
+    "url": "https://github.com/DuarteSantos8/openGym",
+    "score": 8862,
+    "metadata": {
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "starsToday": 6749
+    },
+    "createdAt": "2026-10-10T08:13:30.533Z"
+  },
+  {
+    "id": "github-pingdotgg-t3code",
+    "source": "github",
+    "title": "pingdotgg / t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "score": 26694,
+    "metadata": {
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 2379
+    },
+    "createdAt": "2026-10-10T08:13:30.532Z"
+  },
+  {
+    "id": "github-earthtojake-text-to-cad",
+    "source": "github",
+    "title": "earthtojake / text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "score": 18850,
+    "metadata": {
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "starsToday": 2125
+    },
+    "createdAt": "2026-10-10T08:13:30.532Z"
+  },
+  {
+    "id": "github-thedotmack-claude-mem",
+    "source": "github",
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "score": 99057,
+    "metadata": {
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "starsToday": 3850
+    },
+    "createdAt": "2026-10-10T08:13:30.531Z"
+  },
+  {
+    "id": "github-cursor-plugins",
+    "source": "github",
+    "title": "cursor / plugins",
+    "url": "https://github.com/cursor/plugins",
+    "score": 10647,
+    "metadata": {
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "starsToday": 1125
+    },
+    "createdAt": "2026-10-10T08:13:30.530Z"
+  },
+  {
+    "id": "github-EpicGames-raddebugger",
+    "source": "github",
+    "title": "EpicGames / raddebugger",
+    "url": "https://github.com/EpicGames/raddebugger",
+    "score": 8295,
+    "metadata": {
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "starsToday": 654
+    },
+    "createdAt": "2026-10-10T08:13:30.530Z"
+  },
+  {
+    "id": "github-heygen-com-hyperframes",
+    "source": "github",
+    "title": "heygen-com / hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "score": 59985,
+    "metadata": {
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "starsToday": 4003
+    },
+    "createdAt": "2026-10-10T08:13:30.529Z"
+  },
+  {
+    "id": "github-mattpocock-skills",
+    "source": "github",
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "score": 283312,
+    "metadata": {
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsToday": 8156
+    },
+    "createdAt": "2026-10-10T08:13:30.528Z"
+  },
+  {
+    "id": "github-boykopovar-AnyPS5",
+    "source": "github",
+    "title": "boykopovar / AnyPS5",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "score": 23600,
+    "metadata": {
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "starsToday": 15539
+    },
+    "createdAt": "2026-10-10T08:13:30.527Z"
+  },
+  {
+    "id": "github-mvschwarz-openrig",
+    "source": "github",
+    "title": "mvschwarz / openrig",
+    "url": "https://github.com/mvschwarz/openrig",
+    "score": 6565,
+    "metadata": {
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "starsToday": 2338
+    },
+    "createdAt": "2026-10-10T08:13:30.527Z"
+  },
+  {
+    "id": "hackernews-50029982",
+    "source": "hackernews",
+    "title": "Computers Cannot Make Decisions",
+    "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+    "score": 23,
+    "metadata": {
+      "author": "heavensteeth",
+      "commentsCount": 14,
+      "hnUrl": "https://news.ycombinator.com/item?id=50029982"
+    },
+    "createdAt": "2026-10-10T05:47:46.000Z"
+  },
+  {
+    "id": "hackernews-50029830",
+    "source": "hackernews",
+    "title": "Food processing influences metabolism and brain activity",
+    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+    "score": 10,
+    "metadata": {
+      "author": "gmays",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=50029830"
+    },
+    "createdAt": "2026-10-10T05:22:30.000Z"
+  },
+  {
+    "id": "hackernews-50029123",
+    "source": "hackernews",
+    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+    "score": 113,
+    "metadata": {
+      "author": "g-b-r",
+      "commentsCount": 47,
+      "hnUrl": "https://news.ycombinator.com/item?id=50029123"
+    },
+    "createdAt": "2026-10-10T03:02:47.000Z"
+  },
+  {
+    "id": "hackernews-50028982",
+    "source": "hackernews",
+    "title": "Put a price on breakthroughs",
+    "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+    "score": 15,
+    "metadata": {
+      "author": "ketothekingdom",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=50028982"
+    },
+    "createdAt": "2026-10-10T02:37:47.000Z"
+  },
+  {
+    "id": "hackernews-50028275",
+    "source": "hackernews",
+    "title": "REA Reverse – Engineer Anything",
+    "url": "https://rea.tools/",
+    "score": 353,
+    "metadata": {
+      "author": "modinfo",
+      "commentsCount": 121,
+      "hnUrl": "https://news.ycombinator.com/item?id=50028275"
+    },
+    "createdAt": "2026-10-10T00:37:07.000Z"
+  },
+  {
+    "id": "hackernews-50028027",
+    "source": "hackernews",
+    "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+    "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+    "score": 51,
+    "metadata": {
+      "author": "luu",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=50028027"
+    },
+    "createdAt": "2026-10-09T23:53:08.000Z"
+  },
+  {
+    "id": "hackernews-50027853",
+    "source": "hackernews",
+    "title": "Compiling Rust to readable C with Eurydice",
+    "url": "https://lwn.net/Articles/1055211/",
+    "score": 64,
+    "metadata": {
+      "author": "peter_d_sherman",
+      "commentsCount": 12,
+      "hnUrl": "https://news.ycombinator.com/item?id=50027853"
+    },
+    "createdAt": "2026-10-09T23:28:36.000Z"
+  },
+  {
+    "id": "hackernews-50027590",
+    "source": "hackernews",
+    "title": "Atari Falcon",
+    "url": "https://atarimuseum.nl/atari-falcon/",
+    "score": 43,
+    "metadata": {
+      "author": "debo_",
+      "commentsCount": 17,
+      "hnUrl": "https://news.ycombinator.com/item?id=50027590"
+    },
+    "createdAt": "2026-10-09T22:54:13.000Z"
+  },
+  {
+    "id": "hackernews-50026555",
+    "source": "hackernews",
+    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+    "score": 551,
+    "metadata": {
+      "author": "gumby",
+      "commentsCount": 302,
+      "hnUrl": "https://news.ycombinator.com/item?id=50026555"
+    },
+    "createdAt": "2026-10-09T21:06:59.000Z"
+  },
+  {
+    "id": "hackernews-50024499",
+    "source": "hackernews",
+    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+    "url": "https://carrierexplode.com/",
+    "score": 303,
+    "metadata": {
+      "author": "simplyalec",
+      "commentsCount": 40,
+      "hnUrl": "https://news.ycombinator.com/item?id=50024499"
+    },
+    "createdAt": "2026-10-09T18:10:55.000Z"
+  },
+  {
+    "id": "hackernews-50024090",
+    "source": "hackernews",
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "score": 97,
+    "metadata": {
+      "author": "matt_d",
+      "commentsCount": 19,
+      "hnUrl": "https://news.ycombinator.com/item?id=50024090"
+    },
+    "createdAt": "2026-10-09T17:42:12.000Z"
+  },
+  {
+    "id": "hackernews-50024055",
+    "source": "hackernews",
+    "title": "Show HN: The rarest tech books and docs you've probably never read",
+    "url": "https://readrare.com/",
+    "score": 117,
+    "metadata": {
+      "author": "miletus",
+      "commentsCount": 43,
+      "hnUrl": "https://news.ycombinator.com/item?id=50024055"
+    },
+    "createdAt": "2026-10-09T17:39:44.000Z"
+  },
+  {
+    "id": "hackernews-50023995",
+    "source": "hackernews",
+    "title": "Scam American companies are using to manipulate ingredient lists",
+    "url": "https://twitter.com/WallStreetApes/status/2108594998656807078",
+    "score": 104,
+    "metadata": {
+      "author": "bilsbie",
+      "commentsCount": 116,
+      "hnUrl": "https://news.ycombinator.com/item?id=50023995"
+    },
+    "createdAt": "2026-10-09T17:35:40.000Z"
+  },
+  {
+    "id": "hackernews-50023450",
+    "source": "hackernews",
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "score": 356,
+    "metadata": {
+      "author": "tosh",
+      "commentsCount": 259,
+      "hnUrl": "https://news.ycombinator.com/item?id=50023450"
+    },
+    "createdAt": "2026-10-09T17:02:31.000Z"
+  },
+  {
+    "id": "hackernews-50022292",
+    "source": "hackernews",
+    "title": "Triple-A Minesweeper",
+    "url": "https://minesweeper.mikelacher.com/",
+    "score": 914,
+    "metadata": {
+      "author": "robin_reala",
+      "commentsCount": 174,
+      "hnUrl": "https://news.ycombinator.com/item?id=50022292"
+    },
+    "createdAt": "2026-10-09T15:51:05.000Z"
+  },
+  {
+    "id": "hackernews-50021410",
+    "source": "hackernews",
+    "title": "Can you use autoregressive diffusion to generate market data?",
+    "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+    "score": 68,
+    "metadata": {
+      "author": "jsomers",
+      "commentsCount": 23,
+      "hnUrl": "https://news.ycombinator.com/item?id=50021410"
+    },
+    "createdAt": "2026-10-09T14:56:13.000Z"
+  },
+  {
+    "id": "hackernews-50020533",
+    "source": "hackernews",
+    "title": "'Wallace and Gromit,' 90% Alone",
+    "url": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+    "score": 198,
+    "metadata": {
+      "author": "vinhnx",
+      "commentsCount": 25,
+      "hnUrl": "https://news.ycombinator.com/item?id=50020533"
+    },
+    "createdAt": "2026-10-09T13:49:31.000Z"
+  },
+  {
+    "id": "hackernews-50020014",
+    "source": "hackernews",
+    "title": "Our $445M Series D",
+    "url": "https://oxide.computer/blog/our-445m-series-d",
+    "score": 645,
+    "metadata": {
+      "author": "ahlCVA",
+      "commentsCount": 294,
+      "hnUrl": "https://news.ycombinator.com/item?id=50020014"
+    },
+    "createdAt": "2026-10-09T13:12:47.000Z"
+  },
+  {
+    "id": "hackernews-50019911",
+    "source": "hackernews",
+    "title": "Cloudflare acquires Deno",
+    "url": "https://deno.com/blog/cloudflare",
+    "score": 1192,
+    "metadata": {
+      "author": "ilreb",
+      "commentsCount": 609,
+      "hnUrl": "https://news.ycombinator.com/item?id=50019911"
+    },
+    "createdAt": "2026-10-09T13:03:48.000Z"
+  },
+  {
+    "id": "hackernews-50019499",
+    "source": "hackernews",
+    "title": "100+ reactions to 100+ solutions",
+    "url": "https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/",
+    "score": 66,
+    "metadata": {
+      "author": "jacobedawson",
+      "commentsCount": 58,
+      "hnUrl": "https://news.ycombinator.com/item?id=50019499"
+    },
+    "createdAt": "2026-10-09T12:26:12.000Z"
+  },
+  {
+    "id": "hackernews-50019056",
+    "source": "hackernews",
+    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+    "score": 139,
+    "metadata": {
+      "author": "piratebroadcast",
+      "commentsCount": 75,
+      "hnUrl": "https://news.ycombinator.com/item?id=50019056"
+    },
+    "createdAt": "2026-10-09T11:36:20.000Z"
+  },
+  {
+    "id": "hackernews-50018088",
+    "source": "hackernews",
+    "title": "Sorry, I'm in a meeting",
+    "url": "https://iminafleeting.com/",
+    "score": 876,
+    "metadata": {
+      "author": "splintersio",
+      "commentsCount": 248,
+      "hnUrl": "https://news.ycombinator.com/item?id=50018088"
+    },
+    "createdAt": "2026-10-09T09:21:48.000Z"
+  },
+  {
+    "id": "hackernews-50017357",
+    "source": "hackernews",
+    "title": "Programming Isn't Special",
+    "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+    "score": 201,
+    "metadata": {
+      "author": "ingve",
+      "commentsCount": 229,
+      "hnUrl": "https://news.ycombinator.com/item?id=50017357"
+    },
+    "createdAt": "2026-10-09T07:44:36.000Z"
+  },
+  {
+    "id": "hackernews-50006734",
+    "source": "hackernews",
+    "title": "Vegetative Electron Microscopy WTF? (2025)",
+    "url": "https://www.sciencebase.com/science-blog/vegetative-electron-microscopy.html",
+    "score": 5,
+    "metadata": {
+      "author": "adunk",
+      "commentsCount": 0,
+      "hnUrl": "https://news.ycombinator.com/item?id=50006734"
+    },
+    "createdAt": "2026-10-08T15:06:39.000Z"
+  },
+  {
+    "id": "hackernews-50003545",
+    "source": "hackernews",
+    "title": "Show HN: Proton Drive for Linux",
+    "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "score": 70,
+    "metadata": {
+      "author": "khaosdoctor",
+      "commentsCount": 26,
+      "hnUrl": "https://news.ycombinator.com/item?id=50003545"
+    },
+    "createdAt": "2026-10-08T09:10:42.000Z"
+  },
+  {
+    "id": "hackernews-49998350",
+    "source": "hackernews",
+    "title": "I tried to move my notes out of Emacs. I failed. Again",
+    "url": "https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/",
+    "score": 9,
+    "metadata": {
+      "author": "speckx",
+      "commentsCount": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=49998350"
+    },
+    "createdAt": "2026-10-07T20:27:11.000Z"
+  },
+  {
+    "id": "hackernews-49997481",
+    "source": "hackernews",
+    "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+    "score": 120,
+    "metadata": {
+      "author": "ortusdux",
+      "commentsCount": 28,
+      "hnUrl": "https://news.ycombinator.com/item?id=49997481"
+    },
+    "createdAt": "2026-10-07T19:15:57.000Z"
+  },
+  {
+    "id": "hackernews-49984854",
+    "source": "hackernews",
+    "title": "The role of cat eye narrowing movements in cat–human communication (2020)",
+    "url": "https://www.nature.com/articles/s41598-020-73426-0",
+    "score": 77,
+    "metadata": {
+      "author": "bushwart",
+      "commentsCount": 32,
+      "hnUrl": "https://news.ycombinator.com/item?id=49984854"
+    },
+    "createdAt": "2026-10-06T22:10:59.000Z"
+  },
+  {
+    "id": "hackernews-49981264",
+    "source": "hackernews",
+    "title": "How to head into VR without wearing a headset",
+    "url": "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+    "score": 20,
+    "metadata": {
+      "author": "Betelbuddy",
+      "commentsCount": 8,
+      "hnUrl": "https://news.ycombinator.com/item?id=49981264"
+    },
+    "createdAt": "2026-10-06T17:07:12.000Z"
+  },
+  {
+    "id": "hackernews-49980208",
+    "source": "hackernews",
+    "title": "Communication Between the Compiler, the Build System, and Beyond",
+    "url": "https://shrub.industries/words/problem.html",
+    "score": 10,
+    "metadata": {
+      "author": "shrub900",
+      "commentsCount": 2,
+      "hnUrl": "https://news.ycombinator.com/item?id=49980208"
+    },
+    "createdAt": "2026-10-06T15:44:42.000Z"
+  },
+  {
     "id": "github-pytorch-pytorch",
     "source": "github",
     "title": "pytorch / pytorch",
@@ -100,19 +633,6 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "starsToday": 1425
-    },
-    "createdAt": "2026-10-03T07:46:04.324Z"
-  },
-  {
-    "id": "github-heygen-com-hyperframes",
-    "source": "github",
-    "title": "heygen-com / hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "score": 56018,
-    "metadata": {
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "starsToday": 2661
     },
     "createdAt": "2026-10-03T07:46:04.324Z"
   },
@@ -1248,19 +1768,6 @@
     "createdAt": "2026-09-19T07:08:38.553Z"
   },
   {
-    "id": "github-Panniantong-Agent-Reach",
-    "source": "github",
-    "title": "Panniantong / Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "score": 83208,
-    "metadata": {
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "starsToday": 3766
-    },
-    "createdAt": "2026-09-19T07:08:38.553Z"
-  },
-  {
     "id": "github-obra-superpowers",
     "source": "github",
     "title": "obra / superpowers",
@@ -1896,19 +2403,6 @@
       "starsToday": 1532
     },
     "createdAt": "2026-09-12T06:59:10.254Z"
-  },
-  {
-    "id": "github-mattpocock-skills",
-    "source": "github",
-    "title": "mattpocock / skills",
-    "url": "https://github.com/mattpocock/skills",
-    "score": 259978,
-    "metadata": {
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "starsToday": 10571
-    },
-    "createdAt": "2026-09-12T06:59:10.253Z"
   },
   {
     "id": "github-tt-a1i-archify",
@@ -3003,19 +3497,6 @@
     "createdAt": "2026-08-29T08:45:01.029Z"
   },
   {
-    "id": "github-cursor-plugins",
-    "source": "github",
-    "title": "cursor / plugins",
-    "url": "https://github.com/cursor/plugins",
-    "score": 6038,
-    "metadata": {
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "starsToday": 1594
-    },
-    "createdAt": "2026-08-29T08:45:01.029Z"
-  },
-  {
     "id": "github-MadsLorentzen-ai-job-search",
     "source": "github",
     "title": "MadsLorentzen / ai-job-search",
@@ -4015,19 +4496,6 @@
       "hnUrl": "https://news.ycombinator.com/item?id=49326852"
     },
     "createdAt": "2026-08-17T05:28:07.000Z"
-  },
-  {
-    "id": "github-pingdotgg-t3code",
-    "source": "github",
-    "title": "pingdotgg / t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "score": 18760,
-    "metadata": {
-      "description": "",
-      "language": "TypeScript",
-      "starsToday": 1603
-    },
-    "createdAt": "2026-08-15T02:53:32.946Z"
   },
   {
     "id": "github-TencentCloud-TencentDB-Agent-Memory",
@@ -5196,19 +5664,6 @@
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "language": "TypeScript",
       "starsToday": 2866
-    },
-    "createdAt": "2026-08-01T05:32:16.851Z"
-  },
-  {
-    "id": "github-earthtojake-text-to-cad",
-    "source": "github",
-    "title": "earthtojake / text-to-cad",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "score": 12277,
-    "metadata": {
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "JavaScript",
-      "starsToday": 1901
     },
     "createdAt": "2026-08-01T05:32:16.851Z"
   },
