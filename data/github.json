@@ -1,145 +1,145 @@
 [
   {
+    "id": "github-morluto-rea",
+    "source": "github",
+    "title": "morluto / rea",
+    "url": "https://github.com/morluto/rea",
+    "score": 294812,
+    "metadata": {
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "starsToday": 248962
+    },
+    "createdAt": "2026-10-17T06:43:26.804Z"
+  },
+  {
+    "id": "github-storytold-artcraft",
+    "source": "github",
+    "title": "storytold / artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "score": 30878,
+    "metadata": {
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "starsToday": 20267
+    },
+    "createdAt": "2026-10-17T06:43:26.804Z"
+  },
+  {
     "id": "github-boykopovar-AnyPS5",
     "source": "github",
     "title": "boykopovar / AnyPS5",
     "url": "https://github.com/boykopovar/AnyPS5",
-    "score": 23600,
+    "score": 40113,
     "metadata": {
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
-      "starsToday": 15539
+      "starsToday": 20518
     },
-    "createdAt": "2026-10-10T08:13:30.527Z"
+    "createdAt": "2026-10-17T06:43:26.805Z"
   },
   {
-    "id": "github-mvschwarz-openrig",
+    "id": "github-cathrynlavery-diagram-design",
     "source": "github",
-    "title": "mvschwarz / openrig",
-    "url": "https://github.com/mvschwarz/openrig",
-    "score": 6565,
+    "title": "cathrynlavery / diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "score": 56563,
     "metadata": {
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "language": "TypeScript",
-      "starsToday": 2338
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "starsToday": 9024
     },
-    "createdAt": "2026-10-10T08:13:30.527Z"
-  },
-  {
-    "id": "github-mattpocock-skills",
-    "source": "github",
-    "title": "mattpocock / skills",
-    "url": "https://github.com/mattpocock/skills",
-    "score": 283312,
-    "metadata": {
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "starsToday": 8156
-    },
-    "createdAt": "2026-10-10T08:13:30.528Z"
+    "createdAt": "2026-10-17T06:43:26.805Z"
   },
   {
     "id": "github-heygen-com-hyperframes",
     "source": "github",
     "title": "heygen-com / hyperframes",
     "url": "https://github.com/heygen-com/hyperframes",
-    "score": 59985,
+    "score": 65475,
     "metadata": {
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "starsToday": 4003
+      "starsToday": 5601
     },
-    "createdAt": "2026-10-10T08:13:30.529Z"
+    "createdAt": "2026-10-17T06:43:26.805Z"
   },
   {
-    "id": "github-cursor-plugins",
+    "id": "github-mattpocock-skills",
     "source": "github",
-    "title": "cursor / plugins",
-    "url": "https://github.com/cursor/plugins",
-    "score": 10647,
+    "title": "mattpocock / skills",
+    "url": "https://github.com/mattpocock/skills",
+    "score": 294297,
     "metadata": {
-      "description": "Cursor plugin specification and official plugins",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "starsToday": 11937
+    },
+    "createdAt": "2026-10-17T06:43:26.806Z"
+  },
+  {
+    "id": "github-NationalSecurityAgency-ghidra",
+    "source": "github",
+    "title": "NationalSecurityAgency / ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "score": 89781,
+    "metadata": {
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "starsToday": 7510
+    },
+    "createdAt": "2026-10-17T06:43:26.806Z"
+  },
+  {
+    "id": "github-mksglu-context-mode",
+    "source": "github",
+    "title": "mksglu / context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "score": 30320,
+    "metadata": {
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "starsToday": 1125
+      "starsToday": 4207
     },
-    "createdAt": "2026-10-10T08:13:30.530Z"
+    "createdAt": "2026-10-17T06:43:26.806Z"
   },
   {
-    "id": "github-EpicGames-raddebugger",
+    "id": "github-ranxianglei-billion-context",
     "source": "github",
-    "title": "EpicGames / raddebugger",
-    "url": "https://github.com/EpicGames/raddebugger",
-    "score": 8295,
+    "title": "ranxianglei / billion-context",
+    "url": "https://github.com/ranxianglei/billion-context",
+    "score": 1576,
     "metadata": {
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "starsToday": 654
-    },
-    "createdAt": "2026-10-10T08:13:30.530Z"
-  },
-  {
-    "id": "github-thedotmack-claude-mem",
-    "source": "github",
-    "title": "thedotmack / claude-mem",
-    "url": "https://github.com/thedotmack/claude-mem",
-    "score": 99057,
-    "metadata": {
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
-      "starsToday": 3850
+      "starsToday": 779
     },
-    "createdAt": "2026-10-10T08:13:30.531Z"
+    "createdAt": "2026-10-17T06:43:26.807Z"
+  },
+  {
+    "id": "github-anthropics-claude-plugins-official",
+    "source": "github",
+    "title": "anthropics / claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "score": 40872,
+    "metadata": {
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "starsToday": 2328
+    },
+    "createdAt": "2026-10-17T06:43:26.807Z"
   },
   {
     "id": "github-earthtojake-text-to-cad",
     "source": "github",
     "title": "earthtojake / text-to-cad",
     "url": "https://github.com/earthtojake/text-to-cad",
-    "score": 18850,
+    "score": 21070,
     "metadata": {
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "starsToday": 2125
+      "starsToday": 2286
     },
-    "createdAt": "2026-10-10T08:13:30.532Z"
-  },
-  {
-    "id": "github-pingdotgg-t3code",
-    "source": "github",
-    "title": "pingdotgg / t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "score": 26694,
-    "metadata": {
-      "description": "",
-      "language": "TypeScript",
-      "starsToday": 2379
-    },
-    "createdAt": "2026-10-10T08:13:30.532Z"
-  },
-  {
-    "id": "github-Panniantong-Agent-Reach",
-    "source": "github",
-    "title": "Panniantong / Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "score": 95173,
-    "metadata": {
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "starsToday": 7084
-    },
-    "createdAt": "2026-10-10T08:13:30.533Z"
-  },
-  {
-    "id": "github-DuarteSantos8-openGym",
-    "source": "github",
-    "title": "DuarteSantos8 / openGym",
-    "url": "https://github.com/DuarteSantos8/openGym",
-    "score": 8862,
-    "metadata": {
-      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-      "language": "JavaScript",
-      "starsToday": 6749
-    },
-    "createdAt": "2026-10-10T08:13:30.533Z"
+    "createdAt": "2026-10-17T06:43:26.807Z"
   }
 ]
