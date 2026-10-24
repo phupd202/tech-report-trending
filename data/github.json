@@ -4,142 +4,194 @@
     "source": "github",
     "title": "morluto / rea",
     "url": "https://github.com/morluto/rea",
-    "score": 294812,
+    "score": 374460,
     "metadata": {
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "starsToday": 248962
+      "starsToday": 88243
     },
-    "createdAt": "2026-10-17T06:43:26.804Z"
-  },
-  {
-    "id": "github-storytold-artcraft",
-    "source": "github",
-    "title": "storytold / artcraft",
-    "url": "https://github.com/storytold/artcraft",
-    "score": 30878,
-    "metadata": {
-      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "language": "Rust",
-      "starsToday": 20267
-    },
-    "createdAt": "2026-10-17T06:43:26.804Z"
-  },
-  {
-    "id": "github-boykopovar-AnyPS5",
-    "source": "github",
-    "title": "boykopovar / AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "score": 40113,
-    "metadata": {
-      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "language": "C++",
-      "starsToday": 20518
-    },
-    "createdAt": "2026-10-17T06:43:26.805Z"
-  },
-  {
-    "id": "github-cathrynlavery-diagram-design",
-    "source": "github",
-    "title": "cathrynlavery / diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "score": 56563,
-    "metadata": {
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "starsToday": 9024
-    },
-    "createdAt": "2026-10-17T06:43:26.805Z"
-  },
-  {
-    "id": "github-heygen-com-hyperframes",
-    "source": "github",
-    "title": "heygen-com / hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "score": 65475,
-    "metadata": {
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "starsToday": 5601
-    },
-    "createdAt": "2026-10-17T06:43:26.805Z"
-  },
-  {
-    "id": "github-mattpocock-skills",
-    "source": "github",
-    "title": "mattpocock / skills",
-    "url": "https://github.com/mattpocock/skills",
-    "score": 294297,
-    "metadata": {
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "starsToday": 11937
-    },
-    "createdAt": "2026-10-17T06:43:26.806Z"
-  },
-  {
-    "id": "github-NationalSecurityAgency-ghidra",
-    "source": "github",
-    "title": "NationalSecurityAgency / ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "score": 89781,
-    "metadata": {
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "starsToday": 7510
-    },
-    "createdAt": "2026-10-17T06:43:26.806Z"
-  },
-  {
-    "id": "github-mksglu-context-mode",
-    "source": "github",
-    "title": "mksglu / context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "score": 30320,
-    "metadata": {
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "starsToday": 4207
-    },
-    "createdAt": "2026-10-17T06:43:26.806Z"
-  },
-  {
-    "id": "github-ranxianglei-billion-context",
-    "source": "github",
-    "title": "ranxianglei / billion-context",
-    "url": "https://github.com/ranxianglei/billion-context",
-    "score": 1576,
-    "metadata": {
-      "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "language": "TypeScript",
-      "starsToday": 779
-    },
-    "createdAt": "2026-10-17T06:43:26.807Z"
+    "createdAt": "2026-10-24T06:59:12.467Z"
   },
   {
     "id": "github-anthropics-claude-plugins-official",
     "source": "github",
     "title": "anthropics / claude-plugins-official",
     "url": "https://github.com/anthropics/claude-plugins-official",
-    "score": 40872,
+    "score": 44183,
     "metadata": {
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "starsToday": 2328
+      "starsToday": 4250
     },
-    "createdAt": "2026-10-17T06:43:26.807Z"
+    "createdAt": "2026-10-24T06:59:12.470Z"
   },
   {
-    "id": "github-earthtojake-text-to-cad",
+    "id": "github-ruvnet-ruflo",
     "source": "github",
-    "title": "earthtojake / text-to-cad",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "score": 21070,
+    "title": "ruvnet / ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "score": 78841,
     "metadata": {
-      "description": "Give your agent CAD superpowers.",
-      "language": "Python",
-      "starsToday": 2286
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "starsToday": 3349
     },
-    "createdAt": "2026-10-17T06:43:26.807Z"
+    "createdAt": "2026-10-24T06:59:12.471Z"
+  },
+  {
+    "id": "github-android-skills",
+    "source": "github",
+    "title": "android / skills",
+    "url": "https://github.com/android/skills",
+    "score": 9486,
+    "metadata": {
+      "description": "",
+      "language": "Kotlin",
+      "starsToday": 1471
+    },
+    "createdAt": "2026-10-24T06:59:12.471Z"
+  },
+  {
+    "id": "github-anomalyco-opencode",
+    "source": "github",
+    "title": "anomalyco / opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "score": 220841,
+    "metadata": {
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "starsToday": 6765
+    },
+    "createdAt": "2026-10-24T06:59:12.472Z"
+  },
+  {
+    "id": "github-stablyai-orca",
+    "source": "github",
+    "title": "stablyai / orca",
+    "url": "https://github.com/stablyai/orca",
+    "score": 104164,
+    "metadata": {
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "starsToday": 9545
+    },
+    "createdAt": "2026-10-24T06:59:12.472Z"
+  },
+  {
+    "id": "github-cursor-plugins",
+    "source": "github",
+    "title": "cursor / plugins",
+    "url": "https://github.com/cursor/plugins",
+    "score": 13820,
+    "metadata": {
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "starsToday": 1946
+    },
+    "createdAt": "2026-10-24T06:59:12.473Z"
+  },
+  {
+    "id": "github-akitaonrails-ai-memory",
+    "source": "github",
+    "title": "akitaonrails / ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "score": 13112,
+    "metadata": {
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "starsToday": 3449
+    },
+    "createdAt": "2026-10-24T06:59:12.473Z"
+  },
+  {
+    "id": "github-HKUDS-CLI-Anything",
+    "source": "github",
+    "title": "HKUDS / CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "score": 56681,
+    "metadata": {
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "starsToday": 3303
+    },
+    "createdAt": "2026-10-24T06:59:12.474Z"
+  },
+  {
+    "id": "github-Comfy-Org-ComfyUI",
+    "source": "github",
+    "title": "Comfy-Org / ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "score": 142421,
+    "metadata": {
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "starsToday": 4531
+    },
+    "createdAt": "2026-10-24T06:59:12.474Z"
+  },
+  {
+    "id": "github-debpalash-VoiceStudio",
+    "source": "github",
+    "title": "debpalash / VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "score": 83719,
+    "metadata": {
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "starsToday": 12526
+    },
+    "createdAt": "2026-10-24T06:59:12.475Z"
+  },
+  {
+    "id": "github-heygen-com-hyperframes",
+    "source": "github",
+    "title": "heygen-com / hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "score": 70969,
+    "metadata": {
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "starsToday": 5553
+    },
+    "createdAt": "2026-10-24T06:59:12.475Z"
+  },
+  {
+    "id": "github-K-Dense-AI-scientific-agent-skills",
+    "source": "github",
+    "title": "K-Dense-AI / scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "score": 54307,
+    "metadata": {
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "starsToday": 3077
+    },
+    "createdAt": "2026-10-24T06:59:12.475Z"
+  },
+  {
+    "id": "github-NationalSecurityAgency-ghidra",
+    "source": "github",
+    "title": "NationalSecurityAgency / ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "score": 93735,
+    "metadata": {
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "starsToday": 4221
+    },
+    "createdAt": "2026-10-24T06:59:12.476Z"
+  },
+  {
+    "id": "github-elie222-rakazo",
+    "source": "github",
+    "title": "elie222 / rakazo",
+    "url": "https://github.com/elie222/rakazo",
+    "score": 5502,
+    "metadata": {
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "language": "TypeScript",
+      "starsToday": 1094
+    },
+    "createdAt": "2026-10-24T06:59:12.476Z"
   }
 ]
