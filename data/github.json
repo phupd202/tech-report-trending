@@ -1,197 +1,171 @@
 [
   {
-    "id": "github-morluto-rea",
+    "id": "github-cloudflare-security-audit-skill",
     "source": "github",
-    "title": "morluto / rea",
-    "url": "https://github.com/morluto/rea",
-    "score": 374460,
+    "title": "cloudflare / security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "score": 54472,
     "metadata": {
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "language": "TypeScript",
-      "starsToday": 88243
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "starsToday": 12838
     },
-    "createdAt": "2026-10-24T06:59:12.467Z"
+    "createdAt": "2026-10-31T08:07:52.475Z"
   },
   {
-    "id": "github-anthropics-claude-plugins-official",
+    "id": "github-AgriciDaniel-claude-seo",
     "source": "github",
-    "title": "anthropics / claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "score": 44183,
+    "title": "AgriciDaniel / claude-seo",
+    "url": "https://github.com/AgriciDaniel/claude-seo",
+    "score": 24672,
     "metadata": {
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
-      "starsToday": 4250
+      "starsToday": 4478
     },
-    "createdAt": "2026-10-24T06:59:12.470Z"
+    "createdAt": "2026-10-31T08:07:52.476Z"
+  },
+  {
+    "id": "github-pbakaus-impeccable",
+    "source": "github",
+    "title": "pbakaus / impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "score": 97469,
+    "metadata": {
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "starsToday": 11323
+    },
+    "createdAt": "2026-10-31T08:07:52.477Z"
+  },
+  {
+    "id": "github-obra-superpowers",
+    "source": "github",
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "score": 309611,
+    "metadata": {
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "starsToday": 5474
+    },
+    "createdAt": "2026-10-31T08:07:52.477Z"
+  },
+  {
+    "id": "github-TauricResearch-TradingAgents",
+    "source": "github",
+    "title": "TauricResearch / TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "score": 118795,
+    "metadata": {
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "starsToday": 5490
+    },
+    "createdAt": "2026-10-31T08:07:52.478Z"
+  },
+  {
+    "id": "github-multica-ai-andrej-karpathy-skills",
+    "source": "github",
+    "title": "multica-ai / andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "score": 227048,
+    "metadata": {
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "starsToday": 4178
+    },
+    "createdAt": "2026-10-31T08:07:52.478Z"
+  },
+  {
+    "id": "github-Leonxlnx-taste-skill",
+    "source": "github",
+    "title": "Leonxlnx / taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "score": 106525,
+    "metadata": {
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "starsToday": 4712
+    },
+    "createdAt": "2026-10-31T08:07:52.479Z"
+  },
+  {
+    "id": "github-jakubkrehel-skills",
+    "source": "github",
+    "title": "jakubkrehel / skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "score": 9429,
+    "metadata": {
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "language": "Markdown",
+      "starsToday": 1107
+    },
+    "createdAt": "2026-10-31T08:07:52.479Z"
+  },
+  {
+    "id": "github-pingdotgg-t3code",
+    "source": "github",
+    "title": "pingdotgg / t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "score": 33134,
+    "metadata": {
+      "description": "",
+      "language": "TypeScript",
+      "starsToday": 2775
+    },
+    "createdAt": "2026-10-31T08:07:52.480Z"
+  },
+  {
+    "id": "github-anthropics-knowledge-work-plugins",
+    "source": "github",
+    "title": "anthropics / knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "score": 34089,
+    "metadata": {
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "starsToday": 2083
+    },
+    "createdAt": "2026-10-31T08:07:52.480Z"
+  },
+  {
+    "id": "github-affaan-m-ECC",
+    "source": "github",
+    "title": "affaan-m / ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "score": 293572,
+    "metadata": {
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "starsToday": 6506
+    },
+    "createdAt": "2026-10-31T08:07:52.480Z"
+  },
+  {
+    "id": "github-anthropics-skills",
+    "source": "github",
+    "title": "anthropics / skills",
+    "url": "https://github.com/anthropics/skills",
+    "score": 185555,
+    "metadata": {
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "starsToday": 1888
+    },
+    "createdAt": "2026-10-31T08:07:52.481Z"
   },
   {
     "id": "github-ruvnet-ruflo",
     "source": "github",
     "title": "ruvnet / ruflo",
     "url": "https://github.com/ruvnet/ruflo",
-    "score": 78841,
+    "score": 80339,
     "metadata": {
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "starsToday": 3349
+      "starsToday": 1723
     },
-    "createdAt": "2026-10-24T06:59:12.471Z"
-  },
-  {
-    "id": "github-android-skills",
-    "source": "github",
-    "title": "android / skills",
-    "url": "https://github.com/android/skills",
-    "score": 9486,
-    "metadata": {
-      "description": "",
-      "language": "Kotlin",
-      "starsToday": 1471
-    },
-    "createdAt": "2026-10-24T06:59:12.471Z"
-  },
-  {
-    "id": "github-anomalyco-opencode",
-    "source": "github",
-    "title": "anomalyco / opencode",
-    "url": "https://github.com/anomalyco/opencode",
-    "score": 220841,
-    "metadata": {
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "starsToday": 6765
-    },
-    "createdAt": "2026-10-24T06:59:12.472Z"
-  },
-  {
-    "id": "github-stablyai-orca",
-    "source": "github",
-    "title": "stablyai / orca",
-    "url": "https://github.com/stablyai/orca",
-    "score": 104164,
-    "metadata": {
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "starsToday": 9545
-    },
-    "createdAt": "2026-10-24T06:59:12.472Z"
-  },
-  {
-    "id": "github-cursor-plugins",
-    "source": "github",
-    "title": "cursor / plugins",
-    "url": "https://github.com/cursor/plugins",
-    "score": 13820,
-    "metadata": {
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "starsToday": 1946
-    },
-    "createdAt": "2026-10-24T06:59:12.473Z"
-  },
-  {
-    "id": "github-akitaonrails-ai-memory",
-    "source": "github",
-    "title": "akitaonrails / ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "score": 13112,
-    "metadata": {
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "starsToday": 3449
-    },
-    "createdAt": "2026-10-24T06:59:12.473Z"
-  },
-  {
-    "id": "github-HKUDS-CLI-Anything",
-    "source": "github",
-    "title": "HKUDS / CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "score": 56681,
-    "metadata": {
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "starsToday": 3303
-    },
-    "createdAt": "2026-10-24T06:59:12.474Z"
-  },
-  {
-    "id": "github-Comfy-Org-ComfyUI",
-    "source": "github",
-    "title": "Comfy-Org / ComfyUI",
-    "url": "https://github.com/Comfy-Org/ComfyUI",
-    "score": 142421,
-    "metadata": {
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "starsToday": 4531
-    },
-    "createdAt": "2026-10-24T06:59:12.474Z"
-  },
-  {
-    "id": "github-debpalash-VoiceStudio",
-    "source": "github",
-    "title": "debpalash / VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "score": 83719,
-    "metadata": {
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "starsToday": 12526
-    },
-    "createdAt": "2026-10-24T06:59:12.475Z"
-  },
-  {
-    "id": "github-heygen-com-hyperframes",
-    "source": "github",
-    "title": "heygen-com / hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "score": 70969,
-    "metadata": {
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "starsToday": 5553
-    },
-    "createdAt": "2026-10-24T06:59:12.475Z"
-  },
-  {
-    "id": "github-K-Dense-AI-scientific-agent-skills",
-    "source": "github",
-    "title": "K-Dense-AI / scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "score": 54307,
-    "metadata": {
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "starsToday": 3077
-    },
-    "createdAt": "2026-10-24T06:59:12.475Z"
-  },
-  {
-    "id": "github-NationalSecurityAgency-ghidra",
-    "source": "github",
-    "title": "NationalSecurityAgency / ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "score": 93735,
-    "metadata": {
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "starsToday": 4221
-    },
-    "createdAt": "2026-10-24T06:59:12.476Z"
-  },
-  {
-    "id": "github-elie222-rakazo",
-    "source": "github",
-    "title": "elie222 / rakazo",
-    "url": "https://github.com/elie222/rakazo",
-    "score": 5502,
-    "metadata": {
-      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-      "language": "TypeScript",
-      "starsToday": 1094
-    },
-    "createdAt": "2026-10-24T06:59:12.476Z"
+    "createdAt": "2026-10-31T08:07:52.481Z"
   }
 ]
