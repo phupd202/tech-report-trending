@@ -1,392 +1,392 @@
 [
   {
-    "id": "hackernews-50307190",
+    "id": "hackernews-50399933",
     "source": "hackernews",
-    "title": "My favourite PowerMac is a Nintendo Wii",
-    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-    "score": 299,
+    "title": "Libghostty 1.0",
+    "url": "https://mitchellh.com/writing/libghostty-1-0",
+    "score": 549,
     "metadata": {
-      "author": "DHowett",
+      "author": "mfiguiere",
+      "commentsCount": 94,
+      "hnUrl": "https://news.ycombinator.com/item?id=50399933"
+    },
+    "createdAt": "2026-11-06T23:30:52.000Z"
+  },
+  {
+    "id": "hackernews-50401740",
+    "source": "hackernews",
+    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+    "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+    "score": 70,
+    "metadata": {
+      "author": "benbreen",
+      "commentsCount": 33,
+      "hnUrl": "https://news.ycombinator.com/item?id=50401740"
+    },
+    "createdAt": "2026-11-07T04:54:36.000Z"
+  },
+  {
+    "id": "hackernews-50397429",
+    "source": "hackernews",
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "score": 450,
+    "metadata": {
+      "author": "theanomaly",
+      "commentsCount": 102,
+      "hnUrl": "https://news.ycombinator.com/item?id=50397429"
+    },
+    "createdAt": "2026-11-06T19:48:51.000Z"
+  },
+  {
+    "id": "hackernews-50401867",
+    "source": "hackernews",
+    "title": "Asahi Linux Progress Linux 7.3",
+    "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+    "score": 127,
+    "metadata": {
+      "author": "ackyshake",
       "commentsCount": 81,
-      "hnUrl": "https://news.ycombinator.com/item?id=50307190"
+      "hnUrl": "https://news.ycombinator.com/item?id=50401867"
     },
-    "createdAt": "2026-10-30T17:25:15.000Z"
+    "createdAt": "2026-11-07T05:20:18.000Z"
   },
   {
-    "id": "hackernews-50312756",
+    "id": "hackernews-50391456",
     "source": "hackernews",
-    "title": "Tell HN: Scribd Breached",
-    "url": "https://news.ycombinator.com/item?id=50312756",
-    "score": 172,
+    "title": "Tesla to wind down Cybertruck production",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "score": 984,
     "metadata": {
-      "author": "x______________",
-      "commentsCount": 67,
-      "hnUrl": "https://news.ycombinator.com/item?id=50312756"
+      "author": "PLenz",
+      "commentsCount": 1842,
+      "hnUrl": "https://news.ycombinator.com/item?id=50391456"
     },
-    "createdAt": "2026-10-31T02:46:36.000Z"
+    "createdAt": "2026-11-06T12:13:51.000Z"
   },
   {
-    "id": "hackernews-50277379",
+    "id": "hackernews-50402212",
     "source": "hackernews",
-    "title": "Cloudflare Turnstile solver library (no headless browser required)",
-    "url": "https://github.com/chris124567/cfsolve",
-    "score": 180,
+    "title": "The Components of Agent Memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "score": 15,
     "metadata": {
-      "author": "costco",
-      "commentsCount": 51,
-      "hnUrl": "https://news.ycombinator.com/item?id=50277379"
+      "author": "geoffbp",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=50402212"
     },
-    "createdAt": "2026-10-28T17:29:23.000Z"
+    "createdAt": "2026-11-07T06:39:04.000Z"
   },
   {
-    "id": "hackernews-50303172",
+    "id": "hackernews-50399991",
     "source": "hackernews",
-    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-    "score": 429,
-    "metadata": {
-      "author": "domhudson",
-      "commentsCount": 287,
-      "hnUrl": "https://news.ycombinator.com/item?id=50303172"
-    },
-    "createdAt": "2026-10-30T12:50:01.000Z"
-  },
-  {
-    "id": "hackernews-50305025",
-    "source": "hackernews",
-    "title": "Northflank Breached",
-    "url": "https://status.northflank.com",
-    "score": 422,
-    "metadata": {
-      "author": "js4ever",
-      "commentsCount": 311,
-      "hnUrl": "https://news.ycombinator.com/item?id=50305025"
-    },
-    "createdAt": "2026-10-30T15:10:31.000Z"
-  },
-  {
-    "id": "hackernews-50263837",
-    "source": "hackernews",
-    "title": "Breaking the open web won't stop the bad bots",
-    "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-    "score": 250,
+    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+    "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+    "score": 113,
     "metadata": {
       "author": "raybb",
-      "commentsCount": 106,
-      "hnUrl": "https://news.ycombinator.com/item?id=50263837"
+      "commentsCount": 51,
+      "hnUrl": "https://news.ycombinator.com/item?id=50399991"
     },
-    "createdAt": "2026-10-27T18:42:55.000Z"
+    "createdAt": "2026-11-06T23:37:19.000Z"
   },
   {
-    "id": "hackernews-50274885",
+    "id": "hackernews-50388001",
     "source": "hackernews",
-    "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
-    "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
-    "score": 26,
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "score": 329,
     "metadata": {
-      "author": "brandonb",
-      "commentsCount": 11,
-      "hnUrl": "https://news.ycombinator.com/item?id=50274885"
+      "author": "ChrisArchitect",
+      "commentsCount": 267,
+      "hnUrl": "https://news.ycombinator.com/item?id=50388001"
     },
-    "createdAt": "2026-10-28T15:04:12.000Z"
+    "createdAt": "2026-11-06T04:00:28.000Z"
   },
   {
-    "id": "hackernews-50289991",
+    "id": "hackernews-50360810",
     "source": "hackernews",
-    "title": "Configure a UPS on Linux with NUT",
-    "url": "https://linuxjunkies.org/guides/configure-a-ups-with-nut",
-    "score": 16,
+    "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+    "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+    "score": 84,
     "metadata": {
-      "author": "eustoria",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=50289991"
+      "author": "derbOac",
+      "commentsCount": 4,
+      "hnUrl": "https://news.ycombinator.com/item?id=50360810"
     },
-    "createdAt": "2026-10-29T14:47:34.000Z"
+    "createdAt": "2026-11-04T02:19:16.000Z"
   },
   {
-    "id": "hackernews-50306442",
+    "id": "hackernews-50397219",
     "source": "hackernews",
-    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-    "url": "https://github.com/dbreunig/nesformer",
-    "score": 240,
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "score": 222,
     "metadata": {
-      "author": "dbreunig",
-      "commentsCount": 120,
-      "hnUrl": "https://news.ycombinator.com/item?id=50306442"
+      "author": "SerCe",
+      "commentsCount": 105,
+      "hnUrl": "https://news.ycombinator.com/item?id=50397219"
     },
-    "createdAt": "2026-10-30T16:40:22.000Z"
+    "createdAt": "2026-11-06T19:33:38.000Z"
   },
   {
-    "id": "hackernews-50309266",
+    "id": "hackernews-50352701",
     "source": "hackernews",
-    "title": "The oldest ice disappears and the Stone Age emerges from it",
-    "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-    "score": 137,
+    "title": "The Flash C Compiler",
+    "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+    "score": 36,
     "metadata": {
-      "author": "dxs",
-      "commentsCount": 56,
-      "hnUrl": "https://news.ycombinator.com/item?id=50309266"
+      "author": "AlexeyBrin",
+      "commentsCount": 3,
+      "hnUrl": "https://news.ycombinator.com/item?id=50352701"
     },
-    "createdAt": "2026-10-30T19:51:33.000Z"
+    "createdAt": "2026-11-03T14:49:42.000Z"
   },
   {
-    "id": "hackernews-50311686",
+    "id": "hackernews-50395183",
     "source": "hackernews",
-    "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-    "url": "https://tng.episodle.com/",
-    "score": 182,
+    "title": "Notes on San Marino",
+    "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+    "score": 55,
     "metadata": {
-      "author": "francisofascii",
-      "commentsCount": 49,
-      "hnUrl": "https://news.ycombinator.com/item?id=50311686"
+      "author": "yorwba",
+      "commentsCount": 18,
+      "hnUrl": "https://news.ycombinator.com/item?id=50395183"
     },
-    "createdAt": "2026-10-30T23:51:24.000Z"
+    "createdAt": "2026-11-06T17:12:05.000Z"
   },
   {
-    "id": "hackernews-50258605",
+    "id": "hackernews-50397994",
     "source": "hackernews",
-    "title": "Show HN: Samosa – Linter for Math Derivations",
-    "url": "https://samosa-math.vercel.app",
-    "score": 11,
+    "title": "AI is dramatically accelerating AI research",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "score": 284,
     "metadata": {
-      "author": "Hussain04",
-      "commentsCount": 0,
-      "hnUrl": "https://news.ycombinator.com/item?id=50258605"
+      "author": "yurivish",
+      "commentsCount": 222,
+      "hnUrl": "https://news.ycombinator.com/item?id=50397994"
     },
-    "createdAt": "2026-10-27T13:06:34.000Z"
+    "createdAt": "2026-11-06T20:27:23.000Z"
   },
   {
-    "id": "hackernews-50310398",
+    "id": "hackernews-50394855",
     "source": "hackernews",
-    "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-    "url": "https://www.firezone.dev/blog/introducing-sanstun",
+    "title": "First steps in bare-metal programming using UEFI",
+    "url": "https://kevinboone.me/efitest_index.html",
+    "score": 218,
+    "metadata": {
+      "author": "LaSombra",
+      "commentsCount": 40,
+      "hnUrl": "https://news.ycombinator.com/item?id=50394855"
+    },
+    "createdAt": "2026-11-06T16:50:29.000Z"
+  },
+  {
+    "id": "hackernews-50354097",
+    "source": "hackernews",
+    "title": "Can GROUP BY still be optimized after all these years?",
+    "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+    "score": 78,
+    "metadata": {
+      "author": "ntur1337",
+      "commentsCount": 10,
+      "hnUrl": "https://news.ycombinator.com/item?id=50354097"
+    },
+    "createdAt": "2026-11-03T16:30:23.000Z"
+  },
+  {
+    "id": "hackernews-50369283",
+    "source": "hackernews",
+    "title": "8088 Domination Post-Mortem",
+    "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+    "score": 4,
+    "metadata": {
+      "author": "cosmojg",
+      "commentsCount": 1,
+      "hnUrl": "https://news.ycombinator.com/item?id=50369283"
+    },
+    "createdAt": "2026-11-04T18:06:14.000Z"
+  },
+  {
+    "id": "hackernews-50397099",
+    "source": "hackernews",
+    "title": "GitHub's new Git storage architecture",
+    "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "score": 130,
+    "metadata": {
+      "author": "DAlperin",
+      "commentsCount": 24,
+      "hnUrl": "https://news.ycombinator.com/item?id=50397099"
+    },
+    "createdAt": "2026-11-06T19:24:21.000Z"
+  },
+  {
+    "id": "hackernews-50373513",
+    "source": "hackernews",
+    "title": "The great butter and cheese fire of 1991",
+    "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+    "score": 13,
+    "metadata": {
+      "author": "subroutine",
+      "commentsCount": 5,
+      "hnUrl": "https://news.ycombinator.com/item?id=50373513"
+    },
+    "createdAt": "2026-11-05T00:44:16.000Z"
+  },
+  {
+    "id": "hackernews-50392118",
+    "source": "hackernews",
+    "title": "Gemini Omni 1.2 Flash",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "score": 325,
+    "metadata": {
+      "author": "thisisauserid",
+      "commentsCount": 227,
+      "hnUrl": "https://news.ycombinator.com/item?id=50392118"
+    },
+    "createdAt": "2026-11-06T13:35:27.000Z"
+  },
+  {
+    "id": "hackernews-50400597",
+    "source": "hackernews",
+    "title": "I toured Unitree's factory. I'm more bullish on the West",
+    "url": "https://josef.cn/blog/unitree",
+    "score": 107,
+    "metadata": {
+      "author": "josefchen",
+      "commentsCount": 69,
+      "hnUrl": "https://news.ycombinator.com/item?id=50400597"
+    },
+    "createdAt": "2026-11-07T01:05:16.000Z"
+  },
+  {
+    "id": "hackernews-50395450",
+    "source": "hackernews",
+    "title": "Devvm.dev: One VM for every project",
+    "url": "https://devvm.dev/",
+    "score": 151,
+    "metadata": {
+      "author": "luispa",
+      "commentsCount": 61,
+      "hnUrl": "https://news.ycombinator.com/item?id=50395450"
+    },
+    "createdAt": "2026-11-06T17:30:22.000Z"
+  },
+  {
+    "id": "hackernews-50397711",
+    "source": "hackernews",
+    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+    "score": 69,
+    "metadata": {
+      "author": "rexbee",
+      "commentsCount": 14,
+      "hnUrl": "https://news.ycombinator.com/item?id=50397711"
+    },
+    "createdAt": "2026-11-06T20:09:14.000Z"
+  },
+  {
+    "id": "hackernews-50397017",
+    "source": "hackernews",
+    "title": "Restaurant Delivery Payment-Skimming Campaign",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "score": 118,
+    "metadata": {
+      "author": "fiej",
+      "commentsCount": 60,
+      "hnUrl": "https://news.ycombinator.com/item?id=50397017"
+    },
+    "createdAt": "2026-11-06T19:19:27.000Z"
+  },
+  {
+    "id": "hackernews-50356722",
+    "source": "hackernews",
+    "title": "Panthera: Ampere's CPU Performance Model",
+    "url": "https://github.com/AmpereComputing/panthera",
+    "score": 30,
+    "metadata": {
+      "author": "mshockwave",
+      "commentsCount": 9,
+      "hnUrl": "https://news.ycombinator.com/item?id=50356722"
+    },
+    "createdAt": "2026-11-03T19:12:17.000Z"
+  },
+  {
+    "id": "hackernews-50389570",
+    "source": "hackernews",
+    "title": "Chomsky and the two cultures of statistical learning (2011)",
+    "url": "https://www.norvig.com/chomsky.html",
     "score": 124,
     "metadata": {
-      "author": "wh33zle",
-      "commentsCount": 20,
-      "hnUrl": "https://news.ycombinator.com/item?id=50310398"
+      "author": "andsoitis",
+      "commentsCount": 103,
+      "hnUrl": "https://news.ycombinator.com/item?id=50389570"
     },
-    "createdAt": "2026-10-30T21:30:00.000Z"
+    "createdAt": "2026-11-06T08:18:36.000Z"
   },
   {
-    "id": "hackernews-50309029",
+    "id": "hackernews-50355009",
     "source": "hackernews",
-    "title": "Infinite Mac: BeOS",
-    "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-    "score": 147,
+    "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+    "url": "https://github.com/andrewboldi/tmux-restore",
+    "score": 30,
     "metadata": {
-      "author": "ecliptik",
-      "commentsCount": 58,
-      "hnUrl": "https://news.ycombinator.com/item?id=50309029"
+      "author": "boldi",
+      "commentsCount": 13,
+      "hnUrl": "https://news.ycombinator.com/item?id=50355009"
     },
-    "createdAt": "2026-10-30T19:30:09.000Z"
+    "createdAt": "2026-11-03T17:25:21.000Z"
   },
   {
-    "id": "hackernews-50305637",
+    "id": "hackernews-50399657",
     "source": "hackernews",
-    "title": "Florilegium: Procedural Flowers in LaTeX",
-    "url": "https://github.com/kevinraymond/florilegium",
-    "score": 261,
+    "title": "Sodium-ion batteries approach cost parity with LFP",
+    "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+    "score": 181,
     "metadata": {
-      "author": "nanna",
-      "commentsCount": 45,
-      "hnUrl": "https://news.ycombinator.com/item?id=50305637"
+      "author": "doener",
+      "commentsCount": 81,
+      "hnUrl": "https://news.ycombinator.com/item?id=50399657"
     },
-    "createdAt": "2026-10-30T15:48:12.000Z"
+    "createdAt": "2026-11-06T23:00:46.000Z"
   },
   {
-    "id": "hackernews-50300683",
+    "id": "hackernews-50379221",
     "source": "hackernews",
-    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-    "score": 876,
+    "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+    "url": "https://github.com/piercefreeman/waymark",
+    "score": 63,
     "metadata": {
-      "author": "_chall",
-      "commentsCount": 515,
-      "hnUrl": "https://news.ycombinator.com/item?id=50300683"
+      "author": "icyfox",
+      "commentsCount": 19,
+      "hnUrl": "https://news.ycombinator.com/item?id=50379221"
     },
-    "createdAt": "2026-10-30T07:09:12.000Z"
+    "createdAt": "2026-11-05T14:06:31.000Z"
   },
   {
-    "id": "hackernews-50305573",
+    "id": "hackernews-50388122",
     "source": "hackernews",
-    "title": "The federated code forge",
-    "url": "https://tangled.org/blog/forge/",
-    "score": 276,
+    "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+    "score": 322,
     "metadata": {
-      "author": "zlliang",
-      "commentsCount": 84,
-      "hnUrl": "https://news.ycombinator.com/item?id=50305573"
+      "author": "jonbaer",
+      "commentsCount": 124,
+      "hnUrl": "https://news.ycombinator.com/item?id=50388122"
     },
-    "createdAt": "2026-10-30T15:44:29.000Z"
+    "createdAt": "2026-11-06T04:17:49.000Z"
   },
   {
-    "id": "hackernews-50309314",
+    "id": "hackernews-50394906",
     "source": "hackernews",
-    "title": "Jules Verne's Lost Novel",
-    "url": "https://blue-continuum.com/verne-paris",
-    "score": 103,
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "score": 274,
     "metadata": {
-      "author": "dnetesn",
-      "commentsCount": 25,
-      "hnUrl": "https://news.ycombinator.com/item?id=50309314"
+      "author": "dgellow",
+      "commentsCount": 544,
+      "hnUrl": "https://news.ycombinator.com/item?id=50394906"
     },
-    "createdAt": "2026-10-30T19:55:10.000Z"
-  },
-  {
-    "id": "hackernews-50304122",
-    "source": "hackernews",
-    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-    "score": 175,
-    "metadata": {
-      "author": "taubek",
-      "commentsCount": 206,
-      "hnUrl": "https://news.ycombinator.com/item?id=50304122"
-    },
-    "createdAt": "2026-10-30T14:08:20.000Z"
-  },
-  {
-    "id": "hackernews-50301854",
-    "source": "hackernews",
-    "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-    "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-    "score": 304,
-    "metadata": {
-      "author": "swq115",
-      "commentsCount": 58,
-      "hnUrl": "https://news.ycombinator.com/item?id=50301854"
-    },
-    "createdAt": "2026-10-30T10:06:15.000Z"
-  },
-  {
-    "id": "hackernews-50289081",
-    "source": "hackernews",
-    "title": "Brief History of PDP Computers",
-    "url": "https://entropicthoughts.com/history-of-pdp-computers",
-    "score": 18,
-    "metadata": {
-      "author": "ibobev",
-      "commentsCount": 6,
-      "hnUrl": "https://news.ycombinator.com/item?id=50289081"
-    },
-    "createdAt": "2026-10-29T13:53:33.000Z"
-  },
-  {
-    "id": "hackernews-50276613",
-    "source": "hackernews",
-    "title": "Double Buffering with Cloudflare Queues",
-    "url": "https://bellone.com/technical/double-buffering-with-cloudflare-queues",
-    "score": 27,
-    "metadata": {
-      "author": "b_llc",
-      "commentsCount": 3,
-      "hnUrl": "https://news.ycombinator.com/item?id=50276613"
-    },
-    "createdAt": "2026-10-28T16:48:23.000Z"
-  },
-  {
-    "id": "hackernews-50309647",
-    "source": "hackernews",
-    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-    "score": 295,
-    "metadata": {
-      "author": "apress",
-      "commentsCount": 167,
-      "hnUrl": "https://news.ycombinator.com/item?id=50309647"
-    },
-    "createdAt": "2026-10-30T20:23:30.000Z"
-  },
-  {
-    "id": "hackernews-50276355",
-    "source": "hackernews",
-    "title": "Trapped in the Technologist Factory",
-    "url": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
-    "score": 31,
-    "metadata": {
-      "author": "luu",
-      "commentsCount": 11,
-      "hnUrl": "https://news.ycombinator.com/item?id=50276355"
-    },
-    "createdAt": "2026-10-28T16:30:38.000Z"
-  },
-  {
-    "id": "hackernews-50296730",
-    "source": "hackernews",
-    "title": "Building an AI-native engineering org",
-    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-    "score": 146,
-    "metadata": {
-      "author": "sgondala_ycapp",
-      "commentsCount": 178,
-      "hnUrl": "https://news.ycombinator.com/item?id=50296730"
-    },
-    "createdAt": "2026-10-29T21:58:34.000Z"
-  },
-  {
-    "id": "hackernews-50293437",
-    "source": "hackernews",
-    "title": "Turning a solar power system into its own backup",
-    "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-    "score": 45,
-    "metadata": {
-      "author": "PaulHoule",
-      "commentsCount": 16,
-      "hnUrl": "https://news.ycombinator.com/item?id=50293437"
-    },
-    "createdAt": "2026-10-29T18:10:33.000Z"
-  },
-  {
-    "id": "hackernews-50272479",
-    "source": "hackernews",
-    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "score": 219,
-    "metadata": {
-      "author": "acossta",
-      "commentsCount": 24,
-      "hnUrl": "https://news.ycombinator.com/item?id=50272479"
-    },
-    "createdAt": "2026-10-28T12:24:25.000Z"
-  },
-  {
-    "id": "hackernews-50258496",
-    "source": "hackernews",
-    "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
-    "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
-    "score": 85,
-    "metadata": {
-      "author": "surprisetalk",
-      "commentsCount": 35,
-      "hnUrl": "https://news.ycombinator.com/item?id=50258496"
-    },
-    "createdAt": "2026-10-27T13:00:04.000Z"
-  },
-  {
-    "id": "hackernews-50301717",
-    "source": "hackernews",
-    "title": "How do you take a picture of a black hole?",
-    "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-    "score": 95,
-    "metadata": {
-      "author": "dverlaeckt80",
-      "commentsCount": 69,
-      "hnUrl": "https://news.ycombinator.com/item?id=50301717"
-    },
-    "createdAt": "2026-10-30T09:49:02.000Z"
-  },
-  {
-    "id": "hackernews-50305693",
-    "source": "hackernews",
-    "title": "AI isn't replacing SREs, it's deskilling them",
-    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-    "score": 575,
-    "metadata": {
-      "author": "dorianniemiec",
-      "commentsCount": 422,
-      "hnUrl": "https://news.ycombinator.com/item?id=50305693"
-    },
-    "createdAt": "2026-10-30T15:52:18.000Z"
+    "createdAt": "2026-11-06T16:54:36.000Z"
   }
 ]

@@ -1,171 +1,236 @@
 [
   {
-    "id": "github-cloudflare-security-audit-skill",
+    "id": "github-thedotmack-claude-mem",
     "source": "github",
-    "title": "cloudflare / security-audit-skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "score": 54472,
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "score": 114157,
     "metadata": {
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "starsToday": 12838
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "starsToday": 8726
     },
-    "createdAt": "2026-10-31T08:07:52.475Z"
+    "createdAt": "2026-11-07T08:29:42.355Z"
   },
   {
-    "id": "github-AgriciDaniel-claude-seo",
+    "id": "github-Donchitos-Claude-Code-Game-Studios",
     "source": "github",
-    "title": "AgriciDaniel / claude-seo",
-    "url": "https://github.com/AgriciDaniel/claude-seo",
-    "score": 24672,
+    "title": "Donchitos / Claude-Code-Game-Studios",
+    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "score": 36236,
     "metadata": {
-      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "language": "Python",
-      "starsToday": 4478
-    },
-    "createdAt": "2026-10-31T08:07:52.476Z"
-  },
-  {
-    "id": "github-pbakaus-impeccable",
-    "source": "github",
-    "title": "pbakaus / impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "score": 97469,
-    "metadata": {
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "language": "Rust",
-      "starsToday": 11323
-    },
-    "createdAt": "2026-10-31T08:07:52.477Z"
-  },
-  {
-    "id": "github-obra-superpowers",
-    "source": "github",
-    "title": "obra / superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "score": 309611,
-    "metadata": {
-      "description": "An agentic skills framework & software development methodology that works.",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
-      "starsToday": 5474
+      "starsToday": 6018
     },
-    "createdAt": "2026-10-31T08:07:52.477Z"
-  },
-  {
-    "id": "github-TauricResearch-TradingAgents",
-    "source": "github",
-    "title": "TauricResearch / TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "score": 118795,
-    "metadata": {
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "starsToday": 5490
-    },
-    "createdAt": "2026-10-31T08:07:52.478Z"
-  },
-  {
-    "id": "github-multica-ai-andrej-karpathy-skills",
-    "source": "github",
-    "title": "multica-ai / andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "score": 227048,
-    "metadata": {
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": "",
-      "starsToday": 4178
-    },
-    "createdAt": "2026-10-31T08:07:52.478Z"
-  },
-  {
-    "id": "github-Leonxlnx-taste-skill",
-    "source": "github",
-    "title": "Leonxlnx / taste-skill",
-    "url": "https://github.com/Leonxlnx/taste-skill",
-    "score": 106525,
-    "metadata": {
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "language": "JavaScript",
-      "starsToday": 4712
-    },
-    "createdAt": "2026-10-31T08:07:52.479Z"
-  },
-  {
-    "id": "github-jakubkrehel-skills",
-    "source": "github",
-    "title": "jakubkrehel / skills",
-    "url": "https://github.com/jakubkrehel/skills",
-    "score": 9429,
-    "metadata": {
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "language": "Markdown",
-      "starsToday": 1107
-    },
-    "createdAt": "2026-10-31T08:07:52.479Z"
+    "createdAt": "2026-11-07T08:29:42.356Z"
   },
   {
     "id": "github-pingdotgg-t3code",
     "source": "github",
     "title": "pingdotgg / t3code",
     "url": "https://github.com/pingdotgg/t3code",
-    "score": 33134,
+    "score": 50233,
     "metadata": {
       "description": "",
       "language": "TypeScript",
-      "starsToday": 2775
+      "starsToday": 16782
     },
-    "createdAt": "2026-10-31T08:07:52.480Z"
+    "createdAt": "2026-11-07T08:29:42.356Z"
   },
   {
-    "id": "github-anthropics-knowledge-work-plugins",
+    "id": "github-max-sixty-worktrunk",
     "source": "github",
-    "title": "anthropics / knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "score": 34089,
+    "title": "max-sixty / worktrunk",
+    "url": "https://github.com/max-sixty/worktrunk",
+    "score": 11844,
     "metadata": {
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "starsToday": 2083
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "starsToday": 2184
     },
-    "createdAt": "2026-10-31T08:07:52.480Z"
+    "createdAt": "2026-11-07T08:29:42.357Z"
   },
   {
-    "id": "github-affaan-m-ECC",
+    "id": "github-Nutlope-hallmark",
     "source": "github",
-    "title": "affaan-m / ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "score": 293572,
+    "title": "Nutlope / hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "score": 49812,
     "metadata": {
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "starsToday": 6506
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "starsToday": 6900
     },
-    "createdAt": "2026-10-31T08:07:52.480Z"
+    "createdAt": "2026-11-07T08:29:42.357Z"
   },
   {
     "id": "github-anthropics-skills",
     "source": "github",
     "title": "anthropics / skills",
     "url": "https://github.com/anthropics/skills",
-    "score": 185555,
+    "score": 188287,
     "metadata": {
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "starsToday": 1888
+      "starsToday": 3159
     },
-    "createdAt": "2026-10-31T08:07:52.481Z"
+    "createdAt": "2026-11-07T08:29:42.357Z"
   },
   {
-    "id": "github-ruvnet-ruflo",
+    "id": "github-milind-soni-OpenMausBot",
     "source": "github",
-    "title": "ruvnet / ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "score": 80339,
+    "title": "milind-soni / OpenMausBot",
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "score": 15977,
     "metadata": {
-      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
-      "starsToday": 1723
+      "starsToday": 6395
     },
-    "createdAt": "2026-10-31T08:07:52.481Z"
+    "createdAt": "2026-11-07T08:29:42.358Z"
+  },
+  {
+    "id": "github-pbakaus-impeccable",
+    "source": "github",
+    "title": "pbakaus / impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "score": 105019,
+    "metadata": {
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "starsToday": 8172
+    },
+    "createdAt": "2026-11-07T08:29:42.358Z"
+  },
+  {
+    "id": "github-obra-superpowers",
+    "source": "github",
+    "title": "obra / superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "score": 313765,
+    "metadata": {
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "starsToday": 4577
+    },
+    "createdAt": "2026-11-07T08:29:42.359Z"
+  },
+  {
+    "id": "github-HKUDS-DeepTutor",
+    "source": "github",
+    "title": "HKUDS / DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "score": 56119,
+    "metadata": {
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "starsToday": 4588
+    },
+    "createdAt": "2026-11-07T08:29:42.359Z"
+  },
+  {
+    "id": "github-hyprwm-Hyprland",
+    "source": "github",
+    "title": "hyprwm / Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "score": 40459,
+    "metadata": {
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "starsToday": 1413
+    },
+    "createdAt": "2026-11-07T08:29:42.360Z"
+  },
+  {
+    "id": "github-jakubkrehel-skills",
+    "source": "github",
+    "title": "jakubkrehel / skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "score": 11354,
+    "metadata": {
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "language": "Markdown",
+      "starsToday": 1921
+    },
+    "createdAt": "2026-11-07T08:29:42.360Z"
+  },
+  {
+    "id": "github-calesthio-OpenMontage",
+    "source": "github",
+    "title": "calesthio / OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "score": 77884,
+    "metadata": {
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "starsToday": 4405
+    },
+    "createdAt": "2026-11-07T08:29:42.360Z"
+  },
+  {
+    "id": "github-The-PR-Agent-pr-agent",
+    "source": "github",
+    "title": "The-PR-Agent / pr-agent",
+    "url": "https://github.com/The-PR-Agent/pr-agent",
+    "score": 15353,
+    "metadata": {
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "language": "Python",
+      "starsToday": 1523
+    },
+    "createdAt": "2026-11-07T08:29:42.360Z"
+  },
+  {
+    "id": "github-nightly-labs-openbot",
+    "source": "github",
+    "title": "nightly-labs / openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "score": 6136,
+    "metadata": {
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "starsToday": 1808
+    },
+    "createdAt": "2026-11-07T08:29:42.361Z"
+  },
+  {
+    "id": "github-D4Vinci-Scrapling",
+    "source": "github",
+    "title": "D4Vinci / Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "score": 98997,
+    "metadata": {
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "language": "Python",
+      "starsToday": 8372
+    },
+    "createdAt": "2026-11-07T08:29:42.361Z"
+  },
+  {
+    "id": "github-multica-ai-andrej-karpathy-skills",
+    "source": "github",
+    "title": "multica-ai / andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "score": 230390,
+    "metadata": {
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "starsToday": 3671
+    },
+    "createdAt": "2026-11-07T08:29:42.361Z"
+  },
+  {
+    "id": "github-shiyu-coder-Kronos",
+    "source": "github",
+    "title": "shiyu-coder / Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "score": 47120,
+    "metadata": {
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "starsToday": 2984
+    },
+    "createdAt": "2026-11-07T08:29:42.361Z"
   }
 ]
